@@ -1,0 +1,2821 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantos",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "idiomas",
+          "palavra_canonica": "idioma",
+          "tags": [
+            "<ling>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "são",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "falados",
+          "palavra_canonica": "falar",
+          "tags": [
+            "<vH>",
+            "<passive>",
+            "<pass>",
+            "<mv>",
+            "<passive>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Turquemenistão",
+          "palavra_canonica": "Turquemenistão",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantos",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "idiomas",
+          "palavra_canonica": "idioma",
+          "tags": [
+            "<ling>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locução",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialecto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "língua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "Dialetos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "idioma",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Língua_Natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialeto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "provérbio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expressão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "discurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "ditado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Lingua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "language",
+                "sinonimo": "speech",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locution",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "accent",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idiom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialect",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "oral_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguistic_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "voice_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "tongue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "saying",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "natural_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expression",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "speech_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "são",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "falados",
+          "palavra_canonica": "falar",
+          "tags": [
+            "<vH>",
+            "<passive>",
+            "<pass>",
+            "<mv>",
+            "<passive>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "talk",
+                "sinonimo": "verbalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discursar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "proferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "dizer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronunciar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "conversar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "palestrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "tratar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "contar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "falar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "talk",
+                "sinonimo": "speak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enunciate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "mouth",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "say",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discourse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "talk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "sound_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "cover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "lecture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_of",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "tell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "treat",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "utter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discuss",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "plow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "articulate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Turquemenistão",
+          "palavra_canonica": "Turquemenistão",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.92,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 6,
+            "tag_inicial": "Vaux:v-fin",
+            "palavra_original": "são",
+            "palavra_canonica": "ser",
+            "tags": [
+              "<fmc>",
+              "<aux>",
+              "PR",
+              "3P",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          },
+          {
+            "id": 7,
+            "tag_inicial": "Vm:v-pcp",
+            "palavra_original": "falados",
+            "palavra_canonica": "falar",
+            "tags": [
+              "<vH>",
+              "<passive>",
+              "<pass>",
+              "<mv>",
+              "<passive>",
+              "M",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "talk",
+                  "sinonimo": "verbalizar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "discourse",
+                  "sinonimo": "discursar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "proferir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "dizer",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "pronunciar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "conversar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "lecture",
+                  "sinonimo": "palestrar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "tratar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "contar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "drone",
+                  "sinonimo": "falar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "talk",
+                  "sinonimo": "speak",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "address",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "enunciate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "state",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "mouth",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "enounce",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "say",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "discourse",
+                  "sinonimo": "discourse",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "talk",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "verbalise",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "sound_out",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "cover",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "lecture",
+                  "sinonimo": "lecture",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk_of",
+                  "sinonimo": "talk_of",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "tell",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "treat",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "utter",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "talk_of",
+                  "sinonimo": "talk_about",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "discourse",
+                  "sinonimo": "discuss",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "handle",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "drone",
+                  "sinonimo": "drone",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "verbalize",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "deal",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "pronounce",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "drone",
+                  "sinonimo": "drone_on",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "plow",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "articulate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "idiomas",
+          "palavra_canonica": "idioma",
+          "tags": [
+            "<ling>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locução",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialecto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "língua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "Dialetos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "idioma",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Língua_Natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialeto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "provérbio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expressão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "discurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "ditado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Lingua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "language",
+                "sinonimo": "speech",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locution",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "accent",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idiom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialect",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "oral_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguistic_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "voice_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "tongue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "saying",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "natural_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expression",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "speech_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "falados",
+          "palavra_canonica": "falar",
+          "tags": [
+            "<vH>",
+            "<passive>",
+            "<pass>",
+            "<mv>",
+            "<passive>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "talk",
+                "sinonimo": "verbalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discursar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "proferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "dizer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronunciar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "conversar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "palestrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "tratar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "contar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "falar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "talk",
+                "sinonimo": "speak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enunciate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "mouth",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "say",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discourse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "talk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "sound_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "cover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "lecture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_of",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "tell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "treat",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "utter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discuss",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "plow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "articulate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Turquemenistão",
+          "palavra_canonica": "Turquemenistão",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "turquemenistao": "-1",
+              "language": "-19"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ],
+            [
+              "*turquemenistao",
+              "owl#sameas",
+              "m.01c4pv"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ],
+            [
+              "*turquemenistao",
+              "wikipageoutdegree",
+              "1"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ],
+            [
+              "*turquemenistao",
+              "rdf_schema#label",
+              "*turquemenistao"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ],
+            [
+              "*turquemenistao",
+              "wikipagewikilink",
+              "*turquemenistao"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ],
+            [
+              "*turquemenistao",
+              "wikipageid",
+              "465334"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ],
+            [
+              "*turquemenistao",
+              "wikipagelength",
+              "27"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ],
+            [
+              "*turquemenistao",
+              "wikipageredirects",
+              "*turquemenistao"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ],
+            [
+              "*turquemenistao",
+              "wikipagerevisionid",
+              "2752467"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ],
+            [
+              "*turquemenistao",
+              "prov#wasderivedfrom",
+              "*turquemenistao?oldid=2752467"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "owl#sameas",
+              "m.01c4pv"
+            ],
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipageoutdegree",
+              "1"
+            ],
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "rdf_schema#label",
+              "*turquemenistao"
+            ],
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipagewikilink",
+              "*turquemenistao"
+            ],
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipageid",
+              "465334"
+            ],
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipagelength",
+              "27"
+            ],
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipageredirects",
+              "*turquemenistao"
+            ],
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipagerevisionid",
+              "2752467"
+            ],
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "prov#wasderivedfrom",
+              "*turquemenistao?oldid=2752467"
+            ],
+            [
+              "*turquemenistao",
+              "*language",
+              "pt"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "language",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "language",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "owl#sameas",
+              "m.01c4pv"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipageoutdegree",
+              "1"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "rdf_schema#label",
+              "*turquemenistao"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipagewikilink",
+              "*turquemenistao"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipageid",
+              "465334"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipagelength",
+              "27"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipageredirects",
+              "*turquemenistao"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "wikipagerevisionid",
+              "2752467"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "prov#wasderivedfrom",
+              "*turquemenistao?oldid=2752467"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "isprimarytopicof",
+              "*turquemenistao"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "primarytopic",
+              "*turquemenistao"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 2507689147,
+      "l_sizes": [
+        30023,
+        84
+      ],
+      "ranking_time_only": 280256030,
+      "total_time": 11859414558,
+      "timeout": false
+    }
+  }
+]
