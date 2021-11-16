@@ -1,0 +1,2827 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Encontre",
+          "palavra_canonica": "encontrar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Co:icl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "dirigidos",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<jh>",
+            "<passive>",
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "fApass:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "por",
+          "palavra_canonica": "por",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Francis",
+          "palavra_canonica": "Francis",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Ford_Coppola",
+          "palavra_canonica": "Ford_Coppola",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": ".",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "DN:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Ford_coppola",
+          "palavra_canonica": "Ford_coppola",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "film",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Co:icl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "dirigidos",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<jh>",
+            "<passive>",
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "steer",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "steer",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "fApass:prp",
+          "palavra_original": "por",
+          "palavra_canonica": "por",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "desconhecido",
+        "confianca": 1,
+        "ids": []
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Ford_coppola",
+          "palavra_canonica": "Ford_coppola",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "film",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "dirigidos",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<jh>",
+            "<passive>",
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "steer",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "steer",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*patton_(filme)",
+              "roteiro",
+              "*francis_ford_coppola"
+            ],
+            [
+              "*patton_(filme)",
+              "*direcao",
+              "franklin_j._schaffner"
+            ]
+          ],
+          "score": 14.202761,
+          "detail": {
+            "keywords": [
+              "ford_coppola",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 12.702761,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ford_coppola": {
+                  "keyword": {
+                    "termo": "ford_coppola",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis_ford_coppola",
+                  "score": 9.129927
+                },
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "patton_(filme)",
+                  "score": 1.5728344
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "filme": "-4307",
+              "ford_coppola": "-4311",
+              "direcao": "-9"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*patton_(filme)",
+              "*direcao",
+              "franklin_j._schaffner"
+            ],
+            [
+              "*patton_(filme)",
+              "roteiro",
+              "*francis_ford_coppola"
+            ]
+          ],
+          "score": 14.202761,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "ford_coppola"
+            ],
+            "score_detail": {
+              "m1": 12.702761,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ford_coppola": {
+                  "keyword": {
+                    "termo": "ford_coppola",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis_ford_coppola",
+                  "score": 9.129927
+                },
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "patton_(filme)",
+                  "score": 1.5728344
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*francis_ford_coppola",
+              "*oscaresacademia",
+              "*melhor filme"
+            ]
+          ],
+          "score": 13.494358,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "ford_coppola",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 11.494358,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "care",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "oscaresacademia",
+                  "score": 0.6833965
+                },
+                "ford_coppola": {
+                  "keyword": {
+                    "termo": "ford_coppola",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis_ford_coppola",
+                  "score": 9.129927
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "melhor filme",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*francis_ford_coppola",
+              "*oscaresacademia",
+              "*melhor filme"
+            ],
+            [
+              "*patton_(filme)",
+              "roteiro",
+              "*francis_ford_coppola"
+            ]
+          ],
+          "score": 12.994358,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "ford_coppola",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 11.494358,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "care",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "oscaresacademia",
+                  "score": 0.6833965
+                },
+                "ford_coppola": {
+                  "keyword": {
+                    "termo": "ford_coppola",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis_ford_coppola",
+                  "score": 9.129927
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "melhor filme",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*patton_(filme)",
+              "roteiro",
+              "*francis_ford_coppola"
+            ],
+            [
+              "*francis_ford_coppola",
+              "*oscaresacademia",
+              "*melhor filme"
+            ]
+          ],
+          "score": 12.994358,
+          "detail": {
+            "keywords": [
+              "ford_coppola",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 11.494358,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "care",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "oscaresacademia",
+                  "score": 0.6833965
+                },
+                "ford_coppola": {
+                  "keyword": {
+                    "termo": "ford_coppola",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis_ford_coppola",
+                  "score": 9.129927
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "melhor filme",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*patton_(filme)",
+              "roteiro",
+              "*francis_ford_coppola"
+            ]
+          ],
+          "score": 12.369428,
+          "detail": {
+            "keywords": [
+              "ford_coppola",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.702761,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "ford_coppola": {
+                  "keyword": {
+                    "termo": "ford_coppola",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis_ford_coppola",
+                  "score": 9.129927
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "patton_(filme)",
+                  "score": 1.5728344
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*doom_(filme)",
+              "*direcao",
+              "andrzej_bartkowiak"
+            ],
+            [
+              "*doom_(filme)",
+              "*diretordearte",
+              "peter_francis"
+            ]
+          ],
+          "score": 5.9824743,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.4824743,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "doom_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*doom_(filme)",
+              "*direcao",
+              "andrzej_bartkowiak"
+            ],
+            [
+              "*doom_(filme)",
+              "*diretordearte",
+              "*dominic_masters"
+            ]
+          ],
+          "score": 5.9824743,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.4824743,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "doom_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*doom_(filme)",
+              "*diretordearte",
+              "peter_francis"
+            ],
+            [
+              "*doom_(filme)",
+              "*direcao",
+              "andrzej_bartkowiak"
+            ]
+          ],
+          "score": 5.9824743,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.4824743,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "doom_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*doom_(filme)",
+              "*diretordearte",
+              "*dominic_masters"
+            ],
+            [
+              "*doom_(filme)",
+              "*direcao",
+              "andrzej_bartkowiak"
+            ]
+          ],
+          "score": 5.9824743,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.4824743,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "doom_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*el_cid_(filme)",
+              "*direcao",
+              "anthony_mann"
+            ],
+            [
+              "*el_cid_(filme)",
+              "*diretordearte",
+              "veniero colasanti e john moore"
+            ]
+          ],
+          "score": 5.8742743,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.3742743,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "el_cid_(filme)",
+                  "score": 1.5728344
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*el_cid_(filme)",
+              "*diretordearte",
+              "veniero colasanti e john moore"
+            ],
+            [
+              "*el_cid_(filme)",
+              "*direcao",
+              "anthony_mann"
+            ]
+          ],
+          "score": 5.8742743,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.3742743,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "el_cid_(filme)",
+                  "score": 1.5728344
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*persona_(filme)",
+              "*direcao",
+              "ingmar_bergman"
+            ],
+            [
+              "*persona_(filme)",
+              "*diretordearte",
+              "karl_arne_bergman"
+            ]
+          ],
+          "score": 5.8180294,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.3180294,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "persona_(filme)",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*persona_(filme)",
+              "*diretordearte",
+              "karl_arne_bergman"
+            ],
+            [
+              "*persona_(filme)",
+              "*direcao",
+              "ingmar_bergman"
+            ]
+          ],
+          "score": 5.8180294,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.3180294,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "persona_(filme)",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*gabriela_(filme)",
+              "*direcao",
+              "bruno_barreto"
+            ],
+            [
+              "*gabriela_(filme)",
+              "*diretordearte",
+              "helio_eichbauer"
+            ]
+          ],
+          "score": 5.7606297,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.2606297,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "gabriela_(filme)",
+                  "score": 1.4591899
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*atirador_(filme)",
+              "*direcao",
+              "antoine_fuqua"
+            ],
+            [
+              "*atirador_(filme)",
+              "*diretordearte",
+              "dennis_washington"
+            ]
+          ],
+          "score": 5.7606297,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.2606297,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "atirador_(filme)",
+                  "score": 1.4591899
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*gabriela_(filme)",
+              "*diretordearte",
+              "helio_eichbauer"
+            ],
+            [
+              "*gabriela_(filme)",
+              "*direcao",
+              "bruno_barreto"
+            ]
+          ],
+          "score": 5.7606297,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.2606297,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "gabriela_(filme)",
+                  "score": 1.4591899
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*atirador_(filme)",
+              "*diretordearte",
+              "dennis_washington"
+            ],
+            [
+              "*atirador_(filme)",
+              "*direcao",
+              "antoine_fuqua"
+            ]
+          ],
+          "score": 5.7606297,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.2606297,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "atirador_(filme)",
+                  "score": 1.4591899
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*tati_(filme)",
+              "*direcao",
+              "bruno_barreto"
+            ],
+            [
+              "*tati_(filme)",
+              "*diretordefotografia",
+              "murilo_salles"
+            ]
+          ],
+          "score": 5.7130265,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.2130265,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordefotografia",
+                  "score": 1.5319918
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "tati_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*tati_(filme)",
+              "*diretordefotografia",
+              "murilo_salles"
+            ],
+            [
+              "*tati_(filme)",
+              "*direcao",
+              "bruno_barreto"
+            ]
+          ],
+          "score": 5.7130265,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.2130265,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordefotografia",
+                  "score": 1.5319918
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "tati_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*chico_rei_(filme)",
+              "*direcao",
+              "walter_lima_jr."
+            ],
+            [
+              "*chico_rei_(filme)",
+              "*diretordearte",
+              "laonte_klawa"
+            ]
+          ],
+          "score": 5.702308,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.202308,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "chico_rei_(filme)",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*chico_rei_(filme)",
+              "*direcao",
+              "walter_lima_jr."
+            ],
+            [
+              "*chico_rei_(filme)",
+              "*diretordearte",
+              "julio_paraty"
+            ]
+          ],
+          "score": 5.702308,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.202308,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "chico_rei_(filme)",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*chico_rei_(filme)",
+              "*direcao",
+              "walter_lima_jr."
+            ],
+            [
+              "*chico_rei_(filme)",
+              "*diretordearte",
+              "jacque_monteiro"
+            ]
+          ],
+          "score": 5.702308,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.202308,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "chico_rei_(filme)",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*macunaima_(filme)",
+              "*direcao",
+              "joaquim_pedro_de_andrade"
+            ],
+            [
+              "*macunaima_(filme)",
+              "*diretordearte",
+              "anisio_medeiros"
+            ]
+          ],
+          "score": 5.702308,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.202308,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "macunaima_(filme)",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*chico_rei_(filme)",
+              "*diretordearte",
+              "laonte_klawa"
+            ],
+            [
+              "*chico_rei_(filme)",
+              "*direcao",
+              "walter_lima_jr."
+            ]
+          ],
+          "score": 5.702308,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.202308,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "chico_rei_(filme)",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*chico_rei_(filme)",
+              "*diretordearte",
+              "julio_paraty"
+            ],
+            [
+              "*chico_rei_(filme)",
+              "*direcao",
+              "walter_lima_jr."
+            ]
+          ],
+          "score": 5.702308,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.202308,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "chico_rei_(filme)",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*chico_rei_(filme)",
+              "*diretordearte",
+              "jacque_monteiro"
+            ],
+            [
+              "*chico_rei_(filme)",
+              "*direcao",
+              "walter_lima_jr."
+            ]
+          ],
+          "score": 5.702308,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.202308,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "chico_rei_(filme)",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*macunaima_(filme)",
+              "*diretordearte",
+              "anisio_medeiros"
+            ],
+            [
+              "*macunaima_(filme)",
+              "*direcao",
+              "joaquim_pedro_de_andrade"
+            ]
+          ],
+          "score": 5.702308,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.202308,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "macunaima_(filme)",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*bossa_nova_(filme)",
+              "*direcao",
+              "bruno_barreto"
+            ],
+            [
+              "*bossa_nova_(filme)",
+              "*diretordearte",
+              "carla caffe e cassio amarante"
+            ]
+          ],
+          "score": 5.6433125,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "filme",
+              "diretor"
+            ],
+            "score_detail": {
+              "m1": 5.1433125,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "bossa_nova_(filme)",
+                  "score": 1.3418726
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*bossa_nova_(filme)",
+              "*diretordearte",
+              "carla caffe e cassio amarante"
+            ],
+            [
+              "*bossa_nova_(filme)",
+              "*direcao",
+              "bruno_barreto"
+            ]
+          ],
+          "score": 5.6433125,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "direcao"
+            ],
+            "score_detail": {
+              "m1": 5.1433125,
+              "m2": 0.5,
+              "m3": 0.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "bossa_nova_(filme)",
+                  "score": 1.3418726
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1756747853,
+      "l_sizes": [
+        31960,
+        350
+      ],
+      "ranking_time_only": 408652301,
+      "total_time": 11954204996,
+      "timeout": false
+    }
+  }
+]

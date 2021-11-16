@@ -1,0 +1,2220 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<hum>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "interpretou",
+          "palavra_canonica": "interpretar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Agente_Smith",
+          "palavra_canonica": "Agente_Smith",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Matrix",
+          "palavra_canonica": "Matrix",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<hum>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "interpretou",
+          "palavra_canonica": "interpretar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "interpret",
+                "sinonimo": "interpretar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "traduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "entender",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "interpret",
+                "sinonimo": "render",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "interpret",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "translate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "understand",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "read",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rede",
+                "sinonimo": "rede",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Agente_Smith",
+          "palavra_canonica": "Agente_Smith",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Matrix",
+          "palavra_canonica": "Matrix",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.83,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "interpretou",
+          "palavra_canonica": "interpretar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "interpret",
+                "sinonimo": "interpretar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "traduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "entender",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "interpret",
+                "sinonimo": "render",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "interpret",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "translate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "understand",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "read",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rede",
+                "sinonimo": "rede",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Agente_Smith",
+          "palavra_canonica": "Agente_Smith",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Matrix",
+          "palavra_canonica": "Matrix",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "obra",
+              "*matrix"
+            ],
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ]
+          ],
+          "score": 23.5,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 22.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "agente_smith": "-74",
+              "matrix": "-31",
+              "interprete": "-8",
+              "interpretar": 174
+            },
+            "best_bind": {
+              "score": 0.5531736,
+              "resource_id": 174,
+              "tr": "interpretar"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "obra",
+              "*matrix"
+            ],
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ]
+          ],
+          "score": 23.5,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 22.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "agente_smith": "-74",
+              "matrix": "-31",
+              "interprete": "-8",
+              "interpretar": 174
+            },
+            "best_bind": {
+              "score": 0.5531736,
+              "resource_id": 174,
+              "tr": "interpretar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*matrix",
+              "wikipagewikilink",
+              "*agente_smith"
+            ],
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ]
+          ],
+          "score": 23.5,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 22.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*matrix"
+            ],
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ]
+          ],
+          "score": 23.5,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 22.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "agente_smith": "-74",
+              "matrix": "-31",
+              "interprete": "-8"
+            },
+            "best_bind": {
+              "score": 0.18796378,
+              "resource_id": 339,
+              "tr": "interpretar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ],
+            [
+              "*agente_smith",
+              "obra",
+              "*matrix"
+            ]
+          ],
+          "score": 23.5,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "interprete",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 22.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ],
+            [
+              "*matrix",
+              "wikipagewikilink",
+              "*agente_smith"
+            ]
+          ],
+          "score": 23.5,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "interprete",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 22.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ],
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*matrix"
+            ]
+          ],
+          "score": 23.5,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "interprete",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 22.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "primeiraaparicao",
+              "*the_matrix"
+            ],
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ]
+          ],
+          "score": 22.782034,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 21.282034,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_matrix",
+                  "score": 9.282034
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "firstappearance",
+              "*the matrix"
+            ],
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ]
+          ],
+          "score": 22.782034,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 21.282034,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the matrix",
+                  "score": 9.282034
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*the_matrix"
+            ],
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ]
+          ],
+          "score": 22.782034,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 21.282034,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_matrix",
+                  "score": 9.282034
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ],
+            [
+              "*agente_smith",
+              "primeiraaparicao",
+              "*the_matrix"
+            ]
+          ],
+          "score": 22.782034,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "interprete",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 21.282034,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_matrix",
+                  "score": 9.282034
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ],
+            [
+              "*agente_smith",
+              "firstappearance",
+              "*the matrix"
+            ]
+          ],
+          "score": 22.782034,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "interprete",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 21.282034,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the matrix",
+                  "score": 9.282034
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ],
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*the_matrix"
+            ]
+          ],
+          "score": 22.782034,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "interprete",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 21.282034,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_matrix",
+                  "score": 9.282034
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*sati_(matrix)"
+            ],
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ]
+          ],
+          "score": 22.134686,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 20.634686,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sati_(matrix)",
+                  "score": 8.634686
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ],
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*sati_(matrix)"
+            ]
+          ],
+          "score": 22.134686,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "interprete",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.634686,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sati_(matrix)",
+                  "score": 8.634686
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "obra",
+              "*matrix"
+            ]
+          ],
+          "score": 21.666666,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*matrix",
+              "wikipagewikilink",
+              "*agente_smith"
+            ]
+          ],
+          "score": 21.666666,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*matrix"
+            ]
+          ],
+          "score": 21.666666,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*matrix_reloaded"
+            ],
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ]
+          ],
+          "score": 21.654446,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 20.154446,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix_reloaded",
+                  "score": 8.154447
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ],
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*matrix_reloaded"
+            ]
+          ],
+          "score": 21.654446,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "interprete",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.154446,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix_reloaded",
+                  "score": 8.154447
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*oraculo_(matrix)"
+            ],
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ]
+          ],
+          "score": 21.401241,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 19.901241,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oraculo_(matrix)",
+                  "score": 7.901242
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*oraculo_(matrix)"
+            ],
+            [
+              "*oraculo_(matrix)",
+              "*interprete",
+              "gloria foster e mary alice"
+            ]
+          ],
+          "score": 21.401241,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 19.901241,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oraculo_(matrix)",
+                  "score": 7.901242
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "*interprete",
+              "hugo_weaving"
+            ],
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*oraculo_(matrix)"
+            ]
+          ],
+          "score": 21.401241,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "interprete",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 19.901241,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oraculo_(matrix)",
+                  "score": 7.901242
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*oraculo_(matrix)",
+              "*interprete",
+              "gloria foster e mary alice"
+            ],
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*oraculo_(matrix)"
+            ]
+          ],
+          "score": 21.401241,
+          "detail": {
+            "keywords": [
+              "interprete",
+              "matrix",
+              "agente_smith"
+            ],
+            "score_detail": {
+              "m1": 19.901241,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oraculo_(matrix)",
+                  "score": 7.901242
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "obra",
+              "*matrix"
+            ],
+            [
+              "*matrix",
+              "wikipagewikilink",
+              "*agente_smith"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "obra",
+              "*matrix"
+            ],
+            [
+              "*agente_smith",
+              "primeiraaparicao",
+              "*the_matrix"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "obra",
+              "*matrix"
+            ],
+            [
+              "*agente_smith",
+              "firstappearance",
+              "*the matrix"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "obra",
+              "*matrix"
+            ],
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*the_matrix"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "obra",
+              "*matrix"
+            ],
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*sati_(matrix)"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "obra",
+              "*matrix"
+            ],
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*matrix_reloaded"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*agente_smith",
+              "obra",
+              "*matrix"
+            ],
+            [
+              "*agente_smith",
+              "wikipagewikilink",
+              "*oraculo_(matrix)"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "agente_smith",
+              "matrix"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "agente_smith": {
+                  "keyword": {
+                    "termo": "agente_smith",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "agente_smith",
+                  "score": 10.0
+                },
+                "matrix": {
+                  "keyword": {
+                    "termo": "matrix",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "matrix",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1745449921,
+      "l_sizes": [
+        2800,
+        11352
+      ],
+      "ranking_time_only": 197259509,
+      "total_time": 8724796774,
+      "timeout": false
+    }
+  }
+]
