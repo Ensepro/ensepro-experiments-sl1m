@@ -69,6 +69,7 @@ def to_list(type, size, slm1_only_l1_option):
             "ranking_time_only", -1)
         analysis_map[i][size][type][slm1_only_l1_option]["total_time"] = analysis[0]["resposta"]["total_time"]
 
+
         correct_answers = analysis[0]["resposta"].get("correct_answer", [])
         has_correct_answer = "-1"
         answer_size = -1
@@ -78,6 +79,7 @@ def to_list(type, size, slm1_only_l1_option):
             has_correct_answer = len(correct_answers) > 0 if correct_answers is not None else "-1"
 
         analysis_map[i][size][type][slm1_only_l1_option]["has_answer"] = has_correct_answer
+        analysis_map[i][size][type][slm1_only_l1_option]["answer_size"] = answer_size
 
         data = {}
         data["id"] = i
@@ -100,11 +102,11 @@ def to_list(type, size, slm1_only_l1_option):
 
 analysis_map = {}
 analysis_list = []
-base_path = "resultados/{type}/{slm1_only_l1_option}{size}/{:0>3d}-slm1-x{size}-{frase}.json"
+base_path = "../resultados/{type}/{slm1_only_l1_option}{size}/{:0>3d}-slm1-x{size}-{frase}.json"
 frases = carregar_frases("../phrases/qald7.txt")
 types = ["slm1", "base"]
 slm1_only_l1_options = ["True", "False"]
-sizes = ['10', '50', '75', '100', '150', '200', '300', '400', '500', '600', '750', '1000', '2000']
+sizes = ['10', '50',]# '75', '100', '150', '200', '300', '400', '500', '600', '750', '1000', '2000']
 
 for slm1_only_l1_option in slm1_only_l1_options:
     for size in sizes:
@@ -113,5 +115,5 @@ for slm1_only_l1_option in slm1_only_l1_options:
 to_list("base", "base", "base")
 
 analysis_list.sort(key=lambda x: x["id"])
-save_as_json(analysis_map, "../analyses/analysis_map.json")
+save_as_json(analysis_map, "../analyses/analysis_map_pre.json")
 save_as_json(analysis_list, "../analyses/analysis_list.json")
