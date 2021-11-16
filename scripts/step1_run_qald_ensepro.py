@@ -90,7 +90,7 @@ def carregar_frases(arquivo):
 base_jar = "/jars/ensepro-answer-generator-size-base.jar"
 slm1_jar = "/jars/ensepro-answer-generator-size-slm1.jar"
 configs_file = "/ensepro-core/ensepro/configuracoes/configs.json"
-frases = carregar_frases("phrases/qald7.txt")
+frases = carregar_frases("../phrases/qald7.txt")
 slm1_only_l1_options = [True, False]
 sizes = [10, 50, 75, 100, 150, 200, 300, 400, 500, 750, 1000]
 
