@@ -50,7 +50,4 @@ for question in analyses:
                 except:
                     print("aq")
 
-
 save_as_json(analyses_pos, "../analyses/analysis_map.json")
-
-

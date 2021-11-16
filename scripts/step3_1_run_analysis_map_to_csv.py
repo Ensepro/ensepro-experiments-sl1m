@@ -29,8 +29,8 @@ ca = {}
 ls1 = {}
 ls2 = {}
 
-types = ["base", "slm1", "slm1n"]
-sizes = ['10', '50']  # , '75', '100', '150', '200', '300', '400', '500', '600', '750', '1000']
+types = ["slm1"]
+sizes = ['10', '50', '75', '100', '150', '200', '300', '400', '500']#, '750', '1000']
 header = pandas.MultiIndex.from_product([types, sizes])
 
 phrases = []
@@ -62,29 +62,29 @@ for question in analyses:
 
     phrases.append(analyses[question]["frase"])
 
-    rt_cols.append(analyses[question]["base"]["base"].get("ranking_time"))
-    rto_cols.append(analyses[question]["base"]["base"].get("ranking_time_only"))
-    tt_cols.append(analyses[question]["base"]["base"].get("total_time"))
-    ca_cols.append(analyses[question]["base"]["base"].get("has_answer"))
-    az_cols.append(analyses[question]["base"]["base"].get("answer_size"))
-    ls1_cols.append(analyses[question]["base"]["base"].get("l1size", -1))
-    ls2_cols.append(analyses[question]["base"]["base"].get("l2size", -1))
-    ls3_cols.append(analyses[question]["base"]["base"].get("l3size", -1))
-    ls4_cols.append(analyses[question]["base"]["base"].get("l4size", -1))
-    ls5_cols.append(analyses[question]["base"]["base"].get("l5size", -1))
-    ls6_cols.append(analyses[question]["base"]["base"].get("l6size", -1))
-    for _s in sizes[:-1]:
-        rt_cols.append("remove column")
-        rto_cols.append("remove column")
-        tt_cols.append("remove column")
-        ca_cols.append("remove column")
-        az_cols.append("remove column")
-        ls1_cols.append("remove column")
-        ls2_cols.append("remove column")
-        ls3_cols.append("remove column")
-        ls4_cols.append("remove column")
-        ls5_cols.append("remove column")
-        ls6_cols.append("remove column")
+    # rt_cols.append(analyses[question]["base"]["base"].get("ranking_time"))
+    # rto_cols.append(analyses[question]["base"]["base"].get("ranking_time_only"))
+    # tt_cols.append(analyses[question]["base"]["base"].get("total_time"))
+    # ca_cols.append(analyses[question]["base"]["base"].get("has_answer"))
+    # az_cols.append(analyses[question]["base"]["base"].get("answer_size"))
+    # ls1_cols.append(analyses[question]["base"]["base"].get("l1size", -1))
+    # ls2_cols.append(analyses[question]["base"]["base"].get("l2size", -1))
+    # ls3_cols.append(analyses[question]["base"]["base"].get("l3size", -1))
+    # ls4_cols.append(analyses[question]["base"]["base"].get("l4size", -1))
+    # ls5_cols.append(analyses[question]["base"]["base"].get("l5size", -1))
+    # ls6_cols.append(analyses[question]["base"]["base"].get("l6size", -1))
+    # for _s in sizes[:-1]:
+    #     rt_cols.append("remove column")
+    #     rto_cols.append("remove column")
+    #     tt_cols.append("remove column")
+    #     ca_cols.append("remove column")
+    #     az_cols.append("remove column")
+    #     ls1_cols.append("remove column")
+    #     ls2_cols.append("remove column")
+    #     ls3_cols.append("remove column")
+    #     ls4_cols.append("remove column")
+    #     ls5_cols.append("remove column")
+    #     ls6_cols.append("remove column")
     in_order = []
     for type in analyses[question]:
         if type != "frase" and type != "base":
@@ -109,7 +109,7 @@ for question in analyses:
     rto_rows.append(rto_cols)
     tt_rows.append(tt_cols)
     ca_rows.append(ca_cols)
-    az_rows.append(ca_cols)
+    az_rows.append(az_cols)
     ls1_rows.append(ls1_cols)
     ls2_rows.append(ls2_cols)
     ls3_rows.append(ls3_cols)
@@ -176,106 +176,3 @@ for table in tables:
         df.to_csv("../analyses/csv/" + table["name"] + ".csv")
     except Exception as n:
         print(table["name"], n)
-
-# for type in types:
-#     for size in sizes:
-#         analyses
-
-
-exit()
-"""
-
-
-
-for index1 in analyses:
-    for size in analyses[index1]:
-        # default_value = {}
-        # if size == "frase":
-        #     default_value = []
-
-        rt[size] = initialize_if_empty(rt, size, {})
-        rto[size] = initialize_if_empty(rto, size, {})
-        tt[size] = initialize_if_empty(tt, size, {})
-        ca[size] = initialize_if_empty(ca, size, {})
-        ls1[size] = initialize_if_empty(ls1, size, {})
-        ls2[size] = initialize_if_empty(ls2, size, {})
-
-        if size == "frase":
-            continue
-
-        for type in analyses[index1][size]:
-            rt[size][type] = initialize_if_empty(rt[size], type, {})
-            rto[size][type] = initialize_if_empty(rto[size], type, {})
-            tt[size][type] = initialize_if_empty(tt[size], type, {})
-            ca[size][type] = initialize_if_empty(ca[size], type, {})
-            ls1[size][type] = initialize_if_empty(ls1[size], type, {})
-            ls2[size][type] = initialize_if_empty(ls2[size], type, {})
-
-            # for slm1_only_l1_option in analyses[index1][size][type]:
-            #     rt[size][type][slm1_only_l1_option] = initialize_if_empty(rt[size][type], slm1_only_l1_option, [])
-            #     rto[size][type][slm1_only_l1_option] = initialize_if_empty(rto[size][type], slm1_only_l1_option, [])
-            #     tt[size][type][slm1_only_l1_option] = initialize_if_empty(tt[size][type], slm1_only_l1_option, [])
-            #     ca[size][type][slm1_only_l1_option] = initialize_if_empty(ca[size][type], slm1_only_l1_option, [])
-            #     ls1[size][type][slm1_only_l1_option] = initialize_if_empty(ls1[size][type], slm1_only_l1_option, [])
-            #     ls2[size][type][slm1_only_l1_option] = initialize_if_empty(ls2[size][type], slm1_only_l1_option, [])
-
-# print(rt)
-# exit()
-for index in analyses:
-    analysis = analyses[index]
-    print(analysis)
-    # rt["frase"].append(analysis["frase"])
-    # rto["frase"].append(analysis["frase"])
-    # tt["frase"].append(analysis["frase"])
-    # ca["frase"].append(analysis["frase"])
-    # ls1["frase"].append(analysis["frase"])
-    # ls2["frase"].append(analysis["frase"])
-
-    for type in types:
-        # for slm1_only_l1_option in slm1_only_l1_options:
-        for size in sizes:
-            if type is "base":
-                slm1_only_l1_option = 'base'
-                size = 'base'
-
-            ranking_time = round(analysis[size][type].get("ranking_time", -1),
-                                 google_sheets_max_precision)
-            ranking_time_only = round(analysis[size][type].get("ranking_time_only", -1),
-                                      google_sheets_max_precision)
-            total_time = round(analysis[size][type].get("total_time", -1),
-                               google_sheets_max_precision)
-            has_answer = analysis[size][type].get("has_answer", None)
-            l1size = analysis[size][type][slm1_only_l1_option].get("l1size", "-1")
-            l2size = analysis[size][type][slm1_only_l1_option].get("l2size", "-1")
-
-            rt[size][type][slm1_only_l1_option].append(ranking_time)
-            rto[size][type][slm1_only_l1_option].append(ranking_time_only)
-            tt[size][type][slm1_only_l1_option].append(total_time)
-            ca[size][type][slm1_only_l1_option].append(has_answer)
-            ls1[size][type][slm1_only_l1_option].append(l1size)
-            ls2[size][type][slm1_only_l1_option].append(l2size)
-
-print()
-
-tables = [
-    {"name": "rt", "table": rt},
-    {"name": "rto", "table": rto},
-    {"name": "tt", "table": tt},
-    {"name": "ca", "table": ca},
-    {"name": "ls1", "table": ls1},
-    {"name": "ls2", "table": ls2},
-]
-
-for table in tables:
-    lines = []
-    for data in table["table"]:
-        print(data)
-        columns = []
-
-        pass
-
-    continue
-    table_name = "../analyses/table_{table}".format(table=table["name"])
-    pandas.DataFrame(table["table"], columns=header).to_csv(table_name + ".csv", index=False)
-    save_as_json(table["table"], table_name + ".json")
-"""
