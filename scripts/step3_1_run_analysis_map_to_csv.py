@@ -29,8 +29,8 @@ ca = {}
 ls1 = {}
 ls2 = {}
 
-types = ["slm1"]
-sizes = ['10', '50', '75', '100', '150', '200', '300', '400', '500']#, '750', '1000']
+types = ["base", "slm1", "sl1mn"]
+sizes = ['10', '50', '75', '100', '150', '200', '300', '400', '500', '750', '1000']
 header = pandas.MultiIndex.from_product([types, sizes])
 
 phrases = []
@@ -62,29 +62,29 @@ for question in analyses:
 
     phrases.append(analyses[question]["frase"])
 
-    # rt_cols.append(analyses[question]["base"]["base"].get("ranking_time"))
-    # rto_cols.append(analyses[question]["base"]["base"].get("ranking_time_only"))
-    # tt_cols.append(analyses[question]["base"]["base"].get("total_time"))
-    # ca_cols.append(analyses[question]["base"]["base"].get("has_answer"))
-    # az_cols.append(analyses[question]["base"]["base"].get("answer_size"))
-    # ls1_cols.append(analyses[question]["base"]["base"].get("l1size", -1))
-    # ls2_cols.append(analyses[question]["base"]["base"].get("l2size", -1))
-    # ls3_cols.append(analyses[question]["base"]["base"].get("l3size", -1))
-    # ls4_cols.append(analyses[question]["base"]["base"].get("l4size", -1))
-    # ls5_cols.append(analyses[question]["base"]["base"].get("l5size", -1))
-    # ls6_cols.append(analyses[question]["base"]["base"].get("l6size", -1))
-    # for _s in sizes[:-1]:
-    #     rt_cols.append("remove column")
-    #     rto_cols.append("remove column")
-    #     tt_cols.append("remove column")
-    #     ca_cols.append("remove column")
-    #     az_cols.append("remove column")
-    #     ls1_cols.append("remove column")
-    #     ls2_cols.append("remove column")
-    #     ls3_cols.append("remove column")
-    #     ls4_cols.append("remove column")
-    #     ls5_cols.append("remove column")
-    #     ls6_cols.append("remove column")
+    rt_cols.append(analyses[question]["base"]["base"].get("ranking_time"))
+    rto_cols.append(analyses[question]["base"]["base"].get("ranking_time_only"))
+    tt_cols.append(analyses[question]["base"]["base"].get("total_time"))
+    ca_cols.append(analyses[question]["base"]["base"].get("has_answer"))
+    az_cols.append(analyses[question]["base"]["base"].get("answer_size"))
+    ls1_cols.append(analyses[question]["base"]["base"].get("l1size", -1))
+    ls2_cols.append(analyses[question]["base"]["base"].get("l2size", -1))
+    ls3_cols.append(analyses[question]["base"]["base"].get("l3size", -1))
+    ls4_cols.append(analyses[question]["base"]["base"].get("l4size", -1))
+    ls5_cols.append(analyses[question]["base"]["base"].get("l5size", -1))
+    ls6_cols.append(analyses[question]["base"]["base"].get("l6size", -1))
+    for _s in sizes[:-1]:
+        rt_cols.append("remove column")
+        rto_cols.append("remove column")
+        tt_cols.append("remove column")
+        ca_cols.append("remove column")
+        az_cols.append("remove column")
+        ls1_cols.append("remove column")
+        ls2_cols.append("remove column")
+        ls3_cols.append("remove column")
+        ls4_cols.append("remove column")
+        ls5_cols.append("remove column")
+        ls6_cols.append("remove column")
     in_order = []
     for type in analyses[question]:
         if type != "frase" and type != "base":
