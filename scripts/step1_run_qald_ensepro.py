@@ -98,3 +98,20 @@ for slm1_only_l1 in slm1_only_l1_options:
     for size in sizes:
         execEnsepro("slm1", configs_file, slm1_jar, size, slm1_only_l1)
 execEnsepro("base", configs_file, base_jar)
+
+configs_file = "/ensepro-core/ensepro/configuracoes/configs.json"
+slm1_only_l1_options = [True, False]
+sizes = [10, 50, 75, 100, 150, 200, 300, 400, 500, 750, 1000]
+
+all_jar = "/jars/ensepro-answer-generator-"
+jars = [
+    "all2",
+    "all3",
+    "all4",
+    "all5"
+]
+
+for jar in jars:
+    for slm1_only_l1 in slm1_only_l1_options:
+        for size in sizes:
+            execEnsepro(jar, configs_file, all_jar + jar + ".jar", size, slm1_only_l1)
