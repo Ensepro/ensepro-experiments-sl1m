@@ -24,6 +24,31 @@ def save_as_json(value, filename, indent=2, sort_keys=False):
     )
 
 
+def extract_answers(correct_answers):
+    answers = []
+    for answer in correct_answers:
+        for triple in answer["triples"]:
+            elements = []
+            for element in triple:
+                try:
+
+                    new_element = str(element) \
+                        .replace("*", "") \
+                        # .replace("___", "_") \
+                        # .replace("__", "_") \
+                        # .replace("(", "") \
+                        # .replace(")", "") \
+                        # .lower()
+                    elements.append(new_element)
+                    if new_element == "agente_smith":
+                        print()
+                except Exception as e:
+                    print(e)
+                    raise e
+            answers.append(elements)
+    return answers
+
+
 def carregar_frases(arquivo):
     frases = []
     with open(arquivo, mode="r", encoding="UTF-8") as frases_arquivo:
@@ -71,16 +96,22 @@ def to_list(type, size, slm1_only_l1_option):
         analysis_map[i][size][type][slm1_only_l1_option]["total_time"] = analysis[0]["resposta"]["total_time"]
         analysis_map[i][size][type][slm1_only_l1_option]["timeout"] = analysis[0]["resposta"].get("timeout", "-1")
 
-
         correct_answers = analysis[0]["resposta"].get("correct_answer", [])
-        has_correct_answer = "-1"
-        answer_size = -1
+        has_correct_answer = False
 
         if correct_answers:
-            answer_size = len(correct_answers)
-            has_correct_answer = len(correct_answers) > 0 if correct_answers is not None else "-1"
+            has_correct_answer = True
 
+
+
+        answers = extract_answers(correct_answers)
+        analysis_map[i][size][type][slm1_only_l1_option]["answers"] = answers
         analysis_map[i][size][type][slm1_only_l1_option]["has_answer"] = has_correct_answer
+
+        if analysis[0]["resposta"].get("timeout", False):
+            answer_size = "-1"
+        else:
+            answer_size = len(answers)
         analysis_map[i][size][type][slm1_only_l1_option]["answer_size"] = answer_size
 
         data = {}
@@ -109,7 +140,7 @@ base_path = "../resultados/{type}/{slm1_only_l1_option}{size}/{:0>3d}-slm1-x{siz
 frases = carregar_frases("../phrases/qald7.txt")
 types = ["slm1", "base"]
 slm1_only_l1_options = ["True", "False"]
-sizes = ['10', '50', '75', '100', '150', '200', '300', '400', '500', '750', '1000']
+sizes = ['10', '30', '50', '75', '100', '150', '200', '300', '400', '500', '750', '1000']
 
 for slm1_only_l1_option in slm1_only_l1_options:
     for size in sizes:

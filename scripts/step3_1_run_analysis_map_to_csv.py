@@ -30,7 +30,7 @@ ls1 = {}
 ls2 = {}
 
 types = ["base", "slm1", "sl1mn"]
-sizes = ['10', '50', '75', '100', '150', '200', '300', '400', '500', '750', '1000']
+sizes = ['10', '30', '50', '75', '100', '150', '200', '300', '400', '500', '750', '1000']
 header = pandas.MultiIndex.from_product([types, sizes])
 
 phrases = []
@@ -171,8 +171,8 @@ for table in tables:
         # df = pd.DataFrame(table["table"],
         # index=['a','b','c','d','e','f','g'],
         # columns=header)
-        df.replace(False, 0, inplace=True)
-        df.replace(True, 1, inplace=True)
+        # df.replace(False, 0, inplace=True)
+        # df.replace(True, 1, inplace=True)
         df.to_csv("../analyses/csv/" + table["name"] + ".csv")
     except Exception as n:
         print(table["name"], n)
