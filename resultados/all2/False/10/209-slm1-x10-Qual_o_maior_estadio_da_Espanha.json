@@ -1,0 +1,2467 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "maior",
+          "palavra_canonica": "grande",
+          "tags": [
+            "<KOMP>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "estádio",
+          "palavra_canonica": "estádio",
+          "tags": [
+            "<cjt-X>",
+            "<Lh>",
+            "<Labs>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Espanha",
+          "palavra_canonica": "Espanha",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "maior",
+          "palavra_canonica": "grande",
+          "tags": [
+            "<KOMP>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "estádio",
+          "palavra_canonica": "estádio",
+          "tags": [
+            "<cjt-X>",
+            "<Lh>",
+            "<Labs>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "stadium",
+                "sinonimo": "Estádios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "estádio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "stadium",
+                "sinonimo": "bowl",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "arena",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "sports_stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Espanha",
+          "palavra_canonica": "Espanha",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ X:par|1| [CJT:pron-int|2| Qual] [ CJT:np|3| [DN:art|4| o] [DN:adj|5| maior] [H:n|6| estádio] [ DN:pp|7| [H:prp|8| de] [ DP:np|9| [DN:art|10| a] [H:prop|11| Espanha] ] ] ] [?|12|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.64,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "estádio",
+          "palavra_canonica": "estádio",
+          "tags": [
+            "<cjt-X>",
+            "<Lh>",
+            "<Labs>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "stadium",
+                "sinonimo": "Estádios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "estádio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "stadium",
+                "sinonimo": "bowl",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "arena",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "sports_stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Espanha",
+          "palavra_canonica": "Espanha",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "estádio",
+            "palavra_canonica": "estádio",
+            "tags": [
+              "<cjt-X>",
+              "<Lh>",
+              "<Labs>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "stadium",
+                  "sinonimo": "Estádios",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "estádio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "stadium",
+                  "sinonimo": "bowl",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "arena",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "stadium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "sports_stadium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 5,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "maior",
+            "palavra_canonica": "grande",
+            "tags": [
+              "<KOMP>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "estádio",
+            "palavra_canonica": "estádio",
+            "tags": [
+              "<cjt-X>",
+              "<Lh>",
+              "<Labs>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "stadium",
+                  "sinonimo": "Estádios",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "estádio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "stadium",
+                  "sinonimo": "bowl",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "arena",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "stadium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "sports_stadium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 11,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Espanha",
+            "palavra_canonica": "Espanha",
+            "tags": [
+              "<civ>",
+              "<*>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "real_madrid_castilla_club_de_futbol",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_club_de_futbol_c",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1960",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1974",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1964",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "liga_dos_campeoes_da_uefa_de_200910__play_off_de_qualificacao",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_do_mundo_de_futsal_de_1996",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "real_madrid_castilla_club_de_futbol",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_club_de_futbol_c",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1960",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1974",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1964",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "liga_dos_campeoes_da_uefa_de_200910__play_off_de_qualificacao",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_do_mundo_de_futsal_de_1996",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "estadio": "-6255",
+              "espanha": "-3"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*estadio_anoeta",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 13.427958,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 11.761291,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio_anoeta",
+                  "score": 1.7612904
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_castilla_club_de_futbol",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "real_madrid_club_de_futbol_c",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_castilla_club_de_futbol",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_intercontinental_de_1960",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_castilla_club_de_futbol",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_intercontinental_de_1974",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_castilla_club_de_futbol",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_intercontinental_de_1964",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_castilla_club_de_futbol",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "liga_dos_campeoes_da_uefa_de_200910__play_off_de_qualificacao",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_castilla_club_de_futbol",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_do_mundo_de_futsal_de_1996",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_club_de_futbol_c",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "real_madrid_castilla_club_de_futbol",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_club_de_futbol_c",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_intercontinental_de_1960",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_club_de_futbol_c",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_intercontinental_de_1974",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_club_de_futbol_c",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_intercontinental_de_1964",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_club_de_futbol_c",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "liga_dos_campeoes_da_uefa_de_200910__play_off_de_qualificacao",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "real_madrid_club_de_futbol_c",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_do_mundo_de_futsal_de_1996",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1960",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "real_madrid_castilla_club_de_futbol",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1960",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "real_madrid_club_de_futbol_c",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1960",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_intercontinental_de_1974",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1960",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_intercontinental_de_1964",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1960",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "liga_dos_campeoes_da_uefa_de_200910__play_off_de_qualificacao",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1960",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_do_mundo_de_futsal_de_1996",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1974",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "real_madrid_castilla_club_de_futbol",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1974",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "real_madrid_club_de_futbol_c",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1974",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_intercontinental_de_1960",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1974",
+              "*estadio",
+              "*espanha"
+            ],
+            [
+              "copa_intercontinental_de_1964",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1789526911,
+      "l_sizes": [
+        36340,
+        10
+      ],
+      "a_sizes": [
+        36340,
+        48
+      ],
+      "ranking_time_only": 307880532,
+      "total_time": 10315906327,
+      "timeout": false
+    }
+  }
+]

@@ -1,0 +1,2192 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "população",
+          "palavra_canonica": "população",
+          "tags": [
+            "<HH>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "total",
+          "palavra_canonica": "total",
+          "tags": [
+            "<nh>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Melbourne",
+          "palavra_canonica": "Melbourne",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": ",",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "DNc:prop",
+          "palavra_original": "Florida",
+          "palavra_canonica": "Florida",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "população",
+          "palavra_canonica": "população",
+          "tags": [
+            "<HH>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "people",
+                "sinonimo": "pessoas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "population",
+                "sinonimo": "povoação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "people",
+                "sinonimo": "povo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "citizenry",
+                "sinonimo": "gente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "citizenry",
+                "sinonimo": "cidadania",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "population",
+                "sinonimo": "população",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "population",
+                "sinonimo": "population",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "citizenry",
+                "sinonimo": "citizenry",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "people",
+                "sinonimo": "people",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "total",
+          "palavra_canonica": "total",
+          "tags": [
+            "<nh>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Melbourne",
+          "palavra_canonica": "Melbourne",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": ",",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ [QUE:v-fin|1| é] [?|2|  ] [ S:np|3| [DN:art|4| a] [H:n|5| população] [DN:adj|6| total] [ DN:pp|7| [H:prp|8| de] [DP:prop|9| Melbourne] [,|10|  ] ] ] ] ]",
+      "tipo": {
+        "tipo": "desconhecido",
+        "confianca": 1,
+        "ids": []
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "população",
+          "palavra_canonica": "população",
+          "tags": [
+            "<HH>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "people",
+                "sinonimo": "pessoas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "population",
+                "sinonimo": "povoação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "people",
+                "sinonimo": "povo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "citizenry",
+                "sinonimo": "gente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "citizenry",
+                "sinonimo": "cidadania",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "population",
+                "sinonimo": "população",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "population",
+                "sinonimo": "population",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "citizenry",
+                "sinonimo": "citizenry",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "people",
+                "sinonimo": "people",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Melbourne",
+          "palavra_canonica": "Melbourne",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "população",
+            "palavra_canonica": "população",
+            "tags": [
+              "<HH>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "people",
+                  "sinonimo": "pessoas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "population",
+                  "sinonimo": "povoação",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "people",
+                  "sinonimo": "povo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "citizenry",
+                  "sinonimo": "gente",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "citizenry",
+                  "sinonimo": "cidadania",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "population",
+                  "sinonimo": "população",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "population",
+                  "sinonimo": "population",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "citizenry",
+                  "sinonimo": "citizenry",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "people",
+                  "sinonimo": "people",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 6,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "total",
+            "palavra_canonica": "total",
+            "tags": [
+              "<nh>",
+              "<np-close>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "população",
+            "palavra_canonica": "população",
+            "tags": [
+              "<HH>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "people",
+                  "sinonimo": "pessoas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "population",
+                  "sinonimo": "povoação",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "people",
+                  "sinonimo": "povo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "citizenry",
+                  "sinonimo": "gente",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "citizenry",
+                  "sinonimo": "cidadania",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "population",
+                  "sinonimo": "população",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "population",
+                  "sinonimo": "population",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "citizenry",
+                  "sinonimo": "citizenry",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "people",
+                  "sinonimo": "people",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 9,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Melbourne",
+            "palavra_canonica": "Melbourne",
+            "tags": [
+              "<civ>",
+              "<*>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "melbourne": "-9",
+              "populacao": "-89"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "melbourne": "-9",
+              "populacao": "-89"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "imigracao_portuguesa_na_australia",
+              "*populationplace",
+              "*melbourne"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "filipino_australianos",
+              "*populationplace",
+              "*melbourne"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageexternallink",
+              11
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageexternallink",
+              "*www.melbourne.vic.gov.au"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:ver_desambiguacao"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "cidade_da_australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:nota_de_rodape"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "clima"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:panorama"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:dividir_em_colunas"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:flagicon"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:dividir_em_colunas_fim"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:relacao_pm"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:notas"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:link"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:cidades_globais"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:cidades_sede_dos_jogos_olimpicos_de_verao"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:capitais_da_australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "owl#sameas",
+              "m.0chgzm"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "homepage",
+              11
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "depiction",
+              "*melbourne_montage_six_frame_infobox_jpg.jpg"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "thumbnail",
+              "*melbourne_montage_six_frame_infobox_jpg.jpg?width=300"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "subject",
+              "*categoria:melbourne"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "owl#sameas",
+              "q3141"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "owl#sameas",
+              "*melbourne"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*melbourne",
+              "*populacao",
+              "4347955"
+            ],
+            [
+              "*melbourne",
+              "owl#sameas",
+              11
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "populacao",
+              "melbourne"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "populacao": {
+                  "keyword": {
+                    "termo": "populacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "populacao",
+                  "score": 2.0
+                },
+                "melbourne": {
+                  "keyword": {
+                    "termo": "melbourne",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "melbourne",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 8484082858,
+      "l_sizes": [
+        27358,
+        300
+      ],
+      "a_sizes": [
+        27358,
+        72302
+      ],
+      "ranking_time_only": 636339129,
+      "total_time": 19104289162,
+      "timeout": false
+    }
+  }
+]
