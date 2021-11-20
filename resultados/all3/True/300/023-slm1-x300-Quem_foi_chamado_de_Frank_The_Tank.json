@@ -198,12 +198,6 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "designate",
-                "sinonimo": "denominar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "call",
                 "sinonimo": "chamar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -211,9 +205,15 @@
               },
               {
                 "synset": "name",
-                "sinonimo": "nomear",
+                "sinonimo": "denominar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "call",
+                "sinonimo": "ligar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "call",
@@ -222,24 +222,48 @@
                 "distancia_semantica": "05"
               },
               {
-                "synset": "call",
-                "sinonimo": "ligar",
+                "synset": "name",
+                "sinonimo": "nomear",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "call",
-                "sinonimo": "call_up",
+                "sinonimo": "call",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "designate",
+                "sinonimo": "denominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "call",
+                "sinonimo": "send_for",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "call",
+                "sinonimo": "ring",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "stigmatize",
-                "sinonimo": "stigmatise",
+                "sinonimo": "mark",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "call",
+                "sinonimo": "telephone",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "stigmatize",
@@ -250,18 +274,6 @@
               {
                 "synset": "stigmatize",
                 "sinonimo": "denounce",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "call",
-                "sinonimo": "phone",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "name",
-                "sinonimo": "name",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -278,38 +290,26 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "name",
-                "sinonimo": "call",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "designate",
-                "sinonimo": "denominate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "call",
-                "sinonimo": "ring",
+                "sinonimo": "phone",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "call",
-                "sinonimo": "send_for",
+                "synset": "stigmatize",
+                "sinonimo": "stigmatise",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "mark",
+                "synset": "name",
+                "sinonimo": "name",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "call",
-                "sinonimo": "telephone",
+                "sinonimo": "call_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               }
@@ -412,12 +412,6 @@
                   "distancia_semantica": "03"
                 },
                 {
-                  "synset": "designate",
-                  "sinonimo": "denominar",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "call",
                   "sinonimo": "chamar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
@@ -425,9 +419,15 @@
                 },
                 {
                   "synset": "name",
-                  "sinonimo": "nomear",
+                  "sinonimo": "denominar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "call",
+                  "sinonimo": "ligar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "call",
@@ -436,24 +436,48 @@
                   "distancia_semantica": "05"
                 },
                 {
-                  "synset": "call",
-                  "sinonimo": "ligar",
+                  "synset": "name",
+                  "sinonimo": "nomear",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
+                  "distancia_semantica": "01"
                 }
               ],
               "eng": [
                 {
                   "synset": "call",
-                  "sinonimo": "call_up",
+                  "sinonimo": "call",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "designate",
+                  "sinonimo": "denominate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "call",
+                  "sinonimo": "send_for",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "call",
+                  "sinonimo": "ring",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "03"
                 },
                 {
                   "synset": "stigmatize",
-                  "sinonimo": "stigmatise",
+                  "sinonimo": "mark",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "call",
+                  "sinonimo": "telephone",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "stigmatize",
@@ -464,18 +488,6 @@
                 {
                   "synset": "stigmatize",
                   "sinonimo": "denounce",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "call",
-                  "sinonimo": "phone",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "name",
-                  "sinonimo": "name",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
                 },
@@ -492,38 +504,26 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "name",
-                  "sinonimo": "call",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "designate",
-                  "sinonimo": "denominate",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "call",
-                  "sinonimo": "ring",
+                  "sinonimo": "phone",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "03"
                 },
                 {
-                  "synset": "call",
-                  "sinonimo": "send_for",
+                  "synset": "stigmatize",
+                  "sinonimo": "stigmatise",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "05"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "stigmatize",
-                  "sinonimo": "mark",
+                  "synset": "name",
+                  "sinonimo": "name",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
                 },
                 {
                   "synset": "call",
-                  "sinonimo": "telephone",
+                  "sinonimo": "call_up",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "03"
                 }
@@ -557,12 +557,6 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "designate",
-                "sinonimo": "denominar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "call",
                 "sinonimo": "chamar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -570,9 +564,15 @@
               },
               {
                 "synset": "name",
-                "sinonimo": "nomear",
+                "sinonimo": "denominar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "call",
+                "sinonimo": "ligar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "call",
@@ -581,24 +581,48 @@
                 "distancia_semantica": "05"
               },
               {
-                "synset": "call",
-                "sinonimo": "ligar",
+                "synset": "name",
+                "sinonimo": "nomear",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "call",
-                "sinonimo": "call_up",
+                "sinonimo": "call",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "designate",
+                "sinonimo": "denominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "call",
+                "sinonimo": "send_for",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "call",
+                "sinonimo": "ring",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "stigmatize",
-                "sinonimo": "stigmatise",
+                "sinonimo": "mark",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "call",
+                "sinonimo": "telephone",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "stigmatize",
@@ -609,18 +633,6 @@
               {
                 "synset": "stigmatize",
                 "sinonimo": "denounce",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "call",
-                "sinonimo": "phone",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "name",
-                "sinonimo": "name",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -637,38 +649,26 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "name",
-                "sinonimo": "call",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "designate",
-                "sinonimo": "denominate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "call",
-                "sinonimo": "ring",
+                "sinonimo": "phone",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "call",
-                "sinonimo": "send_for",
+                "synset": "stigmatize",
+                "sinonimo": "stigmatise",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "mark",
+                "synset": "name",
+                "sinonimo": "name",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "call",
-                "sinonimo": "telephone",
+                "sinonimo": "call_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               }
@@ -2322,7 +2322,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 39124757365,
+      "ranking_time": 38373697366,
       "l_sizes": [
         9999,
         300,
@@ -2333,8 +2333,8 @@
         2906,
         26730600
       ],
-      "ranking_time_only": 34067560258,
-      "total_time": 45820069936,
+      "ranking_time_only": 30980856926,
+      "total_time": 44941276432,
       "timeout": false
     }
   }

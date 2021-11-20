@@ -142,19 +142,13 @@
             "eng": [
               {
                 "synset": "claim",
-                "sinonimo": "exact",
+                "sinonimo": "claim",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
               {
                 "synset": "cost",
                 "sinonimo": "be",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "cost",
-                "sinonimo": "cost",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -166,9 +160,15 @@
               },
               {
                 "synset": "claim",
-                "sinonimo": "claim",
+                "sinonimo": "exact",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
+              },
+              {
+                "synset": "cost",
+                "sinonimo": "cost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -244,19 +244,13 @@
             "eng": [
               {
                 "synset": "claim",
-                "sinonimo": "exact",
+                "sinonimo": "claim",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
               {
                 "synset": "cost",
                 "sinonimo": "be",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "cost",
-                "sinonimo": "cost",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -268,9 +262,15 @@
               },
               {
                 "synset": "claim",
-                "sinonimo": "claim",
+                "sinonimo": "exact",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
+              },
+              {
+                "synset": "cost",
+                "sinonimo": "cost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -3640,7 +3640,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 38012854241,
+      "ranking_time": 39549860336,
       "l_sizes": [
         938,
         297,
@@ -3651,8 +3651,8 @@
         22638,
         25934040
       ],
-      "ranking_time_only": 29825974883,
-      "total_time": 47641092808,
+      "ranking_time_only": 35909296366,
+      "total_time": 49217304511,
       "timeout": false
     }
   }

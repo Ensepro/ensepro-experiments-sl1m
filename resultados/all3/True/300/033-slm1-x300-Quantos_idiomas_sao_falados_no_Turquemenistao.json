@@ -221,14 +221,26 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "natural_language",
-                "sinonimo": "linguagem",
+                "synset": "language",
+                "sinonimo": "discurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "ditado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "saying",
-                "sinonimo": "provérbio",
+                "synset": "language",
+                "sinonimo": "língua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -239,20 +251,44 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "language",
-                "sinonimo": "discurso",
+                "synset": "natural_language",
+                "sinonimo": "Língua_Natural",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "saying",
-                "sinonimo": "ditado",
+                "sinonimo": "locução",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "dialect",
                 "sinonimo": "dialecto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "idioma",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialeto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "provérbio",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -270,43 +306,7 @@
               },
               {
                 "synset": "saying",
-                "sinonimo": "locução",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "natural_language",
-                "sinonimo": "língua_natural",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "saying",
                 "sinonimo": "expressão",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "natural_language",
-                "sinonimo": "Língua_Natural",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "language",
-                "sinonimo": "língua",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "natural_language",
-                "sinonimo": "idioma",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dialect",
-                "sinonimo": "dialeto",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -319,56 +319,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "speech",
-                "sinonimo": "oral_communication",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "saying",
-                "sinonimo": "expression",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "language",
-                "sinonimo": "language",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "speech",
-                "sinonimo": "voice_communication",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "saying",
                 "sinonimo": "saying",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "speech",
-                "sinonimo": "spoken_language",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "natural_language",
-                "sinonimo": "natural_language",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dialect",
-                "sinonimo": "idiom",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dialect",
-                "sinonimo": "accent",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -380,21 +332,15 @@
               },
               {
                 "synset": "saying",
-                "sinonimo": "locution",
+                "sinonimo": "expression",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "speech",
-                "sinonimo": "speech",
+                "sinonimo": "spoken_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "natural_language",
-                "sinonimo": "tongue",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               },
               {
                 "synset": "dialect",
@@ -403,10 +349,64 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "language",
+                "sinonimo": "speech",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "tongue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "speech",
                 "sinonimo": "spoken_communication",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locution",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "voice_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idiom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "oral_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "natural_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "accent",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -454,16 +454,16 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "state",
-                "sinonimo": "falar",
+                "synset": "speak",
+                "sinonimo": "dizer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
-                "synset": "discourse",
-                "sinonimo": "discursar",
+                "synset": "talk",
+                "sinonimo": "conversar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "cover",
@@ -479,19 +479,13 @@
               },
               {
                 "synset": "talk",
-                "sinonimo": "conversar",
+                "sinonimo": "proferir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "state",
-                "sinonimo": "contar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pronounce",
-                "sinonimo": "dizer",
+                "synset": "discourse",
+                "sinonimo": "discursar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -508,13 +502,43 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "talk",
-                "sinonimo": "proferir",
+                "synset": "state",
+                "sinonimo": "contar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "falar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "cover",
+                "sinonimo": "cover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "sound_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_of",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "articulate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "pronounce",
                 "sinonimo": "pronounce",
@@ -522,16 +546,22 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "drone",
-                "sinonimo": "drone",
+                "synset": "state",
+                "sinonimo": "tell",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "talk",
-                "sinonimo": "verbalize",
+                "synset": "speak",
+                "sinonimo": "talk",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "state",
@@ -546,98 +576,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "cover",
-                "sinonimo": "cover",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "talk_of",
-                "sinonimo": "talk_about",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "talk",
-                "sinonimo": "verbalise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "pronounce",
-                "sinonimo": "sound_out",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "talk",
-                "sinonimo": "talk",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "talk_of",
-                "sinonimo": "talk_of",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "cover",
-                "sinonimo": "plow",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "pronounce",
-                "sinonimo": "enounce",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pronounce",
-                "sinonimo": "say",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "cover",
-                "sinonimo": "deal",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "talk",
-                "sinonimo": "mouth",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "pronounce",
                 "sinonimo": "enunciate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "drone",
-                "sinonimo": "drone_on",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "cover",
-                "sinonimo": "treat",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "lecture",
-                "sinonimo": "lecture",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "talk",
-                "sinonimo": "speak",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -649,19 +589,61 @@
               },
               {
                 "synset": "talk",
-                "sinonimo": "utter",
+                "sinonimo": "verbalize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "pronounce",
-                "sinonimo": "articulate",
+                "sinonimo": "enounce",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "state",
-                "sinonimo": "tell",
+                "synset": "cover",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "plow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "say",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "mouth",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "speak",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -672,8 +654,26 @@
                 "distancia_semantica": "05"
               },
               {
+                "synset": "lecture",
+                "sinonimo": "lecture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "utter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "cover",
-                "sinonimo": "handle",
+                "sinonimo": "treat",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               }
@@ -795,16 +795,16 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "state",
-                  "sinonimo": "falar",
+                  "synset": "speak",
+                  "sinonimo": "dizer",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "03"
                 },
                 {
-                  "synset": "discourse",
-                  "sinonimo": "discursar",
+                  "synset": "talk",
+                  "sinonimo": "conversar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "cover",
@@ -820,19 +820,13 @@
                 },
                 {
                   "synset": "talk",
-                  "sinonimo": "conversar",
+                  "sinonimo": "proferir",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "state",
-                  "sinonimo": "contar",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pronounce",
-                  "sinonimo": "dizer",
+                  "synset": "discourse",
+                  "sinonimo": "discursar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
                 },
@@ -849,13 +843,43 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "talk",
-                  "sinonimo": "proferir",
+                  "synset": "state",
+                  "sinonimo": "contar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "lecture",
+                  "sinonimo": "falar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
                 }
               ],
               "eng": [
+                {
+                  "synset": "cover",
+                  "sinonimo": "cover",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "sound_out",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk_of",
+                  "sinonimo": "talk_of",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "articulate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
                 {
                   "synset": "pronounce",
                   "sinonimo": "pronounce",
@@ -863,16 +887,22 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "drone",
-                  "sinonimo": "drone",
+                  "synset": "state",
+                  "sinonimo": "tell",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "talk",
-                  "sinonimo": "verbalize",
+                  "synset": "speak",
+                  "sinonimo": "talk",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "talk_of",
+                  "sinonimo": "talk_about",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "state",
@@ -887,98 +917,8 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "cover",
-                  "sinonimo": "cover",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "05"
-                },
-                {
-                  "synset": "talk_of",
-                  "sinonimo": "talk_about",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "talk",
-                  "sinonimo": "verbalise",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "pronounce",
-                  "sinonimo": "sound_out",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "talk",
-                  "sinonimo": "talk",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "talk_of",
-                  "sinonimo": "talk_of",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "cover",
-                  "sinonimo": "plow",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "05"
-                },
-                {
-                  "synset": "pronounce",
-                  "sinonimo": "enounce",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pronounce",
-                  "sinonimo": "say",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "cover",
-                  "sinonimo": "deal",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "05"
-                },
-                {
-                  "synset": "talk",
-                  "sinonimo": "mouth",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
-                },
-                {
                   "synset": "pronounce",
                   "sinonimo": "enunciate",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "drone",
-                  "sinonimo": "drone_on",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "cover",
-                  "sinonimo": "treat",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "05"
-                },
-                {
-                  "synset": "lecture",
-                  "sinonimo": "lecture",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "talk",
-                  "sinonimo": "speak",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
                 },
@@ -990,19 +930,61 @@
                 },
                 {
                   "synset": "talk",
-                  "sinonimo": "utter",
+                  "sinonimo": "verbalize",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "drone",
+                  "sinonimo": "drone",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "02"
                 },
                 {
                   "synset": "pronounce",
-                  "sinonimo": "articulate",
+                  "sinonimo": "enounce",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "state",
-                  "sinonimo": "tell",
+                  "synset": "cover",
+                  "sinonimo": "deal",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "plow",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "handle",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "say",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "mouth",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "drone",
+                  "sinonimo": "drone_on",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "speak",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
                 },
@@ -1013,8 +995,26 @@
                   "distancia_semantica": "05"
                 },
                 {
+                  "synset": "lecture",
+                  "sinonimo": "lecture",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "verbalise",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "utter",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
                   "synset": "cover",
-                  "sinonimo": "handle",
+                  "sinonimo": "treat",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "05"
                 }
@@ -1038,14 +1038,26 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "natural_language",
-                "sinonimo": "linguagem",
+                "synset": "language",
+                "sinonimo": "discurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "ditado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "saying",
-                "sinonimo": "provérbio",
+                "synset": "language",
+                "sinonimo": "língua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1056,20 +1068,44 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "language",
-                "sinonimo": "discurso",
+                "synset": "natural_language",
+                "sinonimo": "Língua_Natural",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "saying",
-                "sinonimo": "ditado",
+                "sinonimo": "locução",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "dialect",
                 "sinonimo": "dialecto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "idioma",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialeto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "provérbio",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1087,43 +1123,7 @@
               },
               {
                 "synset": "saying",
-                "sinonimo": "locução",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "natural_language",
-                "sinonimo": "língua_natural",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "saying",
                 "sinonimo": "expressão",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "natural_language",
-                "sinonimo": "Língua_Natural",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "language",
-                "sinonimo": "língua",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "natural_language",
-                "sinonimo": "idioma",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dialect",
-                "sinonimo": "dialeto",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -1136,56 +1136,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "speech",
-                "sinonimo": "oral_communication",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "saying",
-                "sinonimo": "expression",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "language",
-                "sinonimo": "language",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "speech",
-                "sinonimo": "voice_communication",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "saying",
                 "sinonimo": "saying",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "speech",
-                "sinonimo": "spoken_language",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "natural_language",
-                "sinonimo": "natural_language",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dialect",
-                "sinonimo": "idiom",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dialect",
-                "sinonimo": "accent",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1197,21 +1149,15 @@
               },
               {
                 "synset": "saying",
-                "sinonimo": "locution",
+                "sinonimo": "expression",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "speech",
-                "sinonimo": "speech",
+                "sinonimo": "spoken_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "natural_language",
-                "sinonimo": "tongue",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               },
               {
                 "synset": "dialect",
@@ -1220,10 +1166,64 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "language",
+                "sinonimo": "speech",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "tongue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "speech",
                 "sinonimo": "spoken_communication",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locution",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "voice_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idiom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "oral_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "natural_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "accent",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -1246,16 +1246,16 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "state",
-                "sinonimo": "falar",
+                "synset": "speak",
+                "sinonimo": "dizer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
-                "synset": "discourse",
-                "sinonimo": "discursar",
+                "synset": "talk",
+                "sinonimo": "conversar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "cover",
@@ -1271,19 +1271,13 @@
               },
               {
                 "synset": "talk",
-                "sinonimo": "conversar",
+                "sinonimo": "proferir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "state",
-                "sinonimo": "contar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pronounce",
-                "sinonimo": "dizer",
+                "synset": "discourse",
+                "sinonimo": "discursar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1300,13 +1294,43 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "talk",
-                "sinonimo": "proferir",
+                "synset": "state",
+                "sinonimo": "contar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "falar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "cover",
+                "sinonimo": "cover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "sound_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_of",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "articulate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "pronounce",
                 "sinonimo": "pronounce",
@@ -1314,16 +1338,22 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "drone",
-                "sinonimo": "drone",
+                "synset": "state",
+                "sinonimo": "tell",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "talk",
-                "sinonimo": "verbalize",
+                "synset": "speak",
+                "sinonimo": "talk",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "state",
@@ -1338,98 +1368,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "cover",
-                "sinonimo": "cover",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "talk_of",
-                "sinonimo": "talk_about",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "talk",
-                "sinonimo": "verbalise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "pronounce",
-                "sinonimo": "sound_out",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "talk",
-                "sinonimo": "talk",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "talk_of",
-                "sinonimo": "talk_of",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "cover",
-                "sinonimo": "plow",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "pronounce",
-                "sinonimo": "enounce",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pronounce",
-                "sinonimo": "say",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "cover",
-                "sinonimo": "deal",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "talk",
-                "sinonimo": "mouth",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "pronounce",
                 "sinonimo": "enunciate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "drone",
-                "sinonimo": "drone_on",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "cover",
-                "sinonimo": "treat",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "lecture",
-                "sinonimo": "lecture",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "talk",
-                "sinonimo": "speak",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1441,19 +1381,61 @@
               },
               {
                 "synset": "talk",
-                "sinonimo": "utter",
+                "sinonimo": "verbalize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "pronounce",
-                "sinonimo": "articulate",
+                "sinonimo": "enounce",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "state",
-                "sinonimo": "tell",
+                "synset": "cover",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "plow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "say",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "mouth",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "speak",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1464,8 +1446,26 @@
                 "distancia_semantica": "05"
               },
               {
+                "synset": "lecture",
+                "sinonimo": "lecture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "utter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "cover",
-                "sinonimo": "handle",
+                "sinonimo": "treat",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               }
@@ -4007,7 +4007,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 43384883890,
+      "ranking_time": 42376597323,
       "l_sizes": [
         29108,
         300,
@@ -4018,8 +4018,8 @@
         2810,
         26730600
       ],
-      "ranking_time_only": 36922644891,
-      "total_time": 53757644927,
+      "ranking_time_only": 36242570394,
+      "total_time": 52503179645,
       "timeout": false
     }
   }

@@ -1,0 +1,1847 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "Od:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "As:pron-int",
+          "palavra_original": "Quanto",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "custou",
+          "palavra_canonica": "custar",
+          "tags": [
+            "<vN>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Pulp_Fiction",
+          "palavra_canonica": "Pulp_Fiction",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "Od:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "As:pron-int",
+          "palavra_original": "Quanto",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "custou",
+          "palavra_canonica": "custar",
+          "tags": [
+            "<vN>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "cost",
+                "sinonimo": "valer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "custar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "cost",
+                "sinonimo": "be",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cost",
+                "sinonimo": "cost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "take",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "claim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "exact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Pulp_Fiction",
+          "palavra_canonica": "Pulp_Fiction",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.8,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "custou",
+          "palavra_canonica": "custar",
+          "tags": [
+            "<vN>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "cost",
+                "sinonimo": "valer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "custar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "cost",
+                "sinonimo": "be",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cost",
+                "sinonimo": "cost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "take",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "claim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "exact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Pulp_Fiction",
+          "palavra_canonica": "Pulp_Fiction",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ]
+          ],
+          "score": 12.350063,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "pulp_fiction": "-1",
+              "cost": "-163"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ]
+          ],
+          "score": 12.350063,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "pulp_fiction": "-1",
+              "cost": "-163"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "nome",
+              "pulp fiction"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "titulopt",
+              "pulp fiction"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "titulobr",
+              "pulp fiction: tempo de violencia"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "imagemlegenda",
+              "poster de divulgacao."
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "ano",
+              "1994"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "direcao",
+              "quentin_tarantino"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "producao",
+              "lawrence_bender"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "producaoexecutiva",
+              "danny_devito"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "producaoexecutiva",
+              "michael shamberg"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "producaoexecutiva",
+              "stacey sher"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "roteiro",
+              "quentin tarantino"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "roteiro",
+              "roger_avary"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "john_travolta"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "samuel_l._jackson"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "uma_thurman"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "harvey_keitel"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "tim_roth"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "amanda_plummer"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "maria_de_medeiros"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "ving_rhames"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "eric_stoltz"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "rosanna_arquette"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "christopher_walken"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "elenco",
+              "bruce_willis"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "genero",
+              "filme_policial"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "genero",
+              "thriller_(genero)"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "idioma",
+              "lingua_inglesa"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "edicao",
+              "sally_menke"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ],
+            [
+              "*pulp_fiction",
+              "diretordefotografia",
+              "andrzej_sekua"
+            ]
+          ],
+          "score": 12.016729,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1259666318,
+      "l_sizes": [
+        949,
+        40,
+        39
+      ],
+      "a_sizes": [
+        949,
+        1556,
+        57798
+      ],
+      "ranking_time_only": 404839156,
+      "total_time": 7305882981,
+      "timeout": false
+    }
+  }
+]
