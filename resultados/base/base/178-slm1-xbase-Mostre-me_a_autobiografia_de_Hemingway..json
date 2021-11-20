@@ -219,13 +219,13 @@
               },
               {
                 "synset": "autobiography",
-                "sinonimo": "Livros_autobiográficos",
+                "sinonimo": "Auto-biografia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "autobiography",
-                "sinonimo": "Auto-biografia",
+                "sinonimo": "Livros_autobiográficos",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -300,13 +300,13 @@
               },
               {
                 "synset": "autobiography",
-                "sinonimo": "Livros_autobiográficos",
+                "sinonimo": "Auto-biografia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "autobiography",
-                "sinonimo": "Auto-biografia",
+                "sinonimo": "Livros_autobiográficos",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -328,96 +328,6 @@
     },
     "resposta": {
       "correct_answer": [
-        {
-          "triples": [
-            [
-              "o_velho_e_o_mar",
-              "autor",
-              "*ernest_hemingway"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "ernest_hemingway"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "ernest_hemingway": {
-                  "keyword": {
-                    "termo": "ernest_hemingway",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ernest_hemingway",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 231,
-          "bind_control": {
-            "binds": {
-              "ernest_hemingway": "-1",
-              "autobiografia": 245
-            },
-            "best_bind": {
-              "score": 0.65505344,
-              "resource_id": 245,
-              "tr": "autobiografia"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "ilhas_na_corrente",
-              "autor",
-              "*ernest_hemingway"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "ernest_hemingway"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "ernest_hemingway": {
-                  "keyword": {
-                    "termo": "ernest_hemingway",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ernest_hemingway",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 250,
-          "bind_control": {
-            "binds": {
-              "ernest_hemingway": "-1",
-              "autobiografia": 245
-            },
-            "best_bind": {
-              "score": 0.65505344,
-              "resource_id": 245,
-              "tr": "autobiografia"
-            }
-          }
-        },
         {
           "triples": [
             [
@@ -450,15 +360,15 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 251,
+          "id": 127,
           "bind_control": {
             "binds": {
               "ernest_hemingway": "-1",
-              "autobiografia": 245
+              "autobiografia": 152
             },
             "best_bind": {
               "score": 0.65505344,
-              "resource_id": 245,
+              "resource_id": 152,
               "tr": "autobiografia"
             }
           }
@@ -495,15 +405,15 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 252,
+          "id": 128,
           "bind_control": {
             "binds": {
               "ernest_hemingway": "-1",
-              "autobiografia": 245
+              "autobiografia": 152
             },
             "best_bind": {
               "score": 0.65505344,
-              "resource_id": 245,
+              "resource_id": 152,
               "tr": "autobiografia"
             }
           }
@@ -540,15 +450,15 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 253,
+          "id": 129,
           "bind_control": {
             "binds": {
               "ernest_hemingway": "-1",
-              "autobiografia": 245
+              "autobiografia": 152
             },
             "best_bind": {
               "score": 0.65505344,
-              "resource_id": 245,
+              "resource_id": 152,
               "tr": "autobiografia"
             }
           }
@@ -585,15 +495,15 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 254,
+          "id": 130,
           "bind_control": {
             "binds": {
               "ernest_hemingway": "-1",
-              "autobiografia": 245
+              "autobiografia": 152
             },
             "best_bind": {
               "score": 0.65505344,
-              "resource_id": 245,
+              "resource_id": 152,
               "tr": "autobiografia"
             }
           }
@@ -1700,90 +1610,6 @@
           "triples": [
             [
               "*ernest_hemingway",
-              "depiction",
-              "ernesthemingway.jpg"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "ernest_hemingway"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "ernest_hemingway": {
-                  "keyword": {
-                    "termo": "ernest_hemingway",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ernest_hemingway",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 26,
-          "bind_control": {
-            "binds": {
-              "ernest_hemingway": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*ernest_hemingway",
-              "thumbnail",
-              "ernesthemingway.jpg?width=300"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "ernest_hemingway"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "ernest_hemingway": {
-                  "keyword": {
-                    "termo": "ernest_hemingway",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ernest_hemingway",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 27,
-          "bind_control": {
-            "binds": {
-              "ernest_hemingway": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*ernest_hemingway",
               "wikipageusestemplate",
               "predefinicao:dni"
             ]
@@ -1812,7 +1638,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 28,
+          "id": 26,
           "bind_control": {
             "binds": {
               "ernest_hemingway": "-1"
@@ -1854,7 +1680,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 29,
+          "id": 27,
           "bind_control": {
             "binds": {
               "ernest_hemingway": "-1"
@@ -1863,14 +1689,104 @@
               "score": 0
             }
           }
+        },
+        {
+          "triples": [
+            [
+              "*ernest_hemingway",
+              "wikipageusestemplate",
+              "predefinicao:morte"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "ernest_hemingway"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "ernest_hemingway": {
+                  "keyword": {
+                    "termo": "ernest_hemingway",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ernest_hemingway",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "ernest_hemingway": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*ernest_hemingway",
+              "wikipageusestemplate",
+              "medalha_nobel"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "ernest_hemingway"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "ernest_hemingway": {
+                  "keyword": {
+                    "termo": "ernest_hemingway",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ernest_hemingway",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "ernest_hemingway": "-1",
+              "autobiografia": 25
+            },
+            "best_bind": {
+              "score": 0.328792415,
+              "resource_id": 25,
+              "tr": "autobiografia"
+            }
+          }
         }
       ],
-      "ranking_time": 1161821773,
+      "ranking_time": 7367620707,
       "l_sizes": [
-        2315
+        2608
       ],
-      "ranking_time_only": 78752482,
-      "total_time": 10333458335,
+      "a_sizes": [
+        2608
+      ],
+      "ranking_time_only": 158361848,
+      "total_time": 19780055717,
       "timeout": false
     }
   }

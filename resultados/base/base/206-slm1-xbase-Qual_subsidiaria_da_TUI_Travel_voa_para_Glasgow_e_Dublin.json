@@ -674,21 +674,21 @@
         {
           "triples": [
             [
-              "*dublin",
-              "22_rdf_syntax_ns#type",
-              "place"
-            ],
-            [
               "*glasgow",
               "22_rdf_syntax_ns#type",
-              "place"
+              "city"
+            ],
+            [
+              "*dublin",
+              "22_rdf_syntax_ns#type",
+              "city"
             ]
           ],
           "score": 21.0,
           "detail": {
             "keywords": [
-              "dublin",
-              "glasgow"
+              "glasgow",
+              "dublin"
             ],
             "score_detail": {
               "m1": 20.0,
@@ -725,12 +725,12 @@
             [
               "*dublin",
               "22_rdf_syntax_ns#type",
-              "location"
+              "place"
             ],
             [
               "*glasgow",
               "22_rdf_syntax_ns#type",
-              "location"
+              "place"
             ]
           ],
           "score": 21.0,
@@ -774,12 +774,12 @@
             [
               "*dublin",
               "22_rdf_syntax_ns#type",
-              "owl#thing"
+              "location"
             ],
             [
               "*glasgow",
               "22_rdf_syntax_ns#type",
-              "owl#thing"
+              "location"
             ]
           ],
           "score": 21.0,
@@ -821,21 +821,21 @@
         {
           "triples": [
             [
-              "*glasgow",
-              "22_rdf_syntax_ns#type",
-              "city"
-            ],
-            [
               "*dublin",
               "22_rdf_syntax_ns#type",
-              "city"
+              "owl#thing"
+            ],
+            [
+              "*glasgow",
+              "22_rdf_syntax_ns#type",
+              "owl#thing"
             ]
           ],
           "score": 21.0,
           "detail": {
             "keywords": [
-              "glasgow",
-              "dublin"
+              "dublin",
+              "glasgow"
             ],
             "score_detail": {
               "m1": 20.0,
@@ -1067,13 +1067,13 @@
           "triples": [
             [
               "*dublin",
-              "22_rdf_syntax_ns#type",
-              "populatedplace"
+              "owl#sameas",
+              61
             ],
             [
               "*glasgow",
-              "22_rdf_syntax_ns#type",
-              "populatedplace"
+              "owl#sameas",
+              61
             ]
           ],
           "score": 21.0,
@@ -1115,21 +1115,21 @@
         {
           "triples": [
             [
-              "*dublin",
-              "22_rdf_syntax_ns#type",
-              "city"
+              "*glasgow",
+              "owl#sameas",
+              61
             ],
             [
-              "*glasgow",
-              "22_rdf_syntax_ns#type",
-              "city"
+              "*dublin",
+              "owl#sameas",
+              61
             ]
           ],
           "score": 21.0,
           "detail": {
             "keywords": [
-              "dublin",
-              "glasgow"
+              "glasgow",
+              "dublin"
             ],
             "score_detail": {
               "m1": 20.0,
@@ -1164,21 +1164,21 @@
         {
           "triples": [
             [
-              "*glasgow",
-              "owl#sameas",
-              46
-            ],
-            [
               "*dublin",
               "owl#sameas",
-              46
+              "_"
+            ],
+            [
+              "*glasgow",
+              "owl#sameas",
+              "_"
             ]
           ],
           "score": 21.0,
           "detail": {
             "keywords": [
-              "glasgow",
-              "dublin"
+              "dublin",
+              "glasgow"
             ],
             "score_detail": {
               "m1": 20.0,
@@ -1263,13 +1263,13 @@
           "triples": [
             [
               "*dublin",
-              "owl#sameas",
-              46
+              "22_rdf_syntax_ns#type",
+              "city"
             ],
             [
               "*glasgow",
-              "owl#sameas",
-              46
+              "22_rdf_syntax_ns#type",
+              "city"
             ]
           ],
           "score": 21.0,
@@ -1312,13 +1312,13 @@
           "triples": [
             [
               "*dublin",
-              "owl#sameas",
-              "_"
+              "22_rdf_syntax_ns#type",
+              "populatedplace"
             ],
             [
               "*glasgow",
-              "owl#sameas",
-              "_"
+              "22_rdf_syntax_ns#type",
+              "populatedplace"
             ]
           ],
           "score": 21.0,
@@ -1360,21 +1360,21 @@
         {
           "triples": [
             [
-              "*dublin",
-              "wikipagewikilink",
-              "latim"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1950",
+              "estadio",
+              "*glasgow"
             ],
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "latim"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1950",
+              "estadio",
+              "*dublin"
             ]
           ],
           "score": 21.0,
           "detail": {
             "keywords": [
-              "dublin",
-              "glasgow"
+              "glasgow",
+              "dublin"
             ],
             "score_detail": {
               "m1": 20.0,
@@ -1409,21 +1409,21 @@
         {
           "triples": [
             [
-              "*dublin",
-              "wikipagewikilink",
-              "lingua_portuguesa"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1950",
+              "estadio",
+              "*glasgow"
             ],
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "lingua_portuguesa"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1950",
+              "location",
+              "*dublin"
             ]
           ],
           "score": 21.0,
           "detail": {
             "keywords": [
-              "dublin",
-              "glasgow"
+              "glasgow",
+              "dublin"
             ],
             "score_detail": {
               "m1": 20.0,
@@ -1458,14 +1458,14 @@
         {
           "triples": [
             [
-              "*dublin",
-              "wikipagewikilink",
-              "lingua_inglesa"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1950",
+              "estadio",
+              "*dublin"
             ],
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "lingua_inglesa"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1950",
+              "estadio",
+              "*glasgow"
             ]
           ],
           "score": 21.0,
@@ -1507,14 +1507,14 @@
         {
           "triples": [
             [
-              "*dublin",
-              "wikipagewikilink",
-              "imperio_britanico"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1950",
+              "estadio",
+              "*dublin"
             ],
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "imperio_britanico"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1950",
+              "location",
+              "*glasgow"
             ]
           ],
           "score": 21.0,
@@ -1556,21 +1556,21 @@
         {
           "triples": [
             [
-              "*dublin",
-              "wikipagewikilink",
-              "europa"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1954",
+              "estadio",
+              "*glasgow"
             ],
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "europa"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1954",
+              "estadio",
+              "*dublin"
             ]
           ],
           "score": 21.0,
           "detail": {
             "keywords": [
-              "dublin",
-              "glasgow"
+              "glasgow",
+              "dublin"
             ],
             "score_detail": {
               "m1": 20.0,
@@ -1605,21 +1605,21 @@
         {
           "triples": [
             [
-              "*dublin",
-              "wikipagewikilink",
-              "rebelo_goncalves"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1954",
+              "estadio",
+              "*glasgow"
             ],
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "rebelo_goncalves"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1954",
+              "location",
+              "*dublin"
             ]
           ],
           "score": 21.0,
           "detail": {
             "keywords": [
-              "dublin",
-              "glasgow"
+              "glasgow",
+              "dublin"
             ],
             "score_detail": {
               "m1": 20.0,
@@ -1654,14 +1654,14 @@
         {
           "triples": [
             [
-              "*dublin",
-              "wikipagewikilink",
-              "inglaterra"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1954",
+              "estadio",
+              "*dublin"
             ],
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "inglaterra"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1954",
+              "estadio",
+              "*glasgow"
             ]
           ],
           "score": 21.0,
@@ -1703,14 +1703,14 @@
         {
           "triples": [
             [
-              "*dublin",
-              "wikipagewikilink",
-              "bristol"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1954",
+              "estadio",
+              "*dublin"
             ],
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "bristol"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1954",
+              "location",
+              "*glasgow"
             ]
           ],
           "score": 21.0,
@@ -1752,14 +1752,14 @@
         {
           "triples": [
             [
-              "*dublin",
-              "wikipagewikilink",
-              "seculo_xvi"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1958",
+              "estadio",
+              "*dublin"
             ],
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "seculo_xvi"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1958",
+              "estadio",
+              "*glasgow"
             ]
           ],
           "score": 21.0,
@@ -1801,14 +1801,14 @@
         {
           "triples": [
             [
-              "*dublin",
-              "wikipagewikilink",
-              "reino_unido"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1958",
+              "estadio",
+              "*dublin"
             ],
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "reino_unido"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1958",
+              "location",
+              "*glasgow"
             ]
           ],
           "score": 21.0,
@@ -1850,21 +1850,21 @@
         {
           "triples": [
             [
-              "*dublin",
-              "wikipagewikilink",
-              "estados_unidos"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1958",
+              "estadio",
+              "*glasgow"
             ],
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "estados_unidos"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1958",
+              "estadio",
+              "*dublin"
             ]
           ],
           "score": 21.0,
           "detail": {
             "keywords": [
-              "dublin",
-              "glasgow"
+              "glasgow",
+              "dublin"
             ],
             "score_detail": {
               "m1": 20.0,
@@ -1899,14 +1899,14 @@
         {
           "triples": [
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "reino_unido"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1958",
+              "estadio",
+              "*glasgow"
             ],
             [
-              "*dublin",
-              "wikipagewikilink",
-              "reino_unido"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1958",
+              "location",
+              "*dublin"
             ]
           ],
           "score": 21.0,
@@ -1948,14 +1948,14 @@
         {
           "triples": [
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "inglaterra"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1966",
+              "estadio",
+              "*glasgow"
             ],
             [
-              "*dublin",
-              "wikipagewikilink",
-              "inglaterra"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1966",
+              "estadio",
+              "*dublin"
             ]
           ],
           "score": 21.0,
@@ -1997,14 +1997,14 @@
         {
           "triples": [
             [
-              "*glasgow",
-              "wikipagewikilink",
-              "lingua_inglesa"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1966",
+              "estadio",
+              "*glasgow"
             ],
             [
-              "*dublin",
-              "wikipagewikilink",
-              "lingua_inglesa"
+              "eliminatorias_da_copa_do_mundo_fifa_de_1966",
+              "location",
+              "*dublin"
             ]
           ],
           "score": 21.0,
@@ -2044,13 +2044,17 @@
           "id": 29
         }
       ],
-      "ranking_time": 31139537574,
+      "ranking_time": 34879161381,
       "l_sizes": [
-        9890,
-        5089978
+        7459,
+        7459
       ],
-      "ranking_time_only": 17155622694,
-      "total_time": 46376948725,
+      "a_sizes": [
+        7459,
+        399136
+      ],
+      "ranking_time_only": 6252578103,
+      "total_time": 62689463579,
       "timeout": false
     }
   }

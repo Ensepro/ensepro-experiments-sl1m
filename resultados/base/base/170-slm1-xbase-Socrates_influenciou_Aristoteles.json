@@ -135,12 +135,6 @@
             "eng": [
               {
                 "synset": "influence",
-                "sinonimo": "influence",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "influence",
                 "sinonimo": "work",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
@@ -148,6 +142,12 @@
               {
                 "synset": "influence",
                 "sinonimo": "act_upon",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "influence",
+                "sinonimo": "influence",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -238,12 +238,6 @@
             "eng": [
               {
                 "synset": "influence",
-                "sinonimo": "influence",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "influence",
                 "sinonimo": "work",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
@@ -251,6 +245,12 @@
               {
                 "synset": "influence",
                 "sinonimo": "act_upon",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "influence",
+                "sinonimo": "influence",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -282,547 +282,6 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [
-        {
-          "triples": [
-            [
-              "*aristoteles",
-              "wikipageoutdegree",
-              "1"
-            ],
-            [
-              "*socrates",
-              "wikipageoutdegree",
-              "1"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "aristoteles",
-              "socrates"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "aristoteles": {
-                  "keyword": {
-                    "termo": "aristoteles",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "aristoteles",
-                  "score": 10.0
-                },
-                "socrates": {
-                  "keyword": {
-                    "termo": "socrates",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "socrates",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "aristoteles": "-19",
-              "socrates": "-1"
-            },
-            "best_bind": {
-              "score": 0.19082094,
-              "resource_id": 30,
-              "tr": "influenciar"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*socrates",
-              "wikipageoutdegree",
-              "1"
-            ],
-            [
-              "*aristoteles",
-              "wikipageoutdegree",
-              "1"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "socrates",
-              "aristoteles"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "aristoteles": {
-                  "keyword": {
-                    "termo": "aristoteles",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "aristoteles",
-                  "score": 10.0
-                },
-                "socrates": {
-                  "keyword": {
-                    "termo": "socrates",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "socrates",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 1
-        },
-        {
-          "triples": [
-            [
-              "*socrates",
-              "language",
-              "pt"
-            ],
-            [
-              "*aristoteles",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "socrates",
-              "aristoteles"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "aristoteles": {
-                  "keyword": {
-                    "termo": "aristoteles",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "aristoteles",
-                  "score": 10.0
-                },
-                "socrates": {
-                  "keyword": {
-                    "termo": "socrates",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "socrates",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 2
-        },
-        {
-          "triples": [
-            [
-              "*socrates",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*aristoteles",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "socrates",
-              "aristoteles"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "aristoteles": {
-                  "keyword": {
-                    "termo": "aristoteles",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "aristoteles",
-                  "score": 10.0
-                },
-                "socrates": {
-                  "keyword": {
-                    "termo": "socrates",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "socrates",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 3
-        },
-        {
-          "triples": [
-            [
-              "*aristoteles",
-              "language",
-              "pt"
-            ],
-            [
-              "*socrates",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "aristoteles",
-              "socrates"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "aristoteles": {
-                  "keyword": {
-                    "termo": "aristoteles",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "aristoteles",
-                  "score": 10.0
-                },
-                "socrates": {
-                  "keyword": {
-                    "termo": "socrates",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "socrates",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 4,
-          "bind_control": {
-            "binds": {
-              "aristoteles": "-19",
-              "socrates": "-1"
-            },
-            "best_bind": {
-              "score": 0.28251585,
-              "resource_id": 68,
-              "tr": "influenciar"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*aristoteles",
-              "language",
-              "pt"
-            ],
-            [
-              "*socrates",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "aristoteles",
-              "socrates"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "aristoteles": {
-                  "keyword": {
-                    "termo": "aristoteles",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "aristoteles",
-                  "score": 10.0
-                },
-                "socrates": {
-                  "keyword": {
-                    "termo": "socrates",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "socrates",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 5,
-          "bind_control": {
-            "binds": {
-              "aristoteles": "-19",
-              "socrates": "-1"
-            },
-            "best_bind": {
-              "score": 0.28251585,
-              "resource_id": 68,
-              "tr": "influenciar"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*aristoteles",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*socrates",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "aristoteles",
-              "socrates"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "aristoteles": {
-                  "keyword": {
-                    "termo": "aristoteles",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "aristoteles",
-                  "score": 10.0
-                },
-                "socrates": {
-                  "keyword": {
-                    "termo": "socrates",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "socrates",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 6,
-          "bind_control": {
-            "binds": {
-              "aristoteles": "-19",
-              "socrates": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*aristoteles",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*socrates",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "aristoteles",
-              "socrates"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "aristoteles": {
-                  "keyword": {
-                    "termo": "aristoteles",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "aristoteles",
-                  "score": 10.0
-                },
-                "socrates": {
-                  "keyword": {
-                    "termo": "socrates",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "socrates",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 7,
-          "bind_control": {
-            "binds": {
-              "aristoteles": "-19",
-              "socrates": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*socrates",
-              "language",
-              "pt"
-            ],
-            [
-              "*aristoteles",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "socrates",
-              "aristoteles"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "aristoteles": {
-                  "keyword": {
-                    "termo": "aristoteles",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "aristoteles",
-                  "score": 10.0
-                },
-                "socrates": {
-                  "keyword": {
-                    "termo": "socrates",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "socrates",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "*socrates",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*aristoteles",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "socrates",
-              "aristoteles"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "aristoteles": {
-                  "keyword": {
-                    "termo": "aristoteles",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "aristoteles",
-                  "score": 10.0
-                },
-                "socrates": {
-                  "keyword": {
-                    "termo": "socrates",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "socrates",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 9
-        },
         {
           "triples": [
             [
@@ -865,7 +324,7 @@
             "proper_nouns_count": 2,
             "proper_nouns_matched_count": 1
           },
-          "id": 10
+          "id": 0
         },
         {
           "triples": [
@@ -909,7 +368,7 @@
             "proper_nouns_count": 2,
             "proper_nouns_matched_count": 1
           },
-          "id": 11
+          "id": 1
         },
         {
           "triples": [
@@ -953,7 +412,7 @@
             "proper_nouns_count": 2,
             "proper_nouns_matched_count": 1
           },
-          "id": 12
+          "id": 2
         },
         {
           "triples": [
@@ -997,7 +456,7 @@
             "proper_nouns_count": 2,
             "proper_nouns_matched_count": 1
           },
-          "id": 13
+          "id": 3
         },
         {
           "triples": [
@@ -1046,7 +505,7 @@
             "proper_nouns_count": 2,
             "proper_nouns_matched_count": 1
           },
-          "id": 14
+          "id": 4
         },
         {
           "triples": [
@@ -1054,6 +513,496 @@
               "*aristoteles",
               "owl#sameas",
               "m.0gz_"
+            ],
+            [
+              "abu_ma'shar_al_balkhi",
+              "*influencia",
+              "*aristoteles"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "aristoteles",
+              "influencia"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "aristoteles": {
+                  "keyword": {
+                    "termo": "aristoteles",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aristoteles",
+                  "score": 10.0
+                },
+                "influencia": {
+                  "keyword": {
+                    "termo": "influencia",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "influencia",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "platao"
+            ],
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "*aristoteles"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "influencia",
+              "aristoteles"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "aristoteles": {
+                  "keyword": {
+                    "termo": "aristoteles",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aristoteles",
+                  "score": 10.0
+                },
+                "influencia": {
+                  "keyword": {
+                    "termo": "influencia",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "influencia",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "*aristoteles"
+            ],
+            [
+              "*aristoteles",
+              "owl#sameas",
+              "m.0gz_"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "aristoteles",
+              "influencia"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "aristoteles": {
+                  "keyword": {
+                    "termo": "aristoteles",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aristoteles",
+                  "score": 10.0
+                },
+                "influencia": {
+                  "keyword": {
+                    "termo": "influencia",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "influencia",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "*aristoteles"
+            ],
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "platao"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "aristoteles",
+              "influencia"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "aristoteles": {
+                  "keyword": {
+                    "termo": "aristoteles",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aristoteles",
+                  "score": 10.0
+                },
+                "influencia": {
+                  "keyword": {
+                    "termo": "influencia",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "influencia",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "*aristoteles"
+            ],
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "tomas_de_aquino"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "aristoteles",
+              "influencia"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "aristoteles": {
+                  "keyword": {
+                    "termo": "aristoteles",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aristoteles",
+                  "score": 10.0
+                },
+                "influencia": {
+                  "keyword": {
+                    "termo": "influencia",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "influencia",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "*aristoteles"
+            ],
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "duns_scot"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "aristoteles",
+              "influencia"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "aristoteles": {
+                  "keyword": {
+                    "termo": "aristoteles",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aristoteles",
+                  "score": 10.0
+                },
+                "influencia": {
+                  "keyword": {
+                    "termo": "influencia",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "influencia",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "*aristoteles"
+            ],
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "gassendi"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "aristoteles",
+              "influencia"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "aristoteles": {
+                  "keyword": {
+                    "termo": "aristoteles",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aristoteles",
+                  "score": 10.0
+                },
+                "influencia": {
+                  "keyword": {
+                    "termo": "influencia",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "influencia",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "*aristoteles"
+            ],
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "descartes"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "aristoteles",
+              "influencia"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "aristoteles": {
+                  "keyword": {
+                    "termo": "aristoteles",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aristoteles",
+                  "score": 10.0
+                },
+                "influencia": {
+                  "keyword": {
+                    "termo": "influencia",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "influencia",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "*aristoteles"
+            ],
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "locke"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "aristoteles",
+              "influencia"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "aristoteles": {
+                  "keyword": {
+                    "termo": "aristoteles",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aristoteles",
+                  "score": 10.0
+                },
+                "influencia": {
+                  "keyword": {
+                    "termo": "influencia",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "influencia",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "*aristoteles"
+            ],
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "pierre_bayle"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "aristoteles",
+              "influencia"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "aristoteles": {
+                  "keyword": {
+                    "termo": "aristoteles",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aristoteles",
+                  "score": 10.0
+                },
+                "influencia": {
+                  "keyword": {
+                    "termo": "influencia",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "influencia",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "*aristoteles"
             ],
             [
               "abu_ma'shar_al_balkhi",
@@ -1100,9 +1049,9 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "wikipageoutdegree",
-              "1"
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "tomas_de_aquino"
             ],
             [
               "gottfried_wilhelm_leibniz",
@@ -1113,8 +1062,8 @@
           "score": 12.833333,
           "detail": {
             "keywords": [
-              "aristoteles",
-              "influencia"
+              "influencia",
+              "aristoteles"
             ],
             "score_detail": {
               "m1": 12.0,
@@ -1149,12 +1098,12 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "wikipageoutdegree",
-              "1"
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "duns_scot"
             ],
             [
-              "abu_ma'shar_al_balkhi",
+              "gottfried_wilhelm_leibniz",
               "*influencia",
               "*aristoteles"
             ]
@@ -1162,8 +1111,8 @@
           "score": 12.833333,
           "detail": {
             "keywords": [
-              "aristoteles",
-              "influencia"
+              "influencia",
+              "aristoteles"
             ],
             "score_detail": {
               "m1": 12.0,
@@ -1198,9 +1147,9 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "wikipageid",
-              "982468"
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "gassendi"
             ],
             [
               "gottfried_wilhelm_leibniz",
@@ -1211,8 +1160,8 @@
           "score": 12.833333,
           "detail": {
             "keywords": [
-              "aristoteles",
-              "influencia"
+              "influencia",
+              "aristoteles"
             ],
             "score_detail": {
               "m1": 12.0,
@@ -1247,12 +1196,12 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "wikipageid",
-              "982468"
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "descartes"
             ],
             [
-              "abu_ma'shar_al_balkhi",
+              "gottfried_wilhelm_leibniz",
               "*influencia",
               "*aristoteles"
             ]
@@ -1260,8 +1209,8 @@
           "score": 12.833333,
           "detail": {
             "keywords": [
-              "aristoteles",
-              "influencia"
+              "influencia",
+              "aristoteles"
             ],
             "score_detail": {
               "m1": 12.0,
@@ -1296,9 +1245,9 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "wikipagelength",
-              "25"
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "locke"
             ],
             [
               "gottfried_wilhelm_leibniz",
@@ -1309,8 +1258,8 @@
           "score": 12.833333,
           "detail": {
             "keywords": [
-              "aristoteles",
-              "influencia"
+              "influencia",
+              "aristoteles"
             ],
             "score_detail": {
               "m1": 12.0,
@@ -1345,12 +1294,12 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "wikipagelength",
-              "25"
+              "gottfried_wilhelm_leibniz",
+              "*influencia",
+              "pierre_bayle"
             ],
             [
-              "abu_ma'shar_al_balkhi",
+              "gottfried_wilhelm_leibniz",
               "*influencia",
               "*aristoteles"
             ]
@@ -1358,8 +1307,8 @@
           "score": 12.833333,
           "detail": {
             "keywords": [
-              "aristoteles",
-              "influencia"
+              "influencia",
+              "aristoteles"
             ],
             "score_detail": {
               "m1": 12.0,
@@ -1394,14 +1343,14 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "wikipagerevisionid",
-              "14310074"
-            ],
-            [
-              "gottfried_wilhelm_leibniz",
+              "abu_ma'shar_al_balkhi",
               "*influencia",
               "*aristoteles"
+            ],
+            [
+              "*aristoteles",
+              "owl#sameas",
+              "m.0gz_"
             ]
           ],
           "score": 12.833333,
@@ -1443,12 +1392,12 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "wikipagerevisionid",
-              "14310074"
+              "abu_ma'shar_al_balkhi",
+              "*influencia",
+              "*aristoteles"
             ],
             [
-              "abu_ma'shar_al_balkhi",
+              "gottfried_wilhelm_leibniz",
               "*influencia",
               "*aristoteles"
             ]
@@ -1492,14 +1441,14 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "prov#wasderivedfrom",
-              "*aristoteles?oldid=14310074"
-            ],
-            [
-              "gottfried_wilhelm_leibniz",
+              "abu_ma'shar_al_balkhi",
               "*influencia",
               "*aristoteles"
+            ],
+            [
+              "abu_ma'shar_al_balkhi",
+              "*influencia",
+              "al_kindi"
             ]
           ],
           "score": 12.833333,
@@ -1541,9 +1490,9 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "prov#wasderivedfrom",
-              "*aristoteles?oldid=14310074"
+              "abu_ma'shar_al_balkhi",
+              "*influencia",
+              "al_kindi"
             ],
             [
               "abu_ma'shar_al_balkhi",
@@ -1554,8 +1503,8 @@
           "score": 12.833333,
           "detail": {
             "keywords": [
-              "aristoteles",
-              "influencia"
+              "influencia",
+              "aristoteles"
             ],
             "score_detail": {
               "m1": 12.0,
@@ -1590,34 +1539,34 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "language",
-              "pt"
+              "*socrates",
+              "wikipageexternallink",
+              "*socrates_en.html"
             ],
             [
-              "gottfried_wilhelm_leibniz",
-              "*influencia",
-              "*aristoteles"
+              "edmund_burke",
+              "*influencias",
+              "*socrates"
             ]
           ],
-          "score": 12.833333,
+          "score": 12.813531,
           "detail": {
             "keywords": [
-              "aristoteles",
+              "socrates",
               "influencia"
             ],
             "score_detail": {
-              "m1": 12.0,
+              "m1": 11.980198,
               "m2": 0.33333334,
               "m3": 0.5,
               "matches": {
-                "aristoteles": {
+                "socrates": {
                   "keyword": {
-                    "termo": "aristoteles",
+                    "termo": "socrates",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "aristoteles",
+                  "resource": "socrates",
                   "score": 10.0
                 },
                 "influencia": {
@@ -1626,8 +1575,8 @@
                     "peso": 2.0,
                     "classe": "VERB"
                   },
-                  "resource": "influencia",
-                  "score": 2.0
+                  "resource": "influencias",
+                  "score": 1.9801979
                 }
               }
             },
@@ -1639,34 +1588,34 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "language",
-              "pt"
+              "*socrates",
+              "wikipageexternallink",
+              "*socrates_en.html"
             ],
             [
-              "abu_ma'shar_al_balkhi",
-              "*influencia",
-              "*aristoteles"
+              "leo_strauss",
+              "*influencias",
+              "*socrates"
             ]
           ],
-          "score": 12.833333,
+          "score": 12.813531,
           "detail": {
             "keywords": [
-              "aristoteles",
+              "socrates",
               "influencia"
             ],
             "score_detail": {
-              "m1": 12.0,
+              "m1": 11.980198,
               "m2": 0.33333334,
               "m3": 0.5,
               "matches": {
-                "aristoteles": {
+                "socrates": {
                   "keyword": {
-                    "termo": "aristoteles",
+                    "termo": "socrates",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "aristoteles",
+                  "resource": "socrates",
                   "score": 10.0
                 },
                 "influencia": {
@@ -1675,8 +1624,8 @@
                     "peso": 2.0,
                     "classe": "VERB"
                   },
-                  "resource": "influencia",
-                  "score": 2.0
+                  "resource": "influencias",
+                  "score": 1.9801979
                 }
               }
             },
@@ -1688,34 +1637,34 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*socrates",
+              "wikipageexternallink",
+              "faq_en.html"
             ],
             [
-              "gottfried_wilhelm_leibniz",
-              "*influencia",
-              "*aristoteles"
+              "edmund_burke",
+              "*influencias",
+              "*socrates"
             ]
           ],
-          "score": 12.833333,
+          "score": 12.813531,
           "detail": {
             "keywords": [
-              "aristoteles",
+              "socrates",
               "influencia"
             ],
             "score_detail": {
-              "m1": 12.0,
+              "m1": 11.980198,
               "m2": 0.33333334,
               "m3": 0.5,
               "matches": {
-                "aristoteles": {
+                "socrates": {
                   "keyword": {
-                    "termo": "aristoteles",
+                    "termo": "socrates",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "aristoteles",
+                  "resource": "socrates",
                   "score": 10.0
                 },
                 "influencia": {
@@ -1724,8 +1673,8 @@
                     "peso": 2.0,
                     "classe": "VERB"
                   },
-                  "resource": "influencia",
-                  "score": 2.0
+                  "resource": "influencias",
+                  "score": 1.9801979
                 }
               }
             },
@@ -1737,34 +1686,34 @@
         {
           "triples": [
             [
-              "*aristoteles",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*socrates",
+              "wikipageexternallink",
+              "faq_en.html"
             ],
             [
-              "abu_ma'shar_al_balkhi",
-              "*influencia",
-              "*aristoteles"
+              "leo_strauss",
+              "*influencias",
+              "*socrates"
             ]
           ],
-          "score": 12.833333,
+          "score": 12.813531,
           "detail": {
             "keywords": [
-              "aristoteles",
+              "socrates",
               "influencia"
             ],
             "score_detail": {
-              "m1": 12.0,
+              "m1": 11.980198,
               "m2": 0.33333334,
               "m3": 0.5,
               "matches": {
-                "aristoteles": {
+                "socrates": {
                   "keyword": {
-                    "termo": "aristoteles",
+                    "termo": "socrates",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "aristoteles",
+                  "resource": "socrates",
                   "score": 10.0
                 },
                 "influencia": {
@@ -1773,8 +1722,8 @@
                     "peso": 2.0,
                     "classe": "VERB"
                   },
-                  "resource": "influencia",
-                  "score": 2.0
+                  "resource": "influencias",
+                  "score": 1.9801979
                 }
               }
             },
@@ -1784,13 +1733,17 @@
           "id": 29
         }
       ],
-      "ranking_time": 1815318607,
+      "ranking_time": 3431540425,
       "l_sizes": [
-        3173,
-        201252
+        3159,
+        3159
       ],
-      "ranking_time_only": 754908705,
-      "total_time": 8341940218,
+      "a_sizes": [
+        3159,
+        197404
+      ],
+      "ranking_time_only": 1662519460,
+      "total_time": 13798801102,
       "timeout": false
     }
   }

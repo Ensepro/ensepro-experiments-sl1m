@@ -181,14 +181,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "grandchild",
-                "sinonimo": "neta",
+                "synset": "grandson",
+                "sinonimo": "neto",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "grandson",
-                "sinonimo": "neto",
+                "synset": "grandchild",
+                "sinonimo": "neta",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -286,14 +286,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "grandchild",
-                "sinonimo": "neta",
+                "synset": "grandson",
+                "sinonimo": "neto",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "grandson",
-                "sinonimo": "neto",
+                "synset": "grandchild",
+                "sinonimo": "neta",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -355,14 +355,14 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "grandchild",
-                  "sinonimo": "neta",
+                  "synset": "grandson",
+                  "sinonimo": "neto",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "grandson",
-                  "sinonimo": "neto",
+                  "synset": "grandchild",
+                  "sinonimo": "neta",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -411,36 +411,25 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [],
-      "all_answers": [
+      "correct_answer": [
         {
           "triples": [
             [
-              "*elvis_presley",
-              "wikipagewikilink",
-              "*planeta"
+              "jerry_maguire",
+              "escritor",
+              "*elvis_presley"
             ]
           ],
-          "score": 12.590241,
+          "score": 11.333333,
           "detail": {
             "keywords": [
-              "neto",
               "elvis_presley"
             ],
             "score_detail": {
-              "m1": 10.923574,
-              "m2": 0.6666667,
+              "m1": 10.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "neto": {
-                  "keyword": {
-                    "termo": "neta",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "planeta",
-                  "score": 0.92357427
-                },
                 "elvis_presley": {
                   "keyword": {
                     "termo": "elvis_presley",
@@ -455,19 +444,21 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 0,
+          "id": 315,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1",
-              "neta": "-469"
+              "neto": 380
             },
             "best_bind": {
-              "score": 0.052185103499999996,
-              "resource_id": 222,
+              "score": 0.5396066,
+              "resource_id": 380,
               "tr": "neto"
             }
           }
-        },
+        }
+      ],
+      "all_answers": [
         {
           "triples": [
             [
@@ -500,7 +491,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 1,
+          "id": 0,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -542,7 +533,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 2,
+          "id": 1,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -584,7 +575,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 3,
+          "id": 2,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -628,7 +619,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 4,
+          "id": 3,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -670,7 +661,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 5,
+          "id": 4,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -712,7 +703,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 6,
+          "id": 5,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -754,7 +745,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 7,
+          "id": 6,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -798,7 +789,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 8,
+          "id": 7,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -840,7 +831,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 9,
+          "id": 8,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -884,7 +875,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 10,
+          "id": 9,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -926,7 +917,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 11,
+          "id": 10,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -968,7 +959,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 12,
+          "id": 11,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1012,7 +1003,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 13,
+          "id": 12,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1054,7 +1045,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 14,
+          "id": 13,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1096,7 +1087,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 15,
+          "id": 14,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1140,7 +1131,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 16,
+          "id": 15,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1182,7 +1173,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 17,
+          "id": 16,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1224,7 +1215,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 18,
+          "id": 17,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1266,7 +1257,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 19,
+          "id": 18,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1308,7 +1299,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 20,
+          "id": 19,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1350,7 +1341,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 21,
+          "id": 20,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1392,7 +1383,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 22,
+          "id": 21,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1434,7 +1425,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 23,
+          "id": 22,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1476,7 +1467,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 24,
+          "id": 23,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1518,7 +1509,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 25,
+          "id": 24,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1562,7 +1553,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 26,
+          "id": 25,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1606,7 +1597,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 27,
+          "id": 26,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1650,7 +1641,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 28,
+          "id": 27,
           "bind_control": {
             "binds": {
               "elvis_presley": "-1"
@@ -1692,6 +1683,48 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "afiliacoes",
+              "the imperials"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 29,
           "bind_control": {
             "binds": {
@@ -1703,12 +1736,15 @@
           }
         }
       ],
-      "ranking_time": 37388788677,
+      "ranking_time": 75517679150,
       "l_sizes": [
-        12658
+        10769
       ],
-      "ranking_time_only": 143878036,
-      "total_time": 52971914418,
+      "a_sizes": [
+        10769
+      ],
+      "ranking_time_only": 1249733414,
+      "total_time": 109759664799,
       "timeout": false
     }
   }

@@ -236,6 +236,12 @@
             "por": [
               {
                 "synset": "programming_language",
+                "sinonimo": "Linguagens_de_programação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "programming_language",
                 "sinonimo": "linguagens_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -247,8 +253,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "programming_language",
-                "sinonimo": "Linguagens_de_programação",
+                "synset": "computer_language",
+                "sinonimo": "linguagem_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -257,24 +263,18 @@
                 "sinonimo": "Linguagem_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "programming_language",
-                "sinonimo": "linguagem_de_programação",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "computer_language",
-                "sinonimo": "computer-oriented_language",
+                "sinonimo": "computer_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "computer_language",
-                "sinonimo": "machine_language",
+                "sinonimo": "machine-oriented_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -286,19 +286,19 @@
               },
               {
                 "synset": "computer_language",
-                "sinonimo": "computer_language",
+                "sinonimo": "machine_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "computer_language",
+                "sinonimo": "computer-oriented_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "programming_language",
                 "sinonimo": "programming_language",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "computer_language",
-                "sinonimo": "machine-oriented_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -348,16 +348,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "publish",
-                "sinonimo": "publicar",
+                "synset": "compose",
+                "sinonimo": "compor",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "publish",
-                "sinonimo": "escrever",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "spell",
@@ -366,24 +360,36 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "compose",
-                "sinonimo": "compor",
+                "synset": "write",
+                "sinonimo": "escrever",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "04"
               },
               {
                 "synset": "write",
                 "sinonimo": "redigir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               }
             ],
             "eng": [
               {
                 "synset": "write",
-                "sinonimo": "indite",
+                "sinonimo": "pen",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "publish",
@@ -392,34 +398,28 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "spell",
-                "sinonimo": "spell",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
                 "synset": "write",
-                "sinonimo": "pen",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "compose",
-                "sinonimo": "compose",
+                "sinonimo": "write",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "write",
-                "sinonimo": "write",
+                "sinonimo": "compose",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "write",
-                "sinonimo": "drop_a_line",
+                "sinonimo": "indite",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -518,16 +518,10 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "publish",
-                  "sinonimo": "publicar",
+                  "synset": "compose",
+                  "sinonimo": "compor",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "publish",
-                  "sinonimo": "escrever",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "spell",
@@ -536,24 +530,36 @@
                   "distancia_semantica": "03"
                 },
                 {
-                  "synset": "compose",
-                  "sinonimo": "compor",
+                  "synset": "write",
+                  "sinonimo": "escrever",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "write",
                   "sinonimo": "redigir",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "02"
+                },
+                {
+                  "synset": "publish",
+                  "sinonimo": "publicar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
                 }
               ],
               "eng": [
                 {
                   "synset": "write",
-                  "sinonimo": "indite",
+                  "sinonimo": "pen",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "write",
+                  "sinonimo": "drop_a_line",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "publish",
@@ -562,34 +568,28 @@
                   "distancia_semantica": "03"
                 },
                 {
-                  "synset": "spell",
-                  "sinonimo": "spell",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
-                },
-                {
                   "synset": "write",
-                  "sinonimo": "pen",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "compose",
-                  "sinonimo": "compose",
+                  "sinonimo": "write",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "02"
                 },
                 {
                   "synset": "write",
-                  "sinonimo": "write",
+                  "sinonimo": "compose",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "04"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "write",
-                  "sinonimo": "drop_a_line",
+                  "sinonimo": "indite",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "04"
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spell",
+                  "sinonimo": "spell",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
                 }
               ]
             }
@@ -612,6 +612,12 @@
             "por": [
               {
                 "synset": "programming_language",
+                "sinonimo": "Linguagens_de_programação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "programming_language",
                 "sinonimo": "linguagens_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -623,8 +629,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "programming_language",
-                "sinonimo": "Linguagens_de_programação",
+                "synset": "computer_language",
+                "sinonimo": "linguagem_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -633,24 +639,18 @@
                 "sinonimo": "Linguagem_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "programming_language",
-                "sinonimo": "linguagem_de_programação",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "computer_language",
-                "sinonimo": "computer-oriented_language",
+                "sinonimo": "computer_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "computer_language",
-                "sinonimo": "machine_language",
+                "sinonimo": "machine-oriented_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -662,19 +662,19 @@
               },
               {
                 "synset": "computer_language",
-                "sinonimo": "computer_language",
+                "sinonimo": "machine_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "computer_language",
+                "sinonimo": "computer-oriented_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "programming_language",
                 "sinonimo": "programming_language",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "computer_language",
-                "sinonimo": "machine-oriented_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -699,16 +699,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "publish",
-                "sinonimo": "publicar",
+                "synset": "compose",
+                "sinonimo": "compor",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "publish",
-                "sinonimo": "escrever",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "spell",
@@ -717,24 +711,36 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "compose",
-                "sinonimo": "compor",
+                "synset": "write",
+                "sinonimo": "escrever",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "04"
               },
               {
                 "synset": "write",
                 "sinonimo": "redigir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               }
             ],
             "eng": [
               {
                 "synset": "write",
-                "sinonimo": "indite",
+                "sinonimo": "pen",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "publish",
@@ -743,34 +749,28 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "spell",
-                "sinonimo": "spell",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
                 "synset": "write",
-                "sinonimo": "pen",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "compose",
-                "sinonimo": "compose",
+                "sinonimo": "write",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "write",
-                "sinonimo": "write",
+                "sinonimo": "compose",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "write",
-                "sinonimo": "drop_a_line",
+                "sinonimo": "indite",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -846,113 +846,7 @@
           "bind_control": {
             "binds": {
               "gimp": "-1",
-              "linguagem_de_programacao": "-86"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "wikipagewikilink",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.628726,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 1,
-          "bind_control": {
-            "binds": {
-              "gimp": "-1",
-              "linguagem_de_programacao": "-86"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "wikipagewikilink",
-              "*ruby_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.590613,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.923946,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "ruby_(linguagem_de_programacao)",
-                  "score": 1.9239466
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 2,
-          "bind_control": {
-            "binds": {
-              "gimp": "-1",
-              "linguagem_de_programacao": "-160"
+              "linguagem_de_programacao": "-94"
             },
             "best_bind": {
               "score": 0
@@ -1006,18 +900,116 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "plataforma",
+              "x86"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "plataforma",
+              "x86_64"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 3
         },
         {
           "triples": [
             [
               "*gimp",
-              "nome",
-              "*gimp"
+              "plataforma",
+              "arquitetura_arm"
             ],
             [
               "*gimp",
-              "wikipagewikilink",
+              "programminglanguage",
               "*c_(linguagem_de_programacao)"
             ]
           ],
@@ -1062,7 +1054,7 @@
             [
               "*gimp",
               "plataforma",
-              "x86"
+              "hppa"
             ],
             [
               "*gimp",
@@ -1111,11 +1103,11 @@
             [
               "*gimp",
               "plataforma",
-              "x86"
+              "powerpc"
             ],
             [
               "*gimp",
-              "wikipagewikilink",
+              "programminglanguage",
               "*c_(linguagem_de_programacao)"
             ]
           ],
@@ -1160,7 +1152,7 @@
             [
               "*gimp",
               "plataforma",
-              "x86_64"
+              "ppc64"
             ],
             [
               "*gimp",
@@ -1209,11 +1201,11 @@
             [
               "*gimp",
               "plataforma",
-              "x86_64"
+              "sparc"
             ],
             [
               "*gimp",
-              "wikipagewikilink",
+              "programminglanguage",
               "*c_(linguagem_de_programacao)"
             ]
           ],
@@ -1257,8 +1249,8 @@
           "triples": [
             [
               "*gimp",
-              "plataforma",
-              "arquitetura_arm"
+              "atualizafrequentemente",
+              "sim"
             ],
             [
               "*gimp",
@@ -1306,12 +1298,12 @@
           "triples": [
             [
               "*gimp",
-              "plataforma",
-              "arquitetura_arm"
+              "ultimaversao",
+              "2818"
             ],
             [
               "*gimp",
-              "wikipagewikilink",
+              "programminglanguage",
               "*c_(linguagem_de_programacao)"
             ]
           ],
@@ -1355,8 +1347,8 @@
           "triples": [
             [
               "*gimp",
-              "plataforma",
-              "hppa"
+              "linguagem",
+              "c"
             ],
             [
               "*gimp",
@@ -1404,12 +1396,12 @@
           "triples": [
             [
               "*gimp",
-              "plataforma",
-              "hppa"
+              "sistemaoperacional",
+              "linux"
             ],
             [
               "*gimp",
-              "wikipagewikilink",
+              "programminglanguage",
               "*c_(linguagem_de_programacao)"
             ]
           ],
@@ -1453,8 +1445,8 @@
           "triples": [
             [
               "*gimp",
-              "plataforma",
-              "powerpc"
+              "sistemaoperacional",
+              "mac_os_x"
             ],
             [
               "*gimp",
@@ -1497,741 +1489,6 @@
             "proper_nouns_matched_count": 1
           },
           "id": 13
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "plataforma",
-              "powerpc"
-            ],
-            [
-              "*gimp",
-              "wikipagewikilink",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 14
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "plataforma",
-              "ppc64"
-            ],
-            [
-              "*gimp",
-              "programminglanguage",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 15
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "plataforma",
-              "ppc64"
-            ],
-            [
-              "*gimp",
-              "wikipagewikilink",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 16
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "plataforma",
-              "sparc"
-            ],
-            [
-              "*gimp",
-              "programminglanguage",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 17
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "plataforma",
-              "sparc"
-            ],
-            [
-              "*gimp",
-              "wikipagewikilink",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 18
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "atualizafrequentemente",
-              "sim"
-            ],
-            [
-              "*gimp",
-              "programminglanguage",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 19
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "atualizafrequentemente",
-              "sim"
-            ],
-            [
-              "*gimp",
-              "wikipagewikilink",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 20
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "ultimaversao",
-              "2818"
-            ],
-            [
-              "*gimp",
-              "programminglanguage",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 21
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "ultimaversao",
-              "2818"
-            ],
-            [
-              "*gimp",
-              "wikipagewikilink",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 22
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "linguagem",
-              "c"
-            ],
-            [
-              "*gimp",
-              "programminglanguage",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 23
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "linguagem",
-              "c"
-            ],
-            [
-              "*gimp",
-              "wikipagewikilink",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 24
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "sistemaoperacional",
-              "linux"
-            ],
-            [
-              "*gimp",
-              "programminglanguage",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 25
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "sistemaoperacional",
-              "linux"
-            ],
-            [
-              "*gimp",
-              "wikipagewikilink",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 26
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "sistemaoperacional",
-              "mac_os_x"
-            ],
-            [
-              "*gimp",
-              "programminglanguage",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 27
-        },
-        {
-          "triples": [
-            [
-              "*gimp",
-              "sistemaoperacional",
-              "mac_os_x"
-            ],
-            [
-              "*gimp",
-              "wikipagewikilink",
-              "*c_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 13.295392,
-          "detail": {
-            "keywords": [
-              "gimp",
-              "linguagem_de_programacao"
-            ],
-            "score_detail": {
-              "m1": 11.962059,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "gimp": {
-                  "keyword": {
-                    "termo": "gimp",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "gimp",
-                  "score": 10.0
-                },
-                "linguagem_de_programacao": {
-                  "keyword": {
-                    "termo": "linguagem_de_programacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "c_(linguagem_de_programacao)",
-                  "score": 1.9620587
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 28
         },
         {
           "triples": [
@@ -2280,16 +1537,755 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "sistemaoperacional",
+              "freebsd"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "sistemaoperacional",
+              "solaris"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "sistemaoperacional",
+              "amigaos_4"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "genero",
+              "editores_graficos"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "licenca",
+              "gnu (l)gplv3+ v2.7+"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "estado",
+              "corrente"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "legenda",
+              "*captura de tela do gimp 2.8"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "tamanho",
+              "73,8 mb"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "sitio",
+              35
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "wikipageexternallink",
+              35
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "wikipageexternallink",
+              "frontpage"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "wikipageusestemplate",
+              "predefinicao:mais_notas"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "wikipageusestemplate",
+              "software"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*gimp",
+              "wikipageusestemplate",
+              "predefinicao:oficial"
+            ],
+            [
+              "*gimp",
+              "programminglanguage",
+              "*c_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 13.295392,
+          "detail": {
+            "keywords": [
+              "gimp",
+              "linguagem_de_programacao"
+            ],
+            "score_detail": {
+              "m1": 11.962059,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "gimp": {
+                  "keyword": {
+                    "termo": "gimp",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "gimp",
+                  "score": 10.0
+                },
+                "linguagem_de_programacao": {
+                  "keyword": {
+                    "termo": "linguagem_de_programacao",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "c_(linguagem_de_programacao)",
+                  "score": 1.9620587
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 29
         }
       ],
-      "ranking_time": 4453723663,
+      "ranking_time": 2590350612,
       "l_sizes": [
-        10814,
-        276772
+        10558,
+        10558
       ],
-      "ranking_time_only": 3248542013,
-      "total_time": 11273809354,
+      "a_sizes": [
+        10558,
+        191398
+      ],
+      "ranking_time_only": 1400402531,
+      "total_time": 9431945182,
       "timeout": false
     }
   }

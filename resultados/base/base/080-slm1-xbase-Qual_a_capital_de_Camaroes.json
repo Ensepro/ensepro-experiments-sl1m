@@ -192,9 +192,9 @@
               },
               {
                 "synset": "capital",
-                "sinonimo": "capital",
+                "sinonimo": "fundos",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "capital",
@@ -204,23 +204,23 @@
               },
               {
                 "synset": "capital",
-                "sinonimo": "fundos",
+                "sinonimo": "capital",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               }
             ],
             "eng": [
-              {
-                "synset": "capital",
-                "sinonimo": "capital",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
               {
                 "synset": "fund",
                 "sinonimo": "monetary_fund",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "capital",
+                "sinonimo": "capital",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "fund",
@@ -311,9 +311,9 @@
               },
               {
                 "synset": "capital",
-                "sinonimo": "capital",
+                "sinonimo": "fundos",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "capital",
@@ -323,23 +323,23 @@
               },
               {
                 "synset": "capital",
-                "sinonimo": "fundos",
+                "sinonimo": "capital",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               }
             ],
             "eng": [
-              {
-                "synset": "capital",
-                "sinonimo": "capital",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
               {
                 "synset": "fund",
                 "sinonimo": "monetary_fund",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "capital",
+                "sinonimo": "capital",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "fund",
@@ -394,9 +394,9 @@
                 },
                 {
                   "synset": "capital",
-                  "sinonimo": "capital",
+                  "sinonimo": "fundos",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "capital",
@@ -406,23 +406,23 @@
                 },
                 {
                   "synset": "capital",
-                  "sinonimo": "fundos",
+                  "sinonimo": "capital",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "03"
                 }
               ],
               "eng": [
-                {
-                  "synset": "capital",
-                  "sinonimo": "capital",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
                 {
                   "synset": "fund",
                   "sinonimo": "monetary_fund",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "capital",
+                  "sinonimo": "capital",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "fund",
@@ -455,8 +455,115 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [],
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*camaroes",
+              "*capital",
+              "yaounde"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "camaroes",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "camaroes": {
+                  "keyword": {
+                    "termo": "camaroes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "camaroes",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "camaroes": "-1",
+              "capital": "-25"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
       "all_answers": [
+        {
+          "triples": [
+            [
+              "*camaroes",
+              "*capital",
+              "yaounde"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "camaroes",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "camaroes": {
+                  "keyword": {
+                    "termo": "camaroes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "camaroes",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "camaroes": "-1",
+              "capital": "-25"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
         {
           "triples": [
             [
@@ -499,16 +606,51 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "camaroes": "-11874",
-              "capital": "-37"
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*camaroes_britanicos",
+              "*capital",
+              "buea"
+            ]
+          ],
+          "score": 11.785925,
+          "detail": {
+            "keywords": [
+              "camaroes",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 10.119258,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "camaroes": {
+                  "keyword": {
+                    "termo": "camaroes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "camaroes_britanicos",
+                  "score": 8.119258
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
             },
-            "best_bind": {
-              "score": 0
-            }
-          }
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
         },
         {
           "triples": [
@@ -542,41 +684,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 1
-        },
-        {
-          "triples": [
-            [
-              "*camaroes",
-              "wikipageoutdegree",
-              "1"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "camaroes"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "camaroes": {
-                  "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "camaroes",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 2
+          "id": 3
         },
         {
           "triples": [
@@ -610,909 +718,868 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 3
-        },
-        {
-          "triples": [
-            [
-              "*camaroes",
-              "wikipagewikilink",
-              "*camaroes"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "camaroes"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "camaroes": {
-                  "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "camaroes",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
           "id": 4
         },
         {
           "triples": [
             [
-              "*camaroes",
-              "wikipageid",
-              "465368"
+              "*capital",
+              "wikipageusestemplate",
+              "predefinicao:mais_notas"
             ]
           ],
-          "score": 11.333333,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "camaroes",
-                  "score": 10.0
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 5
         },
         {
           "triples": [
             [
-              "*camaroes",
-              "wikipagelength",
-              "21"
+              "*capital",
+              "wikipageusestemplate",
+              "predefinicao:ver_desambig"
             ]
           ],
-          "score": 11.333333,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "camaroes",
-                  "score": 10.0
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 6
         },
         {
           "triples": [
             [
-              "*camaroes",
-              "wikipageredirects",
-              "*camaroes"
+              "*capital",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 11.333333,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "camaroes",
-                  "score": 10.0
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 7
         },
         {
           "triples": [
             [
-              "*camaroes",
-              "wikipagerevisionid",
-              "2752588"
+              "*capital",
+              "depiction",
+              "monumental_axis.jpg"
             ]
           ],
-          "score": 11.333333,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "camaroes",
-                  "score": 10.0
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 8
         },
         {
           "triples": [
             [
-              "*camaroes",
-              "prov#wasderivedfrom",
-              "*camaroes?oldid=2752588"
+              "*capital",
+              "thumbnail",
+              "monumental_axis.jpg?width=300"
             ]
           ],
-          "score": 11.333333,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "camaroes",
-                  "score": 10.0
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 9
         },
         {
           "triples": [
             [
-              "*camaroes",
-              "isprimarytopicof",
-              "*camaroes"
+              "*capital",
+              "owl#sameas",
+              "m.018sd8"
             ]
           ],
-          "score": 11.333333,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "camaroes",
-                  "score": 10.0
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 10
         },
         {
           "triples": [
             [
-              "*camaroes",
-              "primarytopic",
-              "*camaroes"
+              "*capital",
+              "subject",
+              "categoria:divisoes_administrativas"
             ]
           ],
-          "score": 11.333333,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "camaroes",
-                  "score": 10.0
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 11
         },
         {
           "triples": [
             [
-              "*camaroes",
-              "language",
-              "pt"
+              "*capital",
+              "owl#sameas",
+              "q5119"
             ]
           ],
-          "score": 11.333333,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "camaroes",
-                  "score": 10.0
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 12
         },
         {
           "triples": [
             [
-              "*camaroes",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*capital",
+              "owl#sameas",
+              "hlavni_mesto"
             ]
           ],
-          "score": 11.333333,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "camaroes",
-                  "score": 10.0
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 13
         },
         {
           "triples": [
             [
-              "*monte_camaroes",
-              "abstract",
-              "*o monte camaroes, ou monte camaroun, localmente conhecido por monte fako, e um estratovulcao ativo, cuja ultima erupcao foi em 1999-2000, que atinge presentemente uma altitude de 4095 m. situa-se na zona costeira dos camaroes, cerca de 230 km a oeste da cidade capital de yaounde, na costa ocidental da africa. o monte camaroes integra-se numa zona de atividade vulcanica, associada a um hot spot (um \\\"ponto quente\\\"), conhecida pela linha vulcanica dos camaroes, que se estende desde as ilhas de sao tome e principe ate as montanhas do tibesti, no chade. esta linha inclui o lago nyos, onde uma subita libertacao de gases provocou em 1986 a morte a pelo menos 1800 pessoas nas aldeias vizinhas. nos flancos do vulcao e nas areas circundantes existem mais de 100 cones parasitas, alguns de grandes dimensoes, alinhando-se ao longo de linhas de fractura. o edificio total do monte camaroes tem um volume estimado de 1400 quilometros cubicos, fazendo dele um dos grandes vulcoes da terra. uma segunda zona de erupcao, mais antiga e agora inativa, denominada monte etindi (ou pequeno camaroes), localiza-se no flanco sul, proximo a costa. o monte etindi atinge os 1715 m de altitude. o vulcao tem produzido essencialmente materiais basalticos e traquibasalticos, formando um horst vulcanico sobre as rochas metamorficas do pre-cambrico, recobertas por sedimentos datando do cretaceo ao quaternario, pre-existentes na regiao. o monte camaroes e o vulcao mais ativo do oeste africano, tendo numerosas erupcoes registadas (1650, 1807, 1825, 1838, 1852, 1865, 1866, 1871, 1909, 1922, 1925, 1954, 1959, 1982, 1999 e 2000), a mais antiga das quais ocorreu no seculo v a.c. e foi observada pela expedicao cartaginesa capitaneada por hanno. na antiguidade classica o monte, com o seu cume fumegante, de que so havia noticia incerta, era conhecido pelo \\\"carro dos deuses\\\", uma alusao ao carro que transportava o sol no seu movimento diurno. nos tempos mais recentes tem ocorrido erupcoes de explosividade moderada e erupcoes com simples efusao a partir da cumeeira do vulcao e de cones parasitas no seu flanco. em 1922 uma erupcao no flanco sudoeste produziu uma corrente de lava que atingiu o mar. uma escoada da erupcao de 1999, originaria do flanco sul, imobilizou-se a 200 m da costa. as encostas do monte camaroes estao recobertas por densas florestas, evoluindo na sua zona alta para savana e pastagens do tipo alpino. a encosta sudoeste recebe, devido ao efeito orografico sobre a precipitacao, cerca de 10000 mm, fazendo da regiao uma das mais pluviosas do planeta. apesar da proximidade do equador, com frequencia o cume recobre-se de neve. as ultimas erupcoes do monte camaroes ocorreram a 28 de marco de 1999 e a 28 de maio de 2000; 03 de fevereiro de 2012."
+              "*capital",
+              "owl#sameas",
+              "hauptstadt"
             ]
           ],
-          "score": 10.453716,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 9.120383,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "monte_camaroes",
-                  "score": 9.120383
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 14
         },
         {
           "triples": [
             [
-              "*mora_(camaroes)",
-              "abstract",
-              "*mora e uma cidade dos camaroes localizada na provincia de extremo norte. mora e a capital do departamento de mayo-sava."
+              "*capital",
+              "owl#sameas",
+              56
             ]
           ],
-          "score": 10.273162,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 8.939829,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "mora_(camaroes)",
-                  "score": 8.939829
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 15
         },
         {
           "triples": [
             [
-              "*oeste_(camaroes)",
-              "abstract",
-              "*oeste (em frances: ouest; em ingles: west) e uma regiao dos camaroes, cuja capital e a cidade de bafoussam. sua populacao estimada para 2001 era de aproximadamente 1.982.100 habitantes."
+              "*capital",
+              "owl#sameas",
+              "*capital_city"
             ]
           ],
-          "score": 10.082633,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 8.7493,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "oeste_(camaroes)",
-                  "score": 8.7493
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 16
         },
         {
           "triples": [
             [
-              "*limbe_(camaroes)",
-              "abstract",
-              "*limbe ou victoria e uma cidade dos camaroes localizada na provincia de sudoeste. limbe e a capital do departamento de fako."
+              "*capital",
+              "owl#sameas",
+              "*capital_(politica)"
             ]
           ],
-          "score": 10.082633,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 8.7493,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "limbe_(camaroes)",
-                  "score": 8.7493
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 17
         },
         {
           "triples": [
             [
-              "*kumba_(camaroes)",
-              "abstract",
-              "*kumba e uma cidade dos camaroes localizada na provincia de sudoeste. kumba e a capital do departamento de meme."
+              "*capital",
+              "owl#sameas",
+              "hiriburu_(politika)"
             ]
           ],
-          "score": 10.082633,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 8.7493,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "kumba_(camaroes)",
-                  "score": 8.7493
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 18
         },
         {
           "triples": [
             [
-              "*centro_(camaroes)",
-              "abstract",
-              "*centro (em frances: centre; em ingles: centre) e uma regiao dos camaroes, cuja capital e a cidade de yaounde. sua populacao estimada para 2001 era de aproximadamente 2.501.200 habitantes."
+              "*capital",
+              "owl#sameas",
+              "*capitale"
             ]
           ],
-          "score": 9.8822155,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 8.5488825,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "centro_(camaroes)",
-                  "score": 8.5488825
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 19
         },
         {
           "triples": [
             [
-              "*litoral_(camaroes)",
-              "abstract",
-              "*litoral (em frances: littoral; em ingles: littoral) e uma regiao dos camaroes, cuja capital e a cidade de douala. sua populacao estimada para 2001 era de aproximadamente 2.202.300 habitantes."
+              "*capital",
+              "owl#sameas",
+              "ibu_kota"
             ]
           ],
-          "score": 9.672101,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 8.338768,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "litoral_(camaroes)",
-                  "score": 8.338768
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 20
         },
         {
           "triples": [
             [
-              "*noroeste_(camaroes)",
-              "abstract",
-              "*noroeste (em frances: nord-ouest; em ingles: northwest) e uma regiao dos camaroes, cuja capital e a cidade de bamenda. sua populacao estimada para 2001 era de aproximadamente 1 840 500 habitantes."
+              "*capital",
+              "owl#sameas",
+              "*capitale_(citta)"
             ]
           ],
-          "score": 9.452591,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 8.119258,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "noroeste_(camaroes)",
-                  "score": 8.119258
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 21
         },
         {
           "triples": [
             [
-              "*sudoeste_(camaroes)",
-              "abstract",
-              "*sudoeste (em frances: sud-ouest; em ingles: southwest) e uma regiao dos camaroes, cuja capital e a cidade de buea. sua populacao estimada para 2001 era de aproximadamente 1.242.700 habitantes."
+              "*capital",
+              "owl#sameas",
+              "hoofdstad"
             ]
           ],
-          "score": 9.452591,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 8.119258,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "sudoeste_(camaroes)",
-                  "score": 8.119258
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 22
         },
         {
           "triples": [
             [
-              "*regiao_sul_(camaroes)",
-              "abstract",
-              "*sul (em frances: sud; em ingles: south) e uma regiao dos camaroes, cuja capital e a cidade de ebolowa. sua populacao estimada para 2001 era de aproximadamente 534.900 habitantes."
+              "*capital",
+              "owl#sameas",
+              "stolica"
             ]
           ],
-          "score": 8.987171,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 7.653838,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "regiao_sul_(camaroes)",
-                  "score": 7.653838
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 23
         },
         {
           "triples": [
             [
-              "*regiao_leste_(camaroes)",
-              "abstract",
-              "*leste (em frances: est; em ingles: east) e uma regiao dos camaroes, cuja capital e a cidade de bertoua. sua populacao estimada para 2001 era de aproximadamente 755.100 habitantes."
+              "*capital",
+              "owl#sameas",
+              "hoofstad"
             ]
           ],
-          "score": 8.490729,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 7.157396,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "regiao_leste_(camaroes)",
-                  "score": 7.157396
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 24
         },
         {
           "triples": [
             [
-              "*regiao_norte_(camaroes)",
-              "abstract",
-              "*norte (em frances: nord; em ingles: north) e uma regiao dos camaroes, cuja capital e a cidade de garoua. sua populacao estimada para 2001 era de aproximadamente 1.227.000 habitantes."
+              "*capital",
+              "owl#sameas",
+              "_"
             ]
           ],
-          "score": 8.490729,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 7.157396,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "regiao_norte_(camaroes)",
-                  "score": 7.157396
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 25
         },
         {
           "triples": [
             [
-              "*fronteira_camaroes_chade",
-              "abstract",
-              "*a fronteira entre camaroes e chade e uma linha de 1094 km de extensao, sentido norte sul que separa o norte do leste de camaroes do territorio do sudoeste do chade. seu extremo norte fica dentro do lago chade onde faz fronteira triplice com a nigeria. para o sul segue o curso do rio logone por uns 400 km. segue depois para oeste quase ao longo do paralelo 10 norte por cerca de 200 km, indo no seu trecho final para o sudeste ate a triplice fronteira dos dois paises com a republica centro africana. passa junto a capital do chade, n'djamena, e por bongor no mesmo pais. separa as regioes do extremo norte e norte dos camaroes e as provincias de lac, hadjer-lamis, n'djamena, mayo-kebbi est, mayo-kebbi ouest e logone oriental do chade. esta fronteira data de 1884, quando os alemaes ali estabelecem um protetorado, enquanto o chade passou a ser uma colonia francesa pelo tratado de paris em 1900. com o final da primeira grande guerra em 1918, os camaroes foram repartidos entre franca (leste) e reino unido (oeste). a independencia de ambas as nacoes ocorreu em 1960."
+              "*capital",
+              "owl#sameas",
+              "paytaxt"
             ]
           ],
-          "score": 8.232874,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 6.899541,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "fronteira_camaroes_chade",
-                  "score": 6.899541
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 26
         },
         {
           "triples": [
             [
-              "*extremo_norte_(camaroes)",
-              "abstract",
-              "*extremo norte (em frances: extreme-nord; em ingles: far north) e uma regiao dos camaroes, cuja capital e a cidade de maroua. sua populacao estimada para 2001 era de, aproximadamente, 2.721.500 habitantes."
+              "*capital",
+              "owl#sameas",
+              "haptstod"
             ]
           ],
-          "score": 8.232874,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 6.899541,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "extremo_norte_(camaroes)",
-                  "score": 6.899541
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 27
         },
         {
           "triples": [
             [
-              "*adamawa_(regiao_dos_camaroes)",
-              "abstract",
-              "*adamawa, ou adamaua, (em frances: adamaoua; em ingles: adamawa) e uma regiao dos camaroes, cuja capital e a cidade de ngaoundere. sua populacao estimada para 2001 era de aproximadamente 723 600 habitantes. localizada entre os 6o e 11 lat. n. e 15 long. e., a meia distancia entre o lago chade e a baia do biafra. e banhado pelos rios benue e yadseram. o centro e o norte sao regioes planalticas, com altitudes que variam entre os 1200 e 1300 metros. esta regiao apresenta invernos secos e veroes quentes e chuvosos. produz goma-arabica, borracha, marfim, peles, noz de cola, algodao, cereais e outros produtos agricolas."
+              "*capital",
+              "owl#sameas",
+              "ker_benn"
             ]
           ],
-          "score": 6.8887916,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes"
+              "capital"
             ],
             "score_detail": {
-              "m1": 5.555458,
+              "m1": 2.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
+                "capital": {
                   "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
                   },
-                  "resource": "adamawa_(regiao_dos_camaroes)",
-                  "score": 5.555458
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 28
         },
         {
           "triples": [
             [
-              "*fundong",
-              "abstract",
-              "*fundong e uma cidade dos camaroes localizada na provincia de noroeste. fundong e a capital do departamento de boyo."
+              "*capital",
+              "owl#sameas",
+              "glavni_grad"
             ]
           ],
-          "score": 2.6293378,
+          "score": 2.3333333,
           "detail": {
             "keywords": [
-              "camaroes",
               "capital"
             ],
             "score_detail": {
-              "m1": 0.9626711,
-              "m2": 0.6666667,
-              "m3": 1.0,
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
               "matches": {
-                "camaroes": {
-                  "keyword": {
-                    "termo": "camaroes",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "fundong e uma cidade dos camaroes localizada na provincia de noroeste. fundong e a capital do departamento de boyo.",
-                  "score": 0.0029782315
-                },
                 "capital": {
                   "keyword": {
-                    "termo": "fundo",
-                    "peso": 1.0,
+                    "termo": "capital",
+                    "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "fundong",
-                  "score": 0.9596929
+                  "resource": "capital",
+                  "score": 2.0
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
           "id": 29
         }
       ],
-      "ranking_time": 2898741227,
+      "ranking_time": 3089895080,
       "l_sizes": [
-        20474
+        20129
       ],
-      "ranking_time_only": 174565300,
-      "total_time": 11016138347,
+      "a_sizes": [
+        20129
+      ],
+      "ranking_time_only": 185649167,
+      "total_time": 11229674380,
       "timeout": false
     }
   }

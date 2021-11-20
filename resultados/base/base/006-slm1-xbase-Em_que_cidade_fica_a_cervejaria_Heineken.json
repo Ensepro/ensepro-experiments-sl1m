@@ -217,8 +217,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "municipality",
-                "sinonimo": "concelho",
+                "synset": "city",
+                "sinonimo": "metrópoles",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "burgo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "cidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -229,50 +241,50 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "town",
+                "sinonimo": "povoado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "municipality",
                 "sinonimo": "autarquias",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city_state",
-                "sinonimo": "cidade-Estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "town",
-                "sinonimo": "burgo",
+                "sinonimo": "aldeia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "cidade-estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "aldeias",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "vila",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
               },
               {
                 "synset": "city",
+                "sinonimo": "urbe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
                 "sinonimo": "município",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
+                "synset": "municipality",
+                "sinonimo": "comuna",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "concelho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "city",
-                "sinonimo": "cidade",
+                "sinonimo": "metrópole",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -284,43 +296,7 @@
               },
               {
                 "synset": "village",
-                "sinonimo": "povoado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "centro_urbano",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "metrópoles",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "urbe",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "comuna",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "town",
-                "sinonimo": "arraial",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "aldeia",
+                "sinonimo": "vila",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -331,22 +307,46 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city",
-                "sinonimo": "metrópole",
+                "synset": "village",
+                "sinonimo": "aldeias",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              }
-            ],
-            "eng": [
+                "distancia_semantica": "01"
+              },
               {
-                "synset": "city_state",
-                "sinonimo": "city-state",
+                "synset": "city",
+                "sinonimo": "centro_urbano",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "town",
-                "sinonimo": "town",
+                "sinonimo": "arraial",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidade-Estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidade-estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "village",
+                "sinonimo": "village",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "municipality",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -364,25 +364,13 @@
               },
               {
                 "synset": "city",
-                "sinonimo": "city",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "village",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "metropolis",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "city",
                 "sinonimo": "urban_center",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "city",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -393,8 +381,20 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "municipality",
-                "sinonimo": "municipality",
+                "synset": "city",
+                "sinonimo": "metropolis",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "city-state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "town",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -457,8 +457,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "municipality",
-                "sinonimo": "concelho",
+                "synset": "city",
+                "sinonimo": "metrópoles",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "burgo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "cidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -469,50 +481,50 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "town",
+                "sinonimo": "povoado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "municipality",
                 "sinonimo": "autarquias",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city_state",
-                "sinonimo": "cidade-Estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "town",
-                "sinonimo": "burgo",
+                "sinonimo": "aldeia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "cidade-estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "aldeias",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "vila",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
               },
               {
                 "synset": "city",
+                "sinonimo": "urbe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
                 "sinonimo": "município",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
+                "synset": "municipality",
+                "sinonimo": "comuna",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "concelho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "city",
-                "sinonimo": "cidade",
+                "sinonimo": "metrópole",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -524,43 +536,7 @@
               },
               {
                 "synset": "village",
-                "sinonimo": "povoado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "centro_urbano",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "metrópoles",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "urbe",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "comuna",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "town",
-                "sinonimo": "arraial",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "aldeia",
+                "sinonimo": "vila",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -571,22 +547,46 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city",
-                "sinonimo": "metrópole",
+                "synset": "village",
+                "sinonimo": "aldeias",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              }
-            ],
-            "eng": [
+                "distancia_semantica": "01"
+              },
               {
-                "synset": "city_state",
-                "sinonimo": "city-state",
+                "synset": "city",
+                "sinonimo": "centro_urbano",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "town",
-                "sinonimo": "town",
+                "sinonimo": "arraial",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidade-Estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidade-estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "village",
+                "sinonimo": "village",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "municipality",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -604,25 +604,13 @@
               },
               {
                 "synset": "city",
-                "sinonimo": "city",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "village",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "metropolis",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "city",
                 "sinonimo": "urban_center",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "city",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -633,8 +621,20 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "municipality",
-                "sinonimo": "municipality",
+                "synset": "city",
+                "sinonimo": "metropolis",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "city-state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "town",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -655,7 +655,7 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [],
-      "total_time": 7979579390,
+      "total_time": 8004108426,
       "timeout": false
     }
   }

@@ -427,53 +427,7 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [
-        {
-          "triples": [
-            [
-              "vagn_walfrid_ekman",
-              "nationality",
-              "*suecia"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 15,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1",
-              "skatista": 92
-            },
-            "best_bind": {
-              "score": 0.3890777,
-              "resource_id": 92,
-              "tr": "skatista"
-            }
-          }
-        }
-      ],
+      "correct_answer": [],
       "all_answers": [
         {
           "triples": [
@@ -563,51 +517,6 @@
           "triples": [
             [
               "*suecia",
-              "wikipageoutdegree",
-              "1"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 2,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1",
-              "skatista": 6
-            },
-            "best_bind": {
-              "score": 0.31963154250000003,
-              "resource_id": 6,
-              "tr": "skatista"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*suecia",
               "rdf_schema#label",
               "*suecia"
             ]
@@ -636,397 +545,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 3
-        },
-        {
-          "triples": [
-            [
-              "*suecia",
-              "wikipagewikilink",
-              "*suecia"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 4
-        },
-        {
-          "triples": [
-            [
-              "*suecia",
-              "wikipageid",
-              "465317"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 5,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.27767353333333333,
-              "resource_id": 10,
-              "tr": "skatista"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*suecia",
-              "wikipagelength",
-              "19"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 6,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1",
-              "skatista": 12
-            },
-            "best_bind": {
-              "score": 0.33142284,
-              "resource_id": 12,
-              "tr": "skatista"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*suecia",
-              "wikipageredirects",
-              "*suecia"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 7
-        },
-        {
-          "triples": [
-            [
-              "*suecia",
-              "wikipagerevisionid",
-              "2752414"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 8,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2842349925,
-              "resource_id": 15,
-              "tr": "skatista"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*suecia",
-              "prov#wasderivedfrom",
-              "*suecia?oldid=2752414"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "*suecia",
-              "isprimarytopicof",
-              "*suecia"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 10
-        },
-        {
-          "triples": [
-            [
-              "*suecia",
-              "primarytopic",
-              "*suecia"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 11
-        },
-        {
-          "triples": [
-            [
-              "*suecia",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 12,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1",
-              "skatista": 21
-            },
-            "best_bind": {
-              "score": 0.33747634,
-              "resource_id": 21,
-              "tr": "skatista"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*suecia",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "suecia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "suecia": {
-                  "keyword": {
-                    "termo": "suecia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "suecia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 13,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
+          "id": 2
         },
         {
           "triples": [
@@ -1060,7 +579,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 14
+          "id": 3
         },
         {
           "triples": [
@@ -1094,15 +613,15 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 15,
+          "id": 4,
           "bind_control": {
             "binds": {
               "suecia": "-1",
-              "skatista": 92
+              "skatista": 75
             },
             "best_bind": {
               "score": 0.3890777,
-              "resource_id": 92,
+              "resource_id": 75,
               "tr": "skatista"
             }
           }
@@ -1110,18 +629,18 @@
         {
           "triples": [
             [
-              "anders_dahl",
-              "wikipagewikilink",
-              "*suecia"
+              "tv4",
+              "owl#sameas",
+              "*tv4_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 10.193919,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 8.860586,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1131,41 +650,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "tv4_(suecia)",
+                  "score": 8.860586
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 16,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+          "id": 5
         },
         {
           "triples": [
             [
-              "jonas_carlsson_dryander",
-              "wikipagewikilink",
-              "*suecia"
+              "uto",
+              "owl#sameas",
+              "*uto_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 10.193919,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 8.860586,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1175,41 +684,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "uto_(suecia)",
+                  "score": 8.860586
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 17,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+          "id": 6
         },
         {
           "triples": [
             [
-              "copa_da_uefa_de_200607",
-              "wikipagewikilink",
-              "*suecia"
+              "lulea",
+              "owl#sameas",
+              "*lula_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 9.9680195,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 8.634686,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1219,39 +718,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "lula_(suecia)",
+                  "score": 8.634686
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 18,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
+          "id": 7
         },
         {
           "triples": [
             [
-              "1907_no_desporto",
-              "wikipagewikilink",
-              "*suecia"
+              "*mora_(suecia)",
+              "owl#sameas",
+              "*mora_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 9.9680195,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 8.634686,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1261,41 +752,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "mora_(suecia)",
+                  "score": 8.634686
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 19,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+          "id": 8
         },
         {
           "triples": [
             [
-              "badalona",
-              "wikipagewikilink",
-              "*suecia"
+              "*bona_(suecia)",
+              "owl#sameas",
+              "*bona_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 9.9680195,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 8.634686,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1305,41 +786,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "bona_(suecia)",
+                  "score": 8.634686
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 20,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+          "id": 9
         },
         {
           "triples": [
             [
-              "axwell",
-              "wikipagewikilink",
-              "*suecia"
+              "*salem_(cidade_da_suecia)",
+              "owl#sameas",
+              "*salem_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 9.732472,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 8.399139,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1349,41 +820,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "salem_(suecia)",
+                  "score": 8.399139
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 21,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+          "id": 10
         },
         {
           "triples": [
             [
-              "1989_no_desporto",
-              "wikipagewikilink",
-              "*suecia"
+              "*avesta_(suecia)",
+              "owl#sameas",
+              "*avesta_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 9.48778,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 8.154447,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1393,41 +854,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "avesta_(suecia)",
+                  "score": 8.154447
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 22,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+          "id": 11
         },
         {
           "triples": [
             [
-              "na_balada",
-              "wikipagewikilink",
-              "*suecia"
+              "*vendel_(suecia)",
+              "owl#sameas",
+              "*vendel_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 9.48778,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 8.154447,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1437,41 +888,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "vendel_(suecia)",
+                  "score": 8.154447
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 23,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+          "id": 12
         },
         {
           "triples": [
             [
-              "psycho_circus_tour",
-              "wikipagewikilink",
-              "*suecia"
+              "dorotea_(comuna)",
+              "owl#sameas",
+              "*dorotea_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 9.234575,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 7.901242,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1481,41 +922,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "dorotea_(suecia)",
+                  "score": 7.901242
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 24,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+          "id": 13
         },
         {
           "triples": [
             [
-              "alive!_tour",
-              "wikipagewikilink",
-              "*suecia"
+              "*alianca_(suecia)",
+              "owl#sameas",
+              "*alianza_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 9.234575,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 7.901242,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1525,39 +956,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "alianza_(suecia)",
+                  "score": 7.901242
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 25,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
+          "id": 14
         },
         {
           "triples": [
             [
-              "worldwide_tour",
-              "wikipagewikilink",
-              "*suecia"
+              "*laponia_(provincia_da_suecia)",
+              "owl#sameas",
+              "*lapponia_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 8.973612,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 7.640278,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1567,41 +990,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "lapponia_(suecia)",
+                  "score": 7.640278
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 26,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+          "id": 15
         },
         {
           "triples": [
             [
-              "crazy_nights_tour",
-              "wikipagewikilink",
-              "*suecia"
+              "lagan",
+              "owl#sameas",
+              "*rio_lagan_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 8.705763,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 7.37243,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1611,41 +1024,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "rio_lagan_(suecia)",
+                  "score": 7.37243
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 27,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+          "id": 16
         },
         {
           "triples": [
             [
-              "lick_it_up_tour",
-              "wikipagewikilink",
-              "*suecia"
+              "halsingland",
+              "owl#sameas",
+              "*helsingia_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 8.705763,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 7.37243,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1655,41 +1058,31 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "helsingia_(suecia)",
+                  "score": 7.37243
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 28,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
-            },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+          "id": 17
         },
         {
           "triples": [
             [
-              "grandes_voltas",
-              "wikipagewikilink",
-              "*suecia"
+              "falkenberg",
+              "owl#sameas",
+              "*falkenberg_(suecia)"
             ]
           ],
-          "score": 11.333333,
+          "score": 8.432016,
           "detail": {
             "keywords": [
               "suecia"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 7.098683,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1699,33 +1092,400 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "suecia",
-                  "score": 10.0
+                  "resource": "falkenberg_(suecia)",
+                  "score": 7.098683
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 29,
-          "bind_control": {
-            "binds": {
-              "suecia": "-1"
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "semana_tragica_de_1920",
+              "enlaceautor",
+              "*guillermo de suecia"
+            ]
+          ],
+          "score": 8.432016,
+          "detail": {
+            "keywords": [
+              "suecia"
+            ],
+            "score_detail": {
+              "m1": 7.098683,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "suecia": {
+                  "keyword": {
+                    "termo": "suecia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "guillermo de suecia",
+                  "score": 7.098683
+                }
+              }
             },
-            "best_bind": {
-              "score": 0.2666379075,
-              "resource_id": 9,
-              "tr": "skatista"
-            }
-          }
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*partido_verde_(suecia)",
+              "owl#sameas",
+              "*partido_verde_(suecia)"
+            ]
+          ],
+          "score": 7.586607,
+          "detail": {
+            "keywords": [
+              "suecia"
+            ],
+            "score_detail": {
+              "m1": 6.2532735,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "suecia": {
+                  "keyword": {
+                    "termo": "suecia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "partido_verde_(suecia)",
+                  "score": 6.2532735
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*partido_pirata_(suecia)",
+              "owl#sameas",
+              "*partido_pirata_(suecia)"
+            ]
+          ],
+          "score": 7.3008275,
+          "detail": {
+            "keywords": [
+              "suecia"
+            ],
+            "score_detail": {
+              "m1": 5.967494,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "suecia": {
+                  "keyword": {
+                    "termo": "suecia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "partido_pirata_(suecia)",
+                  "score": 5.967494
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*partido_moderado_(suecia)",
+              "owl#sameas",
+              "*partido_de_la_coalicion_moderada_(suecia)"
+            ]
+          ],
+          "score": 6.7310014,
+          "detail": {
+            "keywords": [
+              "suecia"
+            ],
+            "score_detail": {
+              "m1": 5.397668,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "suecia": {
+                  "keyword": {
+                    "termo": "suecia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "partido_moderado_(suecia)",
+                  "score": 5.397668
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "area_da_laponia",
+              "owl#sameas",
+              "*region_de_laponia_(suecia)"
+            ]
+          ],
+          "score": 6.449512,
+          "detail": {
+            "keywords": [
+              "suecia"
+            ],
+            "score_detail": {
+              "m1": 5.1161785,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "suecia": {
+                  "keyword": {
+                    "termo": "suecia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "region_de_laponia_(suecia)",
+                  "score": 5.1161785
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*partido_comunista_(suecia)",
+              "owl#sameas",
+              "*partido_comunista_(suecia)"
+            ]
+          ],
+          "score": 6.449512,
+          "detail": {
+            "keywords": [
+              "suecia"
+            ],
+            "score_detail": {
+              "m1": 5.1161785,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "suecia": {
+                  "keyword": {
+                    "termo": "suecia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "partido_comunista_(suecia)",
+                  "score": 5.1161785
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*suecia_antiqua_et_hodierna",
+              "abstract",
+              "*suecia antiqua et hodierna (literalmente suecia antiga e contemporanea) e uma obra topografica com gravuras calcograficas, do arquiteto sueco erik dahlbergh, editada em 1716.contem 469 gravura em 353 laminas, descrevendo a suecia no seu periodo de grande potencia internacional no sec. xvii.esta obra foi inspirada nos trabalhos do gravurista suico matthaus merian. \\n* o castelo de almarestaket (almarestakets borg) \\n* a cidade de linkoping \\n* escadaria do palacio de drottningholm"
+            ]
+          ],
+          "score": 6.449512,
+          "detail": {
+            "keywords": [
+              "suecia"
+            ],
+            "score_detail": {
+              "m1": 5.1161785,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "suecia": {
+                  "keyword": {
+                    "termo": "suecia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suecia_antiqua_et_hodierna",
+                  "score": 5.1161785
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*suecia_antiqua_et_hodierna",
+              "nome",
+              "*suecia antiqua et hodierna"
+            ]
+          ],
+          "score": 6.449512,
+          "detail": {
+            "keywords": [
+              "suecia"
+            ],
+            "score_detail": {
+              "m1": 5.1161785,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "suecia": {
+                  "keyword": {
+                    "termo": "suecia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suecia antiqua et hodierna",
+                  "score": 5.1161785
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*suecia_antiqua_et_hodierna",
+              "name",
+              "*suecia antiqua et hodierna"
+            ]
+          ],
+          "score": 6.449512,
+          "detail": {
+            "keywords": [
+              "suecia"
+            ],
+            "score_detail": {
+              "m1": 5.1161785,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "suecia": {
+                  "keyword": {
+                    "termo": "suecia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suecia antiqua et hodierna",
+                  "score": 5.1161785
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*suecia_antiqua_et_hodierna",
+              "imagem",
+              "*suecia 1-001 ; suecia antiqua et hodierna.jpg"
+            ]
+          ],
+          "score": 6.449512,
+          "detail": {
+            "keywords": [
+              "suecia"
+            ],
+            "score_detail": {
+              "m1": 5.1161785,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "suecia": {
+                  "keyword": {
+                    "termo": "suecia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suecia_antiqua_et_hodierna",
+                  "score": 5.1161785
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*suecia_antiqua_et_hodierna",
+              "rdf_schema#label",
+              "*suecia antiqua et hodierna"
+            ]
+          ],
+          "score": 6.449512,
+          "detail": {
+            "keywords": [
+              "suecia"
+            ],
+            "score_detail": {
+              "m1": 5.1161785,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "suecia": {
+                  "keyword": {
+                    "termo": "suecia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suecia antiqua et hodierna",
+                  "score": 5.1161785
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
         }
       ],
-      "ranking_time": 1030569683,
+      "ranking_time": 1102820873,
       "l_sizes": [
-        511
+        472
       ],
-      "ranking_time_only": 84985028,
-      "total_time": 7495959491,
+      "a_sizes": [
+        472
+      ],
+      "ranking_time_only": 63211859,
+      "total_time": 7485847998,
       "timeout": false
     }
   }

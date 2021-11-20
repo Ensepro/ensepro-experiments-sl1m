@@ -240,13 +240,13 @@
             "por": [
               {
                 "synset": "be_born",
-                "sinonimo": "nascer",
+                "sinonimo": "vir_ao_mundo",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "be_born",
-                "sinonimo": "vir_ao_mundo",
+                "sinonimo": "nascer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -375,13 +375,13 @@
             "por": [
               {
                 "synset": "be_born",
-                "sinonimo": "nascer",
+                "sinonimo": "vir_ao_mundo",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "be_born",
-                "sinonimo": "vir_ao_mundo",
+                "sinonimo": "nascer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -498,13 +498,13 @@
           "id": 39,
           "bind_control": {
             "binds": {
-              "nascimento": "-5595",
-              "filipinas": "-1",
-              "nascer": -5595
+              "nascimento": "-3821",
+              "filipinas": "-38",
+              "nascer": -3821
             },
             "best_bind": {
               "score": 0.7841791,
-              "resource_id": -5595,
+              "resource_id": -3821,
               "tr": "nascer"
             }
           }
@@ -556,8 +556,8 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "nascimento": "-5641",
-              "filipinas": "-1"
+              "nascimento": "-3868",
+              "filipinas": "-38"
             },
             "best_bind": {
               "score": 0
@@ -609,8 +609,8 @@
           "id": 1,
           "bind_control": {
             "binds": {
-              "nascimento": "-5641",
-              "filipinas": "-1"
+              "nascimento": "-3868",
+              "filipinas": "-38"
             },
             "best_bind": {
               "score": 0
@@ -662,8 +662,8 @@
           "id": 2,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1"
+              "nascimento": "-850",
+              "filipinas": "-38"
             },
             "best_bind": {
               "score": 0
@@ -715,349 +715,13 @@
           "id": 3,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
-              "tr": "nascer"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "rudy_santos",
-              "*nascimentolocal",
-              "*filipinas"
-            ]
-          ],
-          "score": 13.551591,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "filipinas"
-            ],
-            "score_detail": {
-              "m1": 11.884924,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimentolocal",
-                  "score": 1.8849236
-                },
-                "filipinas": {
-                  "keyword": {
-                    "termo": "filipinas",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "filipinas",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 4,
-          "bind_control": {
-            "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
-            },
-            "best_bind": {
-              "score": 0.673057825,
-              "resource_id": -1332,
-              "tr": "nascer"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "enchong_dee",
-              "*nascimentolocal",
-              "*filipinas"
-            ]
-          ],
-          "score": 13.551591,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "filipinas"
-            ],
-            "score_detail": {
-              "m1": 11.884924,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimentolocal",
-                  "score": 1.8849236
-                },
-                "filipinas": {
-                  "keyword": {
-                    "termo": "filipinas",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "filipinas",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 5,
-          "bind_control": {
-            "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
-            },
-            "best_bind": {
-              "score": 0.673057825,
-              "resource_id": -1332,
-              "tr": "nascer"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "jewel_mische",
-              "*nascimentolocal",
-              "*filipinas"
-            ]
-          ],
-          "score": 13.551591,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "filipinas"
-            ],
-            "score_detail": {
-              "m1": 11.884924,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimentolocal",
-                  "score": 1.8849236
-                },
-                "filipinas": {
-                  "keyword": {
-                    "termo": "filipinas",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "filipinas",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 6,
-          "bind_control": {
-            "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
-            },
-            "best_bind": {
-              "score": 0.673057825,
-              "resource_id": -1332,
-              "tr": "nascer"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "arron_villaflor",
-              "*nascimentolocal",
-              "*filipinas"
-            ]
-          ],
-          "score": 13.551591,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "filipinas"
-            ],
-            "score_detail": {
-              "m1": 11.884924,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimentolocal",
-                  "score": 1.8849236
-                },
-                "filipinas": {
-                  "keyword": {
-                    "termo": "filipinas",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "filipinas",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 7,
-          "bind_control": {
-            "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
-            },
-            "best_bind": {
-              "score": 0.673057825,
-              "resource_id": -1332,
-              "tr": "nascer"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "pedro_calungsod",
-              "*localnascimento",
-              "*filipinas"
-            ]
-          ],
-          "score": 13.551591,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "filipinas"
-            ],
-            "score_detail": {
-              "m1": 11.884924,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "localnascimento",
-                  "score": 1.8849236
-                },
-                "filipinas": {
-                  "keyword": {
-                    "termo": "filipinas",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "filipinas",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 8,
-          "bind_control": {
-            "binds": {
-              "nascimento": "-1343",
-              "filipinas": "-1",
-              "nascer": -1343
-            },
-            "best_bind": {
-              "score": 0.673057825,
-              "resource_id": -1343,
-              "tr": "nascer"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "erich_gonzales",
-              "*nascimentolocal",
-              "*filipinas"
-            ]
-          ],
-          "score": 13.551591,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "filipinas"
-            ],
-            "score_detail": {
-              "m1": 11.884924,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimentolocal",
-                  "score": 1.8849236
-                },
-                "filipinas": {
-                  "keyword": {
-                    "termo": "filipinas",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "filipinas",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 9,
-          "bind_control": {
-            "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
-            },
-            "best_bind": {
-              "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1104,16 +768,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 10,
+          "id": 4,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1160,16 +824,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 11,
+          "id": 5,
           "bind_control": {
             "binds": {
-              "nascimento": "-1343",
-              "filipinas": "-1",
-              "nascer": -1343
+              "nascimento": "-861",
+              "filipinas": "-38",
+              "nascer": -861
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1343,
+              "resource_id": -861,
               "tr": "nascer"
             }
           }
@@ -1216,72 +880,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 12,
+          "id": 6,
           "bind_control": {
             "binds": {
-              "nascimento": "-1343",
-              "filipinas": "-1",
-              "nascer": -1343
+              "nascimento": "-861",
+              "filipinas": "-38",
+              "nascer": -861
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1343,
-              "tr": "nascer"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "ariella_arida",
-              "*localnascimento",
-              "*filipinas"
-            ]
-          ],
-          "score": 13.551591,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "filipinas"
-            ],
-            "score_detail": {
-              "m1": 11.884924,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "localnascimento",
-                  "score": 1.8849236
-                },
-                "filipinas": {
-                  "keyword": {
-                    "termo": "filipinas",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "filipinas",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 13,
-          "bind_control": {
-            "binds": {
-              "nascimento": "-1343",
-              "filipinas": "-1",
-              "nascer": -1343
-            },
-            "best_bind": {
-              "score": 0.673057825,
-              "resource_id": -1343,
+              "resource_id": -861,
               "tr": "nascer"
             }
           }
@@ -1328,16 +936,352 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 14,
+          "id": 7,
           "bind_control": {
             "binds": {
-              "nascimento": "-1343",
-              "filipinas": "-1",
-              "nascer": -1343
+              "nascimento": "-861",
+              "filipinas": "-38",
+              "nascer": -861
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1343,
+              "resource_id": -861,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "rudy_santos",
+              "*nascimentolocal",
+              "*filipinas"
+            ]
+          ],
+          "score": 13.551591,
+          "detail": {
+            "keywords": [
+              "nascimento",
+              "filipinas"
+            ],
+            "score_detail": {
+              "m1": 11.884924,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.8849236
+                },
+                "filipinas": {
+                  "keyword": {
+                    "termo": "filipinas",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "filipinas",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
+            },
+            "best_bind": {
+              "score": 0.673057825,
+              "resource_id": -850,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "enchong_dee",
+              "*nascimentolocal",
+              "*filipinas"
+            ]
+          ],
+          "score": 13.551591,
+          "detail": {
+            "keywords": [
+              "nascimento",
+              "filipinas"
+            ],
+            "score_detail": {
+              "m1": 11.884924,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.8849236
+                },
+                "filipinas": {
+                  "keyword": {
+                    "termo": "filipinas",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "filipinas",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
+            },
+            "best_bind": {
+              "score": 0.673057825,
+              "resource_id": -850,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "jewel_mische",
+              "*nascimentolocal",
+              "*filipinas"
+            ]
+          ],
+          "score": 13.551591,
+          "detail": {
+            "keywords": [
+              "nascimento",
+              "filipinas"
+            ],
+            "score_detail": {
+              "m1": 11.884924,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.8849236
+                },
+                "filipinas": {
+                  "keyword": {
+                    "termo": "filipinas",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "filipinas",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
+            },
+            "best_bind": {
+              "score": 0.673057825,
+              "resource_id": -850,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "arron_villaflor",
+              "*nascimentolocal",
+              "*filipinas"
+            ]
+          ],
+          "score": 13.551591,
+          "detail": {
+            "keywords": [
+              "nascimento",
+              "filipinas"
+            ],
+            "score_detail": {
+              "m1": 11.884924,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.8849236
+                },
+                "filipinas": {
+                  "keyword": {
+                    "termo": "filipinas",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "filipinas",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
+            },
+            "best_bind": {
+              "score": 0.673057825,
+              "resource_id": -850,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "pedro_calungsod",
+              "*localnascimento",
+              "*filipinas"
+            ]
+          ],
+          "score": 13.551591,
+          "detail": {
+            "keywords": [
+              "nascimento",
+              "filipinas"
+            ],
+            "score_detail": {
+              "m1": 11.884924,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localnascimento",
+                  "score": 1.8849236
+                },
+                "filipinas": {
+                  "keyword": {
+                    "termo": "filipinas",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "filipinas",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "nascimento": "-861",
+              "filipinas": "-38",
+              "nascer": -861
+            },
+            "best_bind": {
+              "score": 0.673057825,
+              "resource_id": -861,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "erich_gonzales",
+              "*nascimentolocal",
+              "*filipinas"
+            ]
+          ],
+          "score": 13.551591,
+          "detail": {
+            "keywords": [
+              "nascimento",
+              "filipinas"
+            ],
+            "score_detail": {
+              "m1": 11.884924,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.8849236
+                },
+                "filipinas": {
+                  "keyword": {
+                    "termo": "filipinas",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "filipinas",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
+            },
+            "best_bind": {
+              "score": 0.673057825,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1384,16 +1328,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 15,
+          "id": 14,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1440,16 +1384,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 16,
+          "id": 15,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1496,16 +1440,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 17,
+          "id": 16,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1552,16 +1496,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 18,
+          "id": 17,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1608,16 +1552,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 19,
+          "id": 18,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1664,16 +1608,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 20,
+          "id": 19,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1720,16 +1664,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 21,
+          "id": 20,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1776,16 +1720,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 22,
+          "id": 21,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1832,16 +1776,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 23,
+          "id": 22,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1888,16 +1832,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 24,
+          "id": 23,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -1944,16 +1888,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 25,
+          "id": 24,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -2000,16 +1944,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 26,
+          "id": 25,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -2056,16 +2000,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 27,
+          "id": 26,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -2112,16 +2056,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 28,
+          "id": 27,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1",
-              "nascer": -1332
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -1332,
+              "resource_id": -850,
               "tr": "nascer"
             }
           }
@@ -2168,25 +2112,85 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 29,
+          "id": 28,
           "bind_control": {
             "binds": {
-              "nascimento": "-1332",
-              "filipinas": "-1"
+              "nascimento": "-850",
+              "filipinas": "-38"
             },
             "best_bind": {
               "score": 0
             }
           }
+        },
+        {
+          "triples": [
+            [
+              "daniel_padilla",
+              "*nascimentolocal",
+              "*filipinas"
+            ]
+          ],
+          "score": 13.551591,
+          "detail": {
+            "keywords": [
+              "nascimento",
+              "filipinas"
+            ],
+            "score_detail": {
+              "m1": 11.884924,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.8849236
+                },
+                "filipinas": {
+                  "keyword": {
+                    "termo": "filipinas",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "filipinas",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "nascimento": "-850",
+              "filipinas": "-38",
+              "nascer": -850
+            },
+            "best_bind": {
+              "score": 0.673057825,
+              "resource_id": -850,
+              "tr": "nascer"
+            }
+          }
         }
       ],
-      "ranking_time": 57985404842,
+      "ranking_time": 22688780836,
       "l_sizes": [
-        15563,
-        9974338
+        11911,
+        11911
       ],
-      "ranking_time_only": 29313603339,
-      "total_time": 80261026547,
+      "a_sizes": [
+        11911,
+        451600
+      ],
+      "ranking_time_only": 4401887863,
+      "total_time": 80804180516,
       "timeout": false
     }
   }

@@ -212,6 +212,12 @@
             "por": [
               {
                 "synset": "heave",
+                "sinonimo": "jogar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "heave",
                 "sinonimo": "lançar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
@@ -221,15 +227,21 @@
                 "sinonimo": "apostar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "play",
-                "sinonimo": "jogar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "bet",
+                "sinonimo": "wager",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bet",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
               {
                 "synset": "heave",
                 "sinonimo": "heave",
@@ -239,18 +251,6 @@
               {
                 "synset": "bet",
                 "sinonimo": "bet",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "play",
-                "sinonimo": "play",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bet",
-                "sinonimo": "wager",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -371,6 +371,12 @@
             "por": [
               {
                 "synset": "heave",
+                "sinonimo": "jogar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "heave",
                 "sinonimo": "lançar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
@@ -380,15 +386,21 @@
                 "sinonimo": "apostar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "play",
-                "sinonimo": "jogar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "bet",
+                "sinonimo": "wager",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bet",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
               {
                 "synset": "heave",
                 "sinonimo": "heave",
@@ -398,18 +410,6 @@
               {
                 "synset": "bet",
                 "sinonimo": "bet",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "play",
-                "sinonimo": "play",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bet",
-                "sinonimo": "wager",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -444,37 +444,27 @@
         {
           "triples": [
             [
-              "*neymar",
-              "wikipagewikilink",
+              "resultados_do_segundo_turno_de_la_liga_de_201516",
+              "time",
               "*real_madrid"
             ],
             [
-              "copa_das_confederacoes_fifa_de_2013",
-              "*melhorjogador",
+              "resultados_do_segundo_turno_de_la_liga_de_201516",
+              "gols",
               "*neymar"
             ]
           ],
-          "score": 23.30144,
+          "score": 21.333334,
           "detail": {
             "keywords": [
-              "neymar",
               "real_madrid",
-              "jogador"
+              "neymar"
             ],
             "score_detail": {
-              "m1": 21.80144,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "melhorjogador",
-                  "score": 1.8014399
-                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -501,51 +491,38 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "neymar": "-1",
-              "real_madrid": "-102",
-              "jogador": "-837"
+              "real_madrid": "-15",
+              "neymar": "-18"
             },
             "best_bind": {
-              "score": 0.15163692,
-              "resource_id": 205,
-              "tr": "jogar"
+              "score": 0
             }
           }
         },
         {
           "triples": [
             [
-              "*neymar",
-              "wikipagewikilink",
+              "resultados_do_primeiro_turno_de_la_liga_de_201516",
+              "time",
               "*real_madrid"
             ],
             [
-              "campeonato_brasileiro_de_futebol_de_2011___serie_a",
-              "*melhorjogador",
+              "resultados_do_primeiro_turno_de_la_liga_de_201516",
+              "gols",
               "*neymar"
             ]
           ],
-          "score": 23.30144,
+          "score": 21.333334,
           "detail": {
             "keywords": [
-              "neymar",
               "real_madrid",
-              "jogador"
+              "neymar"
             ],
             "score_detail": {
-              "m1": 21.80144,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "melhorjogador",
-                  "score": 1.8014399
-                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -572,51 +549,38 @@
           "id": 1,
           "bind_control": {
             "binds": {
-              "neymar": "-1",
-              "real_madrid": "-102",
-              "jogador": "-837"
+              "real_madrid": "-15",
+              "neymar": "-18"
             },
             "best_bind": {
-              "score": 0.15163692,
-              "resource_id": 205,
-              "tr": "jogar"
+              "score": 0
             }
           }
         },
         {
           "triples": [
             [
-              "copa_das_confederacoes_fifa_de_2013",
-              "*melhorjogador",
+              "resultados_do_segundo_turno_de_la_liga_de_201516",
+              "gols",
               "*neymar"
             ],
             [
-              "*neymar",
-              "wikipagewikilink",
+              "resultados_do_segundo_turno_de_la_liga_de_201516",
+              "time",
               "*real_madrid"
             ]
           ],
-          "score": 23.30144,
+          "score": 21.333334,
           "detail": {
             "keywords": [
-              "jogador",
               "neymar",
               "real_madrid"
             ],
             "score_detail": {
-              "m1": 21.80144,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "melhorjogador",
-                  "score": 1.8014399
-                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -645,37 +609,27 @@
         {
           "triples": [
             [
-              "campeonato_brasileiro_de_futebol_de_2011___serie_a",
-              "*melhorjogador",
+              "resultados_do_segundo_turno_de_la_liga_de_201516",
+              "gols",
               "*neymar"
             ],
             [
-              "*neymar",
-              "wikipagewikilink",
+              "resultados_do_segundo_turno_de_la_liga_de_201516",
+              "team",
               "*real_madrid"
             ]
           ],
-          "score": 23.30144,
+          "score": 21.333334,
           "detail": {
             "keywords": [
-              "jogador",
               "neymar",
               "real_madrid"
             ],
             "score_detail": {
-              "m1": 21.80144,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "melhorjogador",
-                  "score": 1.8014399
-                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -704,37 +658,27 @@
         {
           "triples": [
             [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid_cf"
+              "resultados_do_primeiro_turno_de_la_liga_de_201516",
+              "gols",
+              "*neymar"
             ],
             [
-              "copa_das_confederacoes_fifa_de_2013",
-              "*melhorjogador",
-              "*neymar"
+              "resultados_do_primeiro_turno_de_la_liga_de_201516",
+              "time",
+              "*real_madrid"
             ]
           ],
-          "score": 23.009321,
+          "score": 21.333334,
           "detail": {
             "keywords": [
               "neymar",
-              "real_madrid",
-              "jogador"
+              "real_madrid"
             ],
             "score_detail": {
-              "m1": 21.509321,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "melhorjogador",
-                  "score": 1.8014399
-                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -750,8 +694,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid_cf",
-                  "score": 9.707881
+                  "resource": "real_madrid",
+                  "score": 10.0
                 }
               }
             },
@@ -763,37 +707,27 @@
         {
           "triples": [
             [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid_cf"
+              "resultados_do_primeiro_turno_de_la_liga_de_201516",
+              "gols",
+              "*neymar"
             ],
             [
-              "campeonato_brasileiro_de_futebol_de_2011___serie_a",
-              "*melhorjogador",
-              "*neymar"
+              "resultados_do_primeiro_turno_de_la_liga_de_201516",
+              "team",
+              "*real_madrid"
             ]
           ],
-          "score": 23.009321,
+          "score": 21.333334,
           "detail": {
             "keywords": [
               "neymar",
-              "real_madrid",
-              "jogador"
+              "real_madrid"
             ],
             "score_detail": {
-              "m1": 21.509321,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "melhorjogador",
-                  "score": 1.8014399
-                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -809,8 +743,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid_cf",
-                  "score": 9.707881
+                  "resource": "real_madrid",
+                  "score": 10.0
                 }
               }
             },
@@ -822,262 +756,25 @@
         {
           "triples": [
             [
-              "copa_das_confederacoes_fifa_de_2013",
-              "*melhorjogador",
+              "copa_del_rey_de_201415",
+              "rd2time",
+              "*real_madrid"
+            ],
+            [
+              "copa_del_rey_de_201415",
+              "gols",
               "*neymar"
-            ],
-            [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid_cf"
             ]
           ],
-          "score": 23.009321,
+          "score": 21.333334,
           "detail": {
             "keywords": [
-              "jogador",
-              "neymar",
-              "real_madrid"
-            ],
-            "score_detail": {
-              "m1": 21.509321,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "melhorjogador",
-                  "score": 1.8014399
-                },
-                "neymar": {
-                  "keyword": {
-                    "termo": "neymar",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "neymar",
-                  "score": 10.0
-                },
-                "real_madrid": {
-                  "keyword": {
-                    "termo": "real_madrid",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "real_madrid_cf",
-                  "score": 9.707881
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 6
-        },
-        {
-          "triples": [
-            [
-              "campeonato_brasileiro_de_futebol_de_2011___serie_a",
-              "*melhorjogador",
-              "*neymar"
-            ],
-            [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid_cf"
-            ]
-          ],
-          "score": 23.009321,
-          "detail": {
-            "keywords": [
-              "jogador",
-              "neymar",
-              "real_madrid"
-            ],
-            "score_detail": {
-              "m1": 21.509321,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "melhorjogador",
-                  "score": 1.8014399
-                },
-                "neymar": {
-                  "keyword": {
-                    "termo": "neymar",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "neymar",
-                  "score": 10.0
-                },
-                "real_madrid": {
-                  "keyword": {
-                    "termo": "real_madrid",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "real_madrid_cf",
-                  "score": 9.707881
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 7
-        },
-        {
-          "triples": [
-            [
-              "*neymar",
-              "*jogos(golos)_",
-              "230"
-            ],
-            [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
-            ]
-          ],
-          "score": 22.993109,
-          "detail": {
-            "keywords": [
-              "neymar",
-              "jogo",
-              "real_madrid"
-            ],
-            "score_detail": {
-              "m1": 21.493109,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "neymar": {
-                  "keyword": {
-                    "termo": "neymar",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "neymar",
-                  "score": 10.0
-                },
-                "real_madrid": {
-                  "keyword": {
-                    "termo": "real_madrid",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "real_madrid",
-                  "score": 10.0
-                },
-                "jogo": {
-                  "keyword": {
-                    "termo": "jogo",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "jogos(golos)_",
-                  "score": 1.4931089
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "*neymar",
-              "*jogos(golos)_",
-              "156"
-            ],
-            [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
-            ]
-          ],
-          "score": 22.993109,
-          "detail": {
-            "keywords": [
-              "neymar",
-              "jogo",
-              "real_madrid"
-            ],
-            "score_detail": {
-              "m1": 21.493109,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "neymar": {
-                  "keyword": {
-                    "termo": "neymar",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "neymar",
-                  "score": 10.0
-                },
-                "real_madrid": {
-                  "keyword": {
-                    "termo": "real_madrid",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "real_madrid",
-                  "score": 10.0
-                },
-                "jogo": {
-                  "keyword": {
-                    "termo": "jogo",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "jogos(golos)_",
-                  "score": 1.4931089
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
-            ],
-            [
-              "*neymar",
-              "*jogos(golos)_",
-              "230"
-            ]
-          ],
-          "score": 22.993109,
-          "detail": {
-            "keywords": [
-              "neymar",
               "real_madrid",
-              "jogo"
+              "neymar"
             ],
             "score_detail": {
-              "m1": 21.493109,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "neymar": {
@@ -1097,15 +794,238 @@
                   },
                   "resource": "real_madrid",
                   "score": 10.0
-                },
-                "jogo": {
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "real_madrid": "-15",
+              "neymar": "-18"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_del_rey_de_201415",
+              "rd2time",
+              "*real_madrid"
+            ],
+            [
+              "copa_del_rey_de_201415",
+              "soccertournamenttopscorer",
+              "*neymar"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "real_madrid",
+              "neymar"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "neymar": {
                   "keyword": {
-                    "termo": "jogo",
-                    "peso": 2.0,
-                    "classe": "VERB"
+                    "termo": "neymar",
+                    "peso": 10.0,
+                    "classe": "PROP"
                   },
-                  "resource": "jogos(golos)_",
-                  "score": 1.4931089
+                  "resource": "neymar",
+                  "score": 10.0
+                },
+                "real_madrid": {
+                  "keyword": {
+                    "termo": "real_madrid",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "real_madrid",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "real_madrid": "-15",
+              "neymar": "-18"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_del_rey_de_201415",
+              "team",
+              "*real_madrid"
+            ],
+            [
+              "copa_del_rey_de_201415",
+              "gols",
+              "*neymar"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "real_madrid",
+              "neymar"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "neymar": {
+                  "keyword": {
+                    "termo": "neymar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "neymar",
+                  "score": 10.0
+                },
+                "real_madrid": {
+                  "keyword": {
+                    "termo": "real_madrid",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "real_madrid",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "real_madrid": "-15",
+              "neymar": "-18"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_del_rey_de_201415",
+              "team",
+              "*real_madrid"
+            ],
+            [
+              "copa_del_rey_de_201415",
+              "soccertournamenttopscorer",
+              "*neymar"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "real_madrid",
+              "neymar"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "neymar": {
+                  "keyword": {
+                    "termo": "neymar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "neymar",
+                  "score": 10.0
+                },
+                "real_madrid": {
+                  "keyword": {
+                    "termo": "real_madrid",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "real_madrid",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "real_madrid": "-15",
+              "neymar": "-18"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_del_rey_de_201415",
+              "gols",
+              "*neymar"
+            ],
+            [
+              "copa_del_rey_de_201415",
+              "rd2time",
+              "*real_madrid"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "neymar",
+              "real_madrid"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "neymar": {
+                  "keyword": {
+                    "termo": "neymar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "neymar",
+                  "score": 10.0
+                },
+                "real_madrid": {
+                  "keyword": {
+                    "termo": "real_madrid",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "real_madrid",
+                  "score": 10.0
                 }
               }
             },
@@ -1117,26 +1037,25 @@
         {
           "triples": [
             [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
+              "copa_del_rey_de_201415",
+              "gols",
+              "*neymar"
             ],
             [
-              "*neymar",
-              "*jogos(golos)_",
-              "156"
+              "copa_del_rey_de_201415",
+              "team",
+              "*real_madrid"
             ]
           ],
-          "score": 22.993109,
+          "score": 21.333334,
           "detail": {
             "keywords": [
               "neymar",
-              "real_madrid",
-              "jogo"
+              "real_madrid"
             ],
             "score_detail": {
-              "m1": 21.493109,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "neymar": {
@@ -1156,15 +1075,6 @@
                   },
                   "resource": "real_madrid",
                   "score": 10.0
-                },
-                "jogo": {
-                  "keyword": {
-                    "termo": "jogo",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "jogos(golos)_",
-                  "score": 1.4931089
                 }
               }
             },
@@ -1176,37 +1086,27 @@
         {
           "triples": [
             [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
+              "copa_del_rey_de_201415",
+              "soccertournamenttopscorer",
+              "*neymar"
             ],
             [
-              "dados_disciplinares_da_copa_do_mundo_fifa_de_2014",
-              "*primeiroamarelojogador",
-              "*neymar"
+              "copa_del_rey_de_201415",
+              "rd2time",
+              "*real_madrid"
             ]
           ],
-          "score": 22.875618,
+          "score": 21.333334,
           "detail": {
             "keywords": [
               "neymar",
-              "real_madrid",
-              "jogador"
+              "real_madrid"
             ],
             "score_detail": {
-              "m1": 21.375618,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "primeiroamarelojogador",
-                  "score": 1.3756171
-                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -1235,37 +1135,27 @@
         {
           "triples": [
             [
-              "dados_disciplinares_da_copa_do_mundo_fifa_de_2014",
-              "*primeiroamarelojogador",
+              "copa_del_rey_de_201415",
+              "soccertournamenttopscorer",
               "*neymar"
             ],
             [
-              "*neymar",
-              "wikipagewikilink",
+              "copa_del_rey_de_201415",
+              "team",
               "*real_madrid"
             ]
           ],
-          "score": 22.875618,
+          "score": 21.333334,
           "detail": {
             "keywords": [
-              "jogador",
               "neymar",
               "real_madrid"
             ],
             "score_detail": {
-              "m1": 21.375618,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "primeiroamarelojogador",
-                  "score": 1.3756171
-                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -1294,144 +1184,25 @@
         {
           "triples": [
             [
-              "*neymar",
-              "*jogos(golos)_",
-              "230"
+              "resultados_do_segundo_turno_de_la_liga_de_201516",
+              "team",
+              "*real_madrid"
             ],
             [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid_cf"
+              "resultados_do_segundo_turno_de_la_liga_de_201516",
+              "gols",
+              "*neymar"
             ]
           ],
-          "score": 22.70099,
+          "score": 21.333334,
           "detail": {
             "keywords": [
-              "neymar",
-              "jogo",
-              "real_madrid"
-            ],
-            "score_detail": {
-              "m1": 21.20099,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "neymar": {
-                  "keyword": {
-                    "termo": "neymar",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "neymar",
-                  "score": 10.0
-                },
-                "real_madrid": {
-                  "keyword": {
-                    "termo": "real_madrid",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "real_madrid_cf",
-                  "score": 9.707881
-                },
-                "jogo": {
-                  "keyword": {
-                    "termo": "jogo",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "jogos(golos)_",
-                  "score": 1.4931089
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 14
-        },
-        {
-          "triples": [
-            [
-              "*neymar",
-              "*jogos(golos)_",
-              "156"
-            ],
-            [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid_cf"
-            ]
-          ],
-          "score": 22.70099,
-          "detail": {
-            "keywords": [
-              "neymar",
-              "jogo",
-              "real_madrid"
-            ],
-            "score_detail": {
-              "m1": 21.20099,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "neymar": {
-                  "keyword": {
-                    "termo": "neymar",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "neymar",
-                  "score": 10.0
-                },
-                "real_madrid": {
-                  "keyword": {
-                    "termo": "real_madrid",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "real_madrid_cf",
-                  "score": 9.707881
-                },
-                "jogo": {
-                  "keyword": {
-                    "termo": "jogo",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "jogos(golos)_",
-                  "score": 1.4931089
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 15
-        },
-        {
-          "triples": [
-            [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid_cf"
-            ],
-            [
-              "*neymar",
-              "*jogos(golos)_",
-              "230"
-            ]
-          ],
-          "score": 22.70099,
-          "detail": {
-            "keywords": [
-              "neymar",
               "real_madrid",
-              "jogo"
+              "neymar"
             ],
             "score_detail": {
-              "m1": 21.20099,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "neymar": {
@@ -1449,17 +1220,124 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid_cf",
-                  "score": 9.707881
-                },
-                "jogo": {
+                  "resource": "real_madrid",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "real_madrid": "-15",
+              "neymar": "-18"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "resultados_do_primeiro_turno_de_la_liga_de_201516",
+              "team",
+              "*real_madrid"
+            ],
+            [
+              "resultados_do_primeiro_turno_de_la_liga_de_201516",
+              "gols",
+              "*neymar"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "real_madrid",
+              "neymar"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "neymar": {
                   "keyword": {
-                    "termo": "jogo",
-                    "peso": 2.0,
-                    "classe": "VERB"
+                    "termo": "neymar",
+                    "peso": 10.0,
+                    "classe": "PROP"
                   },
-                  "resource": "jogos(golos)_",
-                  "score": 1.4931089
+                  "resource": "neymar",
+                  "score": 10.0
+                },
+                "real_madrid": {
+                  "keyword": {
+                    "termo": "real_madrid",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "real_madrid",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "real_madrid": "-15",
+              "neymar": "-18"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_del_rey_de_201415",
+              "rd2time",
+              "*real_madrid"
+            ],
+            [
+              "copa_del_rey_de_201415",
+              "goals",
+              "*neymar ,"
+            ]
+          ],
+          "score": 20.995169,
+          "detail": {
+            "keywords": [
+              "real_madrid",
+              "neymar"
+            ],
+            "score_detail": {
+              "m1": 19.661835,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "neymar": {
+                  "keyword": {
+                    "termo": "neymar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "neymar ,",
+                  "score": 9.661836
+                },
+                "real_madrid": {
+                  "keyword": {
+                    "termo": "real_madrid",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "real_madrid",
+                  "score": 10.0
                 }
               }
             },
@@ -1471,26 +1349,25 @@
         {
           "triples": [
             [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid_cf"
+              "copa_del_rey_de_201415",
+              "team",
+              "*real_madrid"
             ],
             [
-              "*neymar",
-              "*jogos(golos)_",
-              "156"
+              "copa_del_rey_de_201415",
+              "goals",
+              "*neymar ,"
             ]
           ],
-          "score": 22.70099,
+          "score": 20.995169,
           "detail": {
             "keywords": [
-              "neymar",
               "real_madrid",
-              "jogo"
+              "neymar"
             ],
             "score_detail": {
-              "m1": 21.20099,
-              "m2": 0.5,
+              "m1": 19.661835,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "neymar": {
@@ -1499,8 +1376,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "neymar",
-                  "score": 10.0
+                  "resource": "neymar ,",
+                  "score": 9.661836
                 },
                 "real_madrid": {
                   "keyword": {
@@ -1508,17 +1385,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid_cf",
-                  "score": 9.707881
-                },
-                "jogo": {
-                  "keyword": {
-                    "termo": "jogo",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "jogos(golos)_",
-                  "score": 1.4931089
+                  "resource": "real_madrid",
+                  "score": 10.0
                 }
               }
             },
@@ -1530,45 +1398,35 @@
         {
           "triples": [
             [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid_cf"
+              "copa_del_rey_de_201415",
+              "goals",
+              "*neymar ,"
             ],
             [
-              "dados_disciplinares_da_copa_do_mundo_fifa_de_2014",
-              "*primeiroamarelojogador",
-              "*neymar"
+              "copa_del_rey_de_201415",
+              "rd2time",
+              "*real_madrid"
             ]
           ],
-          "score": 22.583498,
+          "score": 20.995169,
           "detail": {
             "keywords": [
               "neymar",
-              "real_madrid",
-              "jogador"
+              "real_madrid"
             ],
             "score_detail": {
-              "m1": 21.083498,
-              "m2": 0.5,
+              "m1": 19.661835,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "primeiroamarelojogador",
-                  "score": 1.3756171
-                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "neymar",
-                  "score": 10.0
+                  "resource": "neymar ,",
+                  "score": 9.661836
                 },
                 "real_madrid": {
                   "keyword": {
@@ -1576,8 +1434,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid_cf",
-                  "score": 9.707881
+                  "resource": "real_madrid",
+                  "score": 10.0
                 }
               }
             },
@@ -1589,45 +1447,35 @@
         {
           "triples": [
             [
-              "dados_disciplinares_da_copa_do_mundo_fifa_de_2014",
-              "*primeiroamarelojogador",
-              "*neymar"
+              "copa_del_rey_de_201415",
+              "goals",
+              "*neymar ,"
             ],
             [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid_cf"
+              "copa_del_rey_de_201415",
+              "team",
+              "*real_madrid"
             ]
           ],
-          "score": 22.583498,
+          "score": 20.995169,
           "detail": {
             "keywords": [
-              "jogador",
               "neymar",
               "real_madrid"
             ],
             "score_detail": {
-              "m1": 21.083498,
-              "m2": 0.5,
+              "m1": 19.661835,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "jogador": {
-                  "keyword": {
-                    "termo": "jogador",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "primeiroamarelojogador",
-                  "score": 1.3756171
-                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "neymar",
-                  "score": 10.0
+                  "resource": "neymar ,",
+                  "score": 9.661836
                 },
                 "real_madrid": {
                   "keyword": {
@@ -1635,8 +1483,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid_cf",
-                  "score": 9.707881
+                  "resource": "real_madrid",
+                  "score": 10.0
                 }
               }
             },
@@ -1649,21 +1497,36 @@
           "triples": [
             [
               "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
+              "wikipageusestemplate",
+              "*predefinicao:futebol_real_madrid"
+            ],
+            [
+              "copa_das_confederacoes_fifa_de_2013",
+              "*melhorjogador",
+              "*neymar"
             ]
           ],
-          "score": 21.666666,
+          "score": 19.623186,
           "detail": {
             "keywords": [
               "neymar",
-              "real_madrid"
+              "real_madrid",
+              "jogador"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.6666667,
+              "m1": 18.123186,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "jogador": {
+                  "keyword": {
+                    "termo": "jogador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "melhorjogador",
+                  "score": 1.8014399
+                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -1679,8 +1542,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid",
-                  "score": 10.0
+                  "resource": "predefinicao:futebol_real_madrid",
+                  "score": 6.321747
                 }
               }
             },
@@ -1693,21 +1556,36 @@
           "triples": [
             [
               "*neymar",
-              "wikipagewikilink",
-              "*real_madrid_cf"
+              "wikipageusestemplate",
+              "*predefinicao:futebol_real_madrid"
+            ],
+            [
+              "campeonato_brasileiro_de_futebol_de_2011___serie_a",
+              "*melhorjogador",
+              "*neymar"
             ]
           ],
-          "score": 21.374548,
+          "score": 19.623186,
           "detail": {
             "keywords": [
               "neymar",
-              "real_madrid"
+              "real_madrid",
+              "jogador"
             ],
             "score_detail": {
-              "m1": 19.707882,
-              "m2": 0.6666667,
+              "m1": 18.123186,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "jogador": {
+                  "keyword": {
+                    "termo": "jogador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "melhorjogador",
+                  "score": 1.8014399
+                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -1723,8 +1601,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid_cf",
-                  "score": 9.707881
+                  "resource": "predefinicao:futebol_real_madrid",
+                  "score": 6.321747
                 }
               }
             },
@@ -1736,27 +1614,37 @@
         {
           "triples": [
             [
-              "*neymar",
-              "nome",
+              "copa_das_confederacoes_fifa_de_2013",
+              "*melhorjogador",
               "*neymar"
             ],
             [
               "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
+              "wikipageusestemplate",
+              "*predefinicao:futebol_real_madrid"
             ]
           ],
-          "score": 21.333334,
+          "score": 19.623186,
           "detail": {
             "keywords": [
+              "jogador",
               "neymar",
               "real_madrid"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
+              "m1": 18.123186,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "jogador": {
+                  "keyword": {
+                    "termo": "jogador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "melhorjogador",
+                  "score": 1.8014399
+                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -1772,8 +1660,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid",
-                  "score": 10.0
+                  "resource": "predefinicao:futebol_real_madrid",
+                  "score": 6.321747
                 }
               }
             },
@@ -1785,27 +1673,37 @@
         {
           "triples": [
             [
-              "*neymar",
-              "nomecompleto",
-              "*neymar da silva santos junior"
+              "campeonato_brasileiro_de_futebol_de_2011___serie_a",
+              "*melhorjogador",
+              "*neymar"
             ],
             [
               "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
+              "wikipageusestemplate",
+              "*predefinicao:futebol_real_madrid"
             ]
           ],
-          "score": 21.333334,
+          "score": 19.623186,
           "detail": {
             "keywords": [
+              "jogador",
               "neymar",
               "real_madrid"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
+              "m1": 18.123186,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "jogador": {
+                  "keyword": {
+                    "termo": "jogador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "melhorjogador",
+                  "score": 1.8014399
+                },
                 "neymar": {
                   "keyword": {
                     "termo": "neymar",
@@ -1821,8 +1719,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid",
-                  "score": 10.0
+                  "resource": "predefinicao:futebol_real_madrid",
+                  "score": 6.321747
                 }
               }
             },
@@ -1834,24 +1732,24 @@
         {
           "triples": [
             [
-              "*neymar",
-              "cidadenatal",
-              "mogi das cruzes"
+              "*galacticos_(real_madrid)",
+              "wikipageusestemplate",
+              "predefinicao:brab"
             ],
             [
               "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
+              "wikipageusestemplate",
+              "predefinicao:brab"
             ]
           ],
-          "score": 21.333334,
+          "score": 19.510391,
           "detail": {
             "keywords": [
-              "neymar",
-              "real_madrid"
+              "real_madrid",
+              "neymar"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.177057,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1870,8 +1768,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid",
-                  "score": 10.0
+                  "resource": "galacticos_(real_madrid)",
+                  "score": 8.177057
                 }
               }
             },
@@ -1883,24 +1781,24 @@
         {
           "triples": [
             [
-              "*neymar",
-              "paisnatal",
-              "brasil"
+              "*galacticos_(real_madrid)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
               "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 21.333334,
+          "score": 19.510391,
           "detail": {
             "keywords": [
-              "neymar",
-              "real_madrid"
+              "real_madrid",
+              "neymar"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.177057,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1919,8 +1817,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid",
-                  "score": 10.0
+                  "resource": "galacticos_(real_madrid)",
+                  "score": 8.177057
                 }
               }
             },
@@ -1933,23 +1831,23 @@
           "triples": [
             [
               "*neymar",
-              "altura",
-              "1,74 m"
+              "wikipageusestemplate",
+              "predefinicao:brab"
             ],
             [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
+              "*galacticos_(real_madrid)",
+              "wikipageusestemplate",
+              "predefinicao:brab"
             ]
           ],
-          "score": 21.333334,
+          "score": 19.510391,
           "detail": {
             "keywords": [
               "neymar",
               "real_madrid"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.177057,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1968,8 +1866,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid",
-                  "score": 10.0
+                  "resource": "galacticos_(real_madrid)",
+                  "score": 8.177057
                 }
               }
             },
@@ -1982,23 +1880,23 @@
           "triples": [
             [
               "*neymar",
-              "pe",
-              "ambidestro"
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
+              "*galacticos_(real_madrid)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 21.333334,
+          "score": 19.510391,
           "detail": {
             "keywords": [
               "neymar",
               "real_madrid"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.177057,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2017,8 +1915,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid",
-                  "score": 10.0
+                  "resource": "galacticos_(real_madrid)",
+                  "score": 8.177057
                 }
               }
             },
@@ -2031,23 +1929,23 @@
           "triples": [
             [
               "*neymar",
-              "apelido",
-              "ney, principe do gol"
+              "owl#sameas",
+              35
             ],
             [
-              "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
+              "*galacticos_(real_madrid)",
+              "owl#sameas",
+              35
             ]
           ],
-          "score": 21.333334,
+          "score": 19.510391,
           "detail": {
             "keywords": [
               "neymar",
               "real_madrid"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.177057,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2066,8 +1964,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid",
-                  "score": 10.0
+                  "resource": "galacticos_(real_madrid)",
+                  "score": 8.177057
                 }
               }
             },
@@ -2079,24 +1977,24 @@
         {
           "triples": [
             [
-              "*neymar",
-              "clubenumero",
-              "11"
+              "*galacticos_(real_madrid)",
+              "owl#sameas",
+              35
             ],
             [
               "*neymar",
-              "wikipagewikilink",
-              "*real_madrid"
+              "owl#sameas",
+              35
             ]
           ],
-          "score": 21.333334,
+          "score": 19.510391,
           "detail": {
             "keywords": [
-              "neymar",
-              "real_madrid"
+              "real_madrid",
+              "neymar"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.177057,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2115,8 +2013,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "real_madrid",
-                  "score": 10.0
+                  "resource": "galacticos_(real_madrid)",
+                  "score": 8.177057
                 }
               }
             },
@@ -2126,13 +2024,17 @@
           "id": 29
         }
       ],
-      "ranking_time": 4776012506,
+      "ranking_time": 1968644952,
       "l_sizes": [
-        3012,
-        1128884
+        975,
+        975
       ],
-      "ranking_time_only": 2222431366,
-      "total_time": 12444325041,
+      "a_sizes": [
+        975,
+        66920
+      ],
+      "ranking_time_only": 444061965,
+      "total_time": 8567754725,
       "timeout": false
     }
   }

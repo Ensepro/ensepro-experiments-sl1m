@@ -53,13 +53,7 @@
             "por": [
               {
                 "synset": "web_page",
-                "sinonimo": "página_web",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
-                "sinonimo": "escudeiro",
+                "sinonimo": "Página_Web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -71,7 +65,7 @@
               },
               {
                 "synset": "web_page",
-                "sinonimo": "Página_Web",
+                "sinonimo": "página_web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -80,18 +74,24 @@
                 "sinonimo": "página",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "escudeiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "web_page",
-                "sinonimo": "web_page",
+                "synset": "page",
+                "sinonimo": "page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "page",
-                "sinonimo": "page",
+                "synset": "web_page",
+                "sinonimo": "web_page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -149,13 +149,13 @@
             "por": [
               {
                 "synset": "war",
-                "sinonimo": "guerra",
+                "sinonimo": "combate",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "war",
-                "sinonimo": "combate",
+                "sinonimo": "guerra",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               }
@@ -163,21 +163,21 @@
             "eng": [
               {
                 "synset": "war",
+                "sinonimo": "state_of_war",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "war",
                 "sinonimo": "war",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "war",
                 "sinonimo": "warfare",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "war",
-                "sinonimo": "state_of_war",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
               }
             ]
           }
@@ -209,10 +209,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "peace",
-                "sinonimo": "Tratados_de_paz",
+                "synset": "tranquillity",
+                "sinonimo": "paz",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "peace",
@@ -223,6 +223,36 @@
               {
                 "synset": "peace",
                 "sinonimo": "serenidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "harmony",
+                "sinonimo": "harmonia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "quietude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "Tratado_de_paz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "silêncio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "repouso",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -239,30 +269,6 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "tranquillity",
-                "sinonimo": "quietude",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "harmonia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "paz",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "silêncio",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "harmony",
                 "sinonimo": "conformidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -270,35 +276,41 @@
               },
               {
                 "synset": "peace",
-                "sinonimo": "Tratado_de_paz",
+                "sinonimo": "Tratados_de_paz",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "05"
-              },
-              {
-                "synset": "peace",
-                "sinonimo": "repouso",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
               }
             ],
             "eng": [
               {
                 "synset": "harmony",
-                "sinonimo": "harmony",
+                "sinonimo": "concordance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "quiet",
+                "sinonimo": "tranquillity",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "quietude",
+                "sinonimo": "tranquility",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "peace_treaty",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "harmony",
+                "sinonimo": "concord",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -313,34 +325,28 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "pax",
-                "sinonimo": "kiss_of_peace",
+                "synset": "peace",
+                "sinonimo": "pacification",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "quiet",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "pax",
-                "sinonimo": "pax",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "concordance",
+                "synset": "peace",
+                "sinonimo": "ataraxis",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "tranquillity",
+                "sinonimo": "quietude",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "concord",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -349,22 +355,10 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peaceableness",
-                "sinonimo": "peaceableness",
+                "synset": "peace",
+                "sinonimo": "peace_of_mind",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "peaceableness",
-                "sinonimo": "peacefulness",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "tranquility",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -379,28 +373,34 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peace",
-                "sinonimo": "pacification",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "peace",
-                "sinonimo": "ataraxis",
+                "synset": "harmony",
+                "sinonimo": "harmony",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peace",
-                "sinonimo": "peace_of_mind",
+                "synset": "peaceableness",
+                "sinonimo": "peaceableness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "peace",
-                "sinonimo": "peace_treaty",
+                "synset": "pax",
+                "sinonimo": "pax",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pax",
+                "sinonimo": "kiss_of_peace",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "peaceableness",
+                "sinonimo": "peacefulness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -440,13 +440,7 @@
             "por": [
               {
                 "synset": "web_page",
-                "sinonimo": "página_web",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
-                "sinonimo": "escudeiro",
+                "sinonimo": "Página_Web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -458,7 +452,7 @@
               },
               {
                 "synset": "web_page",
-                "sinonimo": "Página_Web",
+                "sinonimo": "página_web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -467,18 +461,24 @@
                 "sinonimo": "página",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "escudeiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "web_page",
-                "sinonimo": "web_page",
+                "synset": "page",
+                "sinonimo": "page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "page",
-                "sinonimo": "page",
+                "synset": "web_page",
+                "sinonimo": "web_page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -511,13 +511,13 @@
             "por": [
               {
                 "synset": "war",
-                "sinonimo": "guerra",
+                "sinonimo": "combate",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "war",
-                "sinonimo": "combate",
+                "sinonimo": "guerra",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               }
@@ -525,21 +525,21 @@
             "eng": [
               {
                 "synset": "war",
+                "sinonimo": "state_of_war",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "war",
                 "sinonimo": "war",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "war",
                 "sinonimo": "warfare",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "war",
-                "sinonimo": "state_of_war",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
               }
             ]
           }
@@ -560,10 +560,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "peace",
-                "sinonimo": "Tratados_de_paz",
+                "synset": "tranquillity",
+                "sinonimo": "paz",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "peace",
@@ -574,6 +574,36 @@
               {
                 "synset": "peace",
                 "sinonimo": "serenidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "harmony",
+                "sinonimo": "harmonia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "quietude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "Tratado_de_paz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "silêncio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "repouso",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -590,30 +620,6 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "tranquillity",
-                "sinonimo": "quietude",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "harmonia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "paz",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "silêncio",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "harmony",
                 "sinonimo": "conformidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -621,35 +627,41 @@
               },
               {
                 "synset": "peace",
-                "sinonimo": "Tratado_de_paz",
+                "sinonimo": "Tratados_de_paz",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "05"
-              },
-              {
-                "synset": "peace",
-                "sinonimo": "repouso",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
               }
             ],
             "eng": [
               {
                 "synset": "harmony",
-                "sinonimo": "harmony",
+                "sinonimo": "concordance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "quiet",
+                "sinonimo": "tranquillity",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "quietude",
+                "sinonimo": "tranquility",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "peace_treaty",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "harmony",
+                "sinonimo": "concord",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -664,34 +676,28 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "pax",
-                "sinonimo": "kiss_of_peace",
+                "synset": "peace",
+                "sinonimo": "pacification",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "quiet",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "pax",
-                "sinonimo": "pax",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "concordance",
+                "synset": "peace",
+                "sinonimo": "ataraxis",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "tranquillity",
+                "sinonimo": "quietude",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "concord",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -700,22 +706,10 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peaceableness",
-                "sinonimo": "peaceableness",
+                "synset": "peace",
+                "sinonimo": "peace_of_mind",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "peaceableness",
-                "sinonimo": "peacefulness",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "tranquility",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -730,28 +724,34 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peace",
-                "sinonimo": "pacification",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "peace",
-                "sinonimo": "ataraxis",
+                "synset": "harmony",
+                "sinonimo": "harmony",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peace",
-                "sinonimo": "peace_of_mind",
+                "synset": "peaceableness",
+                "sinonimo": "peaceableness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "peace",
-                "sinonimo": "peace_treaty",
+                "synset": "pax",
+                "sinonimo": "pax",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pax",
+                "sinonimo": "kiss_of_peace",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "peaceableness",
+                "sinonimo": "peacefulness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -814,13 +814,7 @@
             "por": [
               {
                 "synset": "web_page",
-                "sinonimo": "página_web",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
-                "sinonimo": "escudeiro",
+                "sinonimo": "Página_Web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -832,7 +826,7 @@
               },
               {
                 "synset": "web_page",
-                "sinonimo": "Página_Web",
+                "sinonimo": "página_web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -841,18 +835,24 @@
                 "sinonimo": "página",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "escudeiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "web_page",
-                "sinonimo": "web_page",
+                "synset": "page",
+                "sinonimo": "page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "page",
-                "sinonimo": "page",
+                "synset": "web_page",
+                "sinonimo": "web_page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -910,13 +910,13 @@
             "por": [
               {
                 "synset": "war",
-                "sinonimo": "guerra",
+                "sinonimo": "combate",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "war",
-                "sinonimo": "combate",
+                "sinonimo": "guerra",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               }
@@ -924,21 +924,21 @@
             "eng": [
               {
                 "synset": "war",
+                "sinonimo": "state_of_war",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "war",
                 "sinonimo": "war",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "war",
                 "sinonimo": "warfare",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "war",
-                "sinonimo": "state_of_war",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
               }
             ]
           }
@@ -970,10 +970,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "peace",
-                "sinonimo": "Tratados_de_paz",
+                "synset": "tranquillity",
+                "sinonimo": "paz",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "peace",
@@ -984,6 +984,36 @@
               {
                 "synset": "peace",
                 "sinonimo": "serenidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "harmony",
+                "sinonimo": "harmonia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "quietude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "Tratado_de_paz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "silêncio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "repouso",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -1000,30 +1030,6 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "tranquillity",
-                "sinonimo": "quietude",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "harmonia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "paz",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "silêncio",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "harmony",
                 "sinonimo": "conformidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -1031,35 +1037,41 @@
               },
               {
                 "synset": "peace",
-                "sinonimo": "Tratado_de_paz",
+                "sinonimo": "Tratados_de_paz",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "05"
-              },
-              {
-                "synset": "peace",
-                "sinonimo": "repouso",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
               }
             ],
             "eng": [
               {
                 "synset": "harmony",
-                "sinonimo": "harmony",
+                "sinonimo": "concordance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "quiet",
+                "sinonimo": "tranquillity",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "quietude",
+                "sinonimo": "tranquility",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "peace_treaty",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "harmony",
+                "sinonimo": "concord",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -1074,34 +1086,28 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "pax",
-                "sinonimo": "kiss_of_peace",
+                "synset": "peace",
+                "sinonimo": "pacification",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "quiet",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "pax",
-                "sinonimo": "pax",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "concordance",
+                "synset": "peace",
+                "sinonimo": "ataraxis",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "tranquillity",
+                "sinonimo": "quietude",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "concord",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -1110,22 +1116,10 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peaceableness",
-                "sinonimo": "peaceableness",
+                "synset": "peace",
+                "sinonimo": "peace_of_mind",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "peaceableness",
-                "sinonimo": "peacefulness",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "tranquility",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -1140,28 +1134,34 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peace",
-                "sinonimo": "pacification",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "peace",
-                "sinonimo": "ataraxis",
+                "synset": "harmony",
+                "sinonimo": "harmony",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peace",
-                "sinonimo": "peace_of_mind",
+                "synset": "peaceableness",
+                "sinonimo": "peaceableness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "peace",
-                "sinonimo": "peace_treaty",
+                "synset": "pax",
+                "sinonimo": "pax",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pax",
+                "sinonimo": "kiss_of_peace",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "peaceableness",
+                "sinonimo": "peacefulness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -1201,13 +1201,7 @@
             "por": [
               {
                 "synset": "web_page",
-                "sinonimo": "página_web",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
-                "sinonimo": "escudeiro",
+                "sinonimo": "Página_Web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1219,7 +1213,7 @@
               },
               {
                 "synset": "web_page",
-                "sinonimo": "Página_Web",
+                "sinonimo": "página_web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1228,18 +1222,24 @@
                 "sinonimo": "página",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "escudeiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "web_page",
-                "sinonimo": "web_page",
+                "synset": "page",
+                "sinonimo": "page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "page",
-                "sinonimo": "page",
+                "synset": "web_page",
+                "sinonimo": "web_page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1272,13 +1272,13 @@
             "por": [
               {
                 "synset": "war",
-                "sinonimo": "guerra",
+                "sinonimo": "combate",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "war",
-                "sinonimo": "combate",
+                "sinonimo": "guerra",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               }
@@ -1286,21 +1286,21 @@
             "eng": [
               {
                 "synset": "war",
+                "sinonimo": "state_of_war",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "war",
                 "sinonimo": "war",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "war",
                 "sinonimo": "warfare",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "war",
-                "sinonimo": "state_of_war",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
               }
             ]
           }
@@ -1321,10 +1321,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "peace",
-                "sinonimo": "Tratados_de_paz",
+                "synset": "tranquillity",
+                "sinonimo": "paz",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "peace",
@@ -1335,6 +1335,36 @@
               {
                 "synset": "peace",
                 "sinonimo": "serenidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "harmony",
+                "sinonimo": "harmonia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "quietude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "Tratado_de_paz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "silêncio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "repouso",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -1351,30 +1381,6 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "tranquillity",
-                "sinonimo": "quietude",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "harmonia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "paz",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "silêncio",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "harmony",
                 "sinonimo": "conformidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -1382,35 +1388,41 @@
               },
               {
                 "synset": "peace",
-                "sinonimo": "Tratado_de_paz",
+                "sinonimo": "Tratados_de_paz",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "05"
-              },
-              {
-                "synset": "peace",
-                "sinonimo": "repouso",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
               }
             ],
             "eng": [
               {
                 "synset": "harmony",
-                "sinonimo": "harmony",
+                "sinonimo": "concordance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "quiet",
+                "sinonimo": "tranquillity",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "quietude",
+                "sinonimo": "tranquility",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "peace",
+                "sinonimo": "peace_treaty",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "harmony",
+                "sinonimo": "concord",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -1425,34 +1437,28 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "pax",
-                "sinonimo": "kiss_of_peace",
+                "synset": "peace",
+                "sinonimo": "pacification",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "tranquillity",
+                "sinonimo": "quiet",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "pax",
-                "sinonimo": "pax",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "concordance",
+                "synset": "peace",
+                "sinonimo": "ataraxis",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "tranquillity",
-                "sinonimo": "tranquillity",
+                "sinonimo": "quietude",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "harmony",
-                "sinonimo": "concord",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -1461,22 +1467,10 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peaceableness",
-                "sinonimo": "peaceableness",
+                "synset": "peace",
+                "sinonimo": "peace_of_mind",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "peaceableness",
-                "sinonimo": "peacefulness",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "tranquillity",
-                "sinonimo": "tranquility",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "peace",
@@ -1491,28 +1485,34 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peace",
-                "sinonimo": "pacification",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "peace",
-                "sinonimo": "ataraxis",
+                "synset": "harmony",
+                "sinonimo": "harmony",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "peace",
-                "sinonimo": "peace_of_mind",
+                "synset": "peaceableness",
+                "sinonimo": "peaceableness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "peace",
-                "sinonimo": "peace_treaty",
+                "synset": "pax",
+                "sinonimo": "pax",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pax",
+                "sinonimo": "kiss_of_peace",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "peaceableness",
+                "sinonimo": "peacefulness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -1525,7 +1525,7 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [],
-      "total_time": 6696619170,
+      "total_time": 15738074973,
       "timeout": false
     }
   }

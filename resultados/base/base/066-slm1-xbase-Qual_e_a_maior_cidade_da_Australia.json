@@ -264,19 +264,7 @@
             "por": [
               {
                 "synset": "municipality",
-                "sinonimo": "autarquias",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
                 "sinonimo": "concelho",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "cidadelivre",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -287,14 +275,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "village",
-                "sinonimo": "povoado",
+                "synset": "city",
+                "sinonimo": "metrópoles",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "city",
-                "sinonimo": "metrópole",
+                "sinonimo": "município",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -305,8 +293,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city",
-                "sinonimo": "urbe",
+                "synset": "city_state",
+                "sinonimo": "cidade-estado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -317,38 +305,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city_state",
-                "sinonimo": "Cidade-estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "comuna",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "cidade-estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "city",
-                "sinonimo": "município",
+                "sinonimo": "urbe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "metrópoles",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
               },
               {
                 "synset": "town",
-                "sinonimo": "arraial",
+                "sinonimo": "burgo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -359,16 +323,28 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "village",
-                "sinonimo": "cidade",
+                "synset": "city_state",
+                "sinonimo": "Cidade-estado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "village",
                 "sinonimo": "aldeia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "metrópole",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidadelivre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "city",
@@ -377,8 +353,32 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "municipality",
+                "sinonimo": "comuna",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "town",
-                "sinonimo": "burgo",
+                "sinonimo": "arraial",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "povoado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "autarquias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "cidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -387,6 +387,54 @@
               {
                 "synset": "city",
                 "sinonimo": "metropolis",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "city-state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "settlement",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "town",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "city_state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "municipality",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "city",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "hamlet",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "urban_center",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -398,55 +446,7 @@
               },
               {
                 "synset": "village",
-                "sinonimo": "hamlet",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "city-state",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "town",
-                "sinonimo": "town",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "municipality",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
                 "sinonimo": "small_town",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "settlement",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "city",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "urban_center",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "city_state",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -549,19 +549,7 @@
             "por": [
               {
                 "synset": "municipality",
-                "sinonimo": "autarquias",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
                 "sinonimo": "concelho",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "cidadelivre",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -572,14 +560,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "village",
-                "sinonimo": "povoado",
+                "synset": "city",
+                "sinonimo": "metrópoles",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "city",
-                "sinonimo": "metrópole",
+                "sinonimo": "município",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -590,8 +578,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city",
-                "sinonimo": "urbe",
+                "synset": "city_state",
+                "sinonimo": "cidade-estado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -602,38 +590,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city_state",
-                "sinonimo": "Cidade-estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "comuna",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "cidade-estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "city",
-                "sinonimo": "município",
+                "sinonimo": "urbe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "metrópoles",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
               },
               {
                 "synset": "town",
-                "sinonimo": "arraial",
+                "sinonimo": "burgo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -644,16 +608,28 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "village",
-                "sinonimo": "cidade",
+                "synset": "city_state",
+                "sinonimo": "Cidade-estado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "village",
                 "sinonimo": "aldeia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "metrópole",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidadelivre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "city",
@@ -662,8 +638,32 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "municipality",
+                "sinonimo": "comuna",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "town",
-                "sinonimo": "burgo",
+                "sinonimo": "arraial",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "povoado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "autarquias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "cidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -672,6 +672,54 @@
               {
                 "synset": "city",
                 "sinonimo": "metropolis",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "city-state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "settlement",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "town",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "city_state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "municipality",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "city",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "hamlet",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "urban_center",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -683,55 +731,7 @@
               },
               {
                 "synset": "village",
-                "sinonimo": "hamlet",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "city-state",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "town",
-                "sinonimo": "town",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "municipality",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
                 "sinonimo": "small_town",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "settlement",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "city",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "urban_center",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "city_state",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -774,19 +774,7 @@
               "por": [
                 {
                   "synset": "municipality",
-                  "sinonimo": "autarquias",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "municipality",
                   "sinonimo": "concelho",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "city_state",
-                  "sinonimo": "cidadelivre",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -797,14 +785,14 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "village",
-                  "sinonimo": "povoado",
+                  "synset": "city",
+                  "sinonimo": "metrópoles",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "city",
-                  "sinonimo": "metrópole",
+                  "sinonimo": "município",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -815,8 +803,8 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "city",
-                  "sinonimo": "urbe",
+                  "synset": "city_state",
+                  "sinonimo": "cidade-estado",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -827,38 +815,14 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "city_state",
-                  "sinonimo": "Cidade-estado",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "municipality",
-                  "sinonimo": "comuna",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "city_state",
-                  "sinonimo": "cidade-estado",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "city",
-                  "sinonimo": "município",
+                  "sinonimo": "urbe",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "city",
-                  "sinonimo": "metrópoles",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "town",
-                  "sinonimo": "arraial",
+                  "sinonimo": "burgo",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -869,16 +833,28 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "village",
-                  "sinonimo": "cidade",
+                  "synset": "city_state",
+                  "sinonimo": "Cidade-estado",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "village",
                   "sinonimo": "aldeia",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "city",
+                  "sinonimo": "metrópole",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "city_state",
+                  "sinonimo": "cidadelivre",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "city",
@@ -887,8 +863,32 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "municipality",
+                  "sinonimo": "comuna",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "town",
-                  "sinonimo": "burgo",
+                  "sinonimo": "arraial",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "village",
+                  "sinonimo": "povoado",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "municipality",
+                  "sinonimo": "autarquias",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "town",
+                  "sinonimo": "cidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -897,6 +897,54 @@
                 {
                   "synset": "city",
                   "sinonimo": "metropolis",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "city_state",
+                  "sinonimo": "city-state",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "village",
+                  "sinonimo": "settlement",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "town",
+                  "sinonimo": "town",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "city_state",
+                  "sinonimo": "city_state",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "municipality",
+                  "sinonimo": "municipality",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "city",
+                  "sinonimo": "city",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "village",
+                  "sinonimo": "hamlet",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "city",
+                  "sinonimo": "urban_center",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -908,55 +956,7 @@
                 },
                 {
                   "synset": "village",
-                  "sinonimo": "hamlet",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "city_state",
-                  "sinonimo": "city-state",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "town",
-                  "sinonimo": "town",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "municipality",
-                  "sinonimo": "municipality",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "village",
                   "sinonimo": "small_town",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "village",
-                  "sinonimo": "settlement",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "city",
-                  "sinonimo": "city",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "city",
-                  "sinonimo": "urban_center",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "city_state",
-                  "sinonimo": "city_state",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -994,19 +994,7 @@
               "por": [
                 {
                   "synset": "municipality",
-                  "sinonimo": "autarquias",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "municipality",
                   "sinonimo": "concelho",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "city_state",
-                  "sinonimo": "cidadelivre",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1017,14 +1005,14 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "village",
-                  "sinonimo": "povoado",
+                  "synset": "city",
+                  "sinonimo": "metrópoles",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "city",
-                  "sinonimo": "metrópole",
+                  "sinonimo": "município",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1035,8 +1023,8 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "city",
-                  "sinonimo": "urbe",
+                  "synset": "city_state",
+                  "sinonimo": "cidade-estado",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1047,38 +1035,14 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "city_state",
-                  "sinonimo": "Cidade-estado",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "municipality",
-                  "sinonimo": "comuna",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "city_state",
-                  "sinonimo": "cidade-estado",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "city",
-                  "sinonimo": "município",
+                  "sinonimo": "urbe",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "city",
-                  "sinonimo": "metrópoles",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "town",
-                  "sinonimo": "arraial",
+                  "sinonimo": "burgo",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1089,16 +1053,28 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "village",
-                  "sinonimo": "cidade",
+                  "synset": "city_state",
+                  "sinonimo": "Cidade-estado",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "village",
                   "sinonimo": "aldeia",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "city",
+                  "sinonimo": "metrópole",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "city_state",
+                  "sinonimo": "cidadelivre",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "city",
@@ -1107,8 +1083,32 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "municipality",
+                  "sinonimo": "comuna",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "town",
-                  "sinonimo": "burgo",
+                  "sinonimo": "arraial",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "village",
+                  "sinonimo": "povoado",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "municipality",
+                  "sinonimo": "autarquias",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "town",
+                  "sinonimo": "cidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -1117,6 +1117,54 @@
                 {
                   "synset": "city",
                   "sinonimo": "metropolis",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "city_state",
+                  "sinonimo": "city-state",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "village",
+                  "sinonimo": "settlement",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "town",
+                  "sinonimo": "town",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "city_state",
+                  "sinonimo": "city_state",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "municipality",
+                  "sinonimo": "municipality",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "city",
+                  "sinonimo": "city",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "village",
+                  "sinonimo": "hamlet",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "city",
+                  "sinonimo": "urban_center",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1128,55 +1176,7 @@
                 },
                 {
                   "synset": "village",
-                  "sinonimo": "hamlet",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "city_state",
-                  "sinonimo": "city-state",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "town",
-                  "sinonimo": "town",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "municipality",
-                  "sinonimo": "municipality",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "village",
                   "sinonimo": "small_town",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "village",
-                  "sinonimo": "settlement",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "city",
-                  "sinonimo": "city",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "city",
-                  "sinonimo": "urban_center",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "city_state",
-                  "sinonimo": "city_state",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -1262,7 +1262,7 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "australia": "-22"
+              "australia": "-1"
             },
             "best_bind": {
               "score": 0
@@ -1492,6 +1492,276 @@
         {
           "triples": [
             [
+              "*grande_premio_do_catar_de_motovelocidade_de_2009",
+              "poleridermotogpcountry",
+              "*australia"
+            ]
+          ],
+          "score": 13.20079,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "australia",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.20079,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
+                  "score": 0.20079061
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_do_catar_de_motovelocidade_de_2009",
+              "fastridermotogpcountry",
+              "*australia"
+            ]
+          ],
+          "score": 13.20079,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "australia",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.20079,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
+                  "score": 0.20079061
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_do_catar_de_motovelocidade_de_2009",
+              "firstridermotogpcountry",
+              "*australia"
+            ]
+          ],
+          "score": 13.20079,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "australia",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.20079,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
+                  "score": 0.20079061
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_do_japao_de_motovelocidade_de_2008",
+              "fastridermotogpcountry",
+              "*australia"
+            ]
+          ],
+          "score": 13.20079,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "australia",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.20079,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "grande_premio_do_japao_de_motovelocidade_de_2008",
+                  "score": 0.20079061
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_do_japao_de_motovelocidade_de_2008",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_do_japao_de_motovelocidade_de_2008",
+              "secondridermotogpcountry",
+              "*australia"
+            ]
+          ],
+          "score": 13.20079,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "australia",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.20079,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "grande_premio_do_japao_de_motovelocidade_de_2008",
+                  "score": 0.20079061
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_do_japao_de_motovelocidade_de_2008",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
               "*grande_premio_do_japao_de_motovelocidade_de_2010",
               "firstridermotogpcountry",
               "*australia"
@@ -1541,7 +1811,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 6
+          "id": 11
         },
         {
           "triples": [
@@ -1595,7 +1865,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 7
+          "id": 12
         },
         {
           "triples": [
@@ -1649,115 +1919,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "*grande_premio_do_qatar_de_motovelocidade_de_2010",
-              "poleridermotogpcountry",
-              "*australia"
-            ]
-          ],
-          "score": 13.20079,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "australia",
-              "grande"
-            ],
-            "score_detail": {
-              "m1": 11.20079,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "grande_premio_do_qatar_de_motovelocidade_de_2010",
-                  "score": 0.20079061
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "grande": {
-                  "keyword": {
-                    "termo": "grande",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "grande_premio_do_qatar_de_motovelocidade_de_2010",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "*grande_premio_do_qatar_de_motovelocidade_de_2010",
-              "fastridermotogpcountry",
-              "*australia"
-            ]
-          ],
-          "score": 13.20079,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "australia",
-              "grande"
-            ],
-            "score_detail": {
-              "m1": 11.20079,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "grande_premio_do_qatar_de_motovelocidade_de_2010",
-                  "score": 0.20079061
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "grande": {
-                  "keyword": {
-                    "termo": "grande",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "grande_premio_do_qatar_de_motovelocidade_de_2010",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 10
+          "id": 13
         },
         {
           "triples": [
@@ -1811,7 +1973,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 11
+          "id": 14
         },
         {
           "triples": [
@@ -1865,7 +2027,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 12
+          "id": 15
         },
         {
           "triples": [
@@ -1919,12 +2081,12 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 13
+          "id": 16
         },
         {
           "triples": [
             [
-              "*grande_premio_do_catar_de_motovelocidade_de_2009",
+              "*grande_premio_do_qatar_de_motovelocidade_de_2010",
               "poleridermotogpcountry",
               "*australia"
             ]
@@ -1947,7 +2109,7 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
+                  "resource": "grande_premio_do_qatar_de_motovelocidade_de_2010",
                   "score": 0.20079061
                 },
                 "australia": {
@@ -1965,169 +2127,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 14
-        },
-        {
-          "triples": [
-            [
-              "*grande_premio_do_catar_de_motovelocidade_de_2009",
-              "fastridermotogpcountry",
-              "*australia"
-            ]
-          ],
-          "score": 13.20079,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "australia",
-              "grande"
-            ],
-            "score_detail": {
-              "m1": 11.20079,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
-                  "score": 0.20079061
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "grande": {
-                  "keyword": {
-                    "termo": "grande",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 15
-        },
-        {
-          "triples": [
-            [
-              "*grande_premio_do_catar_de_motovelocidade_de_2009",
-              "firstridermotogpcountry",
-              "*australia"
-            ]
-          ],
-          "score": 13.20079,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "australia",
-              "grande"
-            ],
-            "score_detail": {
-              "m1": 11.20079,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
-                  "score": 0.20079061
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "grande": {
-                  "keyword": {
-                    "termo": "grande",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "grande_premio_do_catar_de_motovelocidade_de_2009",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 16
-        },
-        {
-          "triples": [
-            [
-              "*grande_premio_do_japao_de_motovelocidade_de_2008",
-              "fastridermotogpcountry",
-              "*australia"
-            ]
-          ],
-          "score": 13.20079,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "australia",
-              "grande"
-            ],
-            "score_detail": {
-              "m1": 11.20079,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "grande_premio_do_japao_de_motovelocidade_de_2008",
-                  "score": 0.20079061
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "grande": {
-                  "keyword": {
-                    "termo": "grande",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "grande_premio_do_japao_de_motovelocidade_de_2008",
+                  "resource": "grande_premio_do_qatar_de_motovelocidade_de_2010",
                   "score": 1.0
                 }
               }
@@ -2140,8 +2140,8 @@
         {
           "triples": [
             [
-              "*grande_premio_do_japao_de_motovelocidade_de_2008",
-              "secondridermotogpcountry",
+              "*grande_premio_do_qatar_de_motovelocidade_de_2010",
+              "fastridermotogpcountry",
               "*australia"
             ]
           ],
@@ -2163,7 +2163,7 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "grande_premio_do_japao_de_motovelocidade_de_2008",
+                  "resource": "grande_premio_do_qatar_de_motovelocidade_de_2010",
                   "score": 0.20079061
                 },
                 "australia": {
@@ -2181,7 +2181,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "grande_premio_do_japao_de_motovelocidade_de_2008",
+                  "resource": "grande_premio_do_qatar_de_motovelocidade_de_2010",
                   "score": 1.0
                 }
               }
@@ -2190,222 +2190,6 @@
             "proper_nouns_matched_count": 1
           },
           "id": 18
-        },
-        {
-          "triples": [
-            [
-              "*grande_premio_de_aragao_de_motovelocidade_de_2010",
-              "poleridermotogpcountry",
-              "*australia"
-            ]
-          ],
-          "score": 13.183936,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "australia",
-              "grande"
-            ],
-            "score_detail": {
-              "m1": 11.183936,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "grande_premio_de_aragao_de_motovelocidade_de_2010",
-                  "score": 0.18393588
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "grande": {
-                  "keyword": {
-                    "termo": "grande",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "grande_premio_de_aragao_de_motovelocidade_de_2010",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 19
-        },
-        {
-          "triples": [
-            [
-              "*grande_premio_de_aragao_de_motovelocidade_de_2010",
-              "firstridermotogpcountry",
-              "*australia"
-            ]
-          ],
-          "score": 13.183936,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "australia",
-              "grande"
-            ],
-            "score_detail": {
-              "m1": 11.183936,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "grande_premio_de_aragao_de_motovelocidade_de_2010",
-                  "score": 0.18393588
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "grande": {
-                  "keyword": {
-                    "termo": "grande",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "grande_premio_de_aragao_de_motovelocidade_de_2010",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 20
-        },
-        {
-          "triples": [
-            [
-              "*grande_premio_da_italia_de_motovelocidade_de_2008",
-              "fastridermotogpcountry",
-              "*australia"
-            ]
-          ],
-          "score": 13.183936,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "australia",
-              "grande"
-            ],
-            "score_detail": {
-              "m1": 11.183936,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "grande_premio_da_italia_de_motovelocidade_de_2008",
-                  "score": 0.18393588
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "grande": {
-                  "keyword": {
-                    "termo": "grande",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "grande_premio_da_italia_de_motovelocidade_de_2008",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 21
-        },
-        {
-          "triples": [
-            [
-              "*grande_premio_da_italia_de_motovelocidade_de_2008",
-              "secondridermotogpcountry",
-              "*australia"
-            ]
-          ],
-          "score": 13.183936,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "australia",
-              "grande"
-            ],
-            "score_detail": {
-              "m1": 11.183936,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "grande_premio_da_italia_de_motovelocidade_de_2008",
-                  "score": 0.18393588
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "grande": {
-                  "keyword": {
-                    "termo": "grande",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "grande_premio_da_italia_de_motovelocidade_de_2008",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 22
         },
         {
           "triples": [
@@ -2459,17 +2243,17 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 23
+          "id": 19
         },
         {
           "triples": [
             [
-              "*grande_premio_da_malasia_de_motovelocidade_de_2009",
-              "firstridermotogpcountry",
+              "*grande_premio_de_aragao_de_motovelocidade_de_2010",
+              "poleridermotogpcountry",
               "*australia"
             ]
           ],
-          "score": 13.168387,
+          "score": 13.183936,
           "detail": {
             "keywords": [
               "cidade",
@@ -2477,7 +2261,7 @@
               "grande"
             ],
             "score_detail": {
-              "m1": 11.168387,
+              "m1": 11.183936,
               "m2": 1.0,
               "m3": 1.0,
               "matches": {
@@ -2487,8 +2271,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "grande_premio_da_malasia_de_motovelocidade_de_2009",
-                  "score": 0.16838764
+                  "resource": "grande_premio_de_aragao_de_motovelocidade_de_2010",
+                  "score": 0.18393588
                 },
                 "australia": {
                   "keyword": {
@@ -2505,7 +2289,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "grande_premio_da_malasia_de_motovelocidade_de_2009",
+                  "resource": "grande_premio_de_aragao_de_motovelocidade_de_2010",
                   "score": 1.0
                 }
               }
@@ -2513,7 +2297,169 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 24
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_de_aragao_de_motovelocidade_de_2010",
+              "firstridermotogpcountry",
+              "*australia"
+            ]
+          ],
+          "score": 13.183936,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "australia",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.183936,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "grande_premio_de_aragao_de_motovelocidade_de_2010",
+                  "score": 0.18393588
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_de_aragao_de_motovelocidade_de_2010",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_italia_de_motovelocidade_de_2008",
+              "fastridermotogpcountry",
+              "*australia"
+            ]
+          ],
+          "score": 13.183936,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "australia",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.183936,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "grande_premio_da_italia_de_motovelocidade_de_2008",
+                  "score": 0.18393588
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_italia_de_motovelocidade_de_2008",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_italia_de_motovelocidade_de_2008",
+              "secondridermotogpcountry",
+              "*australia"
+            ]
+          ],
+          "score": 13.183936,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "australia",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.183936,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "grande_premio_da_italia_de_motovelocidade_de_2008",
+                  "score": 0.18393588
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_italia_de_motovelocidade_de_2008",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
         },
         {
           "triples": [
@@ -2567,7 +2513,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 25
+          "id": 24
         },
         {
           "triples": [
@@ -2621,115 +2567,61 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_malasia_de_motovelocidade_de_2009",
+              "firstridermotogpcountry",
+              "*australia"
+            ]
+          ],
+          "score": 13.168387,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "australia",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.168387,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "grande_premio_da_malasia_de_motovelocidade_de_2009",
+                  "score": 0.16838764
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_malasia_de_motovelocidade_de_2009",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 26
-        },
-        {
-          "triples": [
-            [
-              "*grande_premio_de_portugal_de_motovelocidade_de_2009",
-              "secondridermotogpcountry",
-              "*australia"
-            ]
-          ],
-          "score": 13.154062,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "australia",
-              "grande"
-            ],
-            "score_detail": {
-              "m1": 11.154062,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "grande_premio_de_portugal_de_motovelocidade_de_2009",
-                  "score": 0.15406232
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "grande": {
-                  "keyword": {
-                    "termo": "grande",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "grande_premio_de_portugal_de_motovelocidade_de_2009",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 27
-        },
-        {
-          "triples": [
-            [
-              "*grande_premio_da_alemanha_de_motovelocidade_de_2010",
-              "thirdridermotogpcountry",
-              "*australia"
-            ]
-          ],
-          "score": 13.154062,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "australia",
-              "grande"
-            ],
-            "score_detail": {
-              "m1": 11.154062,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "grande_premio_da_alemanha_de_motovelocidade_de_2010",
-                  "score": 0.15406232
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "grande": {
-                  "keyword": {
-                    "termo": "grande",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "grande_premio_da_alemanha_de_motovelocidade_de_2010",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 28
         },
         {
           "triples": [
@@ -2783,15 +2675,126 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_alemanha_de_motovelocidade_de_2008",
+              "fastridermotogpcountry",
+              "*australia"
+            ]
+          ],
+          "score": 13.154062,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "australia",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.154062,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "grande_premio_da_alemanha_de_motovelocidade_de_2008",
+                  "score": 0.15406232
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_alemanha_de_motovelocidade_de_2008",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_alemanha_de_motovelocidade_de_2008",
+              "firstridermotogpcountry",
+              "*australia"
+            ]
+          ],
+          "score": 13.154062,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "australia",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.154062,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "grande_premio_da_alemanha_de_motovelocidade_de_2008",
+                  "score": 0.15406232
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_alemanha_de_motovelocidade_de_2008",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 29
         }
       ],
-      "ranking_time": 4109065646,
+      "ranking_time": 2935499622,
       "l_sizes": [
-        33023
+        32732
       ],
-      "ranking_time_only": 349677270,
-      "total_time": 14318775464,
+      "a_sizes": [
+        32732
+      ],
+      "ranking_time_only": 322598684,
+      "total_time": 12018155930,
       "timeout": false
     }
   }

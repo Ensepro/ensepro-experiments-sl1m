@@ -55,8 +55,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "frog",
-                "sinonimo": "sapo",
+                "synset": "true_frog",
+                "sinonimo": "rã",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -74,7 +74,7 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "rã",
+                "sinonimo": "sapo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -85,7 +85,7 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "true_frog",
+                "synset": "frog",
                 "sinonimo": "rãs",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -99,18 +99,6 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "true_frog",
-                "sinonimo": "true_frog",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "frog",
-                "sinonimo": "anuran",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "frog",
                 "sinonimo": "salientian",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -118,7 +106,7 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "toad_frog",
+                "sinonimo": "batrachian",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -130,13 +118,25 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "toad",
+                "sinonimo": "anuran",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "frog",
-                "sinonimo": "batrachian",
+                "sinonimo": "toad_frog",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "frog",
+                "sinonimo": "toad",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "true_frog",
+                "sinonimo": "true_frog",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -210,62 +210,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "species",
-                "sinonimo": "espécies",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "classe",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "jaez",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "type",
-                "sinonimo": "variedade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "género",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "style",
-                "sinonimo": "espécie",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "qualidade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "make",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "faça",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "model",
+                "synset": "like",
                 "sinonimo": "tipo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "species",
+                "sinonimo": "espécie",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -276,10 +228,34 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "brand",
+                "sinonimo": "classe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "kind",
                 "sinonimo": "raça",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "brand",
+                "sinonimo": "faça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "genre",
+                "sinonimo": "qualidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "species",
+                "sinonimo": "género",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "style",
@@ -292,36 +268,16 @@
                 "sinonimo": "laia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
+              },
               {
-                "synset": "type",
-                "sinonimo": "type",
+                "synset": "kind",
+                "sinonimo": "espécies",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "like",
-                "sinonimo": "like",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "brand",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "sort",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "kind",
+                "synset": "genre",
+                "sinonimo": "jaez",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -332,14 +288,28 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "like",
-                "sinonimo": "ilk",
+                "synset": "genre",
+                "sinonimo": "variedade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "species",
+                "sinonimo": "species",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "like",
-                "sinonimo": "the_likes_of",
+                "synset": "brand",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "sort",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -350,14 +320,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "kind",
-                "sinonimo": "variety",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "genre",
+                "synset": "like",
+                "sinonimo": "the_likes_of",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -368,22 +332,58 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "brand",
+                "sinonimo": "brand",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "genre",
+                "sinonimo": "genre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "variety",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "like",
+                "sinonimo": "ilk",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "like",
                 "sinonimo": "the_like",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "species",
-                "sinonimo": "species",
+                "synset": "type",
+                "sinonimo": "type",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "style",
                 "sinonimo": "style",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "kind",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "like",
+                "sinonimo": "like",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -423,13 +423,13 @@
             "por": [
               {
                 "synset": "amphibian",
-                "sinonimo": "anfíbios",
+                "sinonimo": "Anfibios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "amphibian",
-                "sinonimo": "Anfibios",
+                "sinonimo": "anfíbios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -497,8 +497,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "frog",
-                "sinonimo": "sapo",
+                "synset": "true_frog",
+                "sinonimo": "rã",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -516,7 +516,7 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "rã",
+                "sinonimo": "sapo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -527,7 +527,7 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "true_frog",
+                "synset": "frog",
                 "sinonimo": "rãs",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -541,18 +541,6 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "true_frog",
-                "sinonimo": "true_frog",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "frog",
-                "sinonimo": "anuran",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "frog",
                 "sinonimo": "salientian",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -560,7 +548,7 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "toad_frog",
+                "sinonimo": "batrachian",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -572,13 +560,25 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "toad",
+                "sinonimo": "anuran",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "frog",
-                "sinonimo": "batrachian",
+                "sinonimo": "toad_frog",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "frog",
+                "sinonimo": "toad",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "true_frog",
+                "sinonimo": "true_frog",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -599,62 +599,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "species",
-                "sinonimo": "espécies",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "classe",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "jaez",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "type",
-                "sinonimo": "variedade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "género",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "style",
-                "sinonimo": "espécie",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "qualidade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "make",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "faça",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "model",
+                "synset": "like",
                 "sinonimo": "tipo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "species",
+                "sinonimo": "espécie",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -665,10 +617,34 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "brand",
+                "sinonimo": "classe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "kind",
                 "sinonimo": "raça",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "brand",
+                "sinonimo": "faça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "genre",
+                "sinonimo": "qualidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "species",
+                "sinonimo": "género",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "style",
@@ -681,36 +657,16 @@
                 "sinonimo": "laia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
+              },
               {
-                "synset": "type",
-                "sinonimo": "type",
+                "synset": "kind",
+                "sinonimo": "espécies",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "like",
-                "sinonimo": "like",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "brand",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "sort",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "kind",
+                "synset": "genre",
+                "sinonimo": "jaez",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -721,14 +677,28 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "like",
-                "sinonimo": "ilk",
+                "synset": "genre",
+                "sinonimo": "variedade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "species",
+                "sinonimo": "species",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "like",
-                "sinonimo": "the_likes_of",
+                "synset": "brand",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "sort",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -739,14 +709,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "kind",
-                "sinonimo": "variety",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "genre",
+                "synset": "like",
+                "sinonimo": "the_likes_of",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -757,22 +721,58 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "brand",
+                "sinonimo": "brand",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "genre",
+                "sinonimo": "genre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "variety",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "like",
+                "sinonimo": "ilk",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "like",
                 "sinonimo": "the_like",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "species",
-                "sinonimo": "species",
+                "synset": "type",
+                "sinonimo": "type",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "style",
                 "sinonimo": "style",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "kind",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "like",
+                "sinonimo": "like",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -792,13 +792,13 @@
             "por": [
               {
                 "synset": "amphibian",
-                "sinonimo": "anfíbios",
+                "sinonimo": "Anfibios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "amphibian",
-                "sinonimo": "Anfibios",
+                "sinonimo": "anfíbios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -849,8 +849,8 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "frog",
-                  "sinonimo": "sapo",
+                  "synset": "true_frog",
+                  "sinonimo": "rã",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -868,7 +868,7 @@
                 },
                 {
                   "synset": "frog",
-                  "sinonimo": "rã",
+                  "sinonimo": "sapo",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -879,7 +879,7 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "true_frog",
+                  "synset": "frog",
                   "sinonimo": "rãs",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
@@ -893,18 +893,6 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "true_frog",
-                  "sinonimo": "true_frog",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "frog",
-                  "sinonimo": "anuran",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "frog",
                   "sinonimo": "salientian",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -912,7 +900,7 @@
                 },
                 {
                   "synset": "frog",
-                  "sinonimo": "toad_frog",
+                  "sinonimo": "batrachian",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -924,13 +912,25 @@
                 },
                 {
                   "synset": "frog",
-                  "sinonimo": "toad",
+                  "sinonimo": "anuran",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
                   "synset": "frog",
-                  "sinonimo": "batrachian",
+                  "sinonimo": "toad_frog",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "frog",
+                  "sinonimo": "toad",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "true_frog",
+                  "sinonimo": "true_frog",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -967,62 +967,14 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "species",
-                  "sinonimo": "espécies",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "kind",
-                  "sinonimo": "classe",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "genre",
-                  "sinonimo": "jaez",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "type",
-                  "sinonimo": "variedade",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "kind",
-                  "sinonimo": "género",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "style",
-                  "sinonimo": "espécie",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "genre",
-                  "sinonimo": "qualidade",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "brand",
-                  "sinonimo": "make",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "brand",
-                  "sinonimo": "faça",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "model",
+                  "synset": "like",
                   "sinonimo": "tipo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "species",
+                  "sinonimo": "espécie",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -1033,10 +985,34 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "brand",
+                  "sinonimo": "classe",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
                   "synset": "kind",
                   "sinonimo": "raça",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "brand",
+                  "sinonimo": "faça",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "genre",
+                  "sinonimo": "qualidade",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "species",
+                  "sinonimo": "género",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "style",
@@ -1049,36 +1025,16 @@
                   "sinonimo": "laia",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                }
-              ],
-              "eng": [
+                },
                 {
-                  "synset": "type",
-                  "sinonimo": "type",
+                  "synset": "kind",
+                  "sinonimo": "espécies",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "like",
-                  "sinonimo": "like",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "brand",
-                  "sinonimo": "brand",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "kind",
-                  "sinonimo": "sort",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "kind",
-                  "sinonimo": "kind",
+                  "synset": "genre",
+                  "sinonimo": "jaez",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1089,14 +1045,28 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "like",
-                  "sinonimo": "ilk",
+                  "synset": "genre",
+                  "sinonimo": "variedade",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "species",
+                  "sinonimo": "species",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "like",
-                  "sinonimo": "the_likes_of",
+                  "synset": "brand",
+                  "sinonimo": "make",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "kind",
+                  "sinonimo": "sort",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1107,14 +1077,8 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "kind",
-                  "sinonimo": "variety",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "genre",
-                  "sinonimo": "genre",
+                  "synset": "like",
+                  "sinonimo": "the_likes_of",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1125,22 +1089,58 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "brand",
+                  "sinonimo": "brand",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "genre",
+                  "sinonimo": "genre",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "kind",
+                  "sinonimo": "variety",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "like",
+                  "sinonimo": "ilk",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
                   "synset": "like",
                   "sinonimo": "the_like",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "species",
-                  "sinonimo": "species",
+                  "synset": "type",
+                  "sinonimo": "type",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "style",
                   "sinonimo": "style",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
+                },
+                {
+                  "synset": "kind",
+                  "sinonimo": "kind",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "like",
+                  "sinonimo": "like",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 }
               ]
             }
@@ -1160,13 +1160,13 @@
               "por": [
                 {
                   "synset": "amphibian",
-                  "sinonimo": "anfíbios",
+                  "sinonimo": "Anfibios",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 },
                 {
                   "synset": "amphibian",
-                  "sinonimo": "Anfibios",
+                  "sinonimo": "anfíbios",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 },
@@ -1252,8 +1252,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "frog",
-                "sinonimo": "sapo",
+                "synset": "true_frog",
+                "sinonimo": "rã",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1271,7 +1271,7 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "rã",
+                "sinonimo": "sapo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1282,7 +1282,7 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "true_frog",
+                "synset": "frog",
                 "sinonimo": "rãs",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -1296,18 +1296,6 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "true_frog",
-                "sinonimo": "true_frog",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "frog",
-                "sinonimo": "anuran",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "frog",
                 "sinonimo": "salientian",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -1315,7 +1303,7 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "toad_frog",
+                "sinonimo": "batrachian",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1327,13 +1315,25 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "toad",
+                "sinonimo": "anuran",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "frog",
-                "sinonimo": "batrachian",
+                "sinonimo": "toad_frog",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "frog",
+                "sinonimo": "toad",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "true_frog",
+                "sinonimo": "true_frog",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -1407,62 +1407,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "species",
-                "sinonimo": "espécies",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "classe",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "jaez",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "type",
-                "sinonimo": "variedade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "género",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "style",
-                "sinonimo": "espécie",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "qualidade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "make",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "faça",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "model",
+                "synset": "like",
                 "sinonimo": "tipo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "species",
+                "sinonimo": "espécie",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -1473,10 +1425,34 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "brand",
+                "sinonimo": "classe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "kind",
                 "sinonimo": "raça",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "brand",
+                "sinonimo": "faça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "genre",
+                "sinonimo": "qualidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "species",
+                "sinonimo": "género",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "style",
@@ -1489,36 +1465,16 @@
                 "sinonimo": "laia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
+              },
               {
-                "synset": "type",
-                "sinonimo": "type",
+                "synset": "kind",
+                "sinonimo": "espécies",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "like",
-                "sinonimo": "like",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "brand",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "sort",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "kind",
+                "synset": "genre",
+                "sinonimo": "jaez",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1529,14 +1485,28 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "like",
-                "sinonimo": "ilk",
+                "synset": "genre",
+                "sinonimo": "variedade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "species",
+                "sinonimo": "species",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "like",
-                "sinonimo": "the_likes_of",
+                "synset": "brand",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "sort",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1547,14 +1517,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "kind",
-                "sinonimo": "variety",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "genre",
+                "synset": "like",
+                "sinonimo": "the_likes_of",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1565,22 +1529,58 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "brand",
+                "sinonimo": "brand",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "genre",
+                "sinonimo": "genre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "variety",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "like",
+                "sinonimo": "ilk",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "like",
                 "sinonimo": "the_like",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "species",
-                "sinonimo": "species",
+                "synset": "type",
+                "sinonimo": "type",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "style",
                 "sinonimo": "style",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "kind",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "like",
+                "sinonimo": "like",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -1620,13 +1620,13 @@
             "por": [
               {
                 "synset": "amphibian",
-                "sinonimo": "anfíbios",
+                "sinonimo": "Anfibios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "amphibian",
-                "sinonimo": "Anfibios",
+                "sinonimo": "anfíbios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -1694,8 +1694,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "frog",
-                "sinonimo": "sapo",
+                "synset": "true_frog",
+                "sinonimo": "rã",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1713,7 +1713,7 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "rã",
+                "sinonimo": "sapo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1724,7 +1724,7 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "true_frog",
+                "synset": "frog",
                 "sinonimo": "rãs",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -1738,18 +1738,6 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "true_frog",
-                "sinonimo": "true_frog",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "frog",
-                "sinonimo": "anuran",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "frog",
                 "sinonimo": "salientian",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -1757,7 +1745,7 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "toad_frog",
+                "sinonimo": "batrachian",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1769,13 +1757,25 @@
               },
               {
                 "synset": "frog",
-                "sinonimo": "toad",
+                "sinonimo": "anuran",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "frog",
-                "sinonimo": "batrachian",
+                "sinonimo": "toad_frog",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "frog",
+                "sinonimo": "toad",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "true_frog",
+                "sinonimo": "true_frog",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -1796,62 +1796,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "species",
-                "sinonimo": "espécies",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "classe",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "jaez",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "type",
-                "sinonimo": "variedade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "género",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "style",
-                "sinonimo": "espécie",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "qualidade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "make",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "faça",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "model",
+                "synset": "like",
                 "sinonimo": "tipo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "species",
+                "sinonimo": "espécie",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -1862,10 +1814,34 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "brand",
+                "sinonimo": "classe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "kind",
                 "sinonimo": "raça",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "brand",
+                "sinonimo": "faça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "genre",
+                "sinonimo": "qualidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "species",
+                "sinonimo": "género",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "style",
@@ -1878,36 +1854,16 @@
                 "sinonimo": "laia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
+              },
               {
-                "synset": "type",
-                "sinonimo": "type",
+                "synset": "kind",
+                "sinonimo": "espécies",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "like",
-                "sinonimo": "like",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "brand",
-                "sinonimo": "brand",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "sort",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "kind",
-                "sinonimo": "kind",
+                "synset": "genre",
+                "sinonimo": "jaez",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1918,14 +1874,28 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "like",
-                "sinonimo": "ilk",
+                "synset": "genre",
+                "sinonimo": "variedade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "species",
+                "sinonimo": "species",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "like",
-                "sinonimo": "the_likes_of",
+                "synset": "brand",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "sort",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1936,14 +1906,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "kind",
-                "sinonimo": "variety",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "genre",
-                "sinonimo": "genre",
+                "synset": "like",
+                "sinonimo": "the_likes_of",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1954,22 +1918,58 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "brand",
+                "sinonimo": "brand",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "genre",
+                "sinonimo": "genre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "variety",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "like",
+                "sinonimo": "ilk",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "like",
                 "sinonimo": "the_like",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "species",
-                "sinonimo": "species",
+                "synset": "type",
+                "sinonimo": "type",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "style",
                 "sinonimo": "style",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "kind",
+                "sinonimo": "kind",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "like",
+                "sinonimo": "like",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -1989,13 +1989,13 @@
             "por": [
               {
                 "synset": "amphibian",
-                "sinonimo": "anfíbios",
+                "sinonimo": "Anfibios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "amphibian",
-                "sinonimo": "Anfibios",
+                "sinonimo": "anfíbios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -2046,8 +2046,8 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "frog",
-                  "sinonimo": "sapo",
+                  "synset": "true_frog",
+                  "sinonimo": "rã",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -2065,7 +2065,7 @@
                 },
                 {
                   "synset": "frog",
-                  "sinonimo": "rã",
+                  "sinonimo": "sapo",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -2076,7 +2076,7 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "true_frog",
+                  "synset": "frog",
                   "sinonimo": "rãs",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
@@ -2090,18 +2090,6 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "true_frog",
-                  "sinonimo": "true_frog",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "frog",
-                  "sinonimo": "anuran",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "frog",
                   "sinonimo": "salientian",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -2109,7 +2097,7 @@
                 },
                 {
                   "synset": "frog",
-                  "sinonimo": "toad_frog",
+                  "sinonimo": "batrachian",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -2121,13 +2109,25 @@
                 },
                 {
                   "synset": "frog",
-                  "sinonimo": "toad",
+                  "sinonimo": "anuran",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
                   "synset": "frog",
-                  "sinonimo": "batrachian",
+                  "sinonimo": "toad_frog",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "frog",
+                  "sinonimo": "toad",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "true_frog",
+                  "sinonimo": "true_frog",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -2164,62 +2164,14 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "species",
-                  "sinonimo": "espécies",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "kind",
-                  "sinonimo": "classe",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "genre",
-                  "sinonimo": "jaez",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "type",
-                  "sinonimo": "variedade",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "kind",
-                  "sinonimo": "género",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "style",
-                  "sinonimo": "espécie",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "genre",
-                  "sinonimo": "qualidade",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "brand",
-                  "sinonimo": "make",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "brand",
-                  "sinonimo": "faça",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "model",
+                  "synset": "like",
                   "sinonimo": "tipo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "species",
+                  "sinonimo": "espécie",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -2230,10 +2182,34 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "brand",
+                  "sinonimo": "classe",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
                   "synset": "kind",
                   "sinonimo": "raça",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "brand",
+                  "sinonimo": "faça",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "genre",
+                  "sinonimo": "qualidade",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "species",
+                  "sinonimo": "género",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "style",
@@ -2246,36 +2222,16 @@
                   "sinonimo": "laia",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                }
-              ],
-              "eng": [
+                },
                 {
-                  "synset": "type",
-                  "sinonimo": "type",
+                  "synset": "kind",
+                  "sinonimo": "espécies",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "like",
-                  "sinonimo": "like",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "brand",
-                  "sinonimo": "brand",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "kind",
-                  "sinonimo": "sort",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "kind",
-                  "sinonimo": "kind",
+                  "synset": "genre",
+                  "sinonimo": "jaez",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -2286,14 +2242,28 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "like",
-                  "sinonimo": "ilk",
+                  "synset": "genre",
+                  "sinonimo": "variedade",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "species",
+                  "sinonimo": "species",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "like",
-                  "sinonimo": "the_likes_of",
+                  "synset": "brand",
+                  "sinonimo": "make",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "kind",
+                  "sinonimo": "sort",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -2304,14 +2274,8 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "kind",
-                  "sinonimo": "variety",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "genre",
-                  "sinonimo": "genre",
+                  "synset": "like",
+                  "sinonimo": "the_likes_of",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -2322,22 +2286,58 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "brand",
+                  "sinonimo": "brand",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "genre",
+                  "sinonimo": "genre",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "kind",
+                  "sinonimo": "variety",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "like",
+                  "sinonimo": "ilk",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
                   "synset": "like",
                   "sinonimo": "the_like",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "species",
-                  "sinonimo": "species",
+                  "synset": "type",
+                  "sinonimo": "type",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "style",
                   "sinonimo": "style",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
+                },
+                {
+                  "synset": "kind",
+                  "sinonimo": "kind",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "like",
+                  "sinonimo": "like",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 }
               ]
             }
@@ -2357,13 +2357,13 @@
               "por": [
                 {
                   "synset": "amphibian",
-                  "sinonimo": "anfíbios",
+                  "sinonimo": "Anfibios",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 },
                 {
                   "synset": "amphibian",
-                  "sinonimo": "Anfibios",
+                  "sinonimo": "anfíbios",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 },
@@ -2397,7 +2397,7 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [],
-      "total_time": 7757084346,
+      "total_time": 19937575685,
       "timeout": false
     }
   }

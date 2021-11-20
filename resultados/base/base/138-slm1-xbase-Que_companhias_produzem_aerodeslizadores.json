@@ -51,26 +51,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "enterprise",
-                "sinonimo": "empresa",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "company",
-                "sinonimo": "companhia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "team",
-                "sinonimo": "equipe",
+                "synset": "troop",
+                "sinonimo": "tropa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "troop",
-                "sinonimo": "tropa",
+                "synset": "company",
+                "sinonimo": "elenco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "empresas",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -81,14 +75,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "team",
-                "sinonimo": "equipa",
+                "synset": "enterprise",
+                "sinonimo": "negócios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "company",
-                "sinonimo": "empresas",
+                "synset": "enterprise",
+                "sinonimo": "empresa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "equipe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -99,24 +99,24 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "enterprise",
-                "sinonimo": "negócios",
+                "synset": "team",
+                "sinonimo": "equipa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "company",
-                "sinonimo": "elenco",
+                "synset": "troop",
+                "sinonimo": "companhia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "squad",
-                "sinonimo": "squad",
+                "synset": "troop",
+                "sinonimo": "troop",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "company",
@@ -125,14 +125,14 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "company",
-                "sinonimo": "company",
+                "synset": "team",
+                "sinonimo": "team",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "troop",
-                "sinonimo": "troop",
+                "synset": "company",
+                "sinonimo": "company",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -143,8 +143,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "team",
-                "sinonimo": "team",
+                "synset": "squad",
+                "sinonimo": "squad",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -168,22 +168,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "produce",
-                "sinonimo": "criar",
+                "synset": "effect",
+                "sinonimo": "causar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "ativar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "fazer",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "effect",
@@ -192,28 +180,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "activate",
-                "sinonimo": "causar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "effect",
-                "sinonimo": "produzir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "ser_causa_de",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "effect",
                 "sinonimo": "efetuar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "produce",
@@ -226,42 +202,48 @@
                 "sinonimo": "ocasionar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ser_causa_de",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ativar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
                 "synset": "grow",
-                "sinonimo": "farm",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "grow",
-                "sinonimo": "raise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "produce",
                 "sinonimo": "produce",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "make",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "bring_about",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "07"
               },
               {
                 "synset": "produce",
                 "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "activate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -278,14 +260,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "grow",
-                "sinonimo": "grow",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "activate",
+                "synset": "produce",
+                "sinonimo": "make",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -294,6 +270,12 @@
                 "sinonimo": "effectuate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
               },
               {
                 "synset": "produce",
@@ -306,6 +288,24 @@
                 "sinonimo": "effect",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "grow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "bring_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -364,26 +364,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "enterprise",
-                "sinonimo": "empresa",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "company",
-                "sinonimo": "companhia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "team",
-                "sinonimo": "equipe",
+                "synset": "troop",
+                "sinonimo": "tropa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "troop",
-                "sinonimo": "tropa",
+                "synset": "company",
+                "sinonimo": "elenco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "empresas",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -394,14 +388,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "team",
-                "sinonimo": "equipa",
+                "synset": "enterprise",
+                "sinonimo": "negócios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "company",
-                "sinonimo": "empresas",
+                "synset": "enterprise",
+                "sinonimo": "empresa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "equipe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -412,24 +412,24 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "enterprise",
-                "sinonimo": "negócios",
+                "synset": "team",
+                "sinonimo": "equipa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "company",
-                "sinonimo": "elenco",
+                "synset": "troop",
+                "sinonimo": "companhia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "squad",
-                "sinonimo": "squad",
+                "synset": "troop",
+                "sinonimo": "troop",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "company",
@@ -438,14 +438,14 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "company",
-                "sinonimo": "company",
+                "synset": "team",
+                "sinonimo": "team",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "troop",
-                "sinonimo": "troop",
+                "synset": "company",
+                "sinonimo": "company",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -456,8 +456,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "team",
-                "sinonimo": "team",
+                "synset": "squad",
+                "sinonimo": "squad",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -481,22 +481,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "produce",
-                "sinonimo": "criar",
+                "synset": "effect",
+                "sinonimo": "causar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "ativar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "fazer",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "effect",
@@ -505,28 +493,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "activate",
-                "sinonimo": "causar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "effect",
-                "sinonimo": "produzir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "ser_causa_de",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "effect",
                 "sinonimo": "efetuar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "produce",
@@ -539,42 +515,48 @@
                 "sinonimo": "ocasionar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ser_causa_de",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ativar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
                 "synset": "grow",
-                "sinonimo": "farm",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "grow",
-                "sinonimo": "raise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "produce",
                 "sinonimo": "produce",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "make",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "bring_about",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "07"
               },
               {
                 "synset": "produce",
                 "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "activate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -591,14 +573,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "grow",
-                "sinonimo": "grow",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "activate",
+                "synset": "produce",
+                "sinonimo": "make",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -607,6 +583,12 @@
                 "sinonimo": "effectuate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
               },
               {
                 "synset": "produce",
@@ -619,6 +601,24 @@
                 "sinonimo": "effect",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "grow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "bring_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -699,26 +699,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "enterprise",
-                "sinonimo": "empresa",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "company",
-                "sinonimo": "companhia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "team",
-                "sinonimo": "equipe",
+                "synset": "troop",
+                "sinonimo": "tropa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "troop",
-                "sinonimo": "tropa",
+                "synset": "company",
+                "sinonimo": "elenco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "empresas",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -729,14 +723,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "team",
-                "sinonimo": "equipa",
+                "synset": "enterprise",
+                "sinonimo": "negócios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "company",
-                "sinonimo": "empresas",
+                "synset": "enterprise",
+                "sinonimo": "empresa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "equipe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -747,24 +747,24 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "enterprise",
-                "sinonimo": "negócios",
+                "synset": "team",
+                "sinonimo": "equipa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "company",
-                "sinonimo": "elenco",
+                "synset": "troop",
+                "sinonimo": "companhia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "squad",
-                "sinonimo": "squad",
+                "synset": "troop",
+                "sinonimo": "troop",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "company",
@@ -773,14 +773,14 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "company",
-                "sinonimo": "company",
+                "synset": "team",
+                "sinonimo": "team",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "troop",
-                "sinonimo": "troop",
+                "synset": "company",
+                "sinonimo": "company",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -791,8 +791,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "team",
-                "sinonimo": "team",
+                "synset": "squad",
+                "sinonimo": "squad",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -816,22 +816,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "produce",
-                "sinonimo": "criar",
+                "synset": "effect",
+                "sinonimo": "causar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "ativar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "fazer",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "effect",
@@ -840,28 +828,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "activate",
-                "sinonimo": "causar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "effect",
-                "sinonimo": "produzir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "ser_causa_de",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "effect",
                 "sinonimo": "efetuar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "produce",
@@ -874,42 +850,48 @@
                 "sinonimo": "ocasionar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ser_causa_de",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ativar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
                 "synset": "grow",
-                "sinonimo": "farm",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "grow",
-                "sinonimo": "raise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "produce",
                 "sinonimo": "produce",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "make",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "bring_about",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "07"
               },
               {
                 "synset": "produce",
                 "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "activate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -926,14 +908,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "grow",
-                "sinonimo": "grow",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "activate",
+                "synset": "produce",
+                "sinonimo": "make",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -942,6 +918,12 @@
                 "sinonimo": "effectuate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
               },
               {
                 "synset": "produce",
@@ -954,6 +936,24 @@
                 "sinonimo": "effect",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "grow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "bring_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -1012,26 +1012,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "enterprise",
-                "sinonimo": "empresa",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "company",
-                "sinonimo": "companhia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "team",
-                "sinonimo": "equipe",
+                "synset": "troop",
+                "sinonimo": "tropa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "troop",
-                "sinonimo": "tropa",
+                "synset": "company",
+                "sinonimo": "elenco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "empresas",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1042,14 +1036,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "team",
-                "sinonimo": "equipa",
+                "synset": "enterprise",
+                "sinonimo": "negócios",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "company",
-                "sinonimo": "empresas",
+                "synset": "enterprise",
+                "sinonimo": "empresa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "equipe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1060,24 +1060,24 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "enterprise",
-                "sinonimo": "negócios",
+                "synset": "team",
+                "sinonimo": "equipa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "company",
-                "sinonimo": "elenco",
+                "synset": "troop",
+                "sinonimo": "companhia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "squad",
-                "sinonimo": "squad",
+                "synset": "troop",
+                "sinonimo": "troop",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "company",
@@ -1086,14 +1086,14 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "company",
-                "sinonimo": "company",
+                "synset": "team",
+                "sinonimo": "team",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "troop",
-                "sinonimo": "troop",
+                "synset": "company",
+                "sinonimo": "company",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -1104,8 +1104,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "team",
-                "sinonimo": "team",
+                "synset": "squad",
+                "sinonimo": "squad",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -1129,22 +1129,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "produce",
-                "sinonimo": "criar",
+                "synset": "effect",
+                "sinonimo": "causar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "ativar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "fazer",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "effect",
@@ -1153,28 +1141,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "activate",
-                "sinonimo": "causar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "effect",
-                "sinonimo": "produzir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "ser_causa_de",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "effect",
                 "sinonimo": "efetuar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "produce",
@@ -1187,42 +1163,48 @@
                 "sinonimo": "ocasionar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ser_causa_de",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ativar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
                 "synset": "grow",
-                "sinonimo": "farm",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "grow",
-                "sinonimo": "raise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "produce",
                 "sinonimo": "produce",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "make",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "produce",
-                "sinonimo": "bring_about",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "07"
               },
               {
                 "synset": "produce",
                 "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "activate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -1239,14 +1221,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "grow",
-                "sinonimo": "grow",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "activate",
-                "sinonimo": "activate",
+                "synset": "produce",
+                "sinonimo": "make",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -1255,6 +1231,12 @@
                 "sinonimo": "effectuate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
               },
               {
                 "synset": "produce",
@@ -1267,6 +1249,24 @@
                 "sinonimo": "effect",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "grow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "bring_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -1299,7 +1299,7 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [],
-      "total_time": 8042115392,
+      "total_time": 12562368691,
       "timeout": false
     }
   }

@@ -196,12 +196,30 @@
             "por": [
               {
                 "synset": "alias",
-                "sinonimo": "pseudônimo",
+                "sinonimo": "alias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome_de_batismo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "nome_de_família",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "nickname",
+                "sinonimo": "alcunha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "first_name",
                 "sinonimo": "apelido",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -209,6 +227,54 @@
               {
                 "synset": "first_name",
                 "sinonimo": "antenome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "prenome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "pseudônimo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome_próprio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "cognome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "pseudónimo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "primeiro_nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "último_nome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -226,16 +292,12 @@
               },
               {
                 "synset": "first_name",
-                "sinonimo": "prenome",
+                "sinonimo": "Nome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "first_name",
-                "sinonimo": "nome",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
+              }
+            ],
+            "eng": [
               {
                 "synset": "alias",
                 "sinonimo": "alias",
@@ -244,60 +306,34 @@
               },
               {
                 "synset": "first_name",
-                "sinonimo": "primeiro_nome",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "first_name",
-                "sinonimo": "Nome",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "first_name",
-                "sinonimo": "nome_de_batismo",
+                "sinonimo": "given_name",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "surname",
-                "sinonimo": "nome_de_família",
+                "sinonimo": "surname",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "first_name",
-                "sinonimo": "nome_próprio",
+                "sinonimo": "first_name",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "nickname",
-                "sinonimo": "alcunha",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "nickname",
-                "sinonimo": "cognome",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "surname",
-                "sinonimo": "último_nome",
+                "sinonimo": "sobriquet",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "alias",
-                "sinonimo": "pseudónimo",
+                "sinonimo": "assumed_name",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
+              },
               {
                 "synset": "alias",
                 "sinonimo": "false_name",
@@ -311,38 +347,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "first_name",
-                "sinonimo": "first_name",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "first_name",
-                "sinonimo": "given_name",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "surname",
+                "synset": "nickname",
                 "sinonimo": "cognomen",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "first_name",
-                "sinonimo": "forename",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "alias",
-                "sinonimo": "alias",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "surname",
-                "sinonimo": "surname",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -353,14 +359,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "nickname",
-                "sinonimo": "sobriquet",
+                "synset": "surname",
+                "sinonimo": "last_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "forename",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "surname",
-                "sinonimo": "last_name",
+                "sinonimo": "family_name",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -373,18 +385,6 @@
               {
                 "synset": "nickname",
                 "sinonimo": "moniker",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "surname",
-                "sinonimo": "family_name",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "alias",
-                "sinonimo": "assumed_name",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -426,12 +426,30 @@
             "por": [
               {
                 "synset": "alias",
-                "sinonimo": "pseudônimo",
+                "sinonimo": "alias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome_de_batismo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "nome_de_família",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "nickname",
+                "sinonimo": "alcunha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "first_name",
                 "sinonimo": "apelido",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -439,6 +457,54 @@
               {
                 "synset": "first_name",
                 "sinonimo": "antenome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "prenome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "pseudônimo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome_próprio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "cognome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "pseudónimo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "primeiro_nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "último_nome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -456,16 +522,12 @@
               },
               {
                 "synset": "first_name",
-                "sinonimo": "prenome",
+                "sinonimo": "Nome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "first_name",
-                "sinonimo": "nome",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
+              }
+            ],
+            "eng": [
               {
                 "synset": "alias",
                 "sinonimo": "alias",
@@ -474,60 +536,34 @@
               },
               {
                 "synset": "first_name",
-                "sinonimo": "primeiro_nome",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "first_name",
-                "sinonimo": "Nome",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "first_name",
-                "sinonimo": "nome_de_batismo",
+                "sinonimo": "given_name",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "surname",
-                "sinonimo": "nome_de_família",
+                "sinonimo": "surname",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "first_name",
-                "sinonimo": "nome_próprio",
+                "sinonimo": "first_name",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "nickname",
-                "sinonimo": "alcunha",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "nickname",
-                "sinonimo": "cognome",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "surname",
-                "sinonimo": "último_nome",
+                "sinonimo": "sobriquet",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "alias",
-                "sinonimo": "pseudónimo",
+                "sinonimo": "assumed_name",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
+              },
               {
                 "synset": "alias",
                 "sinonimo": "false_name",
@@ -541,38 +577,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "first_name",
-                "sinonimo": "first_name",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "first_name",
-                "sinonimo": "given_name",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "surname",
+                "synset": "nickname",
                 "sinonimo": "cognomen",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "first_name",
-                "sinonimo": "forename",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "alias",
-                "sinonimo": "alias",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "surname",
-                "sinonimo": "surname",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -583,14 +589,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "nickname",
-                "sinonimo": "sobriquet",
+                "synset": "surname",
+                "sinonimo": "last_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "forename",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "surname",
-                "sinonimo": "last_name",
+                "sinonimo": "family_name",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -605,18 +617,6 @@
                 "sinonimo": "moniker",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "surname",
-                "sinonimo": "family_name",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "alias",
-                "sinonimo": "assumed_name",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ]
           }
@@ -629,7 +629,7 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [],
-      "total_time": 8511724590,
+      "total_time": 13521469249,
       "timeout": false
     }
   }

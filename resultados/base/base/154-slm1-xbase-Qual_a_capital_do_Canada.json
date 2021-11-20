@@ -210,7 +210,7 @@
             "por": [
               {
                 "synset": "capital",
-                "sinonimo": "capital",
+                "sinonimo": "fundos",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -228,12 +228,18 @@
               },
               {
                 "synset": "capital",
-                "sinonimo": "fundos",
+                "sinonimo": "capital",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
             ],
             "eng": [
+              {
+                "synset": "fund",
+                "sinonimo": "fund",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "fund",
                 "sinonimo": "monetary_fund",
@@ -244,13 +250,7 @@
                 "synset": "capital",
                 "sinonimo": "capital",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "fund",
-                "sinonimo": "fund",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -353,7 +353,7 @@
             "por": [
               {
                 "synset": "capital",
-                "sinonimo": "capital",
+                "sinonimo": "fundos",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -371,12 +371,18 @@
               },
               {
                 "synset": "capital",
-                "sinonimo": "fundos",
+                "sinonimo": "capital",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
             ],
             "eng": [
+              {
+                "synset": "fund",
+                "sinonimo": "fund",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "fund",
                 "sinonimo": "monetary_fund",
@@ -387,13 +393,7 @@
                 "synset": "capital",
                 "sinonimo": "capital",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "fund",
-                "sinonimo": "fund",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -436,7 +436,7 @@
               "por": [
                 {
                   "synset": "capital",
-                  "sinonimo": "capital",
+                  "sinonimo": "fundos",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -454,12 +454,18 @@
                 },
                 {
                   "synset": "capital",
-                  "sinonimo": "fundos",
+                  "sinonimo": "capital",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 }
               ],
               "eng": [
+                {
+                  "synset": "fund",
+                  "sinonimo": "fund",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
                 {
                   "synset": "fund",
                   "sinonimo": "monetary_fund",
@@ -470,13 +476,7 @@
                   "synset": "capital",
                   "sinonimo": "capital",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "fund",
-                  "sinonimo": "fund",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 }
               ]
             }
@@ -503,8 +503,115 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [],
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*canada",
+              "*capital",
+              "ottawa"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "canada",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "canada": "-14",
+              "capital": "-7601"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
       "all_answers": [
+        {
+          "triples": [
+            [
+              "*canada",
+              "*capital",
+              "ottawa"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "canada",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "canada": "-14",
+              "capital": "-7601"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
         {
           "triples": [
             [
@@ -547,16 +654,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "capital": "-3583",
-              "canada": "-14"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
+          "id": 1
         },
         {
           "triples": [
@@ -590,7 +688,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 1
+          "id": 2
         },
         {
           "triples": [
@@ -624,75 +722,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 2
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "wikipagelength",
-              "20"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
           "id": 3
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "wikipageoutdegree",
-              "1"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 4
         },
         {
           "triples": [
@@ -726,483 +756,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 5
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "wikipageid",
-              "2734914"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 6
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "wikipageid",
-              "4574823"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 7
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "prov#wasderivedfrom",
-              "*canada?oldid=23523313"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "wikipageredirects",
-              "*canada"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "wikipageredirects",
-              "kn"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 10
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "wikipagewikilink",
-              "*canada"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 11
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "wikipagerevisionid",
-              "40802543"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 12
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "wikipagerevisionid",
-              "23523313"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 13
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "prov#wasderivedfrom",
-              "*canada?oldid=40802543"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 14
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "isprimarytopicof",
-              "*canada"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 15
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "primarytopic",
-              "*canada"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 16
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 17
-        },
-        {
-          "triples": [
-            [
-              "*canada",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 18
-        },
-        {
-          "triples": [
-            [
-              "nortel",
-              "local",
-              "*canada"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 19
+          "id": 4
         },
         {
           "triples": [
@@ -1236,7 +790,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 20
+          "id": 5
         },
         {
           "triples": [
@@ -1270,143 +824,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 21
-        },
-        {
-          "triples": [
-            [
-              "matrox",
-              "sede",
-              "*canada"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 22
-        },
-        {
-          "triples": [
-            [
-              "appleton_(grupo_musical)",
-              "origem",
-              "*canada"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 23
-        },
-        {
-          "triples": [
-            [
-              "acura_csx",
-              "montagem",
-              "*canada"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 24
-        },
-        {
-          "triples": [
-            [
-              "sarah_mclachlan",
-              "nascimentocidade",
-              "*canada"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 25
+          "id": 6
         },
         {
           "triples": [
@@ -1440,41 +858,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 26
-        },
-        {
-          "triples": [
-            [
-              "lauren_phoenix",
-              "nascimentolocal",
-              "*canada"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "canada"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "canada": {
-                  "keyword": {
-                    "termo": "canada",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "canada",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 27
+          "id": 7
         },
         {
           "triples": [
@@ -1508,7 +892,245 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 28
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*canada",
+              "nomenativo",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "nortel",
+              "local",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "matrox",
+              "sede",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "appleton_(grupo_musical)",
+              "origem",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "acura_csx",
+              "montagem",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "sarah_mclachlan",
+              "nascimentocidade",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "lauren_phoenix",
+              "nascimentolocal",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
         },
         {
           "triples": [
@@ -1542,15 +1164,460 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "don_tapscott",
+              "nascimentolocal",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "don_tapscott",
+              "nacionalidade",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "skye_sweetnam",
+              "origem",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "ruby_keeler",
+              "nacionalidade",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "lighthouse_(banda)",
+              "origem",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "alissa_white_gluz",
+              "nascimentocidade",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "blue_castle_games",
+              "local",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "lago_nipigon",
+              "pais",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "alastair,_2.o_duque_de_connaught_e_strathearn",
+              "localdamorte",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "wilhelm_bach",
+              "mortelocal",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "chuck_biscuits",
+              "origem",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "tim_rozon",
+              "nacionalidade",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "emmalyn_estrada",
+              "origem",
+              "*canada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "canada"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "canada": {
+                  "keyword": {
+                    "termo": "canada",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "canada",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 29
         }
       ],
-      "ranking_time": 17362934434,
+      "ranking_time": 16490654474,
       "l_sizes": [
-        26791
+        25284
       ],
-      "ranking_time_only": 214028036,
-      "total_time": 29839534590,
+      "a_sizes": [
+        25284
+      ],
+      "ranking_time_only": 298284695,
+      "total_time": 32508960304,
       "timeout": false
     }
   }

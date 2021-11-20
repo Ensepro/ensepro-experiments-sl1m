@@ -210,38 +210,26 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "company",
-                "sinonimo": "elenco",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "company",
-                "sinonimo": "empresas",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "company",
-                "sinonimo": "companhia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
                 "synset": "enterprise",
                 "sinonimo": "empresa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
+                "synset": "enterprise",
+                "sinonimo": "empresas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "team",
-                "sinonimo": "equipe",
+                "sinonimo": "time",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "team",
-                "sinonimo": "time",
+                "sinonimo": "equipa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -252,10 +240,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "enterprise",
-                "sinonimo": "negócios",
+                "synset": "team",
+                "sinonimo": "equipe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "elenco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "company",
@@ -264,19 +258,19 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "team",
-                "sinonimo": "equipa",
+                "synset": "enterprise",
+                "sinonimo": "companhia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "enterprise",
+                "sinonimo": "negócios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "company",
-                "sinonimo": "company",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
               {
                 "synset": "team",
                 "sinonimo": "team",
@@ -285,9 +279,15 @@
               },
               {
                 "synset": "company",
-                "sinonimo": "troupe",
+                "sinonimo": "company",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "troop",
+                "sinonimo": "troop",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "enterprise",
@@ -296,16 +296,16 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "team",
+                "synset": "squad",
                 "sinonimo": "squad",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "troop",
-                "sinonimo": "troop",
+                "synset": "company",
+                "sinonimo": "troupe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -345,13 +345,7 @@
             "por": [
               {
                 "synset": "electronics",
-                "sinonimo": "electrónica",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "electronics",
-                "sinonimo": "Eletronica",
+                "sinonimo": "Eletrônica",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -363,13 +357,19 @@
               },
               {
                 "synset": "electronics",
-                "sinonimo": "Eletrónica",
+                "sinonimo": "Eletronica",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "electronics",
-                "sinonimo": "Eletrônica",
+                "sinonimo": "electrónica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "electronics",
+                "sinonimo": "Eletrónica",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -451,6 +451,12 @@
             "eng": [
               {
                 "synset": "establish",
+                "sinonimo": "found",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
                 "sinonimo": "institute",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
@@ -463,19 +469,13 @@
               },
               {
                 "synset": "establish",
-                "sinonimo": "found",
+                "sinonimo": "constitute",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "establish",
                 "sinonimo": "establish",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "establish",
-                "sinonimo": "constitute",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -549,6 +549,12 @@
               "eng": [
                 {
                   "synset": "establish",
+                  "sinonimo": "found",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "establish",
                   "sinonimo": "institute",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "02"
@@ -561,19 +567,13 @@
                 },
                 {
                   "synset": "establish",
-                  "sinonimo": "found",
+                  "sinonimo": "constitute",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "02"
                 },
                 {
                   "synset": "establish",
                   "sinonimo": "establish",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "establish",
-                  "sinonimo": "constitute",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "02"
                 }
@@ -597,38 +597,26 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "company",
-                "sinonimo": "elenco",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "company",
-                "sinonimo": "empresas",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "company",
-                "sinonimo": "companhia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
                 "synset": "enterprise",
                 "sinonimo": "empresa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
+                "synset": "enterprise",
+                "sinonimo": "empresas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "team",
-                "sinonimo": "equipe",
+                "sinonimo": "time",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "team",
-                "sinonimo": "time",
+                "sinonimo": "equipa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -639,10 +627,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "enterprise",
-                "sinonimo": "negócios",
+                "synset": "team",
+                "sinonimo": "equipe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "elenco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "company",
@@ -651,19 +645,19 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "team",
-                "sinonimo": "equipa",
+                "synset": "enterprise",
+                "sinonimo": "companhia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "enterprise",
+                "sinonimo": "negócios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "company",
-                "sinonimo": "company",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
               {
                 "synset": "team",
                 "sinonimo": "team",
@@ -672,9 +666,15 @@
               },
               {
                 "synset": "company",
-                "sinonimo": "troupe",
+                "sinonimo": "company",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "troop",
+                "sinonimo": "troop",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "enterprise",
@@ -683,16 +683,16 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "team",
+                "synset": "squad",
                 "sinonimo": "squad",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "troop",
-                "sinonimo": "troop",
+                "synset": "company",
+                "sinonimo": "troupe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -712,13 +712,7 @@
             "por": [
               {
                 "synset": "electronics",
-                "sinonimo": "electrónica",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "electronics",
-                "sinonimo": "Eletronica",
+                "sinonimo": "Eletrônica",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -730,13 +724,19 @@
               },
               {
                 "synset": "electronics",
-                "sinonimo": "Eletrónica",
+                "sinonimo": "Eletronica",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "electronics",
-                "sinonimo": "Eletrônica",
+                "sinonimo": "electrónica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "electronics",
+                "sinonimo": "Eletrónica",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -784,6 +784,12 @@
             "eng": [
               {
                 "synset": "establish",
+                "sinonimo": "found",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
                 "sinonimo": "institute",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
@@ -796,19 +802,13 @@
               },
               {
                 "synset": "establish",
-                "sinonimo": "found",
+                "sinonimo": "constitute",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "establish",
                 "sinonimo": "establish",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "establish",
-                "sinonimo": "constitute",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -823,7 +823,7 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [],
-      "total_time": 9520368272,
+      "total_time": 8893133709,
       "timeout": false
     }
   }

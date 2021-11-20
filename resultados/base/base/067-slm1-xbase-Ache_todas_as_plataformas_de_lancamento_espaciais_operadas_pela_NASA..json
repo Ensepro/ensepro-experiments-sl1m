@@ -283,7 +283,7 @@
             "por": [
               {
                 "synset": "pier",
-                "sinonimo": "ancoradouro",
+                "sinonimo": "molhe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -294,20 +294,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "pier",
-                "sinonimo": "píer",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "quay",
+                "synset": "platform",
                 "sinonimo": "plataforma",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "pier",
+                "sinonimo": "ancoradouro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "pier",
-                "sinonimo": "molhe",
+                "sinonimo": "píer",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -315,7 +315,19 @@
             "eng": [
               {
                 "synset": "pier",
-                "sinonimo": "dock",
+                "sinonimo": "wharf",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pier",
+                "sinonimo": "pier",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "quay",
+                "sinonimo": "quay",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -327,25 +339,13 @@
               },
               {
                 "synset": "pier",
-                "sinonimo": "pier",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pier",
-                "sinonimo": "wharf",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pier",
                 "sinonimo": "wharfage",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "quay",
-                "sinonimo": "quay",
+                "synset": "pier",
+                "sinonimo": "dock",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -386,26 +386,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "launching",
-                "sinonimo": "lancha",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
                 "synset": "throw",
-                "sinonimo": "arremesso",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "introduction",
                 "sinonimo": "lançamento",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "introduction",
-                "sinonimo": "introdução",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -420,18 +402,30 @@
                 "sinonimo": "primeira_aparição",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "introduction",
+                "sinonimo": "introdução",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "launching",
+                "sinonimo": "lancha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "throw",
+                "sinonimo": "arremesso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "introduction",
-                "sinonimo": "unveiling",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "throw",
-                "sinonimo": "throw",
+                "sinonimo": "debut",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -443,19 +437,7 @@
               },
               {
                 "synset": "introduction",
-                "sinonimo": "first_appearance",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "introduction",
-                "sinonimo": "debut",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "introduction",
-                "sinonimo": "entry",
+                "sinonimo": "unveiling",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -466,8 +448,26 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "throw",
+                "sinonimo": "throw",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "introduction",
                 "sinonimo": "launching",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "introduction",
+                "sinonimo": "first_appearance",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "introduction",
+                "sinonimo": "entry",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -514,25 +514,31 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "operate",
+                "sinonimo": "controlar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
                 "synset": "function",
                 "sinonimo": "funcionar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "operate_on",
+                "synset": "operate",
                 "sinonimo": "operar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "operate",
-                "sinonimo": "controlar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
               }
             ],
             "eng": [
+              {
+                "synset": "operate_on",
+                "sinonimo": "operate_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "function",
                 "sinonimo": "operate",
@@ -547,19 +553,7 @@
               },
               {
                 "synset": "function",
-                "sinonimo": "go",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "function",
                 "sinonimo": "function",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "function",
-                "sinonimo": "work",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -570,8 +564,14 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "operate_on",
-                "sinonimo": "operate_on",
+                "synset": "function",
+                "sinonimo": "work",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "function",
+                "sinonimo": "go",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -674,7 +674,7 @@
             "por": [
               {
                 "synset": "pier",
-                "sinonimo": "ancoradouro",
+                "sinonimo": "molhe",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -685,20 +685,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "pier",
-                "sinonimo": "píer",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "quay",
+                "synset": "platform",
                 "sinonimo": "plataforma",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "pier",
+                "sinonimo": "ancoradouro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "pier",
-                "sinonimo": "molhe",
+                "sinonimo": "píer",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -706,7 +706,19 @@
             "eng": [
               {
                 "synset": "pier",
-                "sinonimo": "dock",
+                "sinonimo": "wharf",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pier",
+                "sinonimo": "pier",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "quay",
+                "sinonimo": "quay",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -718,25 +730,13 @@
               },
               {
                 "synset": "pier",
-                "sinonimo": "pier",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pier",
-                "sinonimo": "wharf",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pier",
                 "sinonimo": "wharfage",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "quay",
-                "sinonimo": "quay",
+                "synset": "pier",
+                "sinonimo": "dock",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -757,26 +757,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "launching",
-                "sinonimo": "lancha",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
                 "synset": "throw",
-                "sinonimo": "arremesso",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "introduction",
                 "sinonimo": "lançamento",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "introduction",
-                "sinonimo": "introdução",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -791,18 +773,30 @@
                 "sinonimo": "primeira_aparição",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "introduction",
+                "sinonimo": "introdução",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "launching",
+                "sinonimo": "lancha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "throw",
+                "sinonimo": "arremesso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "introduction",
-                "sinonimo": "unveiling",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "throw",
-                "sinonimo": "throw",
+                "sinonimo": "debut",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -814,19 +808,7 @@
               },
               {
                 "synset": "introduction",
-                "sinonimo": "first_appearance",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "introduction",
-                "sinonimo": "debut",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "introduction",
-                "sinonimo": "entry",
+                "sinonimo": "unveiling",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -837,8 +819,26 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "throw",
+                "sinonimo": "throw",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "introduction",
                 "sinonimo": "launching",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "introduction",
+                "sinonimo": "first_appearance",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "introduction",
+                "sinonimo": "entry",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -862,25 +862,31 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "operate",
+                "sinonimo": "controlar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
                 "synset": "function",
                 "sinonimo": "funcionar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "operate_on",
+                "synset": "operate",
                 "sinonimo": "operar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "operate",
-                "sinonimo": "controlar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
               }
             ],
             "eng": [
+              {
+                "synset": "operate_on",
+                "sinonimo": "operate_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "function",
                 "sinonimo": "operate",
@@ -895,19 +901,7 @@
               },
               {
                 "synset": "function",
-                "sinonimo": "go",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "function",
                 "sinonimo": "function",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "function",
-                "sinonimo": "work",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -918,8 +912,14 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "operate_on",
-                "sinonimo": "operate_on",
+                "synset": "function",
+                "sinonimo": "work",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "function",
+                "sinonimo": "go",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -963,7 +963,7 @@
               "por": [
                 {
                   "synset": "pier",
-                  "sinonimo": "ancoradouro",
+                  "sinonimo": "molhe",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -974,20 +974,20 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "pier",
-                  "sinonimo": "píer",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "quay",
+                  "synset": "platform",
                   "sinonimo": "plataforma",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "pier",
+                  "sinonimo": "ancoradouro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
                   "synset": "pier",
-                  "sinonimo": "molhe",
+                  "sinonimo": "píer",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -995,7 +995,19 @@
               "eng": [
                 {
                   "synset": "pier",
-                  "sinonimo": "dock",
+                  "sinonimo": "wharf",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pier",
+                  "sinonimo": "pier",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "quay",
+                  "sinonimo": "quay",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1007,25 +1019,13 @@
                 },
                 {
                   "synset": "pier",
-                  "sinonimo": "pier",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pier",
-                  "sinonimo": "wharf",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pier",
                   "sinonimo": "wharfage",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "quay",
-                  "sinonimo": "quay",
+                  "synset": "pier",
+                  "sinonimo": "dock",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -1046,26 +1046,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "launching",
-                  "sinonimo": "lancha",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
                   "synset": "throw",
-                  "sinonimo": "arremesso",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "introduction",
                   "sinonimo": "lançamento",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "introduction",
-                  "sinonimo": "introdução",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1080,18 +1062,30 @@
                   "sinonimo": "primeira_aparição",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "introduction",
+                  "sinonimo": "introdução",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "launching",
+                  "sinonimo": "lancha",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "throw",
+                  "sinonimo": "arremesso",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
                 }
               ],
               "eng": [
                 {
                   "synset": "introduction",
-                  "sinonimo": "unveiling",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "throw",
-                  "sinonimo": "throw",
+                  "sinonimo": "debut",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1103,19 +1097,7 @@
                 },
                 {
                   "synset": "introduction",
-                  "sinonimo": "first_appearance",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "introduction",
-                  "sinonimo": "debut",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "introduction",
-                  "sinonimo": "entry",
+                  "sinonimo": "unveiling",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1126,8 +1108,26 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "throw",
+                  "sinonimo": "throw",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "introduction",
                   "sinonimo": "launching",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "introduction",
+                  "sinonimo": "first_appearance",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "introduction",
+                  "sinonimo": "entry",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -1152,7 +1152,7 @@
               "por": [
                 {
                   "synset": "pier",
-                  "sinonimo": "ancoradouro",
+                  "sinonimo": "molhe",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1163,20 +1163,20 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "pier",
-                  "sinonimo": "píer",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "quay",
+                  "synset": "platform",
                   "sinonimo": "plataforma",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "pier",
+                  "sinonimo": "ancoradouro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
                   "synset": "pier",
-                  "sinonimo": "molhe",
+                  "sinonimo": "píer",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -1184,7 +1184,19 @@
               "eng": [
                 {
                   "synset": "pier",
-                  "sinonimo": "dock",
+                  "sinonimo": "wharf",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pier",
+                  "sinonimo": "pier",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "quay",
+                  "sinonimo": "quay",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1196,25 +1208,13 @@
                 },
                 {
                   "synset": "pier",
-                  "sinonimo": "pier",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pier",
-                  "sinonimo": "wharf",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pier",
                   "sinonimo": "wharfage",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "quay",
-                  "sinonimo": "quay",
+                  "synset": "pier",
+                  "sinonimo": "dock",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -1452,23 +1452,23 @@
         {
           "triples": [
             [
-              "mars_climate_orbiter",
-              "abstract",
-              "*o orbitador climatico de marte (em ingles: mars climate orbiter - mco), anteriormente denominado de mars surveyor '98 orbiter, foi uma sonda espacial norte-americana projetada e construida pelo laboratorio de jato-propulsao (jpl) da nasa. o mco foi lancado em 11 de dezembro de 1998 a partir de cabo canaveral por um foguete delta ii 7425, alcancando marte 9,5 meses depois, em 23 de setembro de 1999. o mco e o aterrizador polar de marte (em ingles: mars polar lander), anteriormente denominado de mars surveyor '98 lander, faziam parte de uma unica missao - o programa mars surveyor '98, cujo objetivo primario era o estudo do clima marciano. as naves espaciais transportando o mco e o aterrizador polar de marte foram lancadas separadamente ao longo de um curto periodo de tempo. em contraponto a missoes com preocupacoes mais geologicas, como a mars global surveyor e o mars exploration rover, o mco e o aterrizador polar de marte objetivavam o levantamento das variaveis atmosfericas de marte, de maneira a entender como a agua e o dioxido de carbono sao acumulados, sua interacao entre a atmosfera e a superficie e sua volatilidade, a procura de evidencias de como foi o passado climatico e como sera o seu futuro. contudo, o mco foi destruido na atmosfera de marte devido a um erro de navegacao. a nave espacial deveria efetuar sua insercao na orbita de marte a uma altitude de 140 a 150 km da superficie. porem, devido a um erro de calculo, a manobra de insercao orbital foi feita a uma altitude de 57 km, o que causou a destruicao da nave espacial pela sua friccao com a atmosfera de marte. o erro deveu-se a equipe da terra, que fez o uso de medidas inglesas para calcular os parametros para a manobra insercao orbital, enviando-os a nave, cujos sistemas, contudo, apenas realizavam calculos no sistema metrico. a missao principal do mco estava programada para durar um ano marciano, equivalente a aproximadamente dois anos terrestres. para alem de sua missao cientifica, o mco tambem serviria de retransmissor ao aterrizador polar de marte por um periodo de cinco anos e auxiliaria nas retransmissoes de dados dos veiculos geologico-exploradores de marte (em ingles: mars exploration rovers)."
-            ],
-            [
-              "mars_climate_orbiter",
+              "programa_viking",
               "*operacao",
               "*nasa"
+            ],
+            [
+              "programa_viking",
+              "abstract",
+              "*programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido."
             ]
           ],
           "score": 15.666667,
           "detail": {
             "keywords": [
               "nasa",
+              "operacao",
               "espacial",
-              "espaciais",
-              "operacao"
+              "espaciais"
             ],
             "score_detail": {
               "m1": 14.0,
@@ -1499,7 +1499,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "o orbitador climatico de marte (em ingles: mars climate orbiter - mco), anteriormente denominado de mars surveyor '98 orbiter, foi uma sonda espacial norte-americana projetada e construida pelo laboratorio de jato-propulsao (jpl) da nasa. o mco foi lancado em 11 de dezembro de 1998 a partir de cabo canaveral por um foguete delta ii 7425, alcancando marte 9,5 meses depois, em 23 de setembro de 1999. o mco e o aterrizador polar de marte (em ingles: mars polar lander), anteriormente denominado de mars surveyor '98 lander, faziam parte de uma unica missao - o programa mars surveyor '98, cujo objetivo primario era o estudo do clima marciano. as naves espaciais transportando o mco e o aterrizador polar de marte foram lancadas separadamente ao longo de um curto periodo de tempo. em contraponto a missoes com preocupacoes mais geologicas, como a mars global surveyor e o mars exploration rover, o mco e o aterrizador polar de marte objetivavam o levantamento das variaveis atmosfericas de marte, de maneira a entender como a agua e o dioxido de carbono sao acumulados, sua interacao entre a atmosfera e a superficie e sua volatilidade, a procura de evidencias de como foi o passado climatico e como sera o seu futuro. contudo, o mco foi destruido na atmosfera de marte devido a um erro de navegacao. a nave espacial deveria efetuar sua insercao na orbita de marte a uma altitude de 140 a 150 km da superficie. porem, devido a um erro de calculo, a manobra de insercao orbital foi feita a uma altitude de 57 km, o que causou a destruicao da nave espacial pela sua friccao com a atmosfera de marte. o erro deveu-se a equipe da terra, que fez o uso de medidas inglesas para calcular os parametros para a manobra insercao orbital, enviando-os a nave, cujos sistemas, contudo, apenas realizavam calculos no sistema metrico. a missao principal do mco estava programada para durar um ano marciano, equivalente a aproximadamente dois anos terrestres. para alem de sua missao cientifica, o mco tambem serviria de retransmissor ao aterrizador polar de marte por um periodo de cinco anos e auxiliaria nas retransmissoes de dados dos veiculos geologico-exploradores de marte (em ingles: mars exploration rovers).",
+                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido.",
                   "score": 1.0
                 },
                 "espaciais": {
@@ -1508,7 +1508,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "o orbitador climatico de marte (em ingles: mars climate orbiter - mco), anteriormente denominado de mars surveyor '98 orbiter, foi uma sonda espacial norte-americana projetada e construida pelo laboratorio de jato-propulsao (jpl) da nasa. o mco foi lancado em 11 de dezembro de 1998 a partir de cabo canaveral por um foguete delta ii 7425, alcancando marte 9,5 meses depois, em 23 de setembro de 1999. o mco e o aterrizador polar de marte (em ingles: mars polar lander), anteriormente denominado de mars surveyor '98 lander, faziam parte de uma unica missao - o programa mars surveyor '98, cujo objetivo primario era o estudo do clima marciano. as naves espaciais transportando o mco e o aterrizador polar de marte foram lancadas separadamente ao longo de um curto periodo de tempo. em contraponto a missoes com preocupacoes mais geologicas, como a mars global surveyor e o mars exploration rover, o mco e o aterrizador polar de marte objetivavam o levantamento das variaveis atmosfericas de marte, de maneira a entender como a agua e o dioxido de carbono sao acumulados, sua interacao entre a atmosfera e a superficie e sua volatilidade, a procura de evidencias de como foi o passado climatico e como sera o seu futuro. contudo, o mco foi destruido na atmosfera de marte devido a um erro de navegacao. a nave espacial deveria efetuar sua insercao na orbita de marte a uma altitude de 140 a 150 km da superficie. porem, devido a um erro de calculo, a manobra de insercao orbital foi feita a uma altitude de 57 km, o que causou a destruicao da nave espacial pela sua friccao com a atmosfera de marte. o erro deveu-se a equipe da terra, que fez o uso de medidas inglesas para calcular os parametros para a manobra insercao orbital, enviando-os a nave, cujos sistemas, contudo, apenas realizavam calculos no sistema metrico. a missao principal do mco estava programada para durar um ano marciano, equivalente a aproximadamente dois anos terrestres. para alem de sua missao cientifica, o mco tambem serviria de retransmissor ao aterrizador polar de marte por um periodo de cinco anos e auxiliaria nas retransmissoes de dados dos veiculos geologico-exploradores de marte (em ingles: mars exploration rovers).",
+                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido.",
                   "score": 1.0
                 }
               }
@@ -1519,298 +1519,13 @@
           "id": 3,
           "bind_control": {
             "binds": {
-              "nasa": "-1473",
-              "operacao": "-917"
+              "operacao": "-1744",
+              "nasa": "-1"
             },
             "best_bind": {
               "score": 0
             }
           }
-        },
-        {
-          "triples": [
-            [
-              "*clementine_(sonda_espacial)",
-              "abstract",
-              "*a sonda clementine foi uma missao nao tripulada da nasa com a finalidade de testar tecnologias espaciais, de pesquisar a lua, alem de pesquisar o asteroide 1620 geographos. a sonda foi lancada em 25 de janeiro de 1994, da base aerea de vandenberg a bordo de um foguete titan ii modelo g. a sonda clementine foi um projeto elaborado entre a ballistic missile defense organization ou bmdo, chamado anteriormente de strategic defense initiative organization ou sdio e a nasa a sonda tinha uma massa de 424 kg. depois de duas assistencias gravitacionais, a sonda entrou em orbita lunar em 21 de fevereiro. devido a um mau funcionamento de seu computador, seu empuxador foi acionado, levando-o a consumir todo o propelente da sonda. isso impossibilitou que a sonda realiza-se seu encontro com o asteroide 1620 geographos. a sonda permaneceu em uma orbita geocentrica continuando a realizar testes com seus equipamentos ate o termino de sua missao."
-            ],
-            [
-              "*clementine_(sonda_espacial)",
-              "*operacao",
-              "*nasa"
-            ]
-          ],
-          "score": 15.666667,
-          "detail": {
-            "keywords": [
-              "nasa",
-              "espacial",
-              "espaciais",
-              "operacao"
-            ],
-            "score_detail": {
-              "m1": 14.0,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nasa": {
-                  "keyword": {
-                    "termo": "nasa",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "nasa",
-                  "score": 10.0
-                },
-                "operacao": {
-                  "keyword": {
-                    "termo": "operacao",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "operacao",
-                  "score": 2.0
-                },
-                "espacial": {
-                  "keyword": {
-                    "termo": "espacial",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "clementine_(sonda_espacial)",
-                  "score": 1.0
-                },
-                "espaciais": {
-                  "keyword": {
-                    "termo": "espaciais",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "a sonda clementine foi uma missao nao tripulada da nasa com a finalidade de testar tecnologias espaciais, de pesquisar a lua, alem de pesquisar o asteroide 1620 geographos. a sonda foi lancada em 25 de janeiro de 1994, da base aerea de vandenberg a bordo de um foguete titan ii modelo g. a sonda clementine foi um projeto elaborado entre a ballistic missile defense organization ou bmdo, chamado anteriormente de strategic defense initiative organization ou sdio e a nasa a sonda tinha uma massa de 424 kg. depois de duas assistencias gravitacionais, a sonda entrou em orbita lunar em 21 de fevereiro. devido a um mau funcionamento de seu computador, seu empuxador foi acionado, levando-o a consumir todo o propelente da sonda. isso impossibilitou que a sonda realiza-se seu encontro com o asteroide 1620 geographos. a sonda permaneceu em uma orbita geocentrica continuando a realizar testes com seus equipamentos ate o termino de sua missao.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 4
-        },
-        {
-          "triples": [
-            [
-              "programa_viking",
-              "abstract",
-              "*programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido."
-            ],
-            [
-              "programa_viking",
-              "*operacao",
-              "*nasa"
-            ]
-          ],
-          "score": 15.666667,
-          "detail": {
-            "keywords": [
-              "nasa",
-              "espacial",
-              "espaciais",
-              "operacao"
-            ],
-            "score_detail": {
-              "m1": 14.0,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nasa": {
-                  "keyword": {
-                    "termo": "nasa",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "nasa",
-                  "score": 10.0
-                },
-                "operacao": {
-                  "keyword": {
-                    "termo": "operacao",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "operacao",
-                  "score": 2.0
-                },
-                "espacial": {
-                  "keyword": {
-                    "termo": "espacial",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido.",
-                  "score": 1.0
-                },
-                "espaciais": {
-                  "keyword": {
-                    "termo": "espaciais",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 5,
-          "bind_control": {
-            "binds": {
-              "nasa": "-2044",
-              "operacao": "-917"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "programa_viking",
-              "*operacao",
-              "*nasa"
-            ],
-            [
-              "programa_viking",
-              "abstract",
-              "*programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido."
-            ]
-          ],
-          "score": 15.666667,
-          "detail": {
-            "keywords": [
-              "nasa",
-              "operacao",
-              "espacial",
-              "espaciais"
-            ],
-            "score_detail": {
-              "m1": 14.0,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nasa": {
-                  "keyword": {
-                    "termo": "nasa",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "nasa",
-                  "score": 10.0
-                },
-                "operacao": {
-                  "keyword": {
-                    "termo": "operacao",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "operacao",
-                  "score": 2.0
-                },
-                "espacial": {
-                  "keyword": {
-                    "termo": "espacial",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido.",
-                  "score": 1.0
-                },
-                "espaciais": {
-                  "keyword": {
-                    "termo": "espaciais",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 6
-        },
-        {
-          "triples": [
-            [
-              "programa_viking",
-              "*operacao",
-              "*nasa"
-            ],
-            [
-              "programa_viking",
-              "rdf_schema#comment",
-              "*programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a re"
-            ]
-          ],
-          "score": 15.666667,
-          "detail": {
-            "keywords": [
-              "nasa",
-              "operacao",
-              "espacial",
-              "espaciais"
-            ],
-            "score_detail": {
-              "m1": 14.0,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nasa": {
-                  "keyword": {
-                    "termo": "nasa",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "nasa",
-                  "score": 10.0
-                },
-                "operacao": {
-                  "keyword": {
-                    "termo": "operacao",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "operacao",
-                  "score": 2.0
-                },
-                "espacial": {
-                  "keyword": {
-                    "termo": "espacial",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a re",
-                  "score": 1.0
-                },
-                "espaciais": {
-                  "keyword": {
-                    "termo": "espaciais",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a re",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 7
         },
         {
           "triples": [
@@ -1879,7 +1594,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 8
+          "id": 4
         },
         {
           "triples": [
@@ -1948,7 +1663,16 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 9
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "operacao": "-1744",
+              "nasa": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
@@ -2017,7 +1741,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 10
+          "id": 6
         },
         {
           "triples": [
@@ -2086,76 +1810,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 11
-        },
-        {
-          "triples": [
-            [
-              "*clementine_(sonda_espacial)",
-              "*operacao",
-              "*nasa"
-            ],
-            [
-              "*clementine_(sonda_espacial)",
-              "rdf_schema#comment",
-              "*a sonda clementine foi uma missao nao tripulada da nasa com a finalidade de testar tecnologias espaciais, de pesquisar a lua, alem de pesquisar o asteroide 1620 geographos. a sonda foi lancada em 25 de janeiro de 1994, da base aerea de vandenberg a bordo de um foguete titan ii modelo g. a sonda clementine foi um projeto elaborado entre a ballistic missile defense organization ou bmdo, chamado anteriormente de strategic defense initiative organization ou sdio e a nasa a sonda tinha uma massa de 424 kg. depois de duas assistencias gravitacionais, a sonda entrou em orbita lunar em 21 de fevereiro."
-            ]
-          ],
-          "score": 15.666667,
-          "detail": {
-            "keywords": [
-              "nasa",
-              "operacao",
-              "espacial",
-              "espaciais"
-            ],
-            "score_detail": {
-              "m1": 14.0,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nasa": {
-                  "keyword": {
-                    "termo": "nasa",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "nasa",
-                  "score": 10.0
-                },
-                "operacao": {
-                  "keyword": {
-                    "termo": "operacao",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "operacao",
-                  "score": 2.0
-                },
-                "espacial": {
-                  "keyword": {
-                    "termo": "espacial",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "clementine_(sonda_espacial)",
-                  "score": 1.0
-                },
-                "espaciais": {
-                  "keyword": {
-                    "termo": "espaciais",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "a sonda clementine foi uma missao nao tripulada da nasa com a finalidade de testar tecnologias espaciais, de pesquisar a lua, alem de pesquisar o asteroide 1620 geographos. a sonda foi lancada em 25 de janeiro de 1994, da base aerea de vandenberg a bordo de um foguete titan ii modelo g. a sonda clementine foi um projeto elaborado entre a ballistic missile defense organization ou bmdo, chamado anteriormente de strategic defense initiative organization ou sdio e a nasa a sonda tinha uma massa de 424 kg. depois de duas assistencias gravitacionais, a sonda entrou em orbita lunar em 21 de fevereiro.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 12
+          "id": 7
         },
         {
           "triples": [
@@ -2224,14 +1879,14 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 13
+          "id": 8
         },
         {
           "triples": [
             [
               "programa_viking",
-              "rdf_schema#comment",
-              "*programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a re"
+              "abstract",
+              "*programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido."
             ],
             [
               "programa_viking",
@@ -2276,7 +1931,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a re",
+                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido.",
                   "score": 1.0
                 },
                 "espaciais": {
@@ -2285,7 +1940,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a re",
+                  "resource": "programa viking foi um programa espacial nao-tripulado da nasa que consistiu de um par de sondas espaciais americanas enviadas a marte, a viking 1 e a viking 2. cada veiculo era composto de duas partes principais, uma projetada para fotografar a superficie a partir de orbita, e outra para estudar o planeta na superficie. a viking 1 foi lancada em 20 de agosto, e a viking 2, no dia 9 de setembro de 1975, ambas atraves de foguetes titan iii-e com estagios superiores centaur. os orbitadores, baseados na mariner 9, foram criados na forma de um octagono de aproximadamente 2,5 m de diametro e massa total de lancamento de 2328 kg, dos quais 1445 kg eram carburante e gas de controle de atitude. os objetivos principais dos orbitadores viking foram o transporte das sondas de superficie a marte, a realizacao do reconhecimento de locais de possivel pouso, a atuacao como ponte de comunicacao para as sondas de superficie e a realizacao de suas proprias investigacoes cientificas. os landers (veiculos de solo) pesavam cerca de 650 kg, incluindo combustivel e equipamentos para estudos biologicos, quimicos, geologicos, meteorologicos e outros, alem de enviarem mais de 57 mil fotografias da superficie marciana. foi a missao mais cara e ambiciosa ja lancada para marte, com um custo total de cerca de 1 bilhao de dolares. foi muito bem sucedida e formou a maior parte do corpo de conhecimento sobre o planeta atraves da decada de 1990 e meados de 2000. a viking foi uma das mais bem-sucedidas missoes da nasa, a primeira a fazer pousar e operar um artefato humano na superficie de outro planeta, apenas dezenove anos depois do lancamento do primeiro satelite terrestre artificial, mas teve um alto custo, mais de um bilhao de dolares na epoca. ao descobrir muitas formas geologicas que geralmente sao produzidas pela movimentacao de grandes quantidades de agua, o programa viking causou uma revolucao nas ideias cientificas sobre a agua em marte. as sondas causaram tambem uma revolucao no imaginario sobre marte, que depois da extensa documentacao fotografica, ja nao era mais o lugar misterioso da ficcao cientifica, tornando-se por outro lado um vasto campo para novos estudos. a maior frustracao do programa, porem, foi para aqueles que esperavam encontrar alguma evidencia de vida em marte. nada foi encontrado que provasse isso conclusivamente, mesmo que no inicio das analises, obtendo alguns dados intrigantes, a esperanca tenha se mantido.",
                   "score": 1.0
                 }
               }
@@ -2293,23 +1948,14 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 14,
-          "bind_control": {
-            "binds": {
-              "nasa": "-4312",
-              "operacao": "-917"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
+          "id": 9
         },
         {
           "triples": [
             [
               "*clementine_(sonda_espacial)",
-              "rdf_schema#comment",
-              "*a sonda clementine foi uma missao nao tripulada da nasa com a finalidade de testar tecnologias espaciais, de pesquisar a lua, alem de pesquisar o asteroide 1620 geographos. a sonda foi lancada em 25 de janeiro de 1994, da base aerea de vandenberg a bordo de um foguete titan ii modelo g. a sonda clementine foi um projeto elaborado entre a ballistic missile defense organization ou bmdo, chamado anteriormente de strategic defense initiative organization ou sdio e a nasa a sonda tinha uma massa de 424 kg. depois de duas assistencias gravitacionais, a sonda entrou em orbita lunar em 21 de fevereiro."
+              "abstract",
+              "*a sonda clementine foi uma missao nao tripulada da nasa com a finalidade de testar tecnologias espaciais, de pesquisar a lua, alem de pesquisar o asteroide 1620 geographos. a sonda foi lancada em 25 de janeiro de 1994, da base aerea de vandenberg a bordo de um foguete titan ii modelo g. a sonda clementine foi um projeto elaborado entre a ballistic missile defense organization ou bmdo, chamado anteriormente de strategic defense initiative organization ou sdio e a nasa a sonda tinha uma massa de 424 kg. depois de duas assistencias gravitacionais, a sonda entrou em orbita lunar em 21 de fevereiro. devido a um mau funcionamento de seu computador, seu empuxador foi acionado, levando-o a consumir todo o propelente da sonda. isso impossibilitou que a sonda realiza-se seu encontro com o asteroide 1620 geographos. a sonda permaneceu em uma orbita geocentrica continuando a realizar testes com seus equipamentos ate o termino de sua missao."
             ],
             [
               "*clementine_(sonda_espacial)",
@@ -2363,7 +2009,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "a sonda clementine foi uma missao nao tripulada da nasa com a finalidade de testar tecnologias espaciais, de pesquisar a lua, alem de pesquisar o asteroide 1620 geographos. a sonda foi lancada em 25 de janeiro de 1994, da base aerea de vandenberg a bordo de um foguete titan ii modelo g. a sonda clementine foi um projeto elaborado entre a ballistic missile defense organization ou bmdo, chamado anteriormente de strategic defense initiative organization ou sdio e a nasa a sonda tinha uma massa de 424 kg. depois de duas assistencias gravitacionais, a sonda entrou em orbita lunar em 21 de fevereiro.",
+                  "resource": "a sonda clementine foi uma missao nao tripulada da nasa com a finalidade de testar tecnologias espaciais, de pesquisar a lua, alem de pesquisar o asteroide 1620 geographos. a sonda foi lancada em 25 de janeiro de 1994, da base aerea de vandenberg a bordo de um foguete titan ii modelo g. a sonda clementine foi um projeto elaborado entre a ballistic missile defense organization ou bmdo, chamado anteriormente de strategic defense initiative organization ou sdio e a nasa a sonda tinha uma massa de 424 kg. depois de duas assistencias gravitacionais, a sonda entrou em orbita lunar em 21 de fevereiro. devido a um mau funcionamento de seu computador, seu empuxador foi acionado, levando-o a consumir todo o propelente da sonda. isso impossibilitou que a sonda realiza-se seu encontro com o asteroide 1620 geographos. a sonda permaneceu em uma orbita geocentrica continuando a realizar testes com seus equipamentos ate o termino de sua missao.",
                   "score": 1.0
                 }
               }
@@ -2371,31 +2017,32 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 15
+          "id": 10
         },
         {
           "triples": [
             [
-              "*dawn_(sonda_espacial)",
+              "mars_climate_orbiter",
               "abstract",
-              "*a missao dawn, consiste numa nave espacial norte-americana, que foi lancada pela nasa a 27 de setembro de 2007 e que sera gerenciada pelo laboratorio de jato-propulsao  jpl, do estado da california, estados unidos. tera a finalidade de lancar uma sonda que ira examinar os planetas anoes ceres e vesta. esses corpos celestes pertencem ao cinturao de asteroides situados entre marte e jupiter. eles sao os maiores asteroides do nosso sistema solar e sao por vezes denominados de protoplanetas (planetas embrioes) e pensa-se que permaneceram intactos desde a sua formacao. a missao dawn esta incluida no programa da nasa denominado de programa discovery."
+              "*o orbitador climatico de marte (em ingles: mars climate orbiter - mco), anteriormente denominado de mars surveyor '98 orbiter, foi uma sonda espacial norte-americana projetada e construida pelo laboratorio de jato-propulsao (jpl) da nasa. o mco foi lancado em 11 de dezembro de 1998 a partir de cabo canaveral por um foguete delta ii 7425, alcancando marte 9,5 meses depois, em 23 de setembro de 1999. o mco e o aterrizador polar de marte (em ingles: mars polar lander), anteriormente denominado de mars surveyor '98 lander, faziam parte de uma unica missao - o programa mars surveyor '98, cujo objetivo primario era o estudo do clima marciano. as naves espaciais transportando o mco e o aterrizador polar de marte foram lancadas separadamente ao longo de um curto periodo de tempo. em contraponto a missoes com preocupacoes mais geologicas, como a mars global surveyor e o mars exploration rover, o mco e o aterrizador polar de marte objetivavam o levantamento das variaveis atmosfericas de marte, de maneira a entender como a agua e o dioxido de carbono sao acumulados, sua interacao entre a atmosfera e a superficie e sua volatilidade, a procura de evidencias de como foi o passado climatico e como sera o seu futuro. contudo, o mco foi destruido na atmosfera de marte devido a um erro de navegacao. a nave espacial deveria efetuar sua insercao na orbita de marte a uma altitude de 140 a 150 km da superficie. porem, devido a um erro de calculo, a manobra de insercao orbital foi feita a uma altitude de 57 km, o que causou a destruicao da nave espacial pela sua friccao com a atmosfera de marte. o erro deveu-se a equipe da terra, que fez o uso de medidas inglesas para calcular os parametros para a manobra insercao orbital, enviando-os a nave, cujos sistemas, contudo, apenas realizavam calculos no sistema metrico. a missao principal do mco estava programada para durar um ano marciano, equivalente a aproximadamente dois anos terrestres. para alem de sua missao cientifica, o mco tambem serviria de retransmissor ao aterrizador polar de marte por um periodo de cinco anos e auxiliaria nas retransmissoes de dados dos veiculos geologico-exploradores de marte (em ingles: mars exploration rovers)."
             ],
             [
-              "*dawn_(sonda_espacial)",
+              "mars_climate_orbiter",
               "*operacao",
               "*nasa"
             ]
           ],
-          "score": 15.5,
+          "score": 15.666667,
           "detail": {
             "keywords": [
               "nasa",
               "espacial",
+              "espaciais",
               "operacao"
             ],
             "score_detail": {
               "m1": 14.0,
-              "m2": 0.5,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
                 "nasa": {
@@ -2422,15 +2069,24 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "dawn_(sonda_espacial)|adj-sum|a missao dawn, consiste numa nave espacial norte-americana, que foi lancada pela nasa a 27 de setembro de 2007 e que sera gerenciada pelo laboratorio de jato-propulsao  jpl, do estado da california, estados unidos. tera a finalidade de lancar uma sonda que ira examinar os planetas anoes ceres e vesta. esses corpos celestes pertencem ao cinturao de asteroides situados entre marte e jupiter. eles sao os maiores asteroides do nosso sistema solar e sao por vezes denominados de protoplanetas (planetas embrioes) e pensa-se que permaneceram intactos desde a sua formacao. a missao dawn esta incluida no programa da nasa denominado de programa discovery.",
-                  "score": 2.0
+                  "resource": "o orbitador climatico de marte (em ingles: mars climate orbiter - mco), anteriormente denominado de mars surveyor '98 orbiter, foi uma sonda espacial norte-americana projetada e construida pelo laboratorio de jato-propulsao (jpl) da nasa. o mco foi lancado em 11 de dezembro de 1998 a partir de cabo canaveral por um foguete delta ii 7425, alcancando marte 9,5 meses depois, em 23 de setembro de 1999. o mco e o aterrizador polar de marte (em ingles: mars polar lander), anteriormente denominado de mars surveyor '98 lander, faziam parte de uma unica missao - o programa mars surveyor '98, cujo objetivo primario era o estudo do clima marciano. as naves espaciais transportando o mco e o aterrizador polar de marte foram lancadas separadamente ao longo de um curto periodo de tempo. em contraponto a missoes com preocupacoes mais geologicas, como a mars global surveyor e o mars exploration rover, o mco e o aterrizador polar de marte objetivavam o levantamento das variaveis atmosfericas de marte, de maneira a entender como a agua e o dioxido de carbono sao acumulados, sua interacao entre a atmosfera e a superficie e sua volatilidade, a procura de evidencias de como foi o passado climatico e como sera o seu futuro. contudo, o mco foi destruido na atmosfera de marte devido a um erro de navegacao. a nave espacial deveria efetuar sua insercao na orbita de marte a uma altitude de 140 a 150 km da superficie. porem, devido a um erro de calculo, a manobra de insercao orbital foi feita a uma altitude de 57 km, o que causou a destruicao da nave espacial pela sua friccao com a atmosfera de marte. o erro deveu-se a equipe da terra, que fez o uso de medidas inglesas para calcular os parametros para a manobra insercao orbital, enviando-os a nave, cujos sistemas, contudo, apenas realizavam calculos no sistema metrico. a missao principal do mco estava programada para durar um ano marciano, equivalente a aproximadamente dois anos terrestres. para alem de sua missao cientifica, o mco tambem serviria de retransmissor ao aterrizador polar de marte por um periodo de cinco anos e auxiliaria nas retransmissoes de dados dos veiculos geologico-exploradores de marte (em ingles: mars exploration rovers).",
+                  "score": 1.0
+                },
+                "espaciais": {
+                  "keyword": {
+                    "termo": "espaciais",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "o orbitador climatico de marte (em ingles: mars climate orbiter - mco), anteriormente denominado de mars surveyor '98 orbiter, foi uma sonda espacial norte-americana projetada e construida pelo laboratorio de jato-propulsao (jpl) da nasa. o mco foi lancado em 11 de dezembro de 1998 a partir de cabo canaveral por um foguete delta ii 7425, alcancando marte 9,5 meses depois, em 23 de setembro de 1999. o mco e o aterrizador polar de marte (em ingles: mars polar lander), anteriormente denominado de mars surveyor '98 lander, faziam parte de uma unica missao - o programa mars surveyor '98, cujo objetivo primario era o estudo do clima marciano. as naves espaciais transportando o mco e o aterrizador polar de marte foram lancadas separadamente ao longo de um curto periodo de tempo. em contraponto a missoes com preocupacoes mais geologicas, como a mars global surveyor e o mars exploration rover, o mco e o aterrizador polar de marte objetivavam o levantamento das variaveis atmosfericas de marte, de maneira a entender como a agua e o dioxido de carbono sao acumulados, sua interacao entre a atmosfera e a superficie e sua volatilidade, a procura de evidencias de como foi o passado climatico e como sera o seu futuro. contudo, o mco foi destruido na atmosfera de marte devido a um erro de navegacao. a nave espacial deveria efetuar sua insercao na orbita de marte a uma altitude de 140 a 150 km da superficie. porem, devido a um erro de calculo, a manobra de insercao orbital foi feita a uma altitude de 57 km, o que causou a destruicao da nave espacial pela sua friccao com a atmosfera de marte. o erro deveu-se a equipe da terra, que fez o uso de medidas inglesas para calcular os parametros para a manobra insercao orbital, enviando-os a nave, cujos sistemas, contudo, apenas realizavam calculos no sistema metrico. a missao principal do mco estava programada para durar um ano marciano, equivalente a aproximadamente dois anos terrestres. para alem de sua missao cientifica, o mco tambem serviria de retransmissor ao aterrizador polar de marte por um periodo de cinco anos e auxiliaria nas retransmissoes de dados dos veiculos geologico-exploradores de marte (em ingles: mars exploration rovers).",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 16
+          "id": 11
         },
         {
           "triples": [
@@ -2489,14 +2145,14 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 17
+          "id": 12
         },
         {
           "triples": [
             [
               "*dawn_(sonda_espacial)",
-              "rdf_schema#comment",
-              "*a missao dawn, consiste numa nave espacial norte-americana, que foi lancada pela nasa a 27 de setembro de 2007 e que sera gerenciada pelo laboratorio de jato-propulsao  jpl, do estado da california, estados unidos. tera a finalidade de lancar uma sonda que ira examinar os planetas anoes ceres e vesta. esses corpos celestes pertencem ao cinturao de asteroides situados entre marte e jupiter."
+              "abstract",
+              "*a missao dawn, consiste numa nave espacial norte-americana, que foi lancada pela nasa a 27 de setembro de 2007 e que sera gerenciada pelo laboratorio de jato-propulsao  jpl, do estado da california, estados unidos. tera a finalidade de lancar uma sonda que ira examinar os planetas anoes ceres e vesta. esses corpos celestes pertencem ao cinturao de asteroides situados entre marte e jupiter. eles sao os maiores asteroides do nosso sistema solar e sao por vezes denominados de protoplanetas (planetas embrioes) e pensa-se que permaneceram intactos desde a sua formacao. a missao dawn esta incluida no programa da nasa denominado de programa discovery."
             ],
             [
               "*dawn_(sonda_espacial)",
@@ -2540,7 +2196,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "dawn_(sonda_espacial)|adj-sum|a missao dawn, consiste numa nave espacial norte-americana, que foi lancada pela nasa a 27 de setembro de 2007 e que sera gerenciada pelo laboratorio de jato-propulsao  jpl, do estado da california, estados unidos. tera a finalidade de lancar uma sonda que ira examinar os planetas anoes ceres e vesta. esses corpos celestes pertencem ao cinturao de asteroides situados entre marte e jupiter.",
+                  "resource": "dawn_(sonda_espacial)|adj-sum|a missao dawn, consiste numa nave espacial norte-americana, que foi lancada pela nasa a 27 de setembro de 2007 e que sera gerenciada pelo laboratorio de jato-propulsao  jpl, do estado da california, estados unidos. tera a finalidade de lancar uma sonda que ira examinar os planetas anoes ceres e vesta. esses corpos celestes pertencem ao cinturao de asteroides situados entre marte e jupiter. eles sao os maiores asteroides do nosso sistema solar e sao por vezes denominados de protoplanetas (planetas embrioes) e pensa-se que permaneceram intactos desde a sua formacao. a missao dawn esta incluida no programa da nasa denominado de programa discovery.",
                   "score": 2.0
                 }
               }
@@ -2548,204 +2204,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 18
-        },
-        {
-          "triples": [
-            [
-              "*phoenix_(sonda_espacial)",
-              "rdf_schema#comment",
-              "*phoenix foi uma sonda espacial nao-tripulada da nasa, lancada de cabo canaveral em 4 de agosto de 2007, com o objetivo de pesquisar por moleculas de agua na regiao do polo norte do planeta marte. a sonda pousou em marte em 25 de maio de 2008 e operou ate 2 de novembro de 2008, data da ultima comunicacao com a terra. a nasa anunciou o fim da missao em 10 de novembro de 2008. o programa phoenix da nasa foi coordenado pelo cientista brasileiro ramon de paula."
-            ],
-            [
-              "*phoenix_(sonda_espacial)",
-              "*operacao",
-              "*nasa"
-            ]
-          ],
-          "score": 15.5,
-          "detail": {
-            "keywords": [
-              "nasa",
-              "espacial",
-              "operacao"
-            ],
-            "score_detail": {
-              "m1": 14.0,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nasa": {
-                  "keyword": {
-                    "termo": "nasa",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "nasa",
-                  "score": 10.0
-                },
-                "operacao": {
-                  "keyword": {
-                    "termo": "operacao",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "operacao",
-                  "score": 2.0
-                },
-                "espacial": {
-                  "keyword": {
-                    "termo": "espacial",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "phoenix_(sonda_espacial)|adj-sum|phoenix foi uma sonda espacial nao-tripulada da nasa, lancada de cabo canaveral em 4 de agosto de 2007, com o objetivo de pesquisar por moleculas de agua na regiao do polo norte do planeta marte. a sonda pousou em marte em 25 de maio de 2008 e operou ate 2 de novembro de 2008, data da ultima comunicacao com a terra. a nasa anunciou o fim da missao em 10 de novembro de 2008. o programa phoenix da nasa foi coordenado pelo cientista brasileiro ramon de paula.",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 19
-        },
-        {
-          "triples": [
-            [
-              "sts_125",
-              "wikipagewikilink",
-              "*nasa"
-            ],
-            [
-              "sts_125",
-              "*baselancamento",
-              "*plataforma 39a do centro espacial kennedy"
-            ]
-          ],
-          "score": 15.287326,
-          "detail": {
-            "keywords": [
-              "nasa",
-              "lancamento",
-              "plataforma",
-              "espacial"
-            ],
-            "score_detail": {
-              "m1": 13.620659,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "lancamento": {
-                  "keyword": {
-                    "termo": "lancamento",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "baselancamento",
-                  "score": 1.9112967
-                },
-                "nasa": {
-                  "keyword": {
-                    "termo": "nasa",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "nasa",
-                  "score": 10.0
-                },
-                "plataforma": {
-                  "keyword": {
-                    "termo": "plataforma",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "plataforma 39a do centro espacial kennedy",
-                  "score": 0.70936185
-                },
-                "espacial": {
-                  "keyword": {
-                    "termo": "espacial",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "plataforma 39a do centro espacial kennedy",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 20
-        },
-        {
-          "triples": [
-            [
-              "sts_125",
-              "*baselancamento",
-              "*plataforma 39a do centro espacial kennedy"
-            ],
-            [
-              "sts_125",
-              "wikipagewikilink",
-              "*nasa"
-            ]
-          ],
-          "score": 15.287326,
-          "detail": {
-            "keywords": [
-              "lancamento",
-              "plataforma",
-              "espacial",
-              "nasa"
-            ],
-            "score_detail": {
-              "m1": 13.620659,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "lancamento": {
-                  "keyword": {
-                    "termo": "lancamento",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "baselancamento",
-                  "score": 1.9112967
-                },
-                "nasa": {
-                  "keyword": {
-                    "termo": "nasa",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "nasa",
-                  "score": 10.0
-                },
-                "plataforma": {
-                  "keyword": {
-                    "termo": "plataforma",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "plataforma 39a do centro espacial kennedy",
-                  "score": 0.70936185
-                },
-                "espacial": {
-                  "keyword": {
-                    "termo": "espacial",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "plataforma 39a do centro espacial kennedy",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 21
+          "id": 13
         },
         {
           "triples": [
@@ -2799,7 +2258,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 22
+          "id": 14
         },
         {
           "triples": [
@@ -2853,7 +2312,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 23
+          "id": 15
         },
         {
           "triples": [
@@ -2907,43 +2366,33 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 24
+          "id": 16
         },
         {
           "triples": [
             [
               "*nasa",
-              "tipo",
-              "*agencia_espacial"
+              "wikipageexternallink",
+              3
             ],
             [
-              "*lancamentos_espaciais_em_2012",
-              "wikipagewikilink",
+              "*dawn_(sonda_espacial)",
+              "*operacao",
               "*nasa"
             ]
           ],
-          "score": 14.989776,
+          "score": 14.5,
           "detail": {
             "keywords": [
               "nasa",
-              "espacial",
-              "lancamento",
-              "espaciais"
+              "operacao",
+              "espacial"
             ],
             "score_detail": {
-              "m1": 13.323109,
-              "m2": 0.6666667,
+              "m1": 13.0,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
-                "lancamento": {
-                  "keyword": {
-                    "termo": "lancamento",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "lancamentos_espaciais_em_2012",
-                  "score": 1.3231091
-                },
                 "nasa": {
                   "keyword": {
                     "termo": "nasa",
@@ -2953,22 +2402,494 @@
                   "resource": "nasa",
                   "score": 10.0
                 },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
                 "espacial": {
                   "keyword": {
                     "termo": "espacial",
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "agencia_espacial",
+                  "resource": "dawn_(sonda_espacial)",
                   "score": 1.0
-                },
-                "espaciais": {
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*nasa",
+              "wikipageexternallink",
+              3
+            ],
+            [
+              "*clementine_(sonda_espacial)",
+              "*operacao",
+              "*nasa"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "nasa",
+              "operacao",
+              "espacial"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "nasa": {
                   "keyword": {
-                    "termo": "espaciais",
+                    "termo": "nasa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nasa",
+                  "score": 10.0
+                },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
+                "espacial": {
+                  "keyword": {
+                    "termo": "espacial",
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "lancamentos_espaciais_em_2012",
+                  "resource": "clementine_(sonda_espacial)",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*nasa",
+              "wikipageexternallink",
+              3
+            ],
+            [
+              "*phoenix_(sonda_espacial)",
+              "*operacao",
+              "*nasa"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "nasa",
+              "operacao",
+              "espacial"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "nasa": {
+                  "keyword": {
+                    "termo": "nasa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nasa",
+                  "score": 10.0
+                },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
+                "espacial": {
+                  "keyword": {
+                    "termo": "espacial",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "phoenix_(sonda_espacial)",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*nasa",
+              "wikipageexternallink",
+              "*www.nasa.gov"
+            ],
+            [
+              "*dawn_(sonda_espacial)",
+              "*operacao",
+              "*nasa"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "nasa",
+              "operacao",
+              "espacial"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "nasa": {
+                  "keyword": {
+                    "termo": "nasa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nasa",
+                  "score": 10.0
+                },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
+                "espacial": {
+                  "keyword": {
+                    "termo": "espacial",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "dawn_(sonda_espacial)",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*nasa",
+              "wikipageexternallink",
+              "*www.nasa.gov"
+            ],
+            [
+              "*clementine_(sonda_espacial)",
+              "*operacao",
+              "*nasa"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "nasa",
+              "operacao",
+              "espacial"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "nasa": {
+                  "keyword": {
+                    "termo": "nasa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nasa",
+                  "score": 10.0
+                },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
+                "espacial": {
+                  "keyword": {
+                    "termo": "espacial",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "clementine_(sonda_espacial)",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*nasa",
+              "wikipageexternallink",
+              "*www.nasa.gov"
+            ],
+            [
+              "*phoenix_(sonda_espacial)",
+              "*operacao",
+              "*nasa"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "nasa",
+              "operacao",
+              "espacial"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "nasa": {
+                  "keyword": {
+                    "termo": "nasa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nasa",
+                  "score": 10.0
+                },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
+                "espacial": {
+                  "keyword": {
+                    "termo": "espacial",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "phoenix_(sonda_espacial)",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*nasa",
+              "lema",
+              "for the benefit of all"
+            ],
+            [
+              "*dawn_(sonda_espacial)",
+              "*operacao",
+              "*nasa"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "nasa",
+              "operacao",
+              "espacial"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "nasa": {
+                  "keyword": {
+                    "termo": "nasa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nasa",
+                  "score": 10.0
+                },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
+                "espacial": {
+                  "keyword": {
+                    "termo": "espacial",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "dawn_(sonda_espacial)",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*nasa",
+              "lema",
+              "for the benefit of all"
+            ],
+            [
+              "*clementine_(sonda_espacial)",
+              "*operacao",
+              "*nasa"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "nasa",
+              "operacao",
+              "espacial"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "nasa": {
+                  "keyword": {
+                    "termo": "nasa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nasa",
+                  "score": 10.0
+                },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
+                "espacial": {
+                  "keyword": {
+                    "termo": "espacial",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "clementine_(sonda_espacial)",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*nasa",
+              "lema",
+              "for the benefit of all"
+            ],
+            [
+              "*phoenix_(sonda_espacial)",
+              "*operacao",
+              "*nasa"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "nasa",
+              "operacao",
+              "espacial"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "nasa": {
+                  "keyword": {
+                    "termo": "nasa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nasa",
+                  "score": 10.0
+                },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
+                "espacial": {
+                  "keyword": {
+                    "termo": "espacial",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "phoenix_(sonda_espacial)",
                   "score": 1.0
                 }
               }
@@ -2982,37 +2903,27 @@
           "triples": [
             [
               "*nasa",
-              "type",
-              "*agencia_espacial"
+              "filiacao",
+              "governo_federal_dos_estados_unidos_da_america"
             ],
             [
-              "*lancamentos_espaciais_em_2012",
-              "wikipagewikilink",
+              "*dawn_(sonda_espacial)",
+              "*operacao",
               "*nasa"
             ]
           ],
-          "score": 14.989776,
+          "score": 14.5,
           "detail": {
             "keywords": [
               "nasa",
-              "espacial",
-              "lancamento",
-              "espaciais"
+              "operacao",
+              "espacial"
             ],
             "score_detail": {
-              "m1": 13.323109,
-              "m2": 0.6666667,
+              "m1": 13.0,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
-                "lancamento": {
-                  "keyword": {
-                    "termo": "lancamento",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "lancamentos_espaciais_em_2012",
-                  "score": 1.3231091
-                },
                 "nasa": {
                   "keyword": {
                     "termo": "nasa",
@@ -3022,22 +2933,22 @@
                   "resource": "nasa",
                   "score": 10.0
                 },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
                 "espacial": {
                   "keyword": {
                     "termo": "espacial",
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "agencia_espacial",
-                  "score": 1.0
-                },
-                "espaciais": {
-                  "keyword": {
-                    "termo": "espaciais",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "lancamentos_espaciais_em_2012",
+                  "resource": "dawn_(sonda_espacial)",
                   "score": 1.0
                 }
               }
@@ -3051,37 +2962,27 @@
           "triples": [
             [
               "*nasa",
-              "abstract",
-              "*nasa (sigla em ingles de national aeronautics and space administration  administracao nacional da aeronautica e espaco) e uma agencia do governo federal dos estados unidos responsavel pela pesquisa e desenvolvimento de tecnologias e programas de exploracao espacial. sua missao oficial e \\\"fomentar o futuro na pesquisa, descoberta e exploracao espacial\\\". a nasa foi criada em 29 de julho de 1958, substituindo seu antecessor, o naca - national advisory committee for aeronautics (comite consultivo nacional para a aeronautica). a nasa foi responsavel pelo envio do homem a lua (veja projeto apollo) e por diversos outros programas de pesquisa no espaco. atualmente ela trabalha em conjunto com a agencia espacial europeia, com a agencia espacial federal russa e com mais alguns paises da asia para a criacao da estacao espacial internacional. a nasa tambem tem desenvolvido varios programas com satelites e com sondas de pesquisa espacial que viajaram ate outros planetas e ate, alguns deles, se preparam para sair do nosso sistema solar, sendo a proxima grande meta, que tem atraido a atencao de todos, uma viagem tripulada ate o planeta marte, nosso vizinho. a ciencia da nasa esta focada numa melhor compreensao da terra atraves do earth observing system,  na promocao da heliofisica atraves do trabalho do heliophysics research program, na exploracao do sistema solar com missoes roboticas avancadas, tais como new horizons, e na pesquisa astrofisica, aprofundando-se em topicos como o big bang com o auxilio de grandes observatorios."
+              "filiacao",
+              "governo_federal_dos_estados_unidos_da_america"
             ],
             [
-              "*lancamentos_espaciais_em_2012",
-              "wikipagewikilink",
+              "*clementine_(sonda_espacial)",
+              "*operacao",
               "*nasa"
             ]
           ],
-          "score": 14.989776,
+          "score": 14.5,
           "detail": {
             "keywords": [
               "nasa",
-              "espacial",
-              "lancamento",
-              "espaciais"
+              "operacao",
+              "espacial"
             ],
             "score_detail": {
-              "m1": 13.323109,
-              "m2": 0.6666667,
+              "m1": 13.0,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
-                "lancamento": {
-                  "keyword": {
-                    "termo": "lancamento",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "lancamentos_espaciais_em_2012",
-                  "score": 1.3231091
-                },
                 "nasa": {
                   "keyword": {
                     "termo": "nasa",
@@ -3091,22 +2992,22 @@
                   "resource": "nasa",
                   "score": 10.0
                 },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
                 "espacial": {
                   "keyword": {
                     "termo": "espacial",
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "nasa (sigla em ingles de national aeronautics and space administration  administracao nacional da aeronautica e espaco) e uma agencia do governo federal dos estados unidos responsavel pela pesquisa e desenvolvimento de tecnologias e programas de exploracao espacial. sua missao oficial e \\\"fomentar o futuro na pesquisa, descoberta e exploracao espacial\\\". a nasa foi criada em 29 de julho de 1958, substituindo seu antecessor, o naca - national advisory committee for aeronautics (comite consultivo nacional para a aeronautica). a nasa foi responsavel pelo envio do homem a lua (veja projeto apollo) e por diversos outros programas de pesquisa no espaco. atualmente ela trabalha em conjunto com a agencia espacial europeia, com a agencia espacial federal russa e com mais alguns paises da asia para a criacao da estacao espacial internacional. a nasa tambem tem desenvolvido varios programas com satelites e com sondas de pesquisa espacial que viajaram ate outros planetas e ate, alguns deles, se preparam para sair do nosso sistema solar, sendo a proxima grande meta, que tem atraido a atencao de todos, uma viagem tripulada ate o planeta marte, nosso vizinho. a ciencia da nasa esta focada numa melhor compreensao da terra atraves do earth observing system,  na promocao da heliofisica atraves do trabalho do heliophysics research program, na exploracao do sistema solar com missoes roboticas avancadas, tais como new horizons, e na pesquisa astrofisica, aprofundando-se em topicos como o big bang com o auxilio de grandes observatorios.",
-                  "score": 1.0
-                },
-                "espaciais": {
-                  "keyword": {
-                    "termo": "espaciais",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "lancamentos_espaciais_em_2012",
+                  "resource": "clementine_(sonda_espacial)",
                   "score": 1.0
                 }
               }
@@ -3120,37 +3021,27 @@
           "triples": [
             [
               "*nasa",
-              "rdf_schema#comment",
-              "*nasa (sigla em ingles de national aeronautics and space administration  administracao nacional da aeronautica e espaco) e uma agencia do governo federal dos estados unidos responsavel pela pesquisa e desenvolvimento de tecnologias e programas de exploracao espacial. sua missao oficial e \\\"fomentar o futuro na pesquisa, descoberta e exploracao espacial\\\". a nasa foi criada em 29 de julho de 1958, substituindo seu antecessor, o naca - national advisory committee for aeronautics (comite consultivo nacional para a aeronautica)."
+              "filiacao",
+              "governo_federal_dos_estados_unidos_da_america"
             ],
             [
-              "*lancamentos_espaciais_em_2012",
-              "wikipagewikilink",
+              "*phoenix_(sonda_espacial)",
+              "*operacao",
               "*nasa"
             ]
           ],
-          "score": 14.989776,
+          "score": 14.5,
           "detail": {
             "keywords": [
               "nasa",
-              "espacial",
-              "lancamento",
-              "espaciais"
+              "operacao",
+              "espacial"
             ],
             "score_detail": {
-              "m1": 13.323109,
-              "m2": 0.6666667,
+              "m1": 13.0,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
-                "lancamento": {
-                  "keyword": {
-                    "termo": "lancamento",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "lancamentos_espaciais_em_2012",
-                  "score": 1.3231091
-                },
                 "nasa": {
                   "keyword": {
                     "termo": "nasa",
@@ -3160,22 +3051,22 @@
                   "resource": "nasa",
                   "score": 10.0
                 },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
                 "espacial": {
                   "keyword": {
                     "termo": "espacial",
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "nasa (sigla em ingles de national aeronautics and space administration  administracao nacional da aeronautica e espaco) e uma agencia do governo federal dos estados unidos responsavel pela pesquisa e desenvolvimento de tecnologias e programas de exploracao espacial. sua missao oficial e \\\"fomentar o futuro na pesquisa, descoberta e exploracao espacial\\\". a nasa foi criada em 29 de julho de 1958, substituindo seu antecessor, o naca - national advisory committee for aeronautics (comite consultivo nacional para a aeronautica).",
-                  "score": 1.0
-                },
-                "espaciais": {
-                  "keyword": {
-                    "termo": "espaciais",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "lancamentos_espaciais_em_2012",
+                  "resource": "phoenix_(sonda_espacial)",
                   "score": 1.0
                 }
               }
@@ -3188,38 +3079,28 @@
         {
           "triples": [
             [
-              "*programa_espacial_brasileiro",
-              "wikipagewikilink",
-              "*nasa"
+              "*nasa",
+              "tipo",
+              "*agencia_espacial"
             ],
             [
-              "*lancamentos_espaciais_em_2012",
-              "wikipagewikilink",
+              "triton_orbiter",
+              "*operacao",
               "*nasa"
             ]
           ],
-          "score": 14.989776,
+          "score": 14.5,
           "detail": {
             "keywords": [
               "nasa",
               "espacial",
-              "lancamento",
-              "espaciais"
+              "operacao"
             ],
             "score_detail": {
-              "m1": 13.323109,
-              "m2": 0.6666667,
+              "m1": 13.0,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
-                "lancamento": {
-                  "keyword": {
-                    "termo": "lancamento",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "lancamentos_espaciais_em_2012",
-                  "score": 1.3231091
-                },
                 "nasa": {
                   "keyword": {
                     "termo": "nasa",
@@ -3229,22 +3110,22 @@
                   "resource": "nasa",
                   "score": 10.0
                 },
+                "operacao": {
+                  "keyword": {
+                    "termo": "operacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "operacao",
+                  "score": 2.0
+                },
                 "espacial": {
                   "keyword": {
                     "termo": "espacial",
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "programa_espacial_brasileiro",
-                  "score": 1.0
-                },
-                "espaciais": {
-                  "keyword": {
-                    "termo": "espaciais",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "lancamentos_espaciais_em_2012",
+                  "resource": "agencia_espacial",
                   "score": 1.0
                 }
               }
@@ -3255,13 +3136,17 @@
           "id": 29
         }
       ],
-      "ranking_time": 42068244695,
+      "ranking_time": 43869964329,
       "l_sizes": [
-        31288,
-        8192882
+        29542,
+        29542
       ],
-      "ranking_time_only": 33513147544,
-      "total_time": 53672472821,
+      "a_sizes": [
+        29542,
+        2821082
+      ],
+      "ranking_time_only": 8455336672,
+      "total_time": 57913572062,
       "timeout": false
     }
   }

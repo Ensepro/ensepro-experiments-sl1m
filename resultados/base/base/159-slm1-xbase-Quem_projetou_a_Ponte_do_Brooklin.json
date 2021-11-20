@@ -153,7 +153,7 @@
               },
               {
                 "synset": "design",
-                "sinonimo": "esboçar",
+                "sinonimo": "projetar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "04"
               },
@@ -164,13 +164,19 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "screen",
-                "sinonimo": "projetar",
+                "synset": "design",
+                "sinonimo": "esboçar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "04"
               }
             ],
             "eng": [
+              {
+                "synset": "design",
+                "sinonimo": "design",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
               {
                 "synset": "design",
                 "sinonimo": "plan",
@@ -180,12 +186,6 @@
               {
                 "synset": "screen",
                 "sinonimo": "screen",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "design",
-                "sinonimo": "design",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "04"
               }
@@ -277,7 +277,7 @@
               },
               {
                 "synset": "design",
-                "sinonimo": "esboçar",
+                "sinonimo": "projetar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "04"
               },
@@ -288,13 +288,19 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "screen",
-                "sinonimo": "projetar",
+                "synset": "design",
+                "sinonimo": "esboçar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "04"
               }
             ],
             "eng": [
+              {
+                "synset": "design",
+                "sinonimo": "design",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
               {
                 "synset": "design",
                 "sinonimo": "plan",
@@ -304,12 +310,6 @@
               {
                 "synset": "screen",
                 "sinonimo": "screen",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "design",
-                "sinonimo": "design",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "04"
               }
@@ -345,74 +345,6 @@
         {
           "triples": [
             [
-              "o_rio_nos_pertence",
-              "*projeto",
-              "sonia silk"
-            ]
-          ],
-          "score": 2.3333333,
-          "detail": {
-            "keywords": [
-              "projeto"
-            ],
-            "score_detail": {
-              "m1": 2.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projeto": {
-                  "keyword": {
-                    "termo": "projeto",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "projeto",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 0
-        },
-        {
-          "triples": [
-            [
-              "radio_livre_sejus",
-              "*projeto",
-              "secretaria de justica e cidadania do ceara"
-            ]
-          ],
-          "score": 2.3333333,
-          "detail": {
-            "keywords": [
-              "projeto"
-            ],
-            "score_detail": {
-              "m1": 2.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projeto": {
-                  "keyword": {
-                    "termo": "projeto",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "projeto",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 1
-        },
-        {
-          "triples": [
-            [
               "imperatriz_gemmei",
               "*projeto",
               "japao"
@@ -442,7 +374,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 2
+          "id": 0
         },
         {
           "triples": [
@@ -476,347 +408,75 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "radio_livre_sejus",
+              "*projeto",
+              "secretaria de justica e cidadania do ceara"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "projeto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projeto": {
+                  "keyword": {
+                    "termo": "projeto",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "projeto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "o_rio_nos_pertence",
+              "*projeto",
+              "sonia silk"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "projeto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projeto": {
+                  "keyword": {
+                    "termo": "projeto",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "projeto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
           "id": 3
-        },
-        {
-          "triples": [
-            [
-              "ponte_affonso_penna",
-              "*design",
-              "ponte_pensil"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 4
-        },
-        {
-          "triples": [
-            [
-              "ponte_de_ervedal",
-              "*design",
-              "ponte_pensil"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 5
-        },
-        {
-          "triples": [
-            [
-              "ponte_confederation",
-              "*design",
-              "betao_pre_esforcado"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 6
-        },
-        {
-          "triples": [
-            [
-              "ponte_penang",
-              "*design",
-              "ponte_estaiada"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 7
-        },
-        {
-          "triples": [
-            [
-              "ponte_penang",
-              "*design",
-              "ponte_em_viga_caixao"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "ponte_fatih_sultao_mehmet",
-              "*design",
-              "ponte_pensil"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "ponte_kurushima_kaikyo",
-              "*design",
-              "ponte_suspensa"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 10
-        },
-        {
-          "triples": [
-            [
-              "ponte_hoga_kusten",
-              "*design",
-              "ponte suspensa"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 11
-        },
-        {
-          "triples": [
-            [
-              "ponte_da_normandia",
-              "*design",
-              "ponte_estaiada"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 12
-        },
-        {
-          "triples": [
-            [
-              "skybridge",
-              "*design",
-              "ponte_estaiada"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 13
         },
         {
           "triples": [
@@ -850,7 +510,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 14
+          "id": 4
         },
         {
           "triples": [
@@ -884,7 +544,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 15
+          "id": 5
         },
         {
           "triples": [
@@ -918,211 +578,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 16
-        },
-        {
-          "triples": [
-            [
-              "ponte_das_americas",
-              "*design",
-              "ponte_em_arco"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 17
-        },
-        {
-          "triples": [
-            [
-              "ponte_pensil_d._maria_ii",
-              "*design",
-              "stanislas_bigot"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 18
-        },
-        {
-          "triples": [
-            [
-              "ponte_pensil_d._maria_ii",
-              "*design",
-              "claranges_lucotte_&_cie"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 19
-        },
-        {
-          "triples": [
-            [
-              "ponte_juscelino_kubitschek",
-              "*design",
-              "ponte_em_arco"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 20
-        },
-        {
-          "triples": [
-            [
-              "ponte_juscelino_kubitschek",
-              "*design",
-              "ponte_estaiada"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 21
-        },
-        {
-          "triples": [
-            [
-              "ponte_centenaria_(panama)",
-              "*design",
-              "ponte_estaiada"
-            ]
-          ],
-          "score": 1.3333334,
-          "detail": {
-            "keywords": [
-              "projetar"
-            ],
-            "score_detail": {
-              "m1": 1.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "projetar": {
-                  "keyword": {
-                    "termo": "design",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "design",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 22
+          "id": 6
         },
         {
           "triples": [
@@ -1156,7 +612,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 23
+          "id": 7
         },
         {
           "triples": [
@@ -1190,7 +646,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 24
+          "id": 8
         },
         {
           "triples": [
@@ -1198,6 +654,550 @@
               "ponte_da_arrabida",
               "*design",
               "edgar_cardoso"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "ponte_affonso_penna",
+              "*design",
+              "ponte_pensil"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "ponte_de_ervedal",
+              "*design",
+              "ponte_pensil"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "ponte_confederation",
+              "*design",
+              "betao_pre_esforcado"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "ponte_penang",
+              "*design",
+              "ponte_estaiada"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "ponte_penang",
+              "*design",
+              "ponte_em_viga_caixao"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "ponte_fatih_sultao_mehmet",
+              "*design",
+              "ponte_pensil"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "ponte_kurushima_kaikyo",
+              "*design",
+              "ponte_suspensa"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "ponte_hoga_kusten",
+              "*design",
+              "ponte suspensa"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "ponte_da_normandia",
+              "*design",
+              "ponte_estaiada"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "skybridge",
+              "*design",
+              "ponte_estaiada"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "ponte_das_americas",
+              "*design",
+              "ponte_em_arco"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "ponte_pensil_d._maria_ii",
+              "*design",
+              "stanislas_bigot"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "ponte_pensil_d._maria_ii",
+              "*design",
+              "claranges_lucotte_&_cie"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "ponte_juscelino_kubitschek",
+              "*design",
+              "ponte_em_arco"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "ponte_juscelino_kubitschek",
+              "*design",
+              "ponte_estaiada"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "projetar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "projetar": {
+                  "keyword": {
+                    "termo": "design",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "design",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "ponte_centenaria_(panama)",
+              "*design",
+              "ponte_estaiada"
             ]
           ],
           "score": 1.3333334,
@@ -1363,12 +1363,15 @@
           "id": 29
         }
       ],
-      "ranking_time": 850011562,
+      "ranking_time": 1435961812,
       "l_sizes": [
         1254
       ],
-      "ranking_time_only": 78117094,
-      "total_time": 7571651433,
+      "a_sizes": [
+        1254
+      ],
+      "ranking_time_only": 240153806,
+      "total_time": 12373970238,
       "timeout": false
     }
   }

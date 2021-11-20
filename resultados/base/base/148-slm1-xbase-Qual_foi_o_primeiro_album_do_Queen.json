@@ -267,10 +267,10 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "book",
-                "sinonimo": "livro",
+                "synset": "album",
+                "sinonimo": "álbum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "11"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "album",
@@ -279,10 +279,10 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "album",
-                "sinonimo": "álbum",
+                "synset": "book",
+                "sinonimo": "livro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "11"
               }
             ],
             "eng": [
@@ -290,7 +290,7 @@
                 "synset": "album",
                 "sinonimo": "album",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "album",
@@ -408,10 +408,10 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "book",
-                "sinonimo": "livro",
+                "synset": "album",
+                "sinonimo": "álbum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "11"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "album",
@@ -420,10 +420,10 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "album",
-                "sinonimo": "álbum",
+                "synset": "book",
+                "sinonimo": "livro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "11"
               }
             ],
             "eng": [
@@ -431,7 +431,7 @@
                 "synset": "album",
                 "sinonimo": "album",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "album",
@@ -489,10 +489,10 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "book",
-                  "sinonimo": "livro",
+                  "synset": "album",
+                  "sinonimo": "álbum",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "11"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "album",
@@ -501,10 +501,10 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "album",
-                  "sinonimo": "álbum",
+                  "synset": "book",
+                  "sinonimo": "livro",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "11"
                 }
               ],
               "eng": [
@@ -512,7 +512,7 @@
                   "synset": "album",
                   "sinonimo": "album",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "album",
@@ -564,10 +564,10 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "book",
-                  "sinonimo": "livro",
+                  "synset": "album",
+                  "sinonimo": "álbum",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "11"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "album",
@@ -576,10 +576,10 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "album",
-                  "sinonimo": "álbum",
+                  "synset": "book",
+                  "sinonimo": "livro",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "11"
                 }
               ],
               "eng": [
@@ -587,7 +587,7 @@
                   "synset": "album",
                   "sinonimo": "album",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "album",
@@ -673,8 +673,8 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "queen": "-536",
-              "album": "-655"
+              "queen": "-843",
+              "album": "-395"
             },
             "best_bind": {
               "score": 0
@@ -684,9 +684,9 @@
         {
           "triples": [
             [
-              "*queen",
-              "wikipagewikilink",
-              "*jazz_(album)"
+              "*jazz_(album)",
+              "artista",
+              "*queen"
             ]
           ],
           "score": 13.347701,
@@ -729,7 +729,7 @@
           "triples": [
             [
               "*jazz_(album)",
-              "artista",
+              "producer",
               "*queen"
             ]
           ],
@@ -773,50 +773,6 @@
           "triples": [
             [
               "*jazz_(album)",
-              "producer",
-              "*queen"
-            ]
-          ],
-          "score": 13.347701,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.681034,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "jazz_(album)",
-                  "score": 1.6810346
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 3
-        },
-        {
-          "triples": [
-            [
-              "*jazz_(album)",
               "artist",
               "*queen"
             ]
@@ -855,183 +811,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 4
-        },
-        {
-          "triples": [
-            [
-              "*jazz_(album)",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 13.347701,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.681034,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "jazz_(album)",
-                  "score": 1.6810346
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 5
-        },
-        {
-          "triples": [
-            [
-              "*rima_(album)",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 13.347701,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.681034,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rima_(album)",
-                  "score": 1.6810346
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 6
-        },
-        {
-          "triples": [
-            [
-              "*ocean_(album)",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 13.29438,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.627713,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "ocean_(album)",
-                  "score": 1.6277131
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 7
-        },
-        {
-          "triples": [
-            [
-              "*classic_albums",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 13.239501,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.572834,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "classic_albums",
-                  "score": 1.5728344
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 8
+          "id": 3
         },
         {
           "triples": [
@@ -1075,139 +855,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "*tributo_(album)",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 13.183256,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.516589,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "tributo_(album)",
-                  "score": 1.5165893
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 10
-        },
-        {
-          "triples": [
-            [
-              "*queen",
-              "wikipagewikilink",
-              "*barcelona_(album)"
-            ]
-          ],
-          "score": 13.067535,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.400868,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "barcelona_(album)",
-                  "score": 1.4008684
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 11
-        },
-        {
-          "triples": [
-            [
-              "*barcelona_(album)",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 13.067535,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.400868,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "barcelona_(album)",
-                  "score": 1.4008684
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 12
+          "id": 4
         },
         {
           "triples": [
@@ -1251,51 +899,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 13
-        },
-        {
-          "triples": [
-            [
-              "*red_special_(album)",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 12.949129,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.282462,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "red_special_(album)",
-                  "score": 1.2824624
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 14
+          "id": 5
         },
         {
           "triples": [
@@ -1339,7 +943,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 15
+          "id": 6
         },
         {
           "triples": [
@@ -1383,271 +987,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 16
-        },
-        {
-          "triples": [
-            [
-              "*flash_gordon_(album)",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 12.889572,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.222905,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "flash_gordon_(album)",
-                  "score": 1.222905
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 17
-        },
-        {
-          "triples": [
-            [
-              "*4_(album_de_beyonce)",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 12.889572,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.222905,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "4_(album_de_beyonce)",
-                  "score": 1.222905
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 18
-        },
-        {
-          "triples": [
-            [
-              "*queen",
-              "wikipagewikilink",
-              "*the_final_cut_(album)"
-            ]
-          ],
-          "score": 12.830137,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.16347,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "the_final_cut_(album)",
-                  "score": 1.1634706
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 19
-        },
-        {
-          "triples": [
-            [
-              "*another_world_(album)",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 12.830137,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.16347,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "another_world_(album)",
-                  "score": 1.1634706
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 20
-        },
-        {
-          "triples": [
-            [
-              "*going_to_hell_(album)",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 12.830137,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.16347,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "going_to_hell_(album)",
-                  "score": 1.1634706
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 21
-        },
-        {
-          "triples": [
-            [
-              "*david_garrett_(album)",
-              "wikipagewikilink",
-              "*queen"
-            ]
-          ],
-          "score": 12.830137,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 11.16347,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "david_garrett_(album)",
-                  "score": 1.1634706
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 22
+          "id": 7
         },
         {
           "triples": [
@@ -1691,7 +1031,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 23
+          "id": 8
         },
         {
           "triples": [
@@ -1735,7 +1075,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 24
+          "id": 9
         },
         {
           "triples": [
@@ -1779,51 +1119,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 25
-        },
-        {
-          "triples": [
-            [
-              "*queen",
-              "wikipagewikilink",
-              "*news_of_the_world_(album)"
-            ]
-          ],
-          "score": 12.59885,
-          "detail": {
-            "keywords": [
-              "queen",
-              "album"
-            ],
-            "score_detail": {
-              "m1": 10.932183,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "queen": {
-                  "keyword": {
-                    "termo": "queen",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "queen",
-                  "score": 10.0
-                },
-                "album": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "news_of_the_world_(album)",
-                  "score": 0.9321834
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 26
+          "id": 10
         },
         {
           "triples": [
@@ -1867,7 +1163,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 27
+          "id": 11
         },
         {
           "triples": [
@@ -1911,7 +1207,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 28
+          "id": 12
         },
         {
           "triples": [
@@ -1955,15 +1251,722 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*news_of_the_world_(album)",
+              "artist",
+              "*queen"
+            ]
+          ],
+          "score": 12.59885,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.932183,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "queen",
+                  "score": 10.0
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "news_of_the_world_(album)",
+                  "score": 0.9321834
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "roll_it_gal",
+              "*album",
+              "*soca queen"
+            ]
+          ],
+          "score": 12.578512,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "soca queen",
+                  "score": 8.911845
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "album",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*the_acid_queen__acid_queen__1",
+              "*album",
+              "*acid_queen"
+            ]
+          ],
+          "score": 12.578512,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "acid_queen",
+                  "score": 8.911845
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "album",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*a_day_at_the_races_(album)",
+              "artista",
+              "*queen"
+            ]
+          ],
+          "score": 12.54384,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.877173,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "queen",
+                  "score": 10.0
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "a_day_at_the_races_(album)",
+                  "score": 0.8771735
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*a_day_at_the_races_(album)",
+              "produtor",
+              "*queen"
+            ]
+          ],
+          "score": 12.54384,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.877173,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "queen",
+                  "score": 10.0
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "a_day_at_the_races_(album)",
+                  "score": 0.8771735
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*a_day_at_the_races_(album)",
+              "producer",
+              "*queen"
+            ]
+          ],
+          "score": 12.54384,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.877173,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "queen",
+                  "score": 10.0
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "a_day_at_the_races_(album)",
+                  "score": 0.8771735
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*a_day_at_the_races_(album)",
+              "artist",
+              "*queen"
+            ]
+          ],
+          "score": 12.54384,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.877173,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "queen",
+                  "score": 10.0
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "a_day_at_the_races_(album)",
+                  "score": 0.8771735
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "no_one_but_you_(only_the_good_die_young)",
+              "*album",
+              "*queen_rocks"
+            ]
+          ],
+          "score": 12.329834,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.663167,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "queen_rocks",
+                  "score": 8.663167
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "album",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "how_beautiful_you_are",
+              "*album",
+              "*party_queen"
+            ]
+          ],
+          "score": 12.329834,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.663167,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "party_queen",
+                  "score": 8.663167
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "album",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*party_queen",
+              "22_rdf_syntax_ns#type",
+              "*album"
+            ]
+          ],
+          "score": 12.329834,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.663167,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "party_queen",
+                  "score": 8.663167
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "album",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*rough_(album)",
+              "*ultimoalbum",
+              "*acid queen"
+            ]
+          ],
+          "score": 12.311146,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.644479,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "acid queen",
+                  "score": 8.911845
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ultimoalbum",
+                  "score": 1.7326335
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "tina_turns_the_country_on!",
+              "*proximoalbum",
+              "*acid queen"
+            ]
+          ],
+          "score": 12.259547,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.59288,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "acid queen",
+                  "score": 8.911845
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "proximoalbum",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*rocket_queen",
+              "*album",
+              "appetite_for_destruction"
+            ]
+          ],
+          "score": 12.07184,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rocket_queen",
+                  "score": 8.405173
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "album",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*venice_queen",
+              "*album",
+              "by_the_way"
+            ]
+          ],
+          "score": 12.07184,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "venice_queen",
+                  "score": 8.405173
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "album",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*killer_queen",
+              "*album",
+              "sheer_heart_attack"
+            ]
+          ],
+          "score": 12.07184,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "killer_queen",
+                  "score": 8.405173
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "album",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*glee:_the_music,_the_graduation_album",
+              "extra",
+              "*queen"
+            ]
+          ],
+          "score": 12.064855,
+          "detail": {
+            "keywords": [
+              "queen",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 10.398188,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "queen": {
+                  "keyword": {
+                    "termo": "queen",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "queen",
+                  "score": 10.0
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "glee:_the_music,_the_graduation_album",
+                  "score": 0.3981876
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 29
         }
       ],
-      "ranking_time": 6750765581,
+      "ranking_time": 13109459435,
       "l_sizes": [
-        33245
+        34443
       ],
-      "ranking_time_only": 310075131,
-      "total_time": 17734754086,
+      "a_sizes": [
+        34443
+      ],
+      "ranking_time_only": 554296290,
+      "total_time": 31420560628,
       "timeout": false
     }
   }

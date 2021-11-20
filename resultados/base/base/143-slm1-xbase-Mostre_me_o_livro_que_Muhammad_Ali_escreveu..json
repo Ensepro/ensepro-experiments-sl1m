@@ -236,6 +236,12 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "phrase_book",
+                "sinonimo": "livro_de_frases",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "book",
                 "sinonimo": "álbum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -249,24 +255,30 @@
               },
               {
                 "synset": "tome",
-                "sinonimo": "livro",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "tome",
                 "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "livro_de_frases",
+                "synset": "book",
+                "sinonimo": "livro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
+              {
+                "synset": "phrase_book",
+                "sinonimo": "phrase_book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
               {
                 "synset": "tome",
                 "sinonimo": "tome",
@@ -278,18 +290,6 @@
                 "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
-              },
-              {
-                "synset": "book",
-                "sinonimo": "book",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "phrase_book",
-                "sinonimo": "phrase_book",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ]
           }
@@ -353,10 +353,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "compose",
-                "sinonimo": "compor",
+                "synset": "spell",
+                "sinonimo": "escrever",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "spell",
@@ -365,30 +365,36 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "write",
-                "sinonimo": "redigir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "spell",
-                "sinonimo": "escrever",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
                 "synset": "publish",
                 "sinonimo": "publicar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
-                "synset": "publish",
-                "sinonimo": "publish",
+                "synset": "write",
+                "sinonimo": "drop_a_line",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "spell",
@@ -398,21 +404,15 @@
               },
               {
                 "synset": "write",
-                "sinonimo": "indite",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "write",
-                "sinonimo": "pen",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "compose",
                 "sinonimo": "write",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "compose",
@@ -422,9 +422,9 @@
               },
               {
                 "synset": "write",
-                "sinonimo": "drop_a_line",
+                "sinonimo": "indite",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -469,6 +469,12 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "phrase_book",
+                "sinonimo": "livro_de_frases",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "book",
                 "sinonimo": "álbum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -482,24 +488,30 @@
               },
               {
                 "synset": "tome",
-                "sinonimo": "livro",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "tome",
                 "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "livro_de_frases",
+                "synset": "book",
+                "sinonimo": "livro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
+              {
+                "synset": "phrase_book",
+                "sinonimo": "phrase_book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
               {
                 "synset": "tome",
                 "sinonimo": "tome",
@@ -511,18 +523,6 @@
                 "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
-              },
-              {
-                "synset": "book",
-                "sinonimo": "book",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "phrase_book",
-                "sinonimo": "phrase_book",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ]
           }
@@ -562,10 +562,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "compose",
-                "sinonimo": "compor",
+                "synset": "spell",
+                "sinonimo": "escrever",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "spell",
@@ -574,30 +574,36 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "write",
-                "sinonimo": "redigir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "spell",
-                "sinonimo": "escrever",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
                 "synset": "publish",
                 "sinonimo": "publicar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
-                "synset": "publish",
-                "sinonimo": "publish",
+                "synset": "write",
+                "sinonimo": "drop_a_line",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "spell",
@@ -607,21 +613,15 @@
               },
               {
                 "synset": "write",
-                "sinonimo": "indite",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "write",
-                "sinonimo": "pen",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "compose",
                 "sinonimo": "write",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "compose",
@@ -631,9 +631,9 @@
               },
               {
                 "synset": "write",
-                "sinonimo": "drop_a_line",
+                "sinonimo": "indite",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -644,120 +644,40 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [
-        {
-          "triples": [
-            [
-              "linda_creed",
-              "wikipagewikilink",
-              "*muhammad_ali"
-            ],
-            [
-              "*ben_(album_de_michael_jackson)",
-              "*escritor",
-              "linda_creed"
-            ]
-          ],
-          "score": 13.837048,
-          "detail": {
-            "keywords": [
-              "muhammad_ali",
-              "escritor",
-              "livro"
-            ],
-            "score_detail": {
-              "m1": 12.337048,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "escritor": {
-                  "keyword": {
-                    "termo": "escritor",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "escritor",
-                  "score": 2.0
-                },
-                "livro": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "ben_(album_de_michael_jackson)",
-                  "score": 0.33704734
-                },
-                "muhammad_ali": {
-                  "keyword": {
-                    "termo": "muhammad_ali",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "muhammad_ali",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "muhammad_ali": "-1",
-              "album": "-23250",
-              "escritor": "-22686"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        }
-      ],
+      "correct_answer": [],
       "all_answers": [
         {
           "triples": [
             [
-              "linda_creed",
-              "wikipagewikilink",
-              "*muhammad_ali"
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
-              "*ben_(album_de_michael_jackson)",
-              "*escritor",
-              "linda_creed"
+              "*livro",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 13.837048,
+          "score": 13.333333,
           "detail": {
             "keywords": [
               "muhammad_ali",
-              "escritor",
               "livro"
             ],
             "score_detail": {
-              "m1": 12.337048,
-              "m2": 0.5,
+              "m1": 12.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "escritor": {
-                  "keyword": {
-                    "termo": "escritor",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "escritor",
-                  "score": 2.0
-                },
                 "livro": {
                   "keyword": {
-                    "termo": "album",
-                    "peso": 1.0,
+                    "termo": "livro",
+                    "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "ben_(album_de_michael_jackson)",
-                  "score": 0.33704734
+                  "resource": "livro",
+                  "score": 2.0
                 },
                 "muhammad_ali": {
                   "keyword": {
@@ -777,8 +697,7 @@
           "bind_control": {
             "binds": {
               "muhammad_ali": "-1",
-              "album": "-23250",
-              "escritor": "-22686"
+              "livro": "-174"
             },
             "best_bind": {
               "score": 0
@@ -788,178 +707,195 @@
         {
           "triples": [
             [
-              "*ben_(album_de_michael_jackson)",
-              "*escritor",
-              "linda_creed"
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:correlatos"
             ],
             [
-              "linda_creed",
-              "wikipagewikilink",
-              "*muhammad_ali"
+              "*livro",
+              "wikipageusestemplate",
+              "predefinicao:correlatos"
             ]
           ],
-          "score": 13.837048,
+          "score": 13.333333,
           "detail": {
             "keywords": [
-              "escritor",
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "livro",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "livro",
+                  "score": 2.0
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "muhammad_ali": "-1",
+              "livro": "-174"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ],
+            [
+              "*livro",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "livro",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "livro",
+                  "score": 2.0
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "muhammad_ali": "-1",
+              "livro": "-174"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              9
+            ],
+            [
+              "*livro",
+              "owl#sameas",
+              9
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "livro",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "livro",
+                  "score": 2.0
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "muhammad_ali": "-1",
+              "livro": "-174"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*livro",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
               "livro",
               "muhammad_ali"
-            ],
-            "score_detail": {
-              "m1": 12.337048,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "escritor": {
-                  "keyword": {
-                    "termo": "escritor",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "escritor",
-                  "score": 2.0
-                },
-                "livro": {
-                  "keyword": {
-                    "termo": "album",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "ben_(album_de_michael_jackson)",
-                  "score": 0.33704734
-                },
-                "muhammad_ali": {
-                  "keyword": {
-                    "termo": "muhammad_ali",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "muhammad_ali",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 1
-        },
-        {
-          "triples": [
-            [
-              "*muhammad_ali",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
-            ],
-            [
-              "*livro",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
-            ]
-          ],
-          "score": 13.333333,
-          "detail": {
-            "keywords": [
-              "muhammad_ali",
-              "livro"
-            ],
-            "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "livro": {
-                  "keyword": {
-                    "termo": "livro",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "livro",
-                  "score": 2.0
-                },
-                "muhammad_ali": {
-                  "keyword": {
-                    "termo": "muhammad_ali",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "muhammad_ali",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 2
-        },
-        {
-          "triples": [
-            [
-              "*muhammad_ali",
-              "wikipageusestemplate",
-              "predefinicao:correlatos"
-            ],
-            [
-              "*livro",
-              "wikipageusestemplate",
-              "predefinicao:correlatos"
-            ]
-          ],
-          "score": 13.333333,
-          "detail": {
-            "keywords": [
-              "muhammad_ali",
-              "livro"
-            ],
-            "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "livro": {
-                  "keyword": {
-                    "termo": "livro",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "livro",
-                  "score": 2.0
-                },
-                "muhammad_ali": {
-                  "keyword": {
-                    "termo": "muhammad_ali",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "muhammad_ali",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 3
-        },
-        {
-          "triples": [
-            [
-              "*muhammad_ali",
-              "wikipageusestemplate",
-              "predefinicao:portal3"
-            ],
-            [
-              "*livro",
-              "wikipageusestemplate",
-              "predefinicao:portal3"
-            ]
-          ],
-          "score": 13.333333,
-          "detail": {
-            "keywords": [
-              "muhammad_ali",
-              "livro"
             ],
             "score_detail": {
               "m1": 12.0,
@@ -994,34 +930,34 @@
         {
           "triples": [
             [
-              "christina_aguilera",
-              "wikipagewikilink",
-              "*muhammad_ali"
+              "*livro",
+              "wikipageusestemplate",
+              "predefinicao:correlatos"
             ],
             [
-              "justin_&_christina",
-              "*escritor",
-              "christina_aguilera"
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:correlatos"
             ]
           ],
           "score": 13.333333,
           "detail": {
             "keywords": [
-              "muhammad_ali",
-              "escritor"
+              "livro",
+              "muhammad_ali"
             ],
             "score_detail": {
               "m1": 12.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "escritor": {
+                "livro": {
                   "keyword": {
-                    "termo": "escritor",
+                    "termo": "livro",
                     "peso": 2.0,
-                    "classe": "VERB"
+                    "classe": "SUB"
                   },
-                  "resource": "escritor",
+                  "resource": "livro",
                   "score": 2.0
                 },
                 "muhammad_ali": {
@@ -1045,12 +981,12 @@
             [
               "*livro",
               "wikipageusestemplate",
-              "predefinicao:referencias"
+              "predefinicao:portal3"
             ],
             [
               "*muhammad_ali",
               "wikipageusestemplate",
-              "predefinicao:referencias"
+              "predefinicao:portal3"
             ]
           ],
           "score": 13.333333,
@@ -1093,13 +1029,13 @@
           "triples": [
             [
               "*livro",
-              "wikipageusestemplate",
-              "predefinicao:correlatos"
+              "owl#sameas",
+              9
             ],
             [
               "*muhammad_ali",
-              "wikipageusestemplate",
-              "predefinicao:correlatos"
+              "owl#sameas",
+              9
             ]
           ],
           "score": 13.333333,
@@ -1137,202 +1073,6 @@
             "proper_nouns_matched_count": 1
           },
           "id": 7
-        },
-        {
-          "triples": [
-            [
-              "*livro",
-              "wikipageusestemplate",
-              "predefinicao:portal3"
-            ],
-            [
-              "*muhammad_ali",
-              "wikipageusestemplate",
-              "predefinicao:portal3"
-            ]
-          ],
-          "score": 13.333333,
-          "detail": {
-            "keywords": [
-              "livro",
-              "muhammad_ali"
-            ],
-            "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "livro": {
-                  "keyword": {
-                    "termo": "livro",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "livro",
-                  "score": 2.0
-                },
-                "muhammad_ali": {
-                  "keyword": {
-                    "termo": "muhammad_ali",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "muhammad_ali",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "justin_&_christina",
-              "*escritor",
-              "christina_aguilera"
-            ],
-            [
-              "christina_aguilera",
-              "wikipagewikilink",
-              "*muhammad_ali"
-            ]
-          ],
-          "score": 13.333333,
-          "detail": {
-            "keywords": [
-              "escritor",
-              "muhammad_ali"
-            ],
-            "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "escritor": {
-                  "keyword": {
-                    "termo": "escritor",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "escritor",
-                  "score": 2.0
-                },
-                "muhammad_ali": {
-                  "keyword": {
-                    "termo": "muhammad_ali",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "muhammad_ali",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "*muhammad_ali",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
-            ],
-            [
-              "*it_(livro)",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
-            ]
-          ],
-          "score": 13.115702,
-          "detail": {
-            "keywords": [
-              "muhammad_ali",
-              "livro"
-            ],
-            "score_detail": {
-              "m1": 11.782369,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "livro": {
-                  "keyword": {
-                    "termo": "livro",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "it_(livro)",
-                  "score": 1.782369
-                },
-                "muhammad_ali": {
-                  "keyword": {
-                    "termo": "muhammad_ali",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "muhammad_ali",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 10
-        },
-        {
-          "triples": [
-            [
-              "*it_(livro)",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
-            ],
-            [
-              "*muhammad_ali",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
-            ]
-          ],
-          "score": 13.115702,
-          "detail": {
-            "keywords": [
-              "livro",
-              "muhammad_ali"
-            ],
-            "score_detail": {
-              "m1": 11.782369,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "livro": {
-                  "keyword": {
-                    "termo": "livro",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "it_(livro)",
-                  "score": 1.782369
-                },
-                "muhammad_ali": {
-                  "keyword": {
-                    "termo": "muhammad_ali",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "muhammad_ali",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 11
         },
         {
           "triples": [
@@ -1381,7 +1121,56 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 12
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*sex_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 13.065967,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 11.732634,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "livro",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sex_(livro)",
+                  "score": 1.7326335
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
         },
         {
           "triples": [
@@ -1394,6 +1183,153 @@
               "*kim_(livro)",
               "wikipageusestemplate",
               "predefinicao:referencias"
+            ]
+          ],
+          "score": 13.065967,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 11.732634,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "livro",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "kim_(livro)",
+                  "score": 1.7326335
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*cal_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 13.065967,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 11.732634,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "livro",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cal_(livro)",
+                  "score": 1.7326335
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*til_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 13.065967,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 11.732634,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "livro",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "til_(livro)",
+                  "score": 1.7326335
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ],
+            [
+              "*kim_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
             ]
           ],
           "score": 13.065967,
@@ -1437,110 +1373,12 @@
             [
               "*muhammad_ali",
               "wikipageusestemplate",
-              "predefinicao:referencias"
-            ],
-            [
-              "*sex_(livro)",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
-            ]
-          ],
-          "score": 13.065967,
-          "detail": {
-            "keywords": [
-              "muhammad_ali",
-              "livro"
-            ],
-            "score_detail": {
-              "m1": 11.732634,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "livro": {
-                  "keyword": {
-                    "termo": "livro",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "sex_(livro)",
-                  "score": 1.7326335
-                },
-                "muhammad_ali": {
-                  "keyword": {
-                    "termo": "muhammad_ali",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "muhammad_ali",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 14
-        },
-        {
-          "triples": [
-            [
-              "*muhammad_ali",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
-            ],
-            [
-              "*cal_(livro)",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
-            ]
-          ],
-          "score": 13.065967,
-          "detail": {
-            "keywords": [
-              "muhammad_ali",
-              "livro"
-            ],
-            "score_detail": {
-              "m1": 11.732634,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "livro": {
-                  "keyword": {
-                    "termo": "livro",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "cal_(livro)",
-                  "score": 1.7326335
-                },
-                "muhammad_ali": {
-                  "keyword": {
-                    "termo": "muhammad_ali",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "muhammad_ali",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 15
-        },
-        {
-          "triples": [
-            [
-              "*muhammad_ali",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
+              "predefinicao:portal3"
             ],
             [
               "*til_(livro)",
               "wikipageusestemplate",
-              "predefinicao:referencias"
+              "predefinicao:portal3"
             ]
           ],
           "score": 13.065967,
@@ -1577,17 +1415,115 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*sex_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 13.065967,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 11.732634,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "livro",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sex_(livro)",
+                  "score": 1.7326335
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*kim_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 13.065967,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 11.732634,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "livro",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "kim_(livro)",
+                  "score": 1.7326335
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 16
         },
         {
           "triples": [
             [
-              "*muhammad_ali",
+              "*kim_(livro)",
               "wikipageusestemplate",
               "predefinicao:portal3"
             ],
             [
-              "*kim_(livro)",
+              "*muhammad_ali",
               "wikipageusestemplate",
               "predefinicao:portal3"
             ]
@@ -1595,8 +1531,8 @@
           "score": 13.065967,
           "detail": {
             "keywords": [
-              "muhammad_ali",
-              "livro"
+              "livro",
+              "muhammad_ali"
             ],
             "score_detail": {
               "m1": 11.732634,
@@ -1631,21 +1567,21 @@
         {
           "triples": [
             [
-              "*muhammad_ali",
-              "wikipageusestemplate",
-              "predefinicao:portal3"
+              "*kim_(livro)",
+              "wikipageexternallink",
+              9
             ],
             [
-              "*til_(livro)",
-              "wikipageusestemplate",
-              "predefinicao:portal3"
+              "*muhammad_ali",
+              "wikipageexternallink",
+              9
             ]
           ],
           "score": 13.065967,
           "detail": {
             "keywords": [
-              "muhammad_ali",
-              "livro"
+              "livro",
+              "muhammad_ali"
             ],
             "score_detail": {
               "m1": 11.732634,
@@ -1658,7 +1594,7 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "til_(livro)",
+                  "resource": "kim_(livro)",
                   "score": 1.7326335
                 },
                 "muhammad_ali": {
@@ -1680,21 +1616,21 @@
         {
           "triples": [
             [
-              "*muhammad_ali",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
+              "*cal_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
-              "*cal_(livro)",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
           "score": 13.065967,
           "detail": {
             "keywords": [
-              "muhammad_ali",
-              "livro"
+              "livro",
+              "muhammad_ali"
             ],
             "score_detail": {
               "m1": 11.732634,
@@ -1729,21 +1665,21 @@
         {
           "triples": [
             [
-              "*muhammad_ali",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
+              "*til_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
-              "*sex_(livro)",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
           "score": 13.065967,
           "detail": {
             "keywords": [
-              "muhammad_ali",
-              "livro"
+              "livro",
+              "muhammad_ali"
             ],
             "score_detail": {
               "m1": 11.732634,
@@ -1756,7 +1692,7 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "sex_(livro)",
+                  "resource": "til_(livro)",
                   "score": 1.7326335
                 },
                 "muhammad_ali": {
@@ -1778,21 +1714,21 @@
         {
           "triples": [
             [
-              "*muhammad_ali",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
+              "*til_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
             ],
             [
-              "*til_(livro)",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
             ]
           ],
           "score": 13.065967,
           "detail": {
             "keywords": [
-              "muhammad_ali",
-              "livro"
+              "livro",
+              "muhammad_ali"
             ],
             "score_detail": {
               "m1": 11.732634,
@@ -1828,23 +1764,23 @@
           "triples": [
             [
               "*muhammad_ali",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
+              "wikipageexternallink",
+              9
             ],
             [
-              "*kim_(livro)",
-              "22_rdf_syntax_ns#type",
-              "owl#thing"
+              "*duna_(livro)",
+              "wikipageexternallink",
+              9
             ]
           ],
-          "score": 13.065967,
+          "score": 13.014367,
           "detail": {
             "keywords": [
               "muhammad_ali",
               "livro"
             ],
             "score_detail": {
-              "m1": 11.732634,
+              "m1": 11.681034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1854,8 +1790,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "kim_(livro)",
-                  "score": 1.7326335
+                  "resource": "duna_(livro)",
+                  "score": 1.6810346
                 },
                 "muhammad_ali": {
                   "keyword": {
@@ -1876,24 +1812,24 @@
         {
           "triples": [
             [
-              "*kim_(livro)",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
+              "*muhammad_ali",
+              "wikipageexternallink",
+              9
             ],
             [
-              "*muhammad_ali",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
+              "*olga_(livro)",
+              "wikipageexternallink",
+              9
             ]
           ],
-          "score": 13.065967,
+          "score": 13.014367,
           "detail": {
             "keywords": [
-              "livro",
-              "muhammad_ali"
+              "muhammad_ali",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.732634,
+              "m1": 11.681034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1903,8 +1839,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "kim_(livro)",
-                  "score": 1.7326335
+                  "resource": "olga_(livro)",
+                  "score": 1.6810346
                 },
                 "muhammad_ali": {
                   "keyword": {
@@ -1925,24 +1861,24 @@
         {
           "triples": [
             [
-              "*kim_(livro)",
-              "wikipageusestemplate",
-              "predefinicao:portal3"
-            ],
-            [
               "*muhammad_ali",
               "wikipageusestemplate",
-              "predefinicao:portal3"
+              "predefinicao:ver_desambig"
+            ],
+            [
+              "*nana_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:ver_desambig"
             ]
           ],
-          "score": 13.065967,
+          "score": 13.014367,
           "detail": {
             "keywords": [
-              "livro",
-              "muhammad_ali"
+              "muhammad_ali",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.732634,
+              "m1": 11.681034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1952,8 +1888,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "kim_(livro)",
-                  "score": 1.7326335
+                  "resource": "nana_(livro)",
+                  "score": 1.6810346
                 },
                 "muhammad_ali": {
                   "keyword": {
@@ -1974,24 +1910,24 @@
         {
           "triples": [
             [
-              "*sex_(livro)",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
-            ],
-            [
               "*muhammad_ali",
               "wikipageusestemplate",
-              "predefinicao:referencias"
+              "predefinicao:ver_desambig"
+            ],
+            [
+              "*rage_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:ver_desambig"
             ]
           ],
-          "score": 13.065967,
+          "score": 13.014367,
           "detail": {
             "keywords": [
-              "livro",
-              "muhammad_ali"
+              "muhammad_ali",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.732634,
+              "m1": 11.681034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2001,8 +1937,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "sex_(livro)",
-                  "score": 1.7326335
+                  "resource": "rage_(livro)",
+                  "score": 1.6810346
                 },
                 "muhammad_ali": {
                   "keyword": {
@@ -2023,24 +1959,24 @@
         {
           "triples": [
             [
-              "*kim_(livro)",
-              "wikipageexternallink",
-              9
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "predefinicao:mais_notas"
             ],
             [
-              "*muhammad_ali",
-              "wikipageexternallink",
-              9
+              "*duna_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:mais_notas"
             ]
           ],
-          "score": 13.065967,
+          "score": 13.014367,
           "detail": {
             "keywords": [
-              "livro",
-              "muhammad_ali"
+              "muhammad_ali",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.732634,
+              "m1": 11.681034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2050,8 +1986,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "kim_(livro)",
-                  "score": 1.7326335
+                  "resource": "duna_(livro)",
+                  "score": 1.6810346
                 },
                 "muhammad_ali": {
                   "keyword": {
@@ -2072,24 +2008,24 @@
         {
           "triples": [
             [
-              "*cal_(livro)",
+              "*muhammad_ali",
               "wikipageusestemplate",
               "predefinicao:referencias"
             ],
             [
-              "*muhammad_ali",
+              "*zero_(livro)",
               "wikipageusestemplate",
               "predefinicao:referencias"
             ]
           ],
-          "score": 13.065967,
+          "score": 13.014367,
           "detail": {
             "keywords": [
-              "livro",
-              "muhammad_ali"
+              "muhammad_ali",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.732634,
+              "m1": 11.681034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2099,8 +2035,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "cal_(livro)",
-                  "score": 1.7326335
+                  "resource": "zero_(livro)",
+                  "score": 1.6810346
                 },
                 "muhammad_ali": {
                   "keyword": {
@@ -2121,24 +2057,24 @@
         {
           "triples": [
             [
-              "*til_(livro)",
+              "*muhammad_ali",
               "wikipageusestemplate",
               "predefinicao:referencias"
             ],
             [
-              "*muhammad_ali",
+              "*caim_(livro)",
               "wikipageusestemplate",
               "predefinicao:referencias"
             ]
           ],
-          "score": 13.065967,
+          "score": 13.014367,
           "detail": {
             "keywords": [
-              "livro",
-              "muhammad_ali"
+              "muhammad_ali",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.732634,
+              "m1": 11.681034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2148,8 +2084,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "til_(livro)",
-                  "score": 1.7326335
+                  "resource": "caim_(livro)",
+                  "score": 1.6810346
                 },
                 "muhammad_ali": {
                   "keyword": {
@@ -2170,24 +2106,24 @@
         {
           "triples": [
             [
-              "*til_(livro)",
-              "wikipageusestemplate",
-              "predefinicao:portal3"
-            ],
-            [
               "*muhammad_ali",
               "wikipageusestemplate",
-              "predefinicao:portal3"
+              "predefinicao:referencias"
+            ],
+            [
+              "*1808_(livro)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 13.065967,
+          "score": 13.014367,
           "detail": {
             "keywords": [
-              "livro",
-              "muhammad_ali"
+              "muhammad_ali",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.732634,
+              "m1": 11.681034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2197,8 +2133,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "til_(livro)",
-                  "score": 1.7326335
+                  "resource": "1808_(livro)",
+                  "score": 1.6810346
                 },
                 "muhammad_ali": {
                   "keyword": {
@@ -2217,13 +2153,17 @@
           "id": 29
         }
       ],
-      "ranking_time": 52134303380,
+      "ranking_time": 66253933806,
       "l_sizes": [
-        37861,
-        14232916
+        38223,
+        38223
       ],
-      "ranking_time_only": 49775804944,
-      "total_time": 61061352529,
+      "a_sizes": [
+        38223,
+        18532382
+      ],
+      "ranking_time_only": 61429759563,
+      "total_time": 80971588570,
       "timeout": false
     }
   }

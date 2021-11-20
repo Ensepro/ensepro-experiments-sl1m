@@ -52,25 +52,25 @@
             "por": [
               {
                 "synset": "coloring_material",
+                "sinonimo": "colorante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coloring_material",
                 "sinonimo": "corantes_têxteis",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "color",
+                "synset": "coloring_material",
                 "sinonimo": "cor",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "paint",
-                "sinonimo": "pintura",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "dye",
-                "sinonimo": "tintura",
+                "sinonimo": "corante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -87,31 +87,43 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "coloring_material",
-                "sinonimo": "tinta",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "color",
                 "sinonimo": "tez",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "dye",
-                "sinonimo": "corante",
+                "synset": "paint",
+                "sinonimo": "pintura",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "coloring_material",
-                "sinonimo": "colorante",
+                "synset": "paint",
+                "sinonimo": "tinta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dye",
+                "sinonimo": "tintura",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "color",
+                "sinonimo": "coloring",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "color",
+                "sinonimo": "color",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
               {
                 "synset": "dye",
                 "sinonimo": "dyestuff",
@@ -125,20 +137,14 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "dye",
+                "sinonimo": "dye",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "coloring_material",
                 "sinonimo": "colour",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "color",
-                "sinonimo": "coloring",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "coloring_material",
-                "sinonimo": "coloring_material",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -150,25 +156,19 @@
               },
               {
                 "synset": "coloring_material",
-                "sinonimo": "color",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "paint",
-                "sinonimo": "paint",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dye",
-                "sinonimo": "dye",
+                "sinonimo": "coloring_material",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "paint",
                 "sinonimo": "pigment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "paint",
+                "sinonimo": "paint",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -193,6 +193,12 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "voice",
+                "sinonimo": "expressar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "give_voice",
                 "sinonimo": "dizer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -206,13 +212,7 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "expressar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "express",
-                "sinonimo": "vebalizar",
+                "sinonimo": "proferir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -224,7 +224,7 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "proferir",
+                "sinonimo": "vebalizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -237,20 +237,26 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "express",
-                "sinonimo": "verbalise",
+                "synset": "give_voice",
+                "sinonimo": "formulate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "express",
-                "sinonimo": "utter",
+                "synset": "give_voice",
+                "sinonimo": "phrase",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "express",
-                "sinonimo": "show",
+                "synset": "give_voice",
+                "sinonimo": "give_voice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "give_voice",
+                "sinonimo": "word",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -258,11 +264,29 @@
                 "synset": "express",
                 "sinonimo": "express",
                 "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "voice",
+                "sinonimo": "voice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "give_tongue_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "express",
-                "sinonimo": "evince",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "show",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -274,39 +298,15 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "give_tongue_to",
+                "sinonimo": "evince",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "utter",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "word",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "give_voice",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "voice",
-                "sinonimo": "voice",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "formulate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "phrase",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
               }
             ]
           }
@@ -347,8 +347,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "allegiance",
-                "sinonimo": "fidelidade",
+                "synset": "fidelity",
+                "sinonimo": "fidelidade_conjugal",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -359,19 +359,13 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "fidelity",
-                "sinonimo": "fidelidade_conjugal",
+                "synset": "allegiance",
+                "sinonimo": "fidelidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "fidelity",
-                "sinonimo": "faithfulness",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
               {
                 "synset": "loyalty",
                 "sinonimo": "trueness",
@@ -379,8 +373,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "loyalty",
-                "sinonimo": "loyalty",
+                "synset": "fidelity",
+                "sinonimo": "faithfulness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -391,14 +385,20 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "allegiance",
-                "sinonimo": "allegiance",
+                "synset": "loyalty",
+                "sinonimo": "loyalty",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "fidelity",
                 "sinonimo": "fidelity",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "allegiance",
+                "sinonimo": "allegiance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -440,25 +440,25 @@
             "por": [
               {
                 "synset": "coloring_material",
+                "sinonimo": "colorante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coloring_material",
                 "sinonimo": "corantes_têxteis",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "color",
+                "synset": "coloring_material",
                 "sinonimo": "cor",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "paint",
-                "sinonimo": "pintura",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "dye",
-                "sinonimo": "tintura",
+                "sinonimo": "corante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -475,31 +475,43 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "coloring_material",
-                "sinonimo": "tinta",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "color",
                 "sinonimo": "tez",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "dye",
-                "sinonimo": "corante",
+                "synset": "paint",
+                "sinonimo": "pintura",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "coloring_material",
-                "sinonimo": "colorante",
+                "synset": "paint",
+                "sinonimo": "tinta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dye",
+                "sinonimo": "tintura",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "color",
+                "sinonimo": "coloring",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "color",
+                "sinonimo": "color",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
               {
                 "synset": "dye",
                 "sinonimo": "dyestuff",
@@ -513,20 +525,14 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "dye",
+                "sinonimo": "dye",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "coloring_material",
                 "sinonimo": "colour",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "color",
-                "sinonimo": "coloring",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "coloring_material",
-                "sinonimo": "coloring_material",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -538,25 +544,19 @@
               },
               {
                 "synset": "coloring_material",
-                "sinonimo": "color",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "paint",
-                "sinonimo": "paint",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dye",
-                "sinonimo": "dye",
+                "sinonimo": "coloring_material",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "paint",
                 "sinonimo": "pigment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "paint",
+                "sinonimo": "paint",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -581,6 +581,12 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "voice",
+                "sinonimo": "expressar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "give_voice",
                 "sinonimo": "dizer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -594,13 +600,7 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "expressar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "express",
-                "sinonimo": "vebalizar",
+                "sinonimo": "proferir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -612,7 +612,7 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "proferir",
+                "sinonimo": "vebalizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -625,20 +625,26 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "express",
-                "sinonimo": "verbalise",
+                "synset": "give_voice",
+                "sinonimo": "formulate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "express",
-                "sinonimo": "utter",
+                "synset": "give_voice",
+                "sinonimo": "phrase",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "express",
-                "sinonimo": "show",
+                "synset": "give_voice",
+                "sinonimo": "give_voice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "give_voice",
+                "sinonimo": "word",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -646,11 +652,29 @@
                 "synset": "express",
                 "sinonimo": "express",
                 "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "voice",
+                "sinonimo": "voice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "give_tongue_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "express",
-                "sinonimo": "evince",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "show",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -662,39 +686,15 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "give_tongue_to",
+                "sinonimo": "evince",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "utter",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "word",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "give_voice",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "voice",
-                "sinonimo": "voice",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "formulate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "phrase",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
               }
             ]
           }
@@ -713,8 +713,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "allegiance",
-                "sinonimo": "fidelidade",
+                "synset": "fidelity",
+                "sinonimo": "fidelidade_conjugal",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -725,19 +725,13 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "fidelity",
-                "sinonimo": "fidelidade_conjugal",
+                "synset": "allegiance",
+                "sinonimo": "fidelidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "fidelity",
-                "sinonimo": "faithfulness",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
               {
                 "synset": "loyalty",
                 "sinonimo": "trueness",
@@ -745,8 +739,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "loyalty",
-                "sinonimo": "loyalty",
+                "synset": "fidelity",
+                "sinonimo": "faithfulness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -757,14 +751,20 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "allegiance",
-                "sinonimo": "allegiance",
+                "synset": "loyalty",
+                "sinonimo": "loyalty",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "fidelity",
                 "sinonimo": "fidelity",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "allegiance",
+                "sinonimo": "allegiance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -828,25 +828,25 @@
             "por": [
               {
                 "synset": "coloring_material",
+                "sinonimo": "colorante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coloring_material",
                 "sinonimo": "corantes_têxteis",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "color",
+                "synset": "coloring_material",
                 "sinonimo": "cor",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "paint",
-                "sinonimo": "pintura",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "dye",
-                "sinonimo": "tintura",
+                "sinonimo": "corante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -863,31 +863,43 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "coloring_material",
-                "sinonimo": "tinta",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "color",
                 "sinonimo": "tez",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "dye",
-                "sinonimo": "corante",
+                "synset": "paint",
+                "sinonimo": "pintura",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "coloring_material",
-                "sinonimo": "colorante",
+                "synset": "paint",
+                "sinonimo": "tinta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dye",
+                "sinonimo": "tintura",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "color",
+                "sinonimo": "coloring",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "color",
+                "sinonimo": "color",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
               {
                 "synset": "dye",
                 "sinonimo": "dyestuff",
@@ -901,20 +913,14 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "dye",
+                "sinonimo": "dye",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "coloring_material",
                 "sinonimo": "colour",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "color",
-                "sinonimo": "coloring",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "coloring_material",
-                "sinonimo": "coloring_material",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -926,25 +932,19 @@
               },
               {
                 "synset": "coloring_material",
-                "sinonimo": "color",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "paint",
-                "sinonimo": "paint",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dye",
-                "sinonimo": "dye",
+                "sinonimo": "coloring_material",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "paint",
                 "sinonimo": "pigment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "paint",
+                "sinonimo": "paint",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -969,6 +969,12 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "voice",
+                "sinonimo": "expressar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "give_voice",
                 "sinonimo": "dizer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -982,13 +988,7 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "expressar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "express",
-                "sinonimo": "vebalizar",
+                "sinonimo": "proferir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -1000,7 +1000,7 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "proferir",
+                "sinonimo": "vebalizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -1013,20 +1013,26 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "express",
-                "sinonimo": "verbalise",
+                "synset": "give_voice",
+                "sinonimo": "formulate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "express",
-                "sinonimo": "utter",
+                "synset": "give_voice",
+                "sinonimo": "phrase",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "express",
-                "sinonimo": "show",
+                "synset": "give_voice",
+                "sinonimo": "give_voice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "give_voice",
+                "sinonimo": "word",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1034,11 +1040,29 @@
                 "synset": "express",
                 "sinonimo": "express",
                 "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "voice",
+                "sinonimo": "voice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "give_tongue_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "express",
-                "sinonimo": "evince",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "show",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1050,39 +1074,15 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "give_tongue_to",
+                "sinonimo": "evince",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "utter",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "word",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "give_voice",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "voice",
-                "sinonimo": "voice",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "formulate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "phrase",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
               }
             ]
           }
@@ -1123,8 +1123,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "allegiance",
-                "sinonimo": "fidelidade",
+                "synset": "fidelity",
+                "sinonimo": "fidelidade_conjugal",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -1135,19 +1135,13 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "fidelity",
-                "sinonimo": "fidelidade_conjugal",
+                "synset": "allegiance",
+                "sinonimo": "fidelidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "fidelity",
-                "sinonimo": "faithfulness",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
               {
                 "synset": "loyalty",
                 "sinonimo": "trueness",
@@ -1155,8 +1149,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "loyalty",
-                "sinonimo": "loyalty",
+                "synset": "fidelity",
+                "sinonimo": "faithfulness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -1167,14 +1161,20 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "allegiance",
-                "sinonimo": "allegiance",
+                "synset": "loyalty",
+                "sinonimo": "loyalty",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "fidelity",
                 "sinonimo": "fidelity",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "allegiance",
+                "sinonimo": "allegiance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -1216,25 +1216,25 @@
             "por": [
               {
                 "synset": "coloring_material",
+                "sinonimo": "colorante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coloring_material",
                 "sinonimo": "corantes_têxteis",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "color",
+                "synset": "coloring_material",
                 "sinonimo": "cor",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "paint",
-                "sinonimo": "pintura",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "dye",
-                "sinonimo": "tintura",
+                "sinonimo": "corante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1251,31 +1251,43 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "coloring_material",
-                "sinonimo": "tinta",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "color",
                 "sinonimo": "tez",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "dye",
-                "sinonimo": "corante",
+                "synset": "paint",
+                "sinonimo": "pintura",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "coloring_material",
-                "sinonimo": "colorante",
+                "synset": "paint",
+                "sinonimo": "tinta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dye",
+                "sinonimo": "tintura",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "color",
+                "sinonimo": "coloring",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "color",
+                "sinonimo": "color",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
               {
                 "synset": "dye",
                 "sinonimo": "dyestuff",
@@ -1289,20 +1301,14 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "dye",
+                "sinonimo": "dye",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "coloring_material",
                 "sinonimo": "colour",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "color",
-                "sinonimo": "coloring",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "coloring_material",
-                "sinonimo": "coloring_material",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1314,25 +1320,19 @@
               },
               {
                 "synset": "coloring_material",
-                "sinonimo": "color",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "paint",
-                "sinonimo": "paint",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dye",
-                "sinonimo": "dye",
+                "sinonimo": "coloring_material",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "paint",
                 "sinonimo": "pigment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "paint",
+                "sinonimo": "paint",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -1357,6 +1357,12 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "voice",
+                "sinonimo": "expressar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "give_voice",
                 "sinonimo": "dizer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -1370,13 +1376,7 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "expressar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "express",
-                "sinonimo": "vebalizar",
+                "sinonimo": "proferir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -1388,7 +1388,7 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "proferir",
+                "sinonimo": "vebalizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -1401,20 +1401,26 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "express",
-                "sinonimo": "verbalise",
+                "synset": "give_voice",
+                "sinonimo": "formulate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "express",
-                "sinonimo": "utter",
+                "synset": "give_voice",
+                "sinonimo": "phrase",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "express",
-                "sinonimo": "show",
+                "synset": "give_voice",
+                "sinonimo": "give_voice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "give_voice",
+                "sinonimo": "word",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1422,11 +1428,29 @@
                 "synset": "express",
                 "sinonimo": "express",
                 "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "voice",
+                "sinonimo": "voice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "give_tongue_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "express",
-                "sinonimo": "evince",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "show",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1438,39 +1462,15 @@
               },
               {
                 "synset": "express",
-                "sinonimo": "give_tongue_to",
+                "sinonimo": "evince",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "express",
+                "sinonimo": "utter",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "word",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "give_voice",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "voice",
-                "sinonimo": "voice",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "formulate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "give_voice",
-                "sinonimo": "phrase",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
               }
             ]
           }
@@ -1489,8 +1489,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "allegiance",
-                "sinonimo": "fidelidade",
+                "synset": "fidelity",
+                "sinonimo": "fidelidade_conjugal",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -1501,19 +1501,13 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "fidelity",
-                "sinonimo": "fidelidade_conjugal",
+                "synset": "allegiance",
+                "sinonimo": "fidelidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "fidelity",
-                "sinonimo": "faithfulness",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
               {
                 "synset": "loyalty",
                 "sinonimo": "trueness",
@@ -1521,8 +1515,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "loyalty",
-                "sinonimo": "loyalty",
+                "synset": "fidelity",
+                "sinonimo": "faithfulness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -1533,14 +1527,20 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "allegiance",
-                "sinonimo": "allegiance",
+                "synset": "loyalty",
+                "sinonimo": "loyalty",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "fidelity",
                 "sinonimo": "fidelity",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "allegiance",
+                "sinonimo": "allegiance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -1555,7 +1555,7 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [],
-      "total_time": 7432554642,
+      "total_time": 19067707376,
       "timeout": false
     }
   }

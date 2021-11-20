@@ -197,13 +197,13 @@
             "por": [
               {
                 "synset": "inhale",
-                "sinonimo": "inalar",
+                "sinonimo": "inspirar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "inhale",
-                "sinonimo": "inspirar",
+                "sinonimo": "inalar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -217,13 +217,13 @@
               },
               {
                 "synset": "inhale",
-                "sinonimo": "inspire",
+                "sinonimo": "inhale",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "inhale",
-                "sinonimo": "inhale",
+                "sinonimo": "inspire",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -302,13 +302,13 @@
             "por": [
               {
                 "synset": "inhale",
-                "sinonimo": "inalar",
+                "sinonimo": "inspirar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "inhale",
-                "sinonimo": "inspirar",
+                "sinonimo": "inalar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -322,13 +322,13 @@
               },
               {
                 "synset": "inhale",
-                "sinonimo": "inspire",
+                "sinonimo": "inhale",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "inhale",
-                "sinonimo": "inhale",
+                "sinonimo": "inspire",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -639,8 +639,8 @@
           "triples": [
             [
               "*vincent_van_gogh",
-              "wikipageusestemplate",
-              "predefinicao:ver_desambig"
+              "owl#sameas",
+              "m.07_m2"
             ]
           ],
           "score": 11.333333,
@@ -681,8 +681,8 @@
           "triples": [
             [
               "*vincent_van_gogh",
-              "wikipageusestemplate",
-              "artista_plastico"
+              "owl#sameas",
+              "m.07_m2"
             ]
           ],
           "score": 11.333333,
@@ -724,7 +724,7 @@
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
-              "predefinicao:ipa"
+              "predefinicao:ver_desambig"
             ]
           ],
           "score": 11.333333,
@@ -766,7 +766,7 @@
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
-              "predefinicao:efn"
+              "artista_plastico"
             ]
           ],
           "score": 11.333333,
@@ -808,7 +808,7 @@
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
-              "predefinicao:imagem_multipla"
+              "predefinicao:ipa"
             ]
           ],
           "score": 11.333333,
@@ -850,7 +850,7 @@
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
-              "predefinicao:circa"
+              "predefinicao:efn"
             ]
           ],
           "score": 11.333333,
@@ -892,7 +892,7 @@
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
-              "predefinicao:quadrocitacao"
+              "predefinicao:imagem_multipla"
             ]
           ],
           "score": 11.333333,
@@ -934,7 +934,7 @@
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
-              "predefinicao:referencias"
+              "predefinicao:circa"
             ]
           ],
           "score": 11.333333,
@@ -976,7 +976,7 @@
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
-              "predefinicao:notelist"
+              "predefinicao:quadrocitacao"
             ]
           ],
           "score": 11.333333,
@@ -1018,7 +1018,7 @@
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
-              "predefinicao:correlatos"
+              "predefinicao:referencias"
             ]
           ],
           "score": 11.333333,
@@ -1060,7 +1060,7 @@
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
-              "predefinicao:link"
+              "predefinicao:notelist"
             ]
           ],
           "score": 11.333333,
@@ -1102,7 +1102,7 @@
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
-              "*predefinicao:vincent_van_gogh"
+              "predefinicao:correlatos"
             ]
           ],
           "score": 11.333333,
@@ -1129,14 +1129,22 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 18
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "vincent_van_gogh": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
-              "predefinicao:biografias"
+              "predefinicao:link"
             ]
           ],
           "score": 11.333333,
@@ -1178,6 +1186,82 @@
             [
               "*vincent_van_gogh",
               "wikipageusestemplate",
+              "*predefinicao:vincent_van_gogh"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "vincent_van_gogh"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "vincent_van_gogh": {
+                  "keyword": {
+                    "termo": "vincent_van_gogh",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "vincent_van_gogh",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*vincent_van_gogh",
+              "wikipageusestemplate",
+              "predefinicao:biografias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "vincent_van_gogh"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "vincent_van_gogh": {
+                  "keyword": {
+                    "termo": "vincent_van_gogh",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "vincent_van_gogh",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "vincent_van_gogh": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*vincent_van_gogh",
+              "wikipageusestemplate",
               "predefinicao:portal3"
             ]
           ],
@@ -1205,7 +1289,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 20,
+          "id": 22,
           "bind_control": {
             "binds": {
               "vincent_van_gogh": "-1"
@@ -1214,74 +1298,6 @@
               "score": 0
             }
           }
-        },
-        {
-          "triples": [
-            [
-              "*vincent_van_gogh",
-              "depiction",
-              "*vincent_van_gogh___self_portrait___google_art_project_(454045).jpg"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "vincent_van_gogh"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "vincent_van_gogh": {
-                  "keyword": {
-                    "termo": "vincent_van_gogh",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "vincent_van_gogh",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 21
-        },
-        {
-          "triples": [
-            [
-              "*vincent_van_gogh",
-              "thumbnail",
-              "*vincent_van_gogh___self_portrait___google_art_project_(454045).jpg?width=300"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "vincent_van_gogh"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "vincent_van_gogh": {
-                  "keyword": {
-                    "termo": "vincent_van_gogh",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "vincent_van_gogh",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 22
         },
         {
           "triples": [
@@ -1371,8 +1387,8 @@
           "triples": [
             [
               "*vincent_van_gogh",
-              "owl#sameas",
-              "m.07_m2"
+              "depiction",
+              "*vincent_van_gogh___self_portrait___google_art_project_(454045).jpg"
             ]
           ],
           "score": 11.333333,
@@ -1399,22 +1415,14 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 25,
-          "bind_control": {
-            "binds": {
-              "vincent_van_gogh": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
+          "id": 25
         },
         {
           "triples": [
             [
               "*vincent_van_gogh",
-              "owl#sameas",
-              "m.07_m2"
+              "thumbnail",
+              "*vincent_van_gogh___self_portrait___google_art_project_(454045).jpg?width=300"
             ]
           ],
           "score": 11.333333,
@@ -1441,15 +1449,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 26,
-          "bind_control": {
-            "binds": {
-              "vincent_van_gogh": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
+          "id": 26
         },
         {
           "triples": [
@@ -1570,12 +1570,15 @@
           }
         }
       ],
-      "ranking_time": 901583480,
+      "ranking_time": 1404395294,
       "l_sizes": [
-        550
+        97
       ],
-      "ranking_time_only": 74419239,
-      "total_time": 9789865044,
+      "a_sizes": [
+        97
+      ],
+      "ranking_time_only": 142968210,
+      "total_time": 12125340994,
       "timeout": false
     }
   }

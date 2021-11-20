@@ -529,7 +529,7 @@
           "bind_control": {
             "binds": {
               "monte_everest": "-1",
-              "escalada": "-77"
+              "escalada": "-124"
             },
             "best_bind": {
               "score": 0
@@ -923,8 +923,8 @@
           "triples": [
             [
               "*monte_everest",
-              "wikipageusestemplate",
-              "predefinicao:ver_desambig"
+              "depiction",
+              "mount_everest.jpg"
             ]
           ],
           "score": 11.333333,
@@ -965,8 +965,8 @@
           "triples": [
             [
               "*monte_everest",
-              "wikipageusestemplate",
-              "montanha"
+              "thumbnail",
+              "mount_everest.jpg?width=300"
             ]
           ],
           "score": 11.333333,
@@ -999,9 +999,7 @@
               "monte_everest": "-1"
             },
             "best_bind": {
-              "score": 0.24779156875,
-              "resource_id": 18,
-              "tr": "escalar"
+              "score": 0
             }
           }
         },
@@ -1010,7 +1008,7 @@
             [
               "*monte_everest",
               "wikipageusestemplate",
-              "predefinicao:panorama"
+              "predefinicao:ver_desambig"
             ]
           ],
           "score": 11.333333,
@@ -1052,7 +1050,7 @@
             [
               "*monte_everest",
               "wikipageusestemplate",
-              "predefinicao:dividir_em_colunas"
+              "montanha"
             ]
           ],
           "score": 11.333333,
@@ -1085,7 +1083,9 @@
               "monte_everest": "-1"
             },
             "best_bind": {
-              "score": 0
+              "score": 0.24779156875,
+              "resource_id": 22,
+              "tr": "escalar"
             }
           }
         },
@@ -1094,7 +1094,7 @@
             [
               "*monte_everest",
               "wikipageusestemplate",
-              "predefinicao:dividir_em_colunas_fim"
+              "predefinicao:panorama"
             ]
           ],
           "score": 11.333333,
@@ -1136,7 +1136,7 @@
             [
               "*monte_everest",
               "wikipageusestemplate",
-              "predefinicao:googlemaps"
+              "predefinicao:dividir_em_colunas"
             ]
           ],
           "score": 11.333333,
@@ -1178,7 +1178,7 @@
             [
               "*monte_everest",
               "wikipageusestemplate",
-              "predefinicao:referencias"
+              "predefinicao:dividir_em_colunas_fim"
             ]
           ],
           "score": 11.333333,
@@ -1220,7 +1220,7 @@
             [
               "*monte_everest",
               "wikipageusestemplate",
-              "predefinicao:commonscat"
+              "predefinicao:googlemaps"
             ]
           ],
           "score": 11.333333,
@@ -1262,7 +1262,7 @@
             [
               "*monte_everest",
               "wikipageusestemplate",
-              "predefinicao:montanhas_mais_altas_da_terra"
+              "predefinicao:referencias"
             ]
           ],
           "score": 11.333333,
@@ -1304,7 +1304,7 @@
             [
               "*monte_everest",
               "wikipageusestemplate",
-              "predefinicao:sete_cumes"
+              "predefinicao:commonscat"
             ]
           ],
           "score": 11.333333,
@@ -1346,7 +1346,7 @@
             [
               "*monte_everest",
               "wikipageusestemplate",
-              "predefinicao:relacao_pm"
+              "predefinicao:montanhas_mais_altas_da_terra"
             ]
           ],
           "score": 11.333333,
@@ -1388,7 +1388,7 @@
             [
               "*monte_everest",
               "wikipageusestemplate",
-              "predefinicao:portal3"
+              "predefinicao:sete_cumes"
             ]
           ],
           "score": 11.333333,
@@ -1429,8 +1429,8 @@
           "triples": [
             [
               "*monte_everest",
-              "depiction",
-              "mount_everest.jpg"
+              "wikipageusestemplate",
+              "predefinicao:relacao_pm"
             ]
           ],
           "score": 11.333333,
@@ -1471,8 +1471,8 @@
           "triples": [
             [
               "*monte_everest",
-              "thumbnail",
-              "mount_everest.jpg?width=300"
+              "wikipageusestemplate",
+              "predefinicao:portal3"
             ]
           ],
           "score": 11.333333,
@@ -1746,12 +1746,15 @@
           "id": 29
         }
       ],
-      "ranking_time": 1032864896,
+      "ranking_time": 817466291,
       "l_sizes": [
-        472
+        121
       ],
-      "ranking_time_only": 90804118,
-      "total_time": 7641678687,
+      "a_sizes": [
+        121
+      ],
+      "ranking_time_only": 73228580,
+      "total_time": 7232009059,
       "timeout": false
     }
   }

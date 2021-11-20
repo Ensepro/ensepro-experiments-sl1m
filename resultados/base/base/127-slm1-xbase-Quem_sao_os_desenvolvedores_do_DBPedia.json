@@ -490,7 +490,7 @@
           "bind_control": {
             "binds": {
               "dbpedia": "-1",
-              "desenvolvedor": "-5"
+              "desenvolvedor": "-10"
             },
             "best_bind": {
               "score": 0
@@ -543,7 +543,7 @@
           "bind_control": {
             "binds": {
               "dbpedia": "-1",
-              "desenvolvedor": "-5"
+              "desenvolvedor": "-10"
             },
             "best_bind": {
               "score": 0
@@ -596,7 +596,7 @@
           "bind_control": {
             "binds": {
               "dbpedia": "-1",
-              "desenvolvedor": "-5"
+              "desenvolvedor": "-10"
             },
             "best_bind": {
               "score": 0
@@ -651,7 +651,7 @@
           "bind_control": {
             "binds": {
               "dbpedia": "-1",
-              "desenvolvedor": "-5"
+              "desenvolvedor": "-10"
             },
             "best_bind": {
               "score": 0
@@ -704,7 +704,7 @@
           "bind_control": {
             "binds": {
               "dbpedia": "-1",
-              "desenvolvedor": "-5"
+              "desenvolvedor": "-10"
             },
             "best_bind": {
               "score": 0
@@ -757,7 +757,7 @@
           "bind_control": {
             "binds": {
               "dbpedia": "-1",
-              "desenvolvedor": "-5"
+              "desenvolvedor": "-10"
             },
             "best_bind": {
               "score": 0
@@ -900,210 +900,6 @@
           "triples": [
             [
               "*dbpedia",
-              "nome",
-              "*dbpedia"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 6
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "legenda",
-              "*logo da dbpedia"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 7
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "ultimaversao",
-              "*dbpedia 3.8"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "linguagem",
-              "scala_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "linguagem",
-              "java_(linguagem_de_programacao)"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 10
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "licenca",
-              "gnu_general_public_license"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 11
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
               "wikipageusestemplate",
               "software"
             ]
@@ -1132,7 +928,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 12
+          "id": 6
         },
         {
           "triples": [
@@ -1166,483 +962,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 13
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "depiction",
-              "*dbpedialogo.svg"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 14
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "thumbnail",
-              "*dbpedialogo.svg?width=300"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 15
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "wikipageusestemplate",
-              "predefinicao:ani"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 16
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "wikipageusestemplate",
-              "predefinicao:data_de_lancamento"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 17
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "wikipageusestemplate",
-              "predefinicao:link_e_data"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 18
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "subject",
-              "categoria:acesso_livre"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 19
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "subject",
-              "categoria:web_semantica"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 20
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "wikipageexternallink",
-              "*pt.dbpedia.org"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 21
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "wikipageexternallink",
-              31
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 22
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "wikipageexternallink",
-              "tim_berners_lee_on_the_next_web.html"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 23
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "wikipageexternallink",
-              "proceedings:174"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 24
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "wikipageexternallink",
-              "proceedings:178"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 25
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "wikipageexternallink",
-              "*www2007_dbpedia_talk.pdfdbpedia:"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 26
-        },
-        {
-          "triples": [
-            [
-              "*dbpedia",
-              "wikipageexternallink",
-              "linkingopendata"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "dbpedia"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "dbpedia": {
-                  "keyword": {
-                    "termo": "dbpedia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dbpedia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 27
+          "id": 7
         },
         {
           "triples": [
@@ -1676,14 +996,694 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "nome",
+              "*dbpedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "legenda",
+              "*logo da dbpedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "ultimaversao",
+              "*dbpedia 3.8"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "linguagem",
+              "scala_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "linguagem",
+              "java_(linguagem_de_programacao)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "licenca",
+              "gnu_general_public_license"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "depiction",
+              "*dbpedialogo.svg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "thumbnail",
+              "*dbpedialogo.svg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "wikipageusestemplate",
+              "predefinicao:ani"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "wikipageusestemplate",
+              "predefinicao:data_de_lancamento"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "wikipageusestemplate",
+              "predefinicao:link_e_data"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "subject",
+              "categoria:acesso_livre"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "subject",
+              "categoria:web_semantica"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "wikipageexternallink",
+              "*pt.dbpedia.org"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "wikipageexternallink",
+              33
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "wikipageexternallink",
+              "tim_berners_lee_on_the_next_web.html"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "wikipageexternallink",
+              "proceedings:174"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "wikipageexternallink",
+              "proceedings:178"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "wikipageexternallink",
+              "*www2007_dbpedia_talk.pdfdbpedia:"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*dbpedia",
+              "wikipageexternallink",
+              "linkingopendata"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dbpedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dbpedia": {
+                  "keyword": {
+                    "termo": "dbpedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dbpedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 28
         },
         {
           "triples": [
             [
               "*dbpedia",
-              "22_rdf_syntax_ns#type",
-              "q7397"
+              "owl#sameas",
+              "q465"
             ]
           ],
           "score": 11.333333,
@@ -1713,12 +1713,15 @@
           "id": 29
         }
       ],
-      "ranking_time": 1543713711,
+      "ranking_time": 3487163107,
       "l_sizes": [
-        7999
+        8163
       ],
-      "ranking_time_only": 117930187,
-      "total_time": 8560569765,
+      "a_sizes": [
+        8163
+      ],
+      "ranking_time_only": 226775993,
+      "total_time": 15430315748,
       "timeout": false
     }
   }

@@ -439,93 +439,8 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [
-        {
-          "triples": [
-            [
-              "david_attenborough",
-              "wikipagewikilink",
-              "*bbc_wildlife_specials"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "bbc_wildlife_specials"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "bbc_wildlife_specials": {
-                  "keyword": {
-                    "termo": "bbc_wildlife_specials",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "bbc_wildlife_specials",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "bbc_wildlife_specials": "-3"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        }
-      ],
+      "correct_answer": [],
       "all_answers": [
-        {
-          "triples": [
-            [
-              "david_attenborough",
-              "wikipagewikilink",
-              "*bbc_wildlife_specials"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "bbc_wildlife_specials"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "bbc_wildlife_specials": {
-                  "keyword": {
-                    "termo": "bbc_wildlife_specials",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "bbc_wildlife_specials",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "bbc_wildlife_specials": "-3"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
         {
           "triples": [
             [
@@ -558,7 +473,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 1
+          "id": 0
         },
         {
           "triples": [
@@ -566,6 +481,40 @@
               "*apresentador",
               "22_rdf_syntax_ns#type",
               "22_rdf_syntax_ns#property"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apresentador"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apresentador": {
+                  "keyword": {
+                    "termo": "apresentador",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apresentador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*apresentador",
+              "rdf_schema#label",
+              "*apresentador"
             ]
           ],
           "score": 2.3333333,
@@ -631,9 +580,9 @@
         {
           "triples": [
             [
+              "woody_woodpecker",
               "*apresentador",
-              "wikipageoutdegree",
-              "1"
+              "walter_lantz"
             ]
           ],
           "score": 2.3333333,
@@ -665,9 +614,9 @@
         {
           "triples": [
             [
+              "fantastico",
               "*apresentador",
-              "rdf_schema#label",
-              "*apresentador"
+              "tadeu_schmidt"
             ]
           ],
           "score": 2.3333333,
@@ -699,9 +648,9 @@
         {
           "triples": [
             [
+              "fantastico",
               "*apresentador",
-              "wikipagewikilink",
-              "*apresentador_de_televisao"
+              "poliana abritta"
             ]
           ],
           "score": 2.3333333,
@@ -733,9 +682,9 @@
         {
           "triples": [
             [
+              "big_brother_brasil",
               "*apresentador",
-              "wikipageid",
-              "515614"
+              "marisa_orth"
             ]
           ],
           "score": 2.3333333,
@@ -767,9 +716,9 @@
         {
           "triples": [
             [
+              "big_brother_brasil",
               "*apresentador",
-              "wikipagelength",
-              "39"
+              "pedro bial"
             ]
           ],
           "score": 2.3333333,
@@ -801,9 +750,9 @@
         {
           "triples": [
             [
+              "big_brother_brasil",
               "*apresentador",
-              "wikipageredirects",
-              "*apresentador_de_televisao"
+              "tiago_leifert"
             ]
           ],
           "score": 2.3333333,
@@ -835,9 +784,9 @@
         {
           "triples": [
             [
+              "panico_na_tv",
               "*apresentador",
-              "wikipagerevisionid",
-              "42963589"
+              "emilio_surita"
             ]
           ],
           "score": 2.3333333,
@@ -869,9 +818,9 @@
         {
           "triples": [
             [
+              "american_idol",
               "*apresentador",
-              "prov#wasderivedfrom",
-              "*apresentador?oldid=42963589"
+              "ryan_seacrest"
             ]
           ],
           "score": 2.3333333,
@@ -903,9 +852,9 @@
         {
           "triples": [
             [
+              "american_idol",
               "*apresentador",
-              "isprimarytopicof",
-              "*apresentador"
+              "brian dunkleman"
             ]
           ],
           "score": 2.3333333,
@@ -937,9 +886,9 @@
         {
           "triples": [
             [
+              "bozo",
               "*apresentador",
-              "primarytopic",
-              "*apresentador"
+              "wandeko_pipoca"
             ]
           ],
           "score": 2.3333333,
@@ -971,9 +920,9 @@
         {
           "triples": [
             [
+              "bozo",
               "*apresentador",
-              "language",
-              "pt"
+              "luis_ricardo"
             ]
           ],
           "score": 2.3333333,
@@ -1005,9 +954,9 @@
         {
           "triples": [
             [
+              "bozo",
               "*apresentador",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "charles_myara"
             ]
           ],
           "score": 2.3333333,
@@ -1039,9 +988,9 @@
         {
           "triples": [
             [
-              "top_tv_(programa_de_televisao)",
+              "bozo",
               "*apresentador",
-              "dalton_vigh"
+              "decio_roberto"
             ]
           ],
           "score": 2.3333333,
@@ -1073,9 +1022,9 @@
         {
           "triples": [
             [
-              "top_tv_(programa_de_televisao)",
+              "bozo",
               "*apresentador",
-              "ricardo_corte_real"
+              "jean santos"
             ]
           ],
           "score": 2.3333333,
@@ -1107,9 +1056,9 @@
         {
           "triples": [
             [
-              "ratinho_livre",
+              "jornal_nacional",
               "*apresentador",
-              "carlos_massa"
+              "oficiais:"
             ]
           ],
           "score": 2.3333333,
@@ -1141,9 +1090,9 @@
         {
           "triples": [
             [
-              "chiquititas_(1997)",
+              "jornal_nacional",
               "*apresentador",
-              "teaser's do sbt"
+              "william bonner"
             ]
           ],
           "score": 2.3333333,
@@ -1175,9 +1124,9 @@
         {
           "triples": [
             [
-              "big_brother_brasil_8",
+              "jornal_nacional",
               "*apresentador",
-              "pedro_bial"
+              "renata vasconcellos"
             ]
           ],
           "score": 2.3333333,
@@ -1209,9 +1158,9 @@
         {
           "triples": [
             [
-              "bate_bola_(programa_de_tv)",
+              "jornal_nacional",
               "*apresentador",
-              "bate_bola_(espn_brasil)"
+              "eventuais:"
             ]
           ],
           "score": 2.3333333,
@@ -1243,9 +1192,9 @@
         {
           "triples": [
             [
-              "50_por_1",
+              "jornal_nacional",
               "*apresentador",
-              "alvaro_garnero"
+              "alexandre garcia"
             ]
           ],
           "score": 2.3333333,
@@ -1277,9 +1226,9 @@
         {
           "triples": [
             [
-              "record_news_nordeste",
+              "jornal_nacional",
               "*apresentador",
-              "carolina_lima"
+              "chico pinheiro"
             ]
           ],
           "score": 2.3333333,
@@ -1311,9 +1260,9 @@
         {
           "triples": [
             [
-              "record_news_nordeste",
+              "jornal_nacional",
               "*apresentador",
-              "renata maia"
+              "heraldo pereira"
             ]
           ],
           "score": 2.3333333,
@@ -1345,9 +1294,9 @@
         {
           "triples": [
             [
-              "tempo_news",
+              "jornal_nacional",
               "*apresentador",
-              "pryscilla_paiva"
+              "carla vilhena"
             ]
           ],
           "score": 2.3333333,
@@ -1379,9 +1328,9 @@
         {
           "triples": [
             [
-              "zapping",
+              "jornal_nacional",
               "*apresentador",
-              "vera_viel"
+              "ana paula araujo"
             ]
           ],
           "score": 2.3333333,
@@ -1413,9 +1362,9 @@
         {
           "triples": [
             [
-              "are_you_smarter_than_a_5th_grader%3f",
+              "jornal_nacional",
               "*apresentador",
-              "jeff_foxworthy"
+              "william waack"
             ]
           ],
           "score": 2.3333333,
@@ -1447,9 +1396,9 @@
         {
           "triples": [
             [
-              "roda_dos_milhoes",
+              "jornal_nacional",
               "*apresentador",
-              "jorge_gabriel"
+              "evaristo costa"
             ]
           ],
           "score": 2.3333333,
@@ -1481,9 +1430,9 @@
         {
           "triples": [
             [
-              "roda_dos_milhoes",
+              "jornal_nacional",
               "*apresentador",
-              "mila_ferreira"
+              "sandra annenberg"
             ]
           ],
           "score": 2.3333333,
@@ -1513,12 +1462,15 @@
           "id": 29
         }
       ],
-      "ranking_time": 3263622654,
+      "ranking_time": 10304712201,
       "l_sizes": [
-        8386
+        8943
       ],
-      "ranking_time_only": 136931125,
-      "total_time": 11349728842,
+      "a_sizes": [
+        8943
+      ],
+      "ranking_time_only": 147494038,
+      "total_time": 19474171380,
       "timeout": false
     }
   }

@@ -173,19 +173,13 @@
             "por": [
               {
                 "synset": "end",
-                "sinonimo": "encerrar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "end",
-                "sinonimo": "terminar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "end",
                 "sinonimo": "cessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "parar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -197,36 +191,30 @@
               },
               {
                 "synset": "end",
-                "sinonimo": "parar",
+                "sinonimo": "finalizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "complete",
+                "synset": "end",
                 "sinonimo": "acabar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "end",
-                "sinonimo": "finalizar",
+                "sinonimo": "encerrar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "end",
-                "sinonimo": "stop",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "end",
-                "sinonimo": "finish",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "end",
                 "sinonimo": "cease",
@@ -234,8 +222,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "end",
-                "sinonimo": "end",
+                "synset": "complete",
+                "sinonimo": "finish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -243,11 +237,17 @@
                 "synset": "end",
                 "sinonimo": "terminate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "complete",
-                "sinonimo": "complete",
+                "synset": "end",
+                "sinonimo": "end",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "stop",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -300,49 +300,7 @@
               },
               {
                 "synset": "bus",
-                "sinonimo": "ónibus",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "autocarros",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dash",
-                "sinonimo": "carreira",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "racing",
-                "sinonimo": "corrida",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
                 "sinonimo": "autocarro",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "Autocarro",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "Ônibus",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "machimbombo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -354,7 +312,49 @@
               },
               {
                 "synset": "bus",
+                "sinonimo": "ónibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
                 "sinonimo": "auto-ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "Autocarro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "machimbombo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "Ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "carreira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "corrida",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -362,43 +362,13 @@
             "eng": [
               {
                 "synset": "bus",
-                "sinonimo": "motorcoach",
+                "sinonimo": "bus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "bus",
-                "sinonimo": "omnibus",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "jitney",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "double-decker",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dash",
-                "sinonimo": "dash",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "charabanc",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "coach",
+                "synset": "racing",
+                "sinonimo": "racing",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -416,19 +386,43 @@
               },
               {
                 "synset": "bus",
-                "sinonimo": "bus",
+                "sinonimo": "motorcoach",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "bus",
-                "sinonimo": "passenger_vehicle",
+                "sinonimo": "double-decker",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "racing",
-                "sinonimo": "racing",
+                "synset": "track",
+                "sinonimo": "running",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "dash",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "coach",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "charabanc",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "jitney",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -439,14 +433,20 @@
                 "distancia_semantica": "11"
               },
               {
-                "synset": "track",
-                "sinonimo": "running",
+                "synset": "bus",
+                "sinonimo": "motorbus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "11"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "bus",
-                "sinonimo": "motorbus",
+                "sinonimo": "passenger_vehicle",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "omnibus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -509,19 +509,13 @@
             "por": [
               {
                 "synset": "end",
-                "sinonimo": "encerrar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "end",
-                "sinonimo": "terminar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "end",
                 "sinonimo": "cessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "parar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -533,36 +527,30 @@
               },
               {
                 "synset": "end",
-                "sinonimo": "parar",
+                "sinonimo": "finalizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "complete",
+                "synset": "end",
                 "sinonimo": "acabar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "end",
-                "sinonimo": "finalizar",
+                "sinonimo": "encerrar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "end",
-                "sinonimo": "stop",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "end",
-                "sinonimo": "finish",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "end",
                 "sinonimo": "cease",
@@ -570,8 +558,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "end",
-                "sinonimo": "end",
+                "synset": "complete",
+                "sinonimo": "finish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -579,11 +573,17 @@
                 "synset": "end",
                 "sinonimo": "terminate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "complete",
-                "sinonimo": "complete",
+                "synset": "end",
+                "sinonimo": "end",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "stop",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -611,49 +611,7 @@
               },
               {
                 "synset": "bus",
-                "sinonimo": "ónibus",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "autocarros",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dash",
-                "sinonimo": "carreira",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "racing",
-                "sinonimo": "corrida",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
                 "sinonimo": "autocarro",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "Autocarro",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "Ônibus",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "machimbombo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -665,7 +623,49 @@
               },
               {
                 "synset": "bus",
+                "sinonimo": "ónibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
                 "sinonimo": "auto-ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "Autocarro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "machimbombo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "Ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "carreira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "corrida",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -673,43 +673,13 @@
             "eng": [
               {
                 "synset": "bus",
-                "sinonimo": "motorcoach",
+                "sinonimo": "bus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "bus",
-                "sinonimo": "omnibus",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "jitney",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "double-decker",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "dash",
-                "sinonimo": "dash",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "charabanc",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "coach",
+                "synset": "racing",
+                "sinonimo": "racing",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -727,19 +697,43 @@
               },
               {
                 "synset": "bus",
-                "sinonimo": "bus",
+                "sinonimo": "motorcoach",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "bus",
-                "sinonimo": "passenger_vehicle",
+                "sinonimo": "double-decker",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "racing",
-                "sinonimo": "racing",
+                "synset": "track",
+                "sinonimo": "running",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "dash",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "coach",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "charabanc",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "jitney",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -750,14 +744,20 @@
                 "distancia_semantica": "11"
               },
               {
-                "synset": "track",
-                "sinonimo": "running",
+                "synset": "bus",
+                "sinonimo": "motorbus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "11"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "bus",
-                "sinonimo": "motorbus",
+                "sinonimo": "passenger_vehicle",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "omnibus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -770,224 +770,7 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [],
-      "all_answers": [
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "language",
-              "pt"
-            ],
-            [
-              "*carreira",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 13.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "carreira",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "carreira",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "boris_becker": "-1",
-              "carreira": "-538"
-            },
-            "best_bind": {
-              "score": 0.21069689,
-              "resource_id": 206,
-              "tr": "encerrar"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*carreira",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 13.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "carreira",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "carreira",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 1,
-          "bind_control": {
-            "binds": {
-              "boris_becker": "-1",
-              "carreira": "-538"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*carreira",
-              "language",
-              "pt"
-            ],
-            [
-              "*boris_becker",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 13.333333,
-          "detail": {
-            "keywords": [
-              "carreira",
-              "boris_becker"
-            ],
-            "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "carreira",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "carreira",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 2
-        },
-        {
-          "triples": [
-            [
-              "*carreira",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*boris_becker",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 13.333333,
-          "detail": {
-            "keywords": [
-              "carreira",
-              "boris_becker"
-            ],
-            "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "carreira",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "carreira",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 3
-        },
+      "correct_answer": [
         {
           "triples": [
             [
@@ -1030,31 +813,39 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 4
-        },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "end": "-134",
+              "encerrar": -134
+            },
+            "best_bind": {
+              "score": 0.6566496,
+              "resource_id": -134,
+              "tr": "encerrar"
+            }
+          }
+        }
+      ],
+      "all_answers": [
         {
           "triples": [
             [
               "*boris_becker",
               "*gender",
               "masculino"
-            ],
-            [
-              "*lista_de_campeoes_em_singulares_dos_principais_torneios_de_tenis_por_carreira",
-              "wikipagewikilink",
-              "*boris_becker"
             ]
           ],
-          "score": 12.422701,
+          "score": 12.567297,
           "detail": {
             "keywords": [
               "encerrar",
-              "boris_becker",
-              "carreira"
+              "boris_becker"
             ],
             "score_detail": {
-              "m1": 10.922701,
-              "m2": 0.5,
+              "m1": 10.90063,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
                 "encerrar": {
@@ -1074,100 +865,450 @@
                   },
                   "resource": "boris_becker",
                   "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "carreira",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "lista_de_campeoes_em_singulares_dos_principais_torneios_de_tenis_por_carreira",
-                  "score": 0.0220704
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 5
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "end": "-134",
+              "encerrar": -134
+            },
+            "best_bind": {
+              "score": 0.6566496,
+              "resource_id": -134,
+              "tr": "encerrar"
+            }
+          }
         },
         {
           "triples": [
             [
-              "*lista_de_campeoes_em_singulares_dos_principais_torneios_de_tenis_por_carreira",
-              "wikipagewikilink",
-              "*boris_becker"
+              "*boris_becker",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
-              "*boris_becker",
-              "*gender",
-              "masculino"
+              "*sprint",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 12.422701,
+          "score": 12.333333,
           "detail": {
             "keywords": [
               "boris_becker",
+              "carreira"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "sprint",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sprint",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "sprint": "-178"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*corrida",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "boris_becker",
+              "carreira"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "corrida",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "corrida",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "corrida": "-145"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ],
+            [
+              "*sprint",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "boris_becker",
+              "carreira"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "sprint",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sprint",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "sprint": "-178"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "owl#sameas",
+              50
+            ],
+            [
+              "*track",
+              "owl#sameas",
+              50
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "boris_becker",
+              "carreira"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "track",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "track",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "track": "-144"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "owl#sameas",
+              50
+            ],
+            [
+              "*bus",
+              "owl#sameas",
+              50
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "boris_becker",
+              "carreira"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "bus",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "bus",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "bus": "-182"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "owl#sameas",
+              50
+            ],
+            [
+              "*corrida",
+              "owl#sameas",
+              50
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "boris_becker",
+              "carreira"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "corrida",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "corrida",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "corrida": "-145"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "owl#sameas",
+              50
+            ],
+            [
+              "*sprint",
+              "owl#sameas",
+              50
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "boris_becker",
+              "carreira"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "sprint",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sprint",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "sprint": "-178"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sprint",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*boris_becker",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
               "carreira",
-              "encerrar"
-            ],
-            "score_detail": {
-              "m1": 10.922701,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "encerrar": {
-                  "keyword": {
-                    "termo": "end",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "gender",
-                  "score": 0.9006304
-                },
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "carreira",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "lista_de_campeoes_em_singulares_dos_principais_torneios_de_tenis_por_carreira",
-                  "score": 0.0220704
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 6
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
-            ],
-            [
-              "*sprint",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
+              "boris_becker"
             ],
             "score_detail": {
               "m1": 11.0,
@@ -1197,75 +1338,35 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 7
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
-            ],
-            [
-              "*corrida",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 11.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "corrida",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "corrida",
-                  "score": 1.0
-                }
-              }
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "sprint": "-178",
+              "boris_becker": "-1"
             },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 8
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
-            [
-              "*boris_becker",
-              "wikipageusestemplate",
-              "predefinicao:portal3"
-            ],
             [
               "*sprint",
               "wikipageusestemplate",
               "predefinicao:portal3"
+            ],
+            [
+              "*boris_becker",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
             ]
           ],
           "score": 12.333333,
           "detail": {
             "keywords": [
-              "boris_becker",
-              "carreira"
+              "carreira",
+              "boris_becker"
             ],
             "score_detail": {
               "m1": 11.0,
@@ -1295,124 +1396,35 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "owl#sameas",
-              62
-            ],
-            [
-              "*bus",
-              "owl#sameas",
-              62
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 11.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "bus",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "bus",
-                  "score": 1.0
-                }
-              }
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "sprint": "-178",
+              "boris_becker": "-1"
             },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 10
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
-            [
-              "*boris_becker",
-              "owl#sameas",
-              62
-            ],
-            [
-              "*corrida",
-              "owl#sameas",
-              62
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 11.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "corrida",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "corrida",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 11
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "owl#sameas",
-              62
-            ],
             [
               "*track",
               "owl#sameas",
-              62
+              50
+            ],
+            [
+              "*boris_becker",
+              "owl#sameas",
+              50
             ]
           ],
           "score": 12.333333,
           "detail": {
             "keywords": [
-              "boris_becker",
-              "carreira"
+              "carreira",
+              "boris_becker"
             ],
             "score_detail": {
               "m1": 11.0,
@@ -1442,369 +1454,35 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 12
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "owl#sameas",
-              62
-            ],
-            [
-              "*sprint",
-              "owl#sameas",
-              62
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 11.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "sprint",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "sprint",
-                  "score": 1.0
-                }
-              }
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "track": "-144",
+              "boris_becker": "-1"
             },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 13
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
-            [
-              "*boris_becker",
-              "wikipagewikilink",
-              "jogos_olimpicos"
-            ],
-            [
-              "*corrida",
-              "wikipagewikilink",
-              "jogos_olimpicos"
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 11.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "corrida",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "corrida",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 14
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "language",
-              "pt"
-            ],
-            [
-              "*machimbombo",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 11.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "machimbombo",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "machimbombo",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 15
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "language",
-              "pt"
-            ],
-            [
-              "*track",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 11.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "track",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "track",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 16
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "language",
-              "pt"
-            ],
-            [
-              "*running",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 11.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "running",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "running",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 17
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "language",
-              "pt"
-            ],
-            [
-              "*autocarros",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 11.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "autocarros",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "autocarros",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 18
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "language",
-              "pt"
-            ],
-            [
-              "*racing",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 11.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "racing",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "racing",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 19
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "language",
-              "pt"
-            ],
             [
               "*bus",
-              "language",
-              "pt"
+              "owl#sameas",
+              50
+            ],
+            [
+              "*boris_becker",
+              "owl#sameas",
+              50
             ]
           ],
           "score": 12.333333,
           "detail": {
             "keywords": [
-              "boris_becker",
-              "carreira"
+              "carreira",
+              "boris_becker"
             ],
             "score_detail": {
               "m1": 11.0,
@@ -1834,75 +1512,35 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 20
-        },
-        {
-          "triples": [
-            [
-              "*boris_becker",
-              "language",
-              "pt"
-            ],
-            [
-              "*sprint",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 12.333333,
-          "detail": {
-            "keywords": [
-              "boris_becker",
-              "carreira"
-            ],
-            "score_detail": {
-              "m1": 11.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "boris_becker": {
-                  "keyword": {
-                    "termo": "boris_becker",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "boris_becker",
-                  "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "sprint",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "sprint",
-                  "score": 1.0
-                }
-              }
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "bus": "-182",
+              "boris_becker": "-1"
             },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 21
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
-            [
-              "*boris_becker",
-              "language",
-              "pt"
-            ],
             [
               "*corrida",
-              "language",
-              "pt"
+              "owl#sameas",
+              50
+            ],
+            [
+              "*boris_becker",
+              "owl#sameas",
+              50
             ]
           ],
           "score": 12.333333,
           "detail": {
             "keywords": [
-              "boris_becker",
-              "carreira"
+              "carreira",
+              "boris_becker"
             ],
             "score_detail": {
               "m1": 11.0,
@@ -1932,26 +1570,35 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 22
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "corrida": "-145",
+              "boris_becker": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
             [
-              "*boris_becker",
-              "language",
-              "pt"
+              "*sprint",
+              "owl#sameas",
+              50
             ],
             [
-              "*omnibus",
-              "language",
-              "pt"
+              "*boris_becker",
+              "owl#sameas",
+              50
             ]
           ],
           "score": 12.333333,
           "detail": {
             "keywords": [
-              "boris_becker",
-              "carreira"
+              "carreira",
+              "boris_becker"
             ],
             "score_detail": {
               "m1": 11.0,
@@ -1969,11 +1616,11 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "omnibus",
+                    "termo": "sprint",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "omnibus",
+                  "resource": "sprint",
                   "score": 1.0
                 }
               }
@@ -1981,29 +1628,96 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 23
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "sprint": "-178",
+              "boris_becker": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*corrida",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*boris_becker",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "carreira",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "corrida",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "corrida",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "corrida": "-145",
+              "boris_becker": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
             [
               "*boris_becker",
-              "language",
-              "pt"
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
-              "*autocarro",
-              "language",
-              "pt"
+              "*sam_(autocarros)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 12.333333,
+          "score": 12.237972,
           "detail": {
             "keywords": [
               "boris_becker",
               "carreira"
             ],
             "score_detail": {
-              "m1": 11.0,
+              "m1": 10.904639,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2022,37 +1736,46 @@
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autocarro",
-                  "score": 1.0
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 24
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "autocarro": "-149"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
             [
               "*boris_becker",
-              "language",
-              "pt"
+              "wikipageusestemplate",
+              "predefinicao:portal3"
             ],
             [
-              "*coach",
-              "language",
-              "pt"
+              "*sam_(autocarros)",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
             ]
           ],
-          "score": 12.333333,
+          "score": 12.237972,
           "detail": {
             "keywords": [
               "boris_becker",
               "carreira"
             ],
             "score_detail": {
-              "m1": 11.0,
+              "m1": 10.904639,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2067,41 +1790,50 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "coach",
+                    "termo": "autocarro",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "coach",
-                  "score": 1.0
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 25
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "autocarro": "-149"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
             [
               "*boris_becker",
               "22_rdf_syntax_ns#type",
-              "document"
+              "owl#thing"
             ],
             [
-              "*machimbombo",
+              "*sam_(autocarros)",
               "22_rdf_syntax_ns#type",
-              "document"
+              "owl#thing"
             ]
           ],
-          "score": 12.333333,
+          "score": 12.237972,
           "detail": {
             "keywords": [
               "boris_becker",
               "carreira"
             ],
             "score_detail": {
-              "m1": 11.0,
+              "m1": 10.904639,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2116,41 +1848,50 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "machimbombo",
+                    "termo": "autocarro",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "machimbombo",
-                  "score": 1.0
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
                 }
               }
             },
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 26
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "autocarro": "-149"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
             [
               "*boris_becker",
               "22_rdf_syntax_ns#type",
-              "document"
+              "agent"
             ],
             [
-              "*track",
+              "*sam_(autocarros)",
               "22_rdf_syntax_ns#type",
-              "document"
+              "agent"
             ]
           ],
-          "score": 12.333333,
+          "score": 12.237972,
           "detail": {
             "keywords": [
               "boris_becker",
               "carreira"
             ],
             "score_detail": {
-              "m1": 11.0,
+              "m1": 10.904639,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2165,12 +1906,534 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "track",
+                    "termo": "autocarro",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "track",
-                  "score": 1.0
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "autocarro": "-149"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "22_rdf_syntax_ns#type",
+              "dul.owl#agent"
+            ],
+            [
+              "*sam_(autocarros)",
+              "22_rdf_syntax_ns#type",
+              "dul.owl#agent"
+            ]
+          ],
+          "score": 12.237972,
+          "detail": {
+            "keywords": [
+              "boris_becker",
+              "carreira"
+            ],
+            "score_detail": {
+              "m1": 10.904639,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "autocarro",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "autocarro": "-149"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "22_rdf_syntax_ns#type",
+              "q24229398"
+            ],
+            [
+              "*sam_(autocarros)",
+              "22_rdf_syntax_ns#type",
+              "q24229398"
+            ]
+          ],
+          "score": 12.237972,
+          "detail": {
+            "keywords": [
+              "boris_becker",
+              "carreira"
+            ],
+            "score_detail": {
+              "m1": 10.904639,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "autocarro",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "autocarro": "-149"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sam_(autocarros)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*boris_becker",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 12.237972,
+          "detail": {
+            "keywords": [
+              "carreira",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.904639,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "autocarro",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "autocarro": "-149",
+              "boris_becker": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sam_(autocarros)",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ],
+            [
+              "*boris_becker",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 12.237972,
+          "detail": {
+            "keywords": [
+              "carreira",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.904639,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "autocarro",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "autocarro": "-149",
+              "boris_becker": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sam_(autocarros)",
+              "22_rdf_syntax_ns#type",
+              "agent"
+            ],
+            [
+              "*boris_becker",
+              "22_rdf_syntax_ns#type",
+              "agent"
+            ]
+          ],
+          "score": 12.237972,
+          "detail": {
+            "keywords": [
+              "carreira",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.904639,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "autocarro",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "autocarro": "-149",
+              "boris_becker": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sam_(autocarros)",
+              "22_rdf_syntax_ns#type",
+              "dul.owl#agent"
+            ],
+            [
+              "*boris_becker",
+              "22_rdf_syntax_ns#type",
+              "dul.owl#agent"
+            ]
+          ],
+          "score": 12.237972,
+          "detail": {
+            "keywords": [
+              "carreira",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.904639,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "autocarro",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "autocarro": "-149",
+              "boris_becker": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sam_(autocarros)",
+              "22_rdf_syntax_ns#type",
+              "q24229398"
+            ],
+            [
+              "*boris_becker",
+              "22_rdf_syntax_ns#type",
+              "q24229398"
+            ]
+          ],
+          "score": 12.237972,
+          "detail": {
+            "keywords": [
+              "carreira",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.904639,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "autocarro",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "autocarro": "-149",
+              "boris_becker": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sam_(autocarros)",
+              "22_rdf_syntax_ns#type",
+              "owl#thing"
+            ],
+            [
+              "*boris_becker",
+              "22_rdf_syntax_ns#type",
+              "owl#thing"
+            ]
+          ],
+          "score": 12.237972,
+          "detail": {
+            "keywords": [
+              "carreira",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.904639,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                },
+                "carreira": {
+                  "keyword": {
+                    "termo": "autocarro",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sam_(autocarros)",
+                  "score": 0.90463924
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "autocarro": "-149",
+              "boris_becker": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "nometenista",
+              "boris becker"
+            ],
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "boris_becker",
+              "encerrar"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
                 }
               }
             },
@@ -2183,26 +2446,35 @@
           "triples": [
             [
               "*boris_becker",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "cidadenatal",
+              "leimen, alemanha"
             ],
             [
-              "*running",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*boris_becker",
+              "*gender",
+              "masculino"
             ]
           ],
-          "score": 12.333333,
+          "score": 12.233963,
           "detail": {
             "keywords": [
               "boris_becker",
-              "carreira"
+              "encerrar"
             ],
             "score_detail": {
-              "m1": 11.0,
+              "m1": 10.90063,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
                 "boris_becker": {
                   "keyword": {
                     "termo": "boris_becker",
@@ -2211,15 +2483,6 @@
                   },
                   "resource": "boris_becker",
                   "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "running",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "running",
-                  "score": 1.0
                 }
               }
             },
@@ -2232,26 +2495,35 @@
           "triples": [
             [
               "*boris_becker",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "altura",
+              "1,90 m"
             ],
             [
-              "*autocarros",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*boris_becker",
+              "*gender",
+              "masculino"
             ]
           ],
-          "score": 12.333333,
+          "score": 12.233963,
           "detail": {
             "keywords": [
               "boris_becker",
-              "carreira"
+              "encerrar"
             ],
             "score_detail": {
-              "m1": 11.0,
+              "m1": 10.90063,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
                 "boris_becker": {
                   "keyword": {
                     "termo": "boris_becker",
@@ -2260,15 +2532,6 @@
                   },
                   "resource": "boris_becker",
                   "score": 10.0
-                },
-                "carreira": {
-                  "keyword": {
-                    "termo": "autocarros",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "autocarros",
-                  "score": 1.0
                 }
               }
             },
@@ -2278,13 +2541,17 @@
           "id": 29
         }
       ],
-      "ranking_time": 8348210905,
+      "ranking_time": 7860595459,
       "l_sizes": [
-        13397,
-        261320
+        12773,
+        12773
       ],
-      "ranking_time_only": 4558823664,
-      "total_time": 16792421159,
+      "a_sizes": [
+        12773,
+        77976
+      ],
+      "ranking_time_only": 3250961063,
+      "total_time": 20411644975,
       "timeout": false
     }
   }

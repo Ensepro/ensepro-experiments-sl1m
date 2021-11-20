@@ -132,22 +132,22 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "cost",
+                "synset": "claim",
                 "sinonimo": "custar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "05"
               }
             ],
             "eng": [
               {
-                "synset": "cost",
-                "sinonimo": "cost",
+                "synset": "claim",
+                "sinonimo": "take",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "claim",
-                "sinonimo": "exact",
+                "sinonimo": "claim",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
@@ -158,14 +158,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "claim",
-                "sinonimo": "take",
+                "synset": "cost",
+                "sinonimo": "cost",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "claim",
-                "sinonimo": "claim",
+                "sinonimo": "exact",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               }
@@ -233,22 +233,22 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "cost",
+                "synset": "claim",
                 "sinonimo": "custar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "05"
               }
             ],
             "eng": [
               {
-                "synset": "cost",
-                "sinonimo": "cost",
+                "synset": "claim",
+                "sinonimo": "take",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "claim",
-                "sinonimo": "exact",
+                "sinonimo": "claim",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
@@ -259,14 +259,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "claim",
-                "sinonimo": "take",
+                "synset": "cost",
+                "sinonimo": "cost",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "claim",
-                "sinonimo": "claim",
+                "sinonimo": "exact",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               }
@@ -345,11 +345,11 @@
           "bind_control": {
             "binds": {
               "pulp_fiction": "-1",
-              "cost": "-165"
+              "cost": "-163"
             },
             "best_bind": {
               "score": 0.22435309,
-              "resource_id": -165,
+              "resource_id": -163,
               "tr": "custar"
             }
           }
@@ -1599,12 +1599,15 @@
           }
         }
       ],
-      "ranking_time": 1021498779,
+      "ranking_time": 883086663,
       "l_sizes": [
-        1544
+        949
       ],
-      "ranking_time_only": 84516527,
-      "total_time": 7664540162,
+      "a_sizes": [
+        949
+      ],
+      "ranking_time_only": 85742286,
+      "total_time": 7318822407,
       "timeout": false
     }
   }

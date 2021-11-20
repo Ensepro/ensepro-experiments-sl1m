@@ -286,15 +286,15 @@
             "eng": [
               {
                 "synset": "music",
-                "sinonimo": "music",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "music",
                 "sinonimo": "euphony",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "music",
+                "sinonimo": "music",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -387,15 +387,15 @@
             "eng": [
               {
                 "synset": "music",
-                "sinonimo": "music",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "music",
                 "sinonimo": "euphony",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "music",
+                "sinonimo": "music",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -452,15 +452,15 @@
               "eng": [
                 {
                   "synset": "music",
-                  "sinonimo": "music",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "music",
                   "sinonimo": "euphony",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
+                },
+                {
+                  "synset": "music",
+                  "sinonimo": "music",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
                 }
               ]
             }
@@ -491,7 +491,7 @@
         {
           "triples": [
             [
-              "*billy_elliot___the_musical",
+              "*aida_(musical)",
               "*musica",
               "*elton_john"
             ]
@@ -523,7 +523,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "billy_elliot___the_musical",
+                  "resource": "aida_(musical)",
                   "score": 1.0
                 },
                 "musica": {
@@ -543,7 +543,7 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "musica": "-443",
+              "musica": "-286",
               "elton_john": "-1"
             },
             "best_bind": {
@@ -606,7 +606,7 @@
           "id": 1,
           "bind_control": {
             "binds": {
-              "musica": "-441",
+              "musica": "-300",
               "elton_john": "-1"
             },
             "best_bind": {
@@ -617,7 +617,7 @@
         {
           "triples": [
             [
-              "*aida_(musical)",
+              "*billy_elliot___the_musical",
               "*musica",
               "*elton_john"
             ]
@@ -649,7 +649,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "aida_(musical)",
+                  "resource": "billy_elliot___the_musical",
                   "score": 1.0
                 },
                 "musica": {
@@ -669,7 +669,7 @@
           "id": 2,
           "bind_control": {
             "binds": {
-              "musica": "-248",
+              "musica": "-314",
               "elton_john": "-1"
             },
             "best_bind": {
@@ -682,7 +682,7 @@
         {
           "triples": [
             [
-              "*billy_elliot___the_musical",
+              "*aida_(musical)",
               "*musica",
               "*elton_john"
             ]
@@ -714,7 +714,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "billy_elliot___the_musical",
+                  "resource": "aida_(musical)",
                   "score": 1.0
                 },
                 "musica": {
@@ -734,7 +734,7 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "musica": "-443",
+              "musica": "-286",
               "elton_john": "-1"
             },
             "best_bind": {
@@ -797,7 +797,7 @@
           "id": 1,
           "bind_control": {
             "binds": {
-              "musica": "-441",
+              "musica": "-300",
               "elton_john": "-1"
             },
             "best_bind": {
@@ -808,7 +808,7 @@
         {
           "triples": [
             [
-              "*aida_(musical)",
+              "*billy_elliot___the_musical",
               "*musica",
               "*elton_john"
             ]
@@ -840,7 +840,7 @@
                     "peso": 1.0,
                     "classe": "ADJ"
                   },
-                  "resource": "aida_(musical)",
+                  "resource": "billy_elliot___the_musical",
                   "score": 1.0
                 },
                 "musica": {
@@ -860,67 +860,13 @@
           "id": 2,
           "bind_control": {
             "binds": {
-              "musica": "-248",
+              "musica": "-314",
               "elton_john": "-1"
             },
             "best_bind": {
               "score": 0
             }
           }
-        },
-        {
-          "triples": [
-            [
-              "sorry_seems_to_be_the_hardest_word",
-              "*musicalband",
-              "*elton_john"
-            ]
-          ],
-          "score": 14.815291,
-          "detail": {
-            "keywords": [
-              "elton_john",
-              "musical",
-              "musica"
-            ],
-            "score_detail": {
-              "m1": 12.815291,
-              "m2": 1.0,
-              "m3": 1.0,
-              "matches": {
-                "elton_john": {
-                  "keyword": {
-                    "termo": "elton_john",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "elton_john",
-                  "score": 10.0
-                },
-                "musical": {
-                  "keyword": {
-                    "termo": "musical",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "musicalband",
-                  "score": 1.0
-                },
-                "musica": {
-                  "keyword": {
-                    "termo": "musica",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "musicalband",
-                  "score": 1.815291
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 3
         },
         {
           "triples": [
@@ -974,12 +920,66 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "sorry_seems_to_be_the_hardest_word",
+              "*musicalband",
+              "*elton_john"
+            ]
+          ],
+          "score": 14.815291,
+          "detail": {
+            "keywords": [
+              "elton_john",
+              "musical",
+              "musica"
+            ],
+            "score_detail": {
+              "m1": 12.815291,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "elton_john": {
+                  "keyword": {
+                    "termo": "elton_john",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elton_john",
+                  "score": 10.0
+                },
+                "musical": {
+                  "keyword": {
+                    "termo": "musical",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "musicalband",
+                  "score": 1.0
+                },
+                "musica": {
+                  "keyword": {
+                    "termo": "musica",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "musicalband",
+                  "score": 1.815291
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 4
         },
         {
           "triples": [
             [
-              "you_gotta_love_someone",
+              "the_bitch_is_back",
               "*musicalband",
               "*elton_john"
             ]
@@ -1249,7 +1249,7 @@
         {
           "triples": [
             [
-              "bennie_and_the_jets",
+              "candle_in_the_wind",
               "*musicalband",
               "*elton_john"
             ]
@@ -1303,7 +1303,7 @@
         {
           "triples": [
             [
-              "candle_in_the_wind",
+              "bennie_and_the_jets",
               "*musicalband",
               "*elton_john"
             ]
@@ -1411,7 +1411,7 @@
         {
           "triples": [
             [
-              "your_song",
+              "you_gotta_love_someone",
               "*musicalband",
               "*elton_john"
             ]
@@ -1465,7 +1465,7 @@
         {
           "triples": [
             [
-              "circle_of_life",
+              "your_song",
               "*musicalband",
               "*elton_john"
             ]
@@ -1519,7 +1519,7 @@
         {
           "triples": [
             [
-              "can_you_feel_the_love_tonight",
+              "nikita_(cancao)",
               "*musicalband",
               "*elton_john"
             ]
@@ -1573,7 +1573,7 @@
         {
           "triples": [
             [
-              "empty_garden_(hey_hey_johnny)",
+              "can_you_feel_the_love_tonight",
               "*musicalband",
               "*elton_john"
             ]
@@ -1627,7 +1627,7 @@
         {
           "triples": [
             [
-              "i'm_still_standing",
+              "empty_garden_(hey_hey_johnny)",
               "*musicalband",
               "*elton_john"
             ]
@@ -1681,7 +1681,7 @@
         {
           "triples": [
             [
-              "the_bitch_is_back",
+              "i'm_still_standing",
               "*musicalband",
               "*elton_john"
             ]
@@ -1735,7 +1735,7 @@
         {
           "triples": [
             [
-              "nikita_(cancao)",
+              "circle_of_life",
               "*musicalband",
               "*elton_john"
             ]
@@ -1843,7 +1843,7 @@
         {
           "triples": [
             [
-              "sorry_seems_to_be_the_hardest_word",
+              "candle_in_the_wind_1997",
               "*musicalartist",
               "*elton_john"
             ]
@@ -1897,7 +1897,7 @@
         {
           "triples": [
             [
-              "candle_in_the_wind_1997",
+              "sorry_seems_to_be_the_hardest_word",
               "*musicalartist",
               "*elton_john"
             ]
@@ -1951,7 +1951,7 @@
         {
           "triples": [
             [
-              "you_gotta_love_someone",
+              "the_bitch_is_back",
               "*musicalartist",
               "*elton_john"
             ]
@@ -2221,7 +2221,7 @@
         {
           "triples": [
             [
-              "bennie_and_the_jets",
+              "candle_in_the_wind",
               "*musicalartist",
               "*elton_john"
             ]
@@ -2275,7 +2275,7 @@
         {
           "triples": [
             [
-              "candle_in_the_wind",
+              "bennie_and_the_jets",
               "*musicalartist",
               "*elton_john"
             ]
@@ -2327,12 +2327,15 @@
           "id": 29
         }
       ],
-      "ranking_time": 2763965491,
+      "ranking_time": 1580446273,
       "l_sizes": [
-        11948
+        10548
       ],
-      "ranking_time_only": 150829725,
-      "total_time": 10479483461,
+      "a_sizes": [
+        10548
+      ],
+      "ranking_time_only": 155543507,
+      "total_time": 8656647212,
       "timeout": false
     }
   }

@@ -284,32 +284,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "municipality",
-                "sinonimo": "autarquias",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "village",
-                "sinonimo": "aldeia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "concelho",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "town",
                 "sinonimo": "cidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "comuna",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city",
-                "sinonimo": "município",
+                "synset": "city_state",
+                "sinonimo": "cidade-estado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -317,23 +305,29 @@
                 "synset": "village",
                 "sinonimo": "vila",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "autarquias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "city_state",
-                "sinonimo": "cidade-Estado",
+                "sinonimo": "Cidades-Estado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city",
-                "sinonimo": "metrópole",
+                "synset": "town",
+                "sinonimo": "arraial",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city",
-                "sinonimo": "urbe",
+                "synset": "municipality",
+                "sinonimo": "município",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -350,20 +344,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "village",
-                "sinonimo": "aldeias",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "cidade-estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "town",
-                "sinonimo": "arraial",
+                "synset": "city",
+                "sinonimo": "centro_urbano",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -374,19 +356,43 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city_state",
-                "sinonimo": "Cidades-Estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "centro_urbano",
+                "synset": "municipality",
+                "sinonimo": "concelho",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "village",
+                "sinonimo": "aldeias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidade-Estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "metrópole",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "aldeia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "urbe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
                 "sinonimo": "povoado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -396,12 +402,6 @@
                 "sinonimo": "metrópoles",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "comuna",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ],
             "eng": [
@@ -413,43 +413,7 @@
               },
               {
                 "synset": "village",
-                "sinonimo": "village",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "urban_center",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "city",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "village",
                 "sinonimo": "small_town",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "city_state",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "municipality",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "settlement",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -461,7 +425,37 @@
               },
               {
                 "synset": "city_state",
+                "sinonimo": "city_state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "settlement",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "municipality",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "village",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
                 "sinonimo": "city-state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "city",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -470,6 +464,12 @@
                 "sinonimo": "hamlet",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "urban_center",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -491,26 +491,26 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "sever",
-                "sinonimo": "separar-se",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "conclude",
-                "sinonimo": "acabar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "sever",
-                "sinonimo": "cortar",
+                "synset": "discontinue",
+                "sinonimo": "cessar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "end",
                 "sinonimo": "parar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "conclude",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "sever",
+                "sinonimo": "cortar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -527,14 +527,26 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "discontinue",
-                "sinonimo": "deixar",
+                "synset": "conclude",
+                "sinonimo": "acabar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "sever",
+                "sinonimo": "separar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "sever",
-                "sinonimo": "apartar-se",
+                "synset": "finish",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "finalizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -545,8 +557,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "complete",
-                "sinonimo": "terminar",
+                "synset": "sever",
+                "sinonimo": "apartar-se",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -557,28 +569,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "get_through",
-                "sinonimo": "atingir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "sever",
-                "sinonimo": "separar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "discontinue",
-                "sinonimo": "cessar",
+                "sinonimo": "deixar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "end",
-                "sinonimo": "finalizar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               },
               {
                 "synset": "end",
@@ -587,31 +581,19 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "conclude",
-                "sinonimo": "concluir",
+                "synset": "get_through",
+                "sinonimo": "atingir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "sever",
+                "sinonimo": "separar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
-              {
-                "synset": "complete",
-                "sinonimo": "finish",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "get_through",
-                "sinonimo": "finish_up",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "finalize",
-                "sinonimo": "finalise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "conclude",
                 "sinonimo": "conclude",
@@ -619,14 +601,8 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "get_through",
-                "sinonimo": "mop_up",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "complete",
-                "sinonimo": "complete",
+                "synset": "discontinue",
+                "sinonimo": "quit",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -637,8 +613,38 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "end",
+                "sinonimo": "cease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_through",
+                "sinonimo": "polish_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "finalize",
-                "sinonimo": "settle",
+                "sinonimo": "finalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "end",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "give_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -650,27 +656,21 @@
               },
               {
                 "synset": "discontinue",
-                "sinonimo": "cease",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "discontinue",
-                "sinonimo": "stop",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "discontinue",
                 "sinonimo": "lay_off",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "discontinue",
-                "sinonimo": "give_up",
+                "synset": "get_through",
+                "sinonimo": "finish_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn_out",
+                "sinonimo": "come_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "sever",
@@ -679,32 +679,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "get_through",
-                "sinonimo": "polish_off",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "sever",
-                "sinonimo": "sever",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "get_through",
-                "sinonimo": "finish_off",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "discontinue",
-                "sinonimo": "quit",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "finalize",
-                "sinonimo": "finalize",
+                "synset": "end",
+                "sinonimo": "stop",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -721,22 +697,22 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "end",
-                "sinonimo": "end",
+                "synset": "sever",
+                "sinonimo": "sever",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "end",
-                "sinonimo": "terminate",
+                "synset": "finalize",
+                "sinonimo": "finalize",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "turn_out",
-                "sinonimo": "come_out",
+                "synset": "get_through",
+                "sinonimo": "mop_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "turn_out",
@@ -745,10 +721,34 @@
                 "distancia_semantica": "04"
               },
               {
+                "synset": "end",
+                "sinonimo": "terminate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "get_through",
                 "sinonimo": "get_through",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_through",
+                "sinonimo": "finish_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finalize",
+                "sinonimo": "settle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finish",
+                "sinonimo": "finish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
               },
               {
                 "synset": "discontinue",
@@ -800,13 +800,7 @@
             "por": [
               {
                 "synset": "path",
-                "sinonimo": "itinerários",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "path",
-                "sinonimo": "itinerário",
+                "sinonimo": "estrada",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -818,13 +812,7 @@
               },
               {
                 "synset": "path",
-                "sinonimo": "estrada",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "path",
-                "sinonimo": "rota",
+                "sinonimo": "itinerário",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -839,15 +827,21 @@
                 "sinonimo": "linha",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
-              }
-            ],
-            "eng": [
+              },
               {
                 "synset": "path",
-                "sinonimo": "route",
+                "sinonimo": "rota",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
+              {
+                "synset": "path",
+                "sinonimo": "itinerários",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
               {
                 "synset": "path",
                 "sinonimo": "path",
@@ -857,6 +851,12 @@
               {
                 "synset": "path",
                 "sinonimo": "itinerary",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "path",
+                "sinonimo": "route",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               }
@@ -973,32 +973,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "municipality",
-                "sinonimo": "autarquias",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "village",
-                "sinonimo": "aldeia",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "concelho",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "town",
                 "sinonimo": "cidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "comuna",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city",
-                "sinonimo": "município",
+                "synset": "city_state",
+                "sinonimo": "cidade-estado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1006,23 +994,29 @@
                 "synset": "village",
                 "sinonimo": "vila",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "autarquias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "city_state",
-                "sinonimo": "cidade-Estado",
+                "sinonimo": "Cidades-Estado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city",
-                "sinonimo": "metrópole",
+                "synset": "town",
+                "sinonimo": "arraial",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city",
-                "sinonimo": "urbe",
+                "synset": "municipality",
+                "sinonimo": "município",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1039,20 +1033,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "village",
-                "sinonimo": "aldeias",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "cidade-estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "town",
-                "sinonimo": "arraial",
+                "synset": "city",
+                "sinonimo": "centro_urbano",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1063,19 +1045,43 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "city_state",
-                "sinonimo": "Cidades-Estado",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "centro_urbano",
+                "synset": "municipality",
+                "sinonimo": "concelho",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "village",
+                "sinonimo": "aldeias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidade-Estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "metrópole",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "aldeia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "urbe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
                 "sinonimo": "povoado",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -1085,12 +1091,6 @@
                 "sinonimo": "metrópoles",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "comuna",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ],
             "eng": [
@@ -1102,43 +1102,7 @@
               },
               {
                 "synset": "village",
-                "sinonimo": "village",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "urban_center",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city",
-                "sinonimo": "city",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "village",
                 "sinonimo": "small_town",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "city_state",
-                "sinonimo": "city_state",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "municipality",
-                "sinonimo": "municipality",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "village",
-                "sinonimo": "settlement",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1150,7 +1114,37 @@
               },
               {
                 "synset": "city_state",
+                "sinonimo": "city_state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "settlement",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "municipality",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "village",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
                 "sinonimo": "city-state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "city",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1159,6 +1153,12 @@
                 "sinonimo": "hamlet",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "urban_center",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -1180,26 +1180,26 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "sever",
-                "sinonimo": "separar-se",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "conclude",
-                "sinonimo": "acabar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "sever",
-                "sinonimo": "cortar",
+                "synset": "discontinue",
+                "sinonimo": "cessar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "end",
                 "sinonimo": "parar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "conclude",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "sever",
+                "sinonimo": "cortar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1216,14 +1216,26 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "discontinue",
-                "sinonimo": "deixar",
+                "synset": "conclude",
+                "sinonimo": "acabar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "sever",
+                "sinonimo": "separar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "sever",
-                "sinonimo": "apartar-se",
+                "synset": "finish",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "finalizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1234,8 +1246,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "complete",
-                "sinonimo": "terminar",
+                "synset": "sever",
+                "sinonimo": "apartar-se",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1246,28 +1258,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "get_through",
-                "sinonimo": "atingir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "sever",
-                "sinonimo": "separar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "discontinue",
-                "sinonimo": "cessar",
+                "sinonimo": "deixar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "end",
-                "sinonimo": "finalizar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               },
               {
                 "synset": "end",
@@ -1276,31 +1270,19 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "conclude",
-                "sinonimo": "concluir",
+                "synset": "get_through",
+                "sinonimo": "atingir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "sever",
+                "sinonimo": "separar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
-              {
-                "synset": "complete",
-                "sinonimo": "finish",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "get_through",
-                "sinonimo": "finish_up",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "finalize",
-                "sinonimo": "finalise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "conclude",
                 "sinonimo": "conclude",
@@ -1308,14 +1290,8 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "get_through",
-                "sinonimo": "mop_up",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "complete",
-                "sinonimo": "complete",
+                "synset": "discontinue",
+                "sinonimo": "quit",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1326,8 +1302,38 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "end",
+                "sinonimo": "cease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_through",
+                "sinonimo": "polish_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "finalize",
-                "sinonimo": "settle",
+                "sinonimo": "finalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "end",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "give_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1339,27 +1345,21 @@
               },
               {
                 "synset": "discontinue",
-                "sinonimo": "cease",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "discontinue",
-                "sinonimo": "stop",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "discontinue",
                 "sinonimo": "lay_off",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "discontinue",
-                "sinonimo": "give_up",
+                "synset": "get_through",
+                "sinonimo": "finish_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn_out",
+                "sinonimo": "come_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "sever",
@@ -1368,32 +1368,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "get_through",
-                "sinonimo": "polish_off",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "sever",
-                "sinonimo": "sever",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "get_through",
-                "sinonimo": "finish_off",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "discontinue",
-                "sinonimo": "quit",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "finalize",
-                "sinonimo": "finalize",
+                "synset": "end",
+                "sinonimo": "stop",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1410,22 +1386,22 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "end",
-                "sinonimo": "end",
+                "synset": "sever",
+                "sinonimo": "sever",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "end",
-                "sinonimo": "terminate",
+                "synset": "finalize",
+                "sinonimo": "finalize",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "turn_out",
-                "sinonimo": "come_out",
+                "synset": "get_through",
+                "sinonimo": "mop_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "turn_out",
@@ -1434,10 +1410,34 @@
                 "distancia_semantica": "04"
               },
               {
+                "synset": "end",
+                "sinonimo": "terminate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "get_through",
                 "sinonimo": "get_through",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_through",
+                "sinonimo": "finish_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finalize",
+                "sinonimo": "settle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finish",
+                "sinonimo": "finish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
               },
               {
                 "synset": "discontinue",
@@ -1467,13 +1467,7 @@
             "por": [
               {
                 "synset": "path",
-                "sinonimo": "itinerários",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "path",
-                "sinonimo": "itinerário",
+                "sinonimo": "estrada",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -1485,13 +1479,7 @@
               },
               {
                 "synset": "path",
-                "sinonimo": "estrada",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "path",
-                "sinonimo": "rota",
+                "sinonimo": "itinerário",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
@@ -1506,15 +1494,21 @@
                 "sinonimo": "linha",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
-              }
-            ],
-            "eng": [
+              },
               {
                 "synset": "path",
-                "sinonimo": "route",
+                "sinonimo": "rota",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
+              {
+                "synset": "path",
+                "sinonimo": "itinerários",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
               {
                 "synset": "path",
                 "sinonimo": "path",
@@ -1524,6 +1518,12 @@
               {
                 "synset": "path",
                 "sinonimo": "itinerary",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "path",
+                "sinonimo": "route",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               }
@@ -1570,13 +1570,7 @@
               "por": [
                 {
                   "synset": "path",
-                  "sinonimo": "itinerários",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "path",
-                  "sinonimo": "itinerário",
+                  "sinonimo": "estrada",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 },
@@ -1588,13 +1582,7 @@
                 },
                 {
                   "synset": "path",
-                  "sinonimo": "estrada",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "path",
-                  "sinonimo": "rota",
+                  "sinonimo": "itinerário",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 },
@@ -1609,15 +1597,21 @@
                   "sinonimo": "linha",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
-                }
-              ],
-              "eng": [
+                },
                 {
                   "synset": "path",
-                  "sinonimo": "route",
+                  "sinonimo": "rota",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 },
+                {
+                  "synset": "path",
+                  "sinonimo": "itinerários",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                }
+              ],
+              "eng": [
                 {
                   "synset": "path",
                   "sinonimo": "path",
@@ -1627,6 +1621,12 @@
                 {
                   "synset": "path",
                   "sinonimo": "itinerary",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "path",
+                  "sinonimo": "route",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 }
@@ -1668,13 +1668,7 @@
               "por": [
                 {
                   "synset": "path",
-                  "sinonimo": "itinerários",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "path",
-                  "sinonimo": "itinerário",
+                  "sinonimo": "estrada",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 },
@@ -1686,13 +1680,7 @@
                 },
                 {
                   "synset": "path",
-                  "sinonimo": "estrada",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "path",
-                  "sinonimo": "rota",
+                  "sinonimo": "itinerário",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 },
@@ -1707,15 +1695,21 @@
                   "sinonimo": "linha",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
-                }
-              ],
-              "eng": [
+                },
                 {
                   "synset": "path",
-                  "sinonimo": "route",
+                  "sinonimo": "rota",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 },
+                {
+                  "synset": "path",
+                  "sinonimo": "itinerários",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                }
+              ],
+              "eng": [
                 {
                   "synset": "path",
                   "sinonimo": "path",
@@ -1725,6 +1719,12 @@
                 {
                   "synset": "path",
                   "sinonimo": "itinerary",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "path",
+                  "sinonimo": "route",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 }
@@ -1814,14 +1814,14 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "chile": "-279",
-              "cidade": "-541",
-              "linha": "-4969",
-              "terminar": -541
+              "chile": "-102",
+              "cidade": "-201",
+              "linha": "-3572",
+              "terminar": -201
             },
             "best_bind": {
               "score": 0.57444571,
-              "resource_id": -541,
+              "resource_id": -201,
               "tr": "terminar"
             }
           }
@@ -1886,14 +1886,14 @@
           "id": 1,
           "bind_control": {
             "binds": {
-              "chile": "-279",
-              "cidade": "-541",
-              "linha": "-4969",
-              "terminar": -541
+              "chile": "-102",
+              "cidade": "-201",
+              "linha": "-3572",
+              "terminar": -201
             },
             "best_bind": {
               "score": 0.57444571,
-              "resource_id": -541,
+              "resource_id": -201,
               "tr": "terminar"
             }
           }
@@ -1958,14 +1958,14 @@
           "id": 2,
           "bind_control": {
             "binds": {
-              "chile": "-279",
-              "cidade": "-541",
-              "linha": "-4969",
-              "terminar": -541
+              "chile": "-102",
+              "cidade": "-201",
+              "linha": "-3572",
+              "terminar": -201
             },
             "best_bind": {
               "score": 0.57444571,
-              "resource_id": -541,
+              "resource_id": -201,
               "tr": "terminar"
             }
           }
@@ -2030,14 +2030,14 @@
           "id": 3,
           "bind_control": {
             "binds": {
-              "chile": "-279",
-              "cidade": "-541",
-              "linha": "-4969",
-              "terminar": -541
+              "chile": "-102",
+              "cidade": "-201",
+              "linha": "-3572",
+              "terminar": -201
             },
             "best_bind": {
               "score": 0.57444571,
-              "resource_id": -541,
+              "resource_id": -201,
               "tr": "terminar"
             }
           }
@@ -2050,12 +2050,12 @@
               "santiago"
             ],
             [
-              "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "*marco_estrada",
+              "birthplace",
+              "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.216011,
           "detail": {
             "keywords": [
               "cidade",
@@ -2063,7 +2063,7 @@
               "rota"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.716011,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -2082,8 +2082,8 @@
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "marco_estrada",
+                  "score": 0.90071994
                 },
                 "chile": {
                   "keyword": {
@@ -2099,17 +2099,89 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 16,
+          "id": 8,
           "bind_control": {
             "binds": {
-              "chile": "-279",
-              "cidade": "-541",
-              "estrada": "-3861",
-              "terminar": -541
+              "chile": "-102",
+              "cidade": "-201",
+              "estrada": "-4123",
+              "terminar": -201
             },
             "best_bind": {
               "score": 0.57444571,
-              "resource_id": -541,
+              "resource_id": -201,
+              "tr": "terminar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*chile",
+              "*maiorcidade",
+              "santiago"
+            ],
+            [
+              "*marco_estrada",
+              "nationality",
+              "*chile"
+            ]
+          ],
+          "score": 14.216011,
+          "detail": {
+            "keywords": [
+              "cidade",
+              "chile",
+              "rota"
+            ],
+            "score_detail": {
+              "m1": 12.716011,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "maiorcidade",
+                  "score": 1.815291
+                },
+                "rota": {
+                  "keyword": {
+                    "termo": "estrada",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "marco_estrada",
+                  "score": 0.90071994
+                },
+                "chile": {
+                  "keyword": {
+                    "termo": "chile",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "chile",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "chile": "-102",
+              "cidade": "-201",
+              "estrada": "-4123",
+              "terminar": -201
+            },
+            "best_bind": {
+              "score": 0.57444571,
+              "resource_id": -201,
               "tr": "terminar"
             }
           }
@@ -2176,14 +2248,14 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "chile": "-279",
-              "cidade": "-541",
-              "linha": "-4969",
-              "terminar": -541
+              "chile": "-102",
+              "cidade": "-201",
+              "linha": "-3572",
+              "terminar": -201
             },
             "best_bind": {
               "score": 0.57444571,
-              "resource_id": -541,
+              "resource_id": -201,
               "tr": "terminar"
             }
           }
@@ -2248,14 +2320,14 @@
           "id": 1,
           "bind_control": {
             "binds": {
-              "chile": "-279",
-              "cidade": "-541",
-              "linha": "-4969",
-              "terminar": -541
+              "chile": "-102",
+              "cidade": "-201",
+              "linha": "-3572",
+              "terminar": -201
             },
             "best_bind": {
               "score": 0.57444571,
-              "resource_id": -541,
+              "resource_id": -201,
               "tr": "terminar"
             }
           }
@@ -2320,14 +2392,14 @@
           "id": 2,
           "bind_control": {
             "binds": {
-              "chile": "-279",
-              "cidade": "-541",
-              "linha": "-4969",
-              "terminar": -541
+              "chile": "-102",
+              "cidade": "-201",
+              "linha": "-3572",
+              "terminar": -201
             },
             "best_bind": {
               "score": 0.57444571,
-              "resource_id": -541,
+              "resource_id": -201,
               "tr": "terminar"
             }
           }
@@ -2392,37 +2464,37 @@
           "id": 3,
           "bind_control": {
             "binds": {
-              "chile": "-279",
-              "cidade": "-541",
-              "linha": "-4969",
-              "terminar": -541
+              "chile": "-102",
+              "cidade": "-201",
+              "linha": "-3572",
+              "terminar": -201
             },
             "best_bind": {
               "score": 0.57444571,
-              "resource_id": -541,
+              "resource_id": -201,
               "tr": "terminar"
             }
           }
         },
         {
           "triples": [
-            [
-              "*chile",
-              "wikipagewikilink",
-              "*sismicidade"
-            ],
             [
               "terminal_rodoviario_tiete",
               "*linhas",
               "*chile"
+            ],
+            [
+              "*chile",
+              "*maiorcidade",
+              "santiago"
             ]
           ],
           "score": 14.295683,
           "detail": {
             "keywords": [
-              "cidade",
+              "rota",
               "chile",
-              "rota"
+              "cidade"
             ],
             "score_detail": {
               "m1": 12.795683,
@@ -2435,7 +2507,7 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "sismicidade",
+                  "resource": "maiorcidade",
                   "score": 1.815291
                 },
                 "rota": {
@@ -2461,39 +2533,27 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 4,
-          "bind_control": {
-            "binds": {
-              "chile": "-279",
-              "cidade": "-3574",
-              "linha": "-4969"
-            },
-            "best_bind": {
-              "score": 0.0740169475,
-              "resource_id": 3114,
-              "tr": "terminar"
-            }
-          }
+          "id": 4
         },
         {
           "triples": [
-            [
-              "*chile",
-              "wikipagewikilink",
-              "*sismicidade"
-            ],
             [
               "rodoferroviaria_de_curitiba",
               "*linhas",
               "*chile"
+            ],
+            [
+              "*chile",
+              "*maiorcidade",
+              "santiago"
             ]
           ],
           "score": 14.295683,
           "detail": {
             "keywords": [
-              "cidade",
+              "rota",
               "chile",
-              "rota"
+              "cidade"
             ],
             "score_detail": {
               "m1": 12.795683,
@@ -2506,7 +2566,7 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "sismicidade",
+                  "resource": "maiorcidade",
                   "score": 1.815291
                 },
                 "rota": {
@@ -2532,39 +2592,27 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 5,
-          "bind_control": {
-            "binds": {
-              "chile": "-279",
-              "cidade": "-3574",
-              "linha": "-4969"
-            },
-            "best_bind": {
-              "score": 0.0740169475,
-              "resource_id": 3114,
-              "tr": "terminar"
-            }
-          }
+          "id": 5
         },
         {
           "triples": [
-            [
-              "*chile",
-              "wikipagewikilink",
-              "*sismicidade"
-            ],
             [
               "terminal_rodoviario_do_rio_de_janeiro",
               "*linhas",
               "*chile"
+            ],
+            [
+              "*chile",
+              "*maiorcidade",
+              "santiago"
             ]
           ],
           "score": 14.295683,
           "detail": {
             "keywords": [
-              "cidade",
+              "rota",
               "chile",
-              "rota"
+              "cidade"
             ],
             "score_detail": {
               "m1": 12.795683,
@@ -2577,7 +2625,7 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "sismicidade",
+                  "resource": "maiorcidade",
                   "score": 1.815291
                 },
                 "rota": {
@@ -2603,34 +2651,81 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 6,
-          "bind_control": {
-            "binds": {
-              "chile": "-279",
-              "cidade": "-3574",
-              "linha": "-4969"
-            },
-            "best_bind": {
-              "score": 0.0740169475,
-              "resource_id": 3114,
-              "tr": "terminar"
-            }
-          }
+          "id": 6
         },
         {
           "triples": [
-            [
-              "*chile",
-              "wikipagewikilink",
-              "*sismicidade"
-            ],
             [
               "terminal_rodoviario_de_cuiaba",
               "*linhas",
               "*chile"
+            ],
+            [
+              "*chile",
+              "*maiorcidade",
+              "santiago"
             ]
           ],
           "score": 14.295683,
+          "detail": {
+            "keywords": [
+              "rota",
+              "chile",
+              "cidade"
+            ],
+            "score_detail": {
+              "m1": 12.795683,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "maiorcidade",
+                  "score": 1.815291
+                },
+                "rota": {
+                  "keyword": {
+                    "termo": "linha",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "linhas",
+                  "score": 0.98039216
+                },
+                "chile": {
+                  "keyword": {
+                    "termo": "chile",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "chile",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*chile",
+              "*maiorcidade",
+              "santiago"
+            ],
+            [
+              "*marco_estrada",
+              "birthplace",
+              "*chile"
+            ]
+          ],
+          "score": 14.216011,
           "detail": {
             "keywords": [
               "cidade",
@@ -2638,7 +2733,7 @@
               "rota"
             ],
             "score_detail": {
-              "m1": 12.795683,
+              "m1": 12.716011,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -2648,17 +2743,17 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "sismicidade",
+                  "resource": "maiorcidade",
                   "score": 1.815291
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "linha",
+                    "termo": "estrada",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "linhas",
-                  "score": 0.98039216
+                  "resource": "marco_estrada",
+                  "score": 0.90071994
                 },
                 "chile": {
                   "keyword": {
@@ -2674,16 +2769,17 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 7,
+          "id": 8,
           "bind_control": {
             "binds": {
-              "chile": "-279",
-              "cidade": "-3574",
-              "linha": "-4969"
+              "chile": "-102",
+              "cidade": "-201",
+              "estrada": "-4123",
+              "terminar": -201
             },
             "best_bind": {
-              "score": 0.0740169475,
-              "resource_id": 3114,
+              "score": 0.57444571,
+              "resource_id": -201,
               "tr": "terminar"
             }
           }
@@ -2691,25 +2787,25 @@
         {
           "triples": [
             [
-              "terminal_rodoviario_tiete",
-              "*linhas",
-              "*chile"
-            ],
-            [
               "*chile",
               "*maiorcidade",
               "santiago"
+            ],
+            [
+              "*marco_estrada",
+              "nationality",
+              "*chile"
             ]
           ],
-          "score": 14.295683,
+          "score": 14.216011,
           "detail": {
             "keywords": [
-              "rota",
+              "cidade",
               "chile",
-              "cidade"
+              "rota"
             ],
             "score_detail": {
-              "m1": 12.795683,
+              "m1": 12.716011,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -2724,12 +2820,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "linha",
+                    "termo": "estrada",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "linhas",
-                  "score": 0.98039216
+                  "resource": "marco_estrada",
+                  "score": 0.90071994
                 },
                 "chile": {
                   "keyword": {
@@ -2745,72 +2841,26 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "terminal_rodoviario_tiete",
-              "*linhas",
-              "*chile"
-            ],
-            [
-              "*chile",
-              "wikipagewikilink",
-              "*sismicidade"
-            ]
-          ],
-          "score": 14.295683,
-          "detail": {
-            "keywords": [
-              "rota",
-              "chile",
-              "cidade"
-            ],
-            "score_detail": {
-              "m1": 12.795683,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "sismicidade",
-                  "score": 1.815291
-                },
-                "rota": {
-                  "keyword": {
-                    "termo": "linha",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "linhas",
-                  "score": 0.98039216
-                },
-                "chile": {
-                  "keyword": {
-                    "termo": "chile",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "chile",
-                  "score": 10.0
-                }
-              }
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "chile": "-102",
+              "cidade": "-201",
+              "estrada": "-4123",
+              "terminar": -201
             },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 9
+            "best_bind": {
+              "score": 0.57444571,
+              "resource_id": -201,
+              "tr": "terminar"
+            }
+          }
         },
         {
           "triples": [
             [
-              "rodoferroviaria_de_curitiba",
-              "*linhas",
+              "*marco_estrada",
+              "birthplace",
               "*chile"
             ],
             [
@@ -2819,7 +2869,7 @@
               "santiago"
             ]
           ],
-          "score": 14.295683,
+          "score": 14.216011,
           "detail": {
             "keywords": [
               "rota",
@@ -2827,7 +2877,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.795683,
+              "m1": 12.716011,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -2842,12 +2892,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "linha",
+                    "termo": "estrada",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "linhas",
-                  "score": 0.98039216
+                  "resource": "marco_estrada",
+                  "score": 0.90071994
                 },
                 "chile": {
                   "keyword": {
@@ -2868,17 +2918,17 @@
         {
           "triples": [
             [
-              "rodoferroviaria_de_curitiba",
-              "*linhas",
+              "*marco_estrada",
+              "nationality",
               "*chile"
             ],
             [
               "*chile",
-              "wikipagewikilink",
-              "*sismicidade"
+              "*maiorcidade",
+              "santiago"
             ]
           ],
-          "score": 14.295683,
+          "score": 14.216011,
           "detail": {
             "keywords": [
               "rota",
@@ -2886,7 +2936,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.795683,
+              "m1": 12.716011,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -2896,17 +2946,17 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "sismicidade",
+                  "resource": "maiorcidade",
                   "score": 1.815291
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "linha",
+                    "termo": "estrada",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "linhas",
-                  "score": 0.98039216
+                  "resource": "marco_estrada",
+                  "score": 0.90071994
                 },
                 "chile": {
                   "keyword": {
@@ -2927,25 +2977,25 @@
         {
           "triples": [
             [
-              "terminal_rodoviario_do_rio_de_janeiro",
-              "*linhas",
-              "*chile"
-            ],
-            [
               "*chile",
               "*maiorcidade",
               "santiago"
+            ],
+            [
+              "*chile",
+              "templateusesparameter",
+              "*alinhamento"
             ]
           ],
-          "score": 14.295683,
+          "score": 14.181608,
           "detail": {
             "keywords": [
-              "rota",
+              "cidade",
               "chile",
-              "cidade"
+              "rota"
             ],
             "score_detail": {
-              "m1": 12.795683,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -2964,8 +3014,8 @@
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "linhas",
-                  "score": 0.98039216
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -2986,17 +3036,17 @@
         {
           "triples": [
             [
-              "terminal_rodoviario_do_rio_de_janeiro",
-              "*linhas",
-              "*chile"
+              "*chile",
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
               "*chile",
-              "wikipagewikilink",
-              "*sismicidade"
+              "*maiorcidade",
+              "santiago"
             ]
           ],
-          "score": 14.295683,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3004,7 +3054,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.795683,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3014,7 +3064,7 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "sismicidade",
+                  "resource": "maiorcidade",
                   "score": 1.815291
                 },
                 "rota": {
@@ -3023,8 +3073,8 @@
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "linhas",
-                  "score": 0.98039216
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3045,17 +3095,17 @@
         {
           "triples": [
             [
-              "terminal_rodoviario_de_cuiaba",
-              "*linhas",
-              "*chile"
+              "*chile",
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "*chile",
-              "*maiorcidade",
-              "santiago"
+              "marcelo_rios",
+              "*cidadenatal",
+              "*chile"
             ]
           ],
-          "score": 14.295683,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3063,7 +3113,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.795683,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3073,7 +3123,7 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "maiorcidade",
+                  "resource": "cidadenatal",
                   "score": 1.815291
                 },
                 "rota": {
@@ -3082,8 +3132,8 @@
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "linhas",
-                  "score": 0.98039216
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3104,17 +3154,17 @@
         {
           "triples": [
             [
-              "terminal_rodoviario_de_cuiaba",
-              "*linhas",
-              "*chile"
+              "*chile",
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "*chile",
-              "wikipagewikilink",
-              "*sismicidade"
+              "nicolas_massu",
+              "*cidadenatal",
+              "*chile"
             ]
           ],
-          "score": 14.295683,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3122,7 +3172,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.795683,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3132,7 +3182,7 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "sismicidade",
+                  "resource": "cidadenatal",
                   "score": 1.815291
                 },
                 "rota": {
@@ -3141,8 +3191,8 @@
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "linhas",
-                  "score": 0.98039216
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3164,159 +3214,16 @@
           "triples": [
             [
               "*chile",
-              "*maiorcidade",
-              "santiago"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "jorge_aguilar",
+              "*cidadenatal",
+              "*chile"
             ]
           ],
-          "score": 14.253114,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "chile",
-              "rota"
-            ],
-            "score_detail": {
-              "m1": 12.753114,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "maiorcidade",
-                  "score": 1.815291
-                },
-                "rota": {
-                  "keyword": {
-                    "termo": "estrada",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
-                },
-                "chile": {
-                  "keyword": {
-                    "termo": "chile",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "chile",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 16,
-          "bind_control": {
-            "binds": {
-              "chile": "-279",
-              "cidade": "-541",
-              "estrada": "-3861",
-              "terminar": -541
-            },
-            "best_bind": {
-              "score": 0.57444571,
-              "resource_id": -541,
-              "tr": "terminar"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*chile",
-              "wikipagewikilink",
-              "*sismicidade"
-            ],
-            [
-              "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
-            ]
-          ],
-          "score": 14.253114,
-          "detail": {
-            "keywords": [
-              "cidade",
-              "chile",
-              "rota"
-            ],
-            "score_detail": {
-              "m1": 12.753114,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "cidade": {
-                  "keyword": {
-                    "termo": "cidade",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "sismicidade",
-                  "score": 1.815291
-                },
-                "rota": {
-                  "keyword": {
-                    "termo": "estrada",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
-                },
-                "chile": {
-                  "keyword": {
-                    "termo": "chile",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "chile",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 17,
-          "bind_control": {
-            "binds": {
-              "chile": "-279",
-              "cidade": "-3574",
-              "estrada": "-3861"
-            },
-            "best_bind": {
-              "score": 0.0740169475,
-              "resource_id": 3114,
-              "tr": "terminar"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
-            ],
-            [
-              "*chile",
-              "*maiorcidade",
-              "santiago"
-            ]
-          ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3324,7 +3231,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3334,17 +3241,135 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "maiorcidade",
+                  "resource": "cidadenatal",
                   "score": 1.815291
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
+                },
+                "chile": {
+                  "keyword": {
+                    "termo": "chile",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "chile",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*chile",
+              "templateusesparameter",
+              "*alinhamento"
+            ],
+            [
+              "paul_capdeville",
+              "*cidadenatal",
+              "*chile"
+            ]
+          ],
+          "score": 14.181608,
+          "detail": {
+            "keywords": [
+              "rota",
+              "chile",
+              "cidade"
+            ],
+            "score_detail": {
+              "m1": 12.681608,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cidadenatal",
+                  "score": 1.815291
+                },
+                "rota": {
+                  "keyword": {
+                    "termo": "linha",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "alinhamento",
+                  "score": 0.86631674
+                },
+                "chile": {
+                  "keyword": {
+                    "termo": "chile",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "chile",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*chile",
+              "templateusesparameter",
+              "*alinhamento"
+            ],
+            [
+              "luis_ayala",
+              "*cidadenatal",
+              "*chile"
+            ]
+          ],
+          "score": 14.181608,
+          "detail": {
+            "keywords": [
+              "rota",
+              "chile",
+              "cidade"
+            ],
+            "score_detail": {
+              "m1": 12.681608,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "cidade": {
+                  "keyword": {
+                    "termo": "cidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cidadenatal",
+                  "score": 1.815291
+                },
+                "rota": {
+                  "keyword": {
+                    "termo": "linha",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3366,16 +3391,16 @@
           "triples": [
             [
               "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "*chile",
-              "wikipagewikilink",
-              "*sismicidade"
+              "gonzalo_lama",
+              "*cidadenatal",
+              "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3383,7 +3408,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3393,17 +3418,17 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "sismicidade",
+                  "resource": "cidadenatal",
                   "score": 1.815291
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3425,16 +3450,16 @@
           "triples": [
             [
               "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "marcelo_rios",
+              "nicolas_jarry",
               "*cidadenatal",
               "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3442,7 +3467,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3457,12 +3482,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3484,16 +3509,16 @@
           "triples": [
             [
               "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "nicolas_massu",
+              "christian_garin",
               "*cidadenatal",
               "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3501,7 +3526,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3516,12 +3541,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3543,16 +3568,16 @@
           "triples": [
             [
               "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "jorge_aguilar",
+              "hans_podlipnik",
               "*cidadenatal",
               "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3560,7 +3585,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3575,12 +3600,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3602,16 +3627,16 @@
           "triples": [
             [
               "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "paul_capdeville",
+              "adrian_garcia",
               "*cidadenatal",
               "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3619,7 +3644,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3634,12 +3659,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3661,16 +3686,16 @@
           "triples": [
             [
               "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "luis_ayala",
+              "guillermo_rivera_aranguiz",
               "*cidadenatal",
               "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3678,7 +3703,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3693,12 +3718,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3720,16 +3745,16 @@
           "triples": [
             [
               "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "gonzalo_lama",
+              "ricardo_acuna",
               "*cidadenatal",
               "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3737,7 +3762,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3752,12 +3777,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3779,16 +3804,16 @@
           "triples": [
             [
               "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "nicolas_jarry",
+              "andrea_koch_benvenuto",
               "*cidadenatal",
               "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3796,7 +3821,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3811,12 +3836,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3838,16 +3863,16 @@
           "triples": [
             [
               "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "christian_garin",
+              "anita_lizana",
               "*cidadenatal",
               "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3855,7 +3880,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3870,12 +3895,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3897,16 +3922,16 @@
           "triples": [
             [
               "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "hans_podlipnik",
+              "daniela_seguel",
               "*cidadenatal",
               "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3914,7 +3939,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3929,12 +3954,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -3956,16 +3981,16 @@
           "triples": [
             [
               "*chile",
-              "wikipagewikilink",
-              "*autoestrada"
+              "templateusesparameter",
+              "*alinhamento"
             ],
             [
-              "adrian_garcia",
+              "julio_peralta",
               "*cidadenatal",
               "*chile"
             ]
           ],
-          "score": 14.253114,
+          "score": 14.181608,
           "detail": {
             "keywords": [
               "rota",
@@ -3973,7 +3998,7 @@
               "cidade"
             ],
             "score_detail": {
-              "m1": 12.753114,
+              "m1": 12.681608,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -3988,12 +4013,12 @@
                 },
                 "rota": {
                   "keyword": {
-                    "termo": "estrada",
+                    "termo": "linha",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "autoestrada",
-                  "score": 0.93782234
+                  "resource": "alinhamento",
+                  "score": 0.86631674
                 },
                 "chile": {
                   "keyword": {
@@ -4012,13 +4037,17 @@
           "id": 29
         }
       ],
-      "ranking_time": 52792831816,
+      "ranking_time": 53672340369,
       "l_sizes": [
-        45180,
-        10786266
+        43157,
+        43157
       ],
-      "ranking_time_only": 49920908040,
-      "total_time": 64286258012,
+      "a_sizes": [
+        43157,
+        26561766
+      ],
+      "ranking_time_only": 41075057576,
+      "total_time": 66349660789,
       "timeout": false
     }
   }

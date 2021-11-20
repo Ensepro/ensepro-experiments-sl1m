@@ -316,24 +316,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "answer",
-                "sinonimo": "responder",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "attend",
-                "sinonimo": "escutar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "answer",
-                "sinonimo": "atender",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "attend",
                 "sinonimo": "prestar_a_atenção",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -344,24 +326,30 @@
                 "sinonimo": "fixar_a_atenção_em",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
-              }
-            ],
-            "eng": [
+              },
+              {
+                "synset": "attend",
+                "sinonimo": "escutar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
               {
                 "synset": "answer",
-                "sinonimo": "answer",
+                "sinonimo": "responder",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "attend",
-                "sinonimo": "hang",
+                "sinonimo": "atender",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
-              },
+              }
+            ],
+            "eng": [
               {
                 "synset": "attend",
-                "sinonimo": "advert",
+                "sinonimo": "attend",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
@@ -373,13 +361,25 @@
               },
               {
                 "synset": "attend",
-                "sinonimo": "attend",
+                "sinonimo": "hang",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
               {
                 "synset": "attend",
                 "sinonimo": "pay_heed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "answer",
+                "sinonimo": "answer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "attend",
+                "sinonimo": "advert",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               }
@@ -458,24 +458,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "answer",
-                "sinonimo": "responder",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "attend",
-                "sinonimo": "escutar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "answer",
-                "sinonimo": "atender",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "attend",
                 "sinonimo": "prestar_a_atenção",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -486,24 +468,30 @@
                 "sinonimo": "fixar_a_atenção_em",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
-              }
-            ],
-            "eng": [
+              },
+              {
+                "synset": "attend",
+                "sinonimo": "escutar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
               {
                 "synset": "answer",
-                "sinonimo": "answer",
+                "sinonimo": "responder",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "attend",
-                "sinonimo": "hang",
+                "sinonimo": "atender",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
-              },
+              }
+            ],
+            "eng": [
               {
                 "synset": "attend",
-                "sinonimo": "advert",
+                "sinonimo": "attend",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
@@ -515,13 +503,25 @@
               },
               {
                 "synset": "attend",
-                "sinonimo": "attend",
+                "sinonimo": "hang",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
               {
                 "synset": "attend",
                 "sinonimo": "pay_heed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "answer",
+                "sinonimo": "answer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "attend",
+                "sinonimo": "advert",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               }
@@ -551,130 +551,7 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [
-        {
-          "triples": [
-            [
-              "germanwings",
-              "empresaadministradora",
-              "*lufthansa"
-            ],
-            [
-              "germanwings",
-              "wikipagewikilink",
-              "*dortmund"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "lufthansa",
-              "dortmund"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "lufthansa": {
-                  "keyword": {
-                    "termo": "lufthansa",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "lufthansa",
-                  "score": 10.0
-                },
-                "dortmund": {
-                  "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dortmund",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 12,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1",
-              "atender": 514
-            },
-            "best_bind": {
-              "score": 0.72376505,
-              "resource_id": 514,
-              "tr": "atender"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "eurowings",
-              "empresaadministradora",
-              "*lufthansa"
-            ],
-            [
-              "eurowings",
-              "wikipagewikilink",
-              "*dortmund"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "lufthansa",
-              "dortmund"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "lufthansa": {
-                  "keyword": {
-                    "termo": "lufthansa",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "lufthansa",
-                  "score": 10.0
-                },
-                "dortmund": {
-                  "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dortmund",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 13,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1",
-              "atender": 514
-            },
-            "best_bind": {
-              "score": 0.72376505,
-              "resource_id": 514,
-              "tr": "atender"
-            }
-          }
-        }
-      ],
+      "correct_answer": [],
       "all_answers": [
         {
           "triples": [
@@ -786,64 +663,6 @@
         {
           "triples": [
             [
-              "*lufthansa",
-              "owl#sameas",
-              90
-            ],
-            [
-              "*dortmund",
-              "owl#sameas",
-              90
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "lufthansa",
-              "dortmund"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "lufthansa": {
-                  "keyword": {
-                    "termo": "lufthansa",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "lufthansa",
-                  "score": 10.0
-                },
-                "dortmund": {
-                  "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "dortmund",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 2,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
               "*dortmund",
               "owl#sameas",
               90
@@ -888,19 +707,19 @@
             "proper_nouns_count": 2,
             "proper_nouns_matched_count": 2
           },
-          "id": 3
+          "id": 2
         },
         {
           "triples": [
             [
               "*lufthansa",
-              "wikipagewikilink",
-              "renania_do_norte_vestfalia"
+              "owl#sameas",
+              90
             ],
             [
               "*dortmund",
-              "wikipagewikilink",
-              "renania_do_norte_vestfalia"
+              "owl#sameas",
+              90
             ]
           ],
           "score": 21.333334,
@@ -937,7 +756,7 @@
             "proper_nouns_count": 2,
             "proper_nouns_matched_count": 2
           },
-          "id": 4,
+          "id": 3,
           "bind_control": {
             "binds": {
               "lufthansa": "-25",
@@ -952,25 +771,20 @@
           "triples": [
             [
               "*lufthansa",
-              "wikipagewikilink",
-              "alemanha"
-            ],
-            [
-              "*dortmund",
-              "wikipagewikilink",
-              "alemanha"
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 12.166667,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -981,56 +795,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 5,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1"
-            },
-            "best_bind": {
-              "score": 0.20400661999999997,
-              "resource_id": 193,
-              "tr": "atender"
-            }
-          }
+          "id": 4
         },
         {
           "triples": [
             [
-              "*dortmund",
-              "wikipagewikilink",
-              "renania_do_norte_vestfalia"
+              "*lufthansa",
+              "wikipageexternallink",
+              "index.aspx?pageid=23&query=lha"
             ],
             [
               "*lufthansa",
-              "wikipagewikilink",
-              "renania_do_norte_vestfalia"
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1041,45 +844,94 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*lufthansa",
+              "depiction",
+              "*lufthansa_logo_1964.svg"
+            ],
+            [
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "lufthansa",
+              "subsidiaria"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lufthansa": {
+                  "keyword": {
+                    "termo": "lufthansa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lufthansa",
+                  "score": 10.0
+                },
+                "subsidiaria": {
+                  "keyword": {
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
           },
           "id": 6
         },
         {
           "triples": [
             [
-              "*dortmund",
-              "wikipagewikilink",
-              "alemanha"
+              "*lufthansa",
+              "thumbnail",
+              "*lufthansa_logo_1964.svg?width=300"
             ],
             [
               "*lufthansa",
-              "wikipagewikilink",
-              "alemanha"
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1090,19 +942,19 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 7
         },
@@ -1110,25 +962,25 @@
           "triples": [
             [
               "*lufthansa",
-              "language",
-              "pt"
+              "wikipageusestemplate",
+              "companhia_aerea"
             ],
             [
-              "*dortmund",
-              "language",
-              "pt"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1139,56 +991,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 8,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1"
-            },
-            "best_bind": {
-              "score": 0.22935116,
-              "resource_id": 322,
-              "tr": "atender"
-            }
-          }
+          "id": 8
         },
         {
           "triples": [
             [
               "*lufthansa",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "wikipageusestemplate",
+              "predefinicao:link"
             ],
             [
-              "*dortmund",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1199,54 +1040,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 9,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
+          "id": 9
         },
         {
           "triples": [
             [
-              "*dortmund",
-              "language",
-              "pt"
+              "*lufthansa",
+              "wikipageusestemplate",
+              "predefinicao:citacao2"
             ],
             [
               "*lufthansa",
-              "language",
-              "pt"
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1257,45 +1089,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 10
         },
         {
           "triples": [
             [
-              "*dortmund",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*lufthansa",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
               "*lufthansa",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1306,45 +1138,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 11
         },
         {
           "triples": [
             [
-              "germanwings",
-              "empresaadministradora",
-              "*lufthansa"
+              "*lufthansa",
+              "wikipageusestemplate",
+              "predefinicao:commons"
             ],
             [
-              "germanwings",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1355,57 +1187,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 12,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1",
-              "atender": 514
-            },
-            "best_bind": {
-              "score": 0.72376505,
-              "resource_id": 514,
-              "tr": "atender"
-            }
-          }
+          "id": 12
         },
         {
           "triples": [
             [
-              "eurowings",
-              "empresaadministradora",
-              "*lufthansa"
+              "*lufthansa",
+              "wikipageusestemplate",
+              "predefinicao:limpar"
             ],
             [
-              "eurowings",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1416,57 +1236,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 13,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1",
-              "atender": 514
-            },
-            "best_bind": {
-              "score": 0.72376505,
-              "resource_id": 514,
-              "tr": "atender"
-            }
-          }
+          "id": 13
         },
         {
           "triples": [
             [
-              "alemanha",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "wikipageusestemplate",
+              "predefinicao:star_alliance"
             ],
             [
-              "alemanha",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1477,45 +1285,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 14
         },
         {
           "triples": [
             [
-              "alemanha",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "wikipageusestemplate",
+              "predefinicao:membros_iata"
             ],
             [
-              "alemanha",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1526,56 +1334,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 15,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1"
-            },
-            "best_bind": {
-              "score": 0.20400661999999997,
-              "resource_id": 193,
-              "tr": "atender"
-            }
-          }
+          "id": 15
         },
         {
           "triples": [
             [
-              "munique",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "wikipageusestemplate",
+              "predefinicao:empresas_aereas_da_alemanha"
             ],
             [
-              "munique",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1586,56 +1383,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 16,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1"
-            },
-            "best_bind": {
-              "score": 0.20400661999999997,
-              "resource_id": 193,
-              "tr": "atender"
-            }
-          }
+          "id": 16
         },
         {
           "triples": [
             [
-              "munique",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "wikipageusestemplate",
+              "predefinicao:indice_aviador"
             ],
             [
-              "munique",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1646,45 +1432,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 17
         },
         {
           "triples": [
             [
-              "germanwings",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "wikipageusestemplate",
+              "predefinicao:dax"
             ],
             [
-              "germanwings",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1695,56 +1481,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 18,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1"
-            },
-            "best_bind": {
-              "score": 0.20400661999999997,
-              "resource_id": 193,
-              "tr": "atender"
-            }
-          }
+          "id": 18
         },
         {
           "triples": [
             [
-              "germanwings",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
             ],
             [
-              "germanwings",
-              "empresaadministradora",
-              "*lufthansa"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1755,45 +1530,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 19
         },
         {
           "triples": [
             [
-              "germanwings",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "owl#sameas",
+              "*lufthansa"
             ],
             [
-              "germanwings",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1804,45 +1579,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 20
         },
         {
           "triples": [
             [
-              "aeroporto_internacional_de_belgrado",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "wikipageusestemplate",
+              "predefinicao:gerb"
             ],
             [
-              "aeroporto_internacional_de_belgrado",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1853,56 +1628,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 21,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1"
-            },
-            "best_bind": {
-              "score": 0.20400661999999997,
-              "resource_id": 193,
-              "tr": "atender"
-            }
-          }
+          "id": 21
         },
         {
           "triples": [
             [
-              "aeroporto_internacional_de_belgrado",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "owl#sameas",
+              "m.0p4wb"
             ],
             [
-              "aeroporto_internacional_de_belgrado",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1913,45 +1677,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 22
         },
         {
           "triples": [
             [
-              "aeroporto_francisco_sa_carneiro",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "subject",
+              "categoria:empresas_aereas_da_alemanha"
             ],
             [
-              "aeroporto_francisco_sa_carneiro",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -1962,54 +1726,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 23,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
+          "id": 23
         },
         {
           "triples": [
             [
-              "aeroporto_francisco_sa_carneiro",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "subject",
+              "categoria:empresas_aereas_fundadas_em_1953"
             ],
             [
-              "aeroporto_francisco_sa_carneiro",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -2020,45 +1775,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 24
         },
         {
           "triples": [
             [
-              "eurowings",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "subject",
+              "*categoria:lufthansa"
             ],
             [
-              "eurowings",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -2069,56 +1824,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 25,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1"
-            },
-            "best_bind": {
-              "score": 0.20400661999999997,
-              "resource_id": 193,
-              "tr": "atender"
-            }
-          }
+          "id": 25
         },
         {
           "triples": [
             [
-              "eurowings",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "subject",
+              "categoria:star_alliance"
             ],
             [
-              "eurowings",
-              "empresaadministradora",
-              "*lufthansa"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -2129,45 +1873,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 26
         },
         {
           "triples": [
             [
-              "eurowings",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "subject",
+              "categoria:marcas_da_alemanha"
             ],
             [
-              "eurowings",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -2178,45 +1922,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 27
         },
         {
           "triples": [
             [
-              "croatia_airlines",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "owl#sameas",
+              "q9325"
             ],
             [
-              "croatia_airlines",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
               "lufthansa",
-              "dortmund"
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -2227,56 +1971,45 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
-          "id": 28,
-          "bind_control": {
-            "binds": {
-              "lufthansa": "-25",
-              "dortmund": "-1"
-            },
-            "best_bind": {
-              "score": 0.20400661999999997,
-              "resource_id": 193,
-              "tr": "atender"
-            }
-          }
+          "id": 28
         },
         {
           "triples": [
             [
-              "croatia_airlines",
-              "wikipagewikilink",
-              "*dortmund"
+              "*lufthansa",
+              "owl#sameas",
+              90
             ],
             [
-              "croatia_airlines",
-              "wikipagewikilink",
-              "*lufthansa"
+              "*lufthansa",
+              "abstract",
+              "*a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo."
             ]
           ],
-          "score": 21.333334,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "dortmund",
-              "lufthansa"
+              "lufthansa",
+              "subsidiaria"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 11.0,
               "m2": 0.33333334,
-              "m3": 1.0,
+              "m3": 0.5,
               "matches": {
                 "lufthansa": {
                   "keyword": {
@@ -2287,30 +2020,34 @@
                   "resource": "lufthansa",
                   "score": 10.0
                 },
-                "dortmund": {
+                "subsidiaria": {
                   "keyword": {
-                    "termo": "dortmund",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "subsidiaria",
+                    "peso": 1.0,
+                    "classe": "ADJ"
                   },
-                  "resource": "dortmund",
-                  "score": 10.0
+                  "resource": "a deutsche lufthansa ag (fwb: lha) (afi: [dt lfthanza]) e uma empresa alema da aviacao mundial, que opera no transporte aereo de passageiros, com logistica para manutencao, reparo e operacao, fornecendo tambem servicos de ti. o grupo lufthansa inclui mais de 400 subsidiarias e empresas associadas. o grupo lufthansa transportou 104,5 milhoes de passageiros em 2013 e ocupa a nona posicao das maiores companhias aereas do mundo.",
+                  "score": 1.0
                 }
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
           },
           "id": 29
         }
       ],
-      "ranking_time": 4987559830,
+      "ranking_time": 3807453103,
       "l_sizes": [
-        2545,
-        369600
+        1614,
+        1614
       ],
-      "ranking_time_only": 1321012173,
-      "total_time": 13833145729,
+      "a_sizes": [
+        1614,
+        59868
+      ],
+      "ranking_time_only": 957493081,
+      "total_time": 16804936468,
       "timeout": false
     }
   }

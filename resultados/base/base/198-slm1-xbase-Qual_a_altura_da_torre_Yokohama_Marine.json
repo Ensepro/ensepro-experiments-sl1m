@@ -231,12 +231,6 @@
             "por": [
               {
                 "synset": "pitch",
-                "sinonimo": "altura",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pitch",
                 "sinonimo": "tom",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -258,20 +252,20 @@
                 "sinonimo": "estatura",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "height",
+                "sinonimo": "altura",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "height",
+                "synset": "stature",
                 "sinonimo": "height",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "height",
-                "sinonimo": "tallness",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "pitch",
@@ -280,10 +274,16 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "elevation",
+                "sinonimo": "elevation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
                 "synset": "altitude",
                 "sinonimo": "altitude",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "stature",
@@ -292,10 +292,10 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "elevation",
-                "sinonimo": "elevation",
+                "synset": "height",
+                "sinonimo": "tallness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -370,12 +370,6 @@
             "por": [
               {
                 "synset": "pitch",
-                "sinonimo": "altura",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pitch",
                 "sinonimo": "tom",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -397,20 +391,20 @@
                 "sinonimo": "estatura",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "height",
+                "sinonimo": "altura",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "height",
+                "synset": "stature",
                 "sinonimo": "height",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "height",
-                "sinonimo": "tallness",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "pitch",
@@ -419,10 +413,16 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "elevation",
+                "sinonimo": "elevation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
                 "synset": "altitude",
                 "sinonimo": "altitude",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "stature",
@@ -431,10 +431,10 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "elevation",
-                "sinonimo": "elevation",
+                "synset": "height",
+                "sinonimo": "tallness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -519,8 +519,8 @@
           "triples": [
             [
               "*altura",
-              "wikipagedisambiguates",
-              "*altura_(astronomia)"
+              "subject",
+              "categoria:desambiguacoes_de_toponimos"
             ]
           ],
           "score": 2.3333333,
@@ -554,7 +554,7 @@
             [
               "*altura",
               "wikipagedisambiguates",
-              "*altura_(geometria)"
+              "*altura_(astronomia)"
             ]
           ],
           "score": 2.3333333,
@@ -588,7 +588,7 @@
             [
               "*altura",
               "wikipagedisambiguates",
-              "*altura_(medida)"
+              "*altura_(geometria)"
             ]
           ],
           "score": 2.3333333,
@@ -622,7 +622,7 @@
             [
               "*altura",
               "wikipagedisambiguates",
-              "*altura_(musica)"
+              "*altura_(medida)"
             ]
           ],
           "score": 2.3333333,
@@ -656,7 +656,7 @@
             [
               "*altura",
               "wikipagedisambiguates",
-              "*altura_(revista)"
+              "*altura_(musica)"
             ]
           ],
           "score": 2.3333333,
@@ -690,7 +690,7 @@
             [
               "*altura",
               "wikipagedisambiguates",
-              "*altura_(castro_marim)"
+              "*altura_(revista)"
             ]
           ],
           "score": 2.3333333,
@@ -724,7 +724,7 @@
             [
               "*altura",
               "wikipagedisambiguates",
-              "*altura_(espanha)"
+              "*altura_(castro_marim)"
             ]
           ],
           "score": 2.3333333,
@@ -758,7 +758,7 @@
             [
               "*altura",
               "wikipagedisambiguates",
-              "*altura_(minnesota)"
+              "*altura_(espanha)"
             ]
           ],
           "score": 2.3333333,
@@ -792,7 +792,7 @@
             [
               "*altura",
               "wikipagedisambiguates",
-              "*alturas"
+              "*altura_(minnesota)"
             ]
           ],
           "score": 2.3333333,
@@ -825,8 +825,8 @@
           "triples": [
             [
               "*altura",
-              "subject",
-              "categoria:desambiguacoes_de_toponimos"
+              "wikipagedisambiguates",
+              "*alturas"
             ]
           ],
           "score": 2.3333333,
@@ -854,74 +854,6 @@
             "proper_nouns_matched_count": 0
           },
           "id": 11
-        },
-        {
-          "triples": [
-            [
-              "*altura",
-              "22_rdf_syntax_ns#type",
-              "22_rdf_syntax_ns#property"
-            ]
-          ],
-          "score": 2.3333333,
-          "detail": {
-            "keywords": [
-              "altura"
-            ],
-            "score_detail": {
-              "m1": 2.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "altura": {
-                  "keyword": {
-                    "termo": "altura",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "altura",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 12
-        },
-        {
-          "triples": [
-            [
-              "*altura",
-              "rdf_schema#label",
-              "*altura"
-            ]
-          ],
-          "score": 2.3333333,
-          "detail": {
-            "keywords": [
-              "altura"
-            ],
-            "score_detail": {
-              "m1": 2.0,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "altura": {
-                  "keyword": {
-                    "termo": "altura",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "altura",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 13
         },
         {
           "triples": [
@@ -955,7 +887,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 14
+          "id": 12
         },
         {
           "triples": [
@@ -989,14 +921,14 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 15
+          "id": 13
         },
         {
           "triples": [
             [
               "*altura",
-              "wikipageoutdegree",
-              "11"
+              "22_rdf_syntax_ns#type",
+              "22_rdf_syntax_ns#property"
             ]
           ],
           "score": 2.3333333,
@@ -1023,7 +955,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 16
+          "id": 14
         },
         {
           "triples": [
@@ -1057,14 +989,82 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 17
+          "id": 15
         },
         {
           "triples": [
             [
               "*altura",
-              "wikipagewikilink",
-              "*altura_(astronomia)"
+              "rdf_schema#label",
+              "*altura"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "altura"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "altura": {
+                  "keyword": {
+                    "termo": "altura",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "altura",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "luis_figo",
+              "*altura",
+              "1,80 m"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "altura"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "altura": {
+                  "keyword": {
+                    "termo": "altura",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "altura",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "eusebio",
+              "*altura",
+              "1,75 m"
             ]
           ],
           "score": 2.3333333,
@@ -1096,9 +1096,9 @@
         {
           "triples": [
             [
+              "joao_pereira",
               "*altura",
-              "wikipagewikilink",
-              "*altura_(geometria)"
+              "1,78m"
             ]
           ],
           "score": 2.3333333,
@@ -1130,9 +1130,9 @@
         {
           "triples": [
             [
+              "diego_maradona",
               "*altura",
-              "wikipagewikilink",
-              "*altura_(medida)"
+              "1,65 m"
             ]
           ],
           "score": 2.3333333,
@@ -1164,9 +1164,9 @@
         {
           "triples": [
             [
+              "rms_titanic",
               "*altura",
-              "wikipagewikilink",
-              "*altura_(musica)"
+              "53 m"
             ]
           ],
           "score": 2.3333333,
@@ -1198,9 +1198,9 @@
         {
           "triples": [
             [
+              "ponte_internacional_da_amizade",
               "*altura",
-              "wikipagewikilink",
-              "*altura_(revista)"
+              "78 m"
             ]
           ],
           "score": 2.3333333,
@@ -1232,9 +1232,9 @@
         {
           "triples": [
             [
+              "shaquille_o'neal",
               "*altura",
-              "wikipagewikilink",
-              "*estatura"
+              "2,16 m"
             ]
           ],
           "score": 2.3333333,
@@ -1266,9 +1266,9 @@
         {
           "triples": [
             [
+              "luiz_felipe_scolari",
               "*altura",
-              "wikipagewikilink",
-              "*altura_(castro_marim)"
+              "1,84 m"
             ]
           ],
           "score": 2.3333333,
@@ -1300,9 +1300,9 @@
         {
           "triples": [
             [
+              "marcelo_negrao",
               "*altura",
-              "wikipagewikilink",
-              "*altura_(espanha)"
+              "1,98 m"
             ]
           ],
           "score": 2.3333333,
@@ -1334,9 +1334,9 @@
         {
           "triples": [
             [
+              "volkswagen_karmann_ghia",
               "*altura",
-              "wikipagewikilink",
-              "*altura_(minnesota)"
+              "1330.0"
             ]
           ],
           "score": 2.3333333,
@@ -1368,9 +1368,9 @@
         {
           "triples": [
             [
+              "volkswagen_karmann_ghia",
               "*altura",
-              "wikipagewikilink",
-              "*alturas"
+              "1314.0"
             ]
           ],
           "score": 2.3333333,
@@ -1402,9 +1402,9 @@
         {
           "triples": [
             [
+              "volkswagen_karmann_ghia",
               "*altura",
-              "wikipagewikilink",
-              "categoria:desambiguacoes_de_toponimos"
+              "1310.0"
             ]
           ],
           "score": 2.3333333,
@@ -1436,9 +1436,9 @@
         {
           "triples": [
             [
+              "mario_kempes",
               "*altura",
-              "wikipageid",
-              "65317"
+              "1,82 m"
             ]
           ],
           "score": 2.3333333,
@@ -1468,12 +1468,15 @@
           "id": 29
         }
       ],
-      "ranking_time": 4375619265,
+      "ranking_time": 9238383861,
       "l_sizes": [
-        20916
+        20348
       ],
-      "ranking_time_only": 392339786,
-      "total_time": 17587723844,
+      "a_sizes": [
+        20348
+      ],
+      "ranking_time_only": 1125571179,
+      "total_time": 29699656523,
       "timeout": false
     }
   }

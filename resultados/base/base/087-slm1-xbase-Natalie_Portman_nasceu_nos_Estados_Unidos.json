@@ -164,13 +164,13 @@
             "por": [
               {
                 "synset": "be_born",
-                "sinonimo": "vir_ao_mundo",
+                "sinonimo": "nascer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "be_born",
-                "sinonimo": "nascer",
+                "sinonimo": "vir_ao_mundo",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -298,13 +298,13 @@
             "por": [
               {
                 "synset": "be_born",
-                "sinonimo": "vir_ao_mundo",
+                "sinonimo": "nascer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "be_born",
-                "sinonimo": "nascer",
+                "sinonimo": "vir_ao_mundo",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -342,115 +342,32 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [
-        {
-          "triples": [
-            [
-              "*natalie_portman",
-              "*horadenascimento",
-              "222.0"
-            ],
-            [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
-            ]
-          ],
-          "score": 23.35674,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "natalie_portman",
-              "estados_unidos"
-            ],
-            "score_detail": {
-              "m1": 21.85674,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "horadenascimento",
-                  "score": 1.856741
-                },
-                "estados_unidos": {
-                  "keyword": {
-                    "termo": "estados_unidos",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "estados_unidos",
-                  "score": 10.0
-                },
-                "natalie_portman": {
-                  "keyword": {
-                    "termo": "natalie_portman",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "natalie_portman",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 1,
-          "bind_control": {
-            "binds": {
-              "natalie_portman": "-37",
-              "nascimento": "-3044",
-              "estados_unidos": "-140",
-              "nascer": -3044
-            },
-            "best_bind": {
-              "score": 0.517753618,
-              "resource_id": -3044,
-              "tr": "nascer"
-            }
-          }
-        }
-      ],
+      "correct_answer": [],
       "all_answers": [
         {
           "triples": [
             [
               "*natalie_portman",
-              "*nomedenascimento",
-              "natalie hershlag"
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*estados_unidos",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 23.35674,
+          "score": 21.333334,
           "detail": {
             "keywords": [
-              "nascimento",
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 21.85674,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nomedenascimento",
-                  "score": 1.856741
-                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
@@ -477,51 +394,38 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "natalie_portman": "-37",
-              "nascimento": "-45",
-              "estados_unidos": "-140"
+              "natalie_portman": "-241",
+              "estados_unidos": "-33"
             },
             "best_bind": {
-              "score": 0.0139348275,
-              "resource_id": 4065,
-              "tr": "nascer"
+              "score": 0
             }
           }
         },
         {
           "triples": [
             [
-              "*natalie_portman",
-              "*horadenascimento",
-              "222.0"
+              "*estados_unidos",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 23.35674,
+          "score": 21.333334,
           "detail": {
             "keywords": [
-              "nascimento",
-              "natalie_portman",
-              "estados_unidos"
+              "estados_unidos",
+              "natalie_portman"
             ],
             "score_detail": {
-              "m1": 21.85674,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "horadenascimento",
-                  "score": 1.856741
-                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
@@ -545,55 +449,32 @@
             "proper_nouns_count": 2,
             "proper_nouns_matched_count": 2
           },
-          "id": 1,
-          "bind_control": {
-            "binds": {
-              "natalie_portman": "-37",
-              "nascimento": "-3044",
-              "estados_unidos": "-140",
-              "nascer": -3044
-            },
-            "best_bind": {
-              "score": 0.517753618,
-              "resource_id": -3044,
-              "tr": "nascer"
-            }
-          }
+          "id": 1
         },
         {
           "triples": [
             [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*estados_unidos",
+              "22_rdf_syntax_ns#type",
+              "owl#thing"
             ],
             [
               "*natalie_portman",
-              "*nomedenascimento",
-              "natalie hershlag"
+              "22_rdf_syntax_ns#type",
+              "owl#thing"
             ]
           ],
-          "score": 23.35674,
+          "score": 21.333334,
           "detail": {
             "keywords": [
               "estados_unidos",
-              "natalie_portman",
-              "nascimento"
+              "natalie_portman"
             ],
             "score_detail": {
-              "m1": 21.85674,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nomedenascimento",
-                  "score": 1.856741
-                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
@@ -623,36 +504,26 @@
           "triples": [
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "22_rdf_syntax_ns#type",
+              "owl#thing"
             ],
             [
-              "*natalie_portman",
-              "*horadenascimento",
-              "222.0"
+              "*estados_unidos",
+              "22_rdf_syntax_ns#type",
+              "owl#thing"
             ]
           ],
-          "score": 23.35674,
+          "score": 21.333334,
           "detail": {
             "keywords": [
-              "estados_unidos",
               "natalie_portman",
-              "nascimento"
+              "estados_unidos"
             ],
             "score_detail": {
-              "m1": 21.85674,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "horadenascimento",
-                  "score": 1.856741
-                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
@@ -676,50 +547,49 @@
             "proper_nouns_count": 2,
             "proper_nouns_matched_count": 2
           },
-          "id": 3
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "natalie_portman": "-241",
+              "estados_unidos": "-33"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
             [
-              "*natalie_portman",
-              "*nomedenascimento",
-              "natalie hershlag"
+              "*estados_unidos",
+              "owl#sameas",
+              211
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*povo_dos_estados_unidos"
+              "owl#sameas",
+              211
             ]
           ],
-          "score": 22.472542,
+          "score": 21.333334,
           "detail": {
             "keywords": [
-              "nascimento",
-              "natalie_portman",
-              "estados_unidos"
+              "estados_unidos",
+              "natalie_portman"
             ],
             "score_detail": {
-              "m1": 20.972542,
-              "m2": 0.5,
+              "m1": 20.0,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nomedenascimento",
-                  "score": 1.856741
-                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "povo_dos_estados_unidos",
-                  "score": 9.115801
+                  "resource": "estados_unidos",
+                  "score": 10.0
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -741,234 +611,13 @@
           "triples": [
             [
               "*natalie_portman",
-              "*horadenascimento",
-              "222.0"
+              "owl#sameas",
+              "_"
             ],
             [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*povo_dos_estados_unidos"
-            ]
-          ],
-          "score": 22.472542,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "natalie_portman",
-              "estados_unidos"
-            ],
-            "score_detail": {
-              "m1": 20.972542,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "horadenascimento",
-                  "score": 1.856741
-                },
-                "estados_unidos": {
-                  "keyword": {
-                    "termo": "estados_unidos",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "povo_dos_estados_unidos",
-                  "score": 9.115801
-                },
-                "natalie_portman": {
-                  "keyword": {
-                    "termo": "natalie_portman",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "natalie_portman",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 5
-        },
-        {
-          "triples": [
-            [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*povo_dos_estados_unidos"
-            ],
-            [
-              "*natalie_portman",
-              "*nomedenascimento",
-              "natalie hershlag"
-            ]
-          ],
-          "score": 22.472542,
-          "detail": {
-            "keywords": [
-              "estados_unidos",
-              "natalie_portman",
-              "nascimento"
-            ],
-            "score_detail": {
-              "m1": 20.972542,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nomedenascimento",
-                  "score": 1.856741
-                },
-                "estados_unidos": {
-                  "keyword": {
-                    "termo": "estados_unidos",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "povo_dos_estados_unidos",
-                  "score": 9.115801
-                },
-                "natalie_portman": {
-                  "keyword": {
-                    "termo": "natalie_portman",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "natalie_portman",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 6
-        },
-        {
-          "triples": [
-            [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*povo_dos_estados_unidos"
-            ],
-            [
-              "*natalie_portman",
-              "*horadenascimento",
-              "222.0"
-            ]
-          ],
-          "score": 22.472542,
-          "detail": {
-            "keywords": [
-              "estados_unidos",
-              "natalie_portman",
-              "nascimento"
-            ],
-            "score_detail": {
-              "m1": 20.972542,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "horadenascimento",
-                  "score": 1.856741
-                },
-                "estados_unidos": {
-                  "keyword": {
-                    "termo": "estados_unidos",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "povo_dos_estados_unidos",
-                  "score": 9.115801
-                },
-                "natalie_portman": {
-                  "keyword": {
-                    "termo": "natalie_portman",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "natalie_portman",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 7
-        },
-        {
-          "triples": [
-            [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
-            ]
-          ],
-          "score": 21.666666,
-          "detail": {
-            "keywords": [
-              "estados_unidos",
-              "natalie_portman"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "estados_unidos": {
-                  "keyword": {
-                    "termo": "estados_unidos",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "estados_unidos",
-                  "score": 10.0
-                },
-                "natalie_portman": {
-                  "keyword": {
-                    "termo": "natalie_portman",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "natalie_portman",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "*natalie_portman",
-              "nome",
-              "natalie portman"
-            ],
-            [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*estados_unidos",
+              "owl#sameas",
+              "_"
             ]
           ],
           "score": 21.333334,
@@ -990,6 +639,220 @@
                   },
                   "resource": "estados_unidos",
                   "score": 10.0
+                },
+                "natalie_portman": {
+                  "keyword": {
+                    "termo": "natalie_portman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "natalie_portman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "natalie_portman": "-241",
+              "estados_unidos": "-33"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*natalie_portman",
+              "owl#sameas",
+              211
+            ],
+            [
+              "*estados_unidos",
+              "owl#sameas",
+              211
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "natalie_portman",
+              "estados_unidos"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estados_unidos": {
+                  "keyword": {
+                    "termo": "estados_unidos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "estados_unidos",
+                  "score": 10.0
+                },
+                "natalie_portman": {
+                  "keyword": {
+                    "termo": "natalie_portman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "natalie_portman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "natalie_portman": "-241",
+              "estados_unidos": "-33"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*estados_unidos",
+              "owl#sameas",
+              "_"
+            ],
+            [
+              "*natalie_portman",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "estados_unidos",
+              "natalie_portman"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estados_unidos": {
+                  "keyword": {
+                    "termo": "estados_unidos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "estados_unidos",
+                  "score": 10.0
+                },
+                "natalie_portman": {
+                  "keyword": {
+                    "termo": "natalie_portman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "natalie_portman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*georgia_(estados_unidos)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*natalie_portman",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 20.311293,
+          "detail": {
+            "keywords": [
+              "estados_unidos",
+              "natalie_portman"
+            ],
+            "score_detail": {
+              "m1": 18.977959,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estados_unidos": {
+                  "keyword": {
+                    "termo": "estados_unidos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "georgia_(estados_unidos)",
+                  "score": 8.97796
+                },
+                "natalie_portman": {
+                  "keyword": {
+                    "termo": "natalie_portman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "natalie_portman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*georgia_(estados_unidos)",
+              "wikipageusestemplate",
+              "predefinicao:link"
+            ],
+            [
+              "*natalie_portman",
+              "wikipageusestemplate",
+              "predefinicao:link"
+            ]
+          ],
+          "score": 20.311293,
+          "detail": {
+            "keywords": [
+              "estados_unidos",
+              "natalie_portman"
+            ],
+            "score_detail": {
+              "m1": 18.977959,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "estados_unidos": {
+                  "keyword": {
+                    "termo": "estados_unidos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "georgia_(estados_unidos)",
+                  "score": 8.97796
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1011,23 +874,23 @@
           "triples": [
             [
               "*natalie_portman",
-              "ocupacao",
-              "atriz, produtora e diretora"
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*georgia_(estados_unidos)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.311293,
           "detail": {
             "keywords": [
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.977959,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1037,8 +900,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "georgia_(estados_unidos)",
+                  "score": 8.97796
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1060,23 +923,23 @@
           "triples": [
             [
               "*natalie_portman",
-              "tamanhoimagem",
-              "250"
+              "wikipageusestemplate",
+              "predefinicao:link"
             ],
             [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*georgia_(estados_unidos)",
+              "wikipageusestemplate",
+              "predefinicao:link"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.311293,
           "detail": {
             "keywords": [
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.977959,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1086,8 +949,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "georgia_(estados_unidos)",
+                  "score": 8.97796
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1108,24 +971,24 @@
         {
           "triples": [
             [
-              "*natalie_portman",
-              "descricao",
-              "natalie portman no festival de cannes, em 2015."
+              "*georgia_(estados_unidos)",
+              "owl#sameas",
+              211
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "owl#sameas",
+              211
             ]
           ],
-          "score": 21.333334,
+          "score": 20.311293,
           "detail": {
             "keywords": [
-              "natalie_portman",
-              "estados_unidos"
+              "estados_unidos",
+              "natalie_portman"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.977959,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1135,8 +998,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "georgia_(estados_unidos)",
+                  "score": 8.97796
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1157,24 +1020,24 @@
         {
           "triples": [
             [
-              "*natalie_portman",
-              "localidaden",
-              "jerusalem"
+              "*georgia_(estados_unidos)",
+              "owl#sameas",
+              "_"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "owl#sameas",
+              "_"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.311293,
           "detail": {
             "keywords": [
-              "natalie_portman",
-              "estados_unidos"
+              "estados_unidos",
+              "natalie_portman"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.977959,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1184,8 +1047,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "georgia_(estados_unidos)",
+                  "score": 8.97796
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1207,23 +1070,23 @@
           "triples": [
             [
               "*natalie_portman",
-              "nacionalidade",
-              "israelense e estadunidense"
+              "owl#sameas",
+              "_"
             ],
             [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*georgia_(estados_unidos)",
+              "owl#sameas",
+              "_"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.311293,
           "detail": {
             "keywords": [
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.977959,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1233,8 +1096,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "georgia_(estados_unidos)",
+                  "score": 8.97796
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1256,23 +1119,23 @@
           "triples": [
             [
               "*natalie_portman",
-              "conjuge",
-              "benjamin_millepied"
+              "owl#sameas",
+              211
             ],
             [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*georgia_(estados_unidos)",
+              "owl#sameas",
+              211
             ]
           ],
-          "score": 21.333334,
+          "score": 20.311293,
           "detail": {
             "keywords": [
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.977959,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1282,8 +1145,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "georgia_(estados_unidos)",
+                  "score": 8.97796
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1305,34 +1168,44 @@
           "triples": [
             [
               "*natalie_portman",
-              "papeisnotaveis",
-              "leon"
+              "*nomedenascimento",
+              "natalie hershlag"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "subject",
+              "*categoria:atores_dos_estados_unidos"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.2194,
           "detail": {
             "keywords": [
+              "nascimento",
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
+              "m1": 18.7194,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nomedenascimento",
+                  "score": 1.856741
+                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "categoria:atores_dos_estados_unidos",
+                  "score": 6.86266
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1354,34 +1227,44 @@
           "triples": [
             [
               "*natalie_portman",
-              "papeisnotaveis",
-              "star wars episode i: the phantom menace"
+              "*nomedenascimento",
+              "natalie hershlag"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "subject",
+              "*categoria:judeus_dos_estados_unidos"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.2194,
           "detail": {
             "keywords": [
+              "nascimento",
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
+              "m1": 18.7194,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nomedenascimento",
+                  "score": 1.856741
+                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "categoria:judeus_dos_estados_unidos",
+                  "score": 6.86266
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1403,34 +1286,44 @@
           "triples": [
             [
               "*natalie_portman",
-              "papeisnotaveis",
-              "star wars episode ii: attack of the clones"
+              "subject",
+              "*categoria:atores_dos_estados_unidos"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*nomedenascimento",
+              "natalie hershlag"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.2194,
           "detail": {
             "keywords": [
+              "estados_unidos",
               "natalie_portman",
-              "estados_unidos"
+              "nascimento"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
+              "m1": 18.7194,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nomedenascimento",
+                  "score": 1.856741
+                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "categoria:atores_dos_estados_unidos",
+                  "score": 6.86266
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1452,34 +1345,44 @@
           "triples": [
             [
               "*natalie_portman",
-              "papeisnotaveis",
-              "star wars episode iii: revenge of the sith"
+              "subject",
+              "*categoria:atores_dos_estados_unidos"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*horadenascimento",
+              "222.0"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.2194,
           "detail": {
             "keywords": [
+              "estados_unidos",
               "natalie_portman",
-              "estados_unidos"
+              "nascimento"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
+              "m1": 18.7194,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "horadenascimento",
+                  "score": 1.856741
+                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "categoria:atores_dos_estados_unidos",
+                  "score": 6.86266
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1501,34 +1404,44 @@
           "triples": [
             [
               "*natalie_portman",
-              "papeisnotaveis",
-              "closer"
+              "subject",
+              "*categoria:judeus_dos_estados_unidos"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*nomedenascimento",
+              "natalie hershlag"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.2194,
           "detail": {
             "keywords": [
+              "estados_unidos",
               "natalie_portman",
-              "estados_unidos"
+              "nascimento"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
+              "m1": 18.7194,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nomedenascimento",
+                  "score": 1.856741
+                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "categoria:judeus_dos_estados_unidos",
+                  "score": 6.86266
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1550,34 +1463,44 @@
           "triples": [
             [
               "*natalie_portman",
-              "papeisnotaveis",
-              "v for vendetta"
+              "subject",
+              "*categoria:judeus_dos_estados_unidos"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*horadenascimento",
+              "222.0"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.2194,
           "detail": {
             "keywords": [
+              "estados_unidos",
               "natalie_portman",
-              "estados_unidos"
+              "nascimento"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
+              "m1": 18.7194,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "horadenascimento",
+                  "score": 1.856741
+                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "categoria:judeus_dos_estados_unidos",
+                  "score": 6.86266
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1599,34 +1522,44 @@
           "triples": [
             [
               "*natalie_portman",
-              "papeisnotaveis",
-              "black swan"
+              "*horadenascimento",
+              "222.0"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "subject",
+              "*categoria:atores_dos_estados_unidos"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.2194,
           "detail": {
             "keywords": [
+              "nascimento",
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
+              "m1": 18.7194,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "horadenascimento",
+                  "score": 1.856741
+                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "categoria:atores_dos_estados_unidos",
+                  "score": 6.86266
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1648,34 +1581,44 @@
           "triples": [
             [
               "*natalie_portman",
-              "papeisnotaveis",
-              "thor"
+              "*horadenascimento",
+              "222.0"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "subject",
+              "*categoria:judeus_dos_estados_unidos"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.2194,
           "detail": {
             "keywords": [
+              "nascimento",
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
+              "m1": 18.7194,
+              "m2": 0.5,
               "m3": 1.0,
               "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "horadenascimento",
+                  "score": 1.856741
+                },
                 "estados_unidos": {
                   "keyword": {
                     "termo": "estados_unidos",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "categoria:judeus_dos_estados_unidos",
+                  "score": 6.86266
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1696,24 +1639,24 @@
         {
           "triples": [
             [
-              "*natalie_portman",
-              "oscaresacademia",
-              "melhor atriz"
+              "*medicare_(estados_unidos)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.164404,
           "detail": {
             "keywords": [
-              "natalie_portman",
-              "estados_unidos"
+              "estados_unidos",
+              "natalie_portman"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.83107,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1723,8 +1666,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "medicare_(estados_unidos)",
+                  "score": 8.831071
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1745,24 +1688,24 @@
         {
           "triples": [
             [
-              "*natalie_portman",
-              "oscaresacademia",
-              "2011"
+              "*top_gear_(estados_unidos)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.164404,
           "detail": {
             "keywords": [
-              "natalie_portman",
-              "estados_unidos"
+              "estados_unidos",
+              "natalie_portman"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.83107,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1772,8 +1715,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "top_gear_(estados_unidos)",
+                  "score": 8.831071
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1794,24 +1737,24 @@
         {
           "triples": [
             [
-              "*natalie_portman",
-              "goldenglobe",
-              "9"
+              "*top_gear_(estados_unidos)",
+              "wikipageusestemplate",
+              "predefinicao:link"
             ],
             [
               "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "wikipageusestemplate",
+              "predefinicao:link"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.164404,
           "detail": {
             "keywords": [
-              "natalie_portman",
-              "estados_unidos"
+              "estados_unidos",
+              "natalie_portman"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.83107,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1821,8 +1764,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "top_gear_(estados_unidos)",
+                  "score": 8.831071
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1844,23 +1787,23 @@
           "triples": [
             [
               "*natalie_portman",
-              "goldenglobe",
-              "2011"
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*medicare_(estados_unidos)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.164404,
           "detail": {
             "keywords": [
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.83107,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1870,8 +1813,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "medicare_(estados_unidos)",
+                  "score": 8.831071
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1893,23 +1836,23 @@
           "triples": [
             [
               "*natalie_portman",
-              "goldenglobe",
-              "2005"
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ],
             [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*top_gear_(estados_unidos)",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.164404,
           "detail": {
             "keywords": [
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.83107,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1919,8 +1862,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "top_gear_(estados_unidos)",
+                  "score": 8.831071
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1942,23 +1885,23 @@
           "triples": [
             [
               "*natalie_portman",
-              "sagawards",
-              "melhor atriz em cinema"
+              "wikipageusestemplate",
+              "predefinicao:link"
             ],
             [
-              "*natalie_portman",
-              "wikipagewikilink",
-              "*estados_unidos"
+              "*top_gear_(estados_unidos)",
+              "wikipageusestemplate",
+              "predefinicao:link"
             ]
           ],
-          "score": 21.333334,
+          "score": 20.164404,
           "detail": {
             "keywords": [
               "natalie_portman",
               "estados_unidos"
             ],
             "score_detail": {
-              "m1": 20.0,
+              "m1": 18.83107,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1968,8 +1911,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "estados_unidos",
-                  "score": 10.0
+                  "resource": "top_gear_(estados_unidos)",
+                  "score": 8.831071
                 },
                 "natalie_portman": {
                   "keyword": {
@@ -1988,13 +1931,17 @@
           "id": 29
         }
       ],
-      "ranking_time": 58855484468,
+      "ranking_time": 45115372992,
       "l_sizes": [
-        21307,
-        24891330
+        19217,
+        19217
       ],
-      "ranking_time_only": 51182766546,
-      "total_time": 66270001951,
+      "a_sizes": [
+        19217,
+        8783098
+      ],
+      "ranking_time_only": 38657778763,
+      "total_time": 61834227953,
       "timeout": false
     }
   }

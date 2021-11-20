@@ -188,13 +188,13 @@
             "eng": [
               {
                 "synset": "locate",
-                "sinonimo": "turn_up",
+                "sinonimo": "locate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "locate",
-                "sinonimo": "locate",
+                "sinonimo": "turn_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -313,13 +313,13 @@
               "eng": [
                 {
                   "synset": "locate",
-                  "sinonimo": "turn_up",
+                  "sinonimo": "locate",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
                 },
                 {
                   "synset": "locate",
-                  "sinonimo": "locate",
+                  "sinonimo": "turn_up",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
                 }
@@ -365,13 +365,13 @@
             "eng": [
               {
                 "synset": "locate",
-                "sinonimo": "turn_up",
+                "sinonimo": "locate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "locate",
-                "sinonimo": "locate",
+                "sinonimo": "turn_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -447,13 +447,13 @@
           "id": 1,
           "bind_control": {
             "binds": {
-              "local": "-103",
+              "local": "-48",
               "fort_knox": "-1",
-              "localizar": -103
+              "localizar": -48
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -103,
+              "resource_id": -48,
               "tr": "localizar"
             }
           }
@@ -505,7 +505,7 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "local": "-99",
+              "local": "-44",
               "fort_knox": "-1"
             },
             "best_bind": {
@@ -558,13 +558,13 @@
           "id": 1,
           "bind_control": {
             "binds": {
-              "local": "-103",
+              "local": "-48",
               "fort_knox": "-1",
-              "localizar": -103
+              "localizar": -48
             },
             "best_bind": {
               "score": 0.673057825,
-              "resource_id": -103,
+              "resource_id": -48,
               "tr": "localizar"
             }
           }
@@ -709,8 +709,8 @@
           "triples": [
             [
               "*fort_knox",
-              "owl#sameas",
-              "m.0k4yq"
+              "depiction",
+              "fortknoxgoldvault2.jpg"
             ]
           ],
           "score": 11.333333,
@@ -743,8 +743,8 @@
           "triples": [
             [
               "*fort_knox",
-              "subject",
-              "categoria:cidades_de_kentucky"
+              "thumbnail",
+              "fortknoxgoldvault2.jpg?width=300"
             ]
           ],
           "score": 11.333333,
@@ -778,7 +778,7 @@
             [
               "*fort_knox",
               "subject",
-              "categoria:exercito_dos_estados_unidos"
+              "categoria:cidades_de_kentucky"
             ]
           ],
           "score": 11.333333,
@@ -811,8 +811,8 @@
           "triples": [
             [
               "*fort_knox",
-              "owl#sameas",
-              "q983650"
+              "subject",
+              "categoria:exercito_dos_estados_unidos"
             ]
           ],
           "score": 11.333333,
@@ -846,7 +846,7 @@
             [
               "*fort_knox",
               "owl#sameas",
-              "*fort_knox"
+              "m.0k4yq"
             ]
           ],
           "score": 11.333333,
@@ -879,8 +879,8 @@
           "triples": [
             [
               "*fort_knox",
-              "depiction",
-              "fortknoxgoldvault2.jpg"
+              "owl#sameas",
+              "q983650"
             ]
           ],
           "score": 11.333333,
@@ -913,8 +913,8 @@
           "triples": [
             [
               "*fort_knox",
-              "thumbnail",
-              "fortknoxgoldvault2.jpg?width=300"
+              "owl#sameas",
+              "*fort_knox"
             ]
           ],
           "score": 11.333333,
@@ -981,74 +981,6 @@
           "triples": [
             [
               "*fort_knox",
-              "abstract",
-              "a base e usada pelo exercito e pelos marines para treinamento em tanques m1 abrams e para treinamento basico de recrutas em simulacao de combate real."
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "fort_knox"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "fort_knox": {
-                  "keyword": {
-                    "termo": "fort_knox",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "fort_knox",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 14
-        },
-        {
-          "triples": [
-            [
-              "*fort_knox",
-              "wikipageoutdegree",
-              "53"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "fort_knox"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "fort_knox": {
-                  "keyword": {
-                    "termo": "fort_knox",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "fort_knox",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 15
-        },
-        {
-          "triples": [
-            [
-              "*fort_knox",
               "owl#sameas",
               "_"
             ]
@@ -1077,7 +1009,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 16
+          "id": 14
         },
         {
           "triples": [
@@ -1111,7 +1043,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 17
+          "id": 15
         },
         {
           "triples": [
@@ -1145,7 +1077,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 18
+          "id": 16
         },
         {
           "triples": [
@@ -1179,14 +1111,14 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 19
+          "id": 17
         },
         {
           "triples": [
             [
               "*fort_knox",
               "owl#sameas",
-              27
+              23
             ]
           ],
           "score": 11.333333,
@@ -1213,7 +1145,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 20
+          "id": 18
         },
         {
           "triples": [
@@ -1247,14 +1179,82 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 21
+          "id": 19
         },
         {
           "triples": [
             [
               "*fort_knox",
-              "wikipageid",
-              "1333786"
+              "abstract",
+              "a base e usada pelo exercito e pelos marines para treinamento em tanques m1 abrams e para treinamento basico de recrutas em simulacao de combate real."
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "fort_knox"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "walter_mondale",
+              "unidade",
+              "*fort_knox"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "fort_knox"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "fort",
+              "wikipagedisambiguates",
+              "*fort_knox"
             ]
           ],
           "score": 11.333333,
@@ -1286,9 +1286,9 @@
         {
           "triples": [
             [
-              "*fort_knox",
-              "wikipagelength",
-              "4788"
+              "walter_mondale",
+              "militaryunit",
+              "*fort_knox"
             ]
           ],
           "score": 11.333333,
@@ -1320,9 +1320,9 @@
         {
           "triples": [
             [
-              "*fort_knox",
-              "rdf_schema#comment",
-              "a base e usada pelo exercito e pelos marines para treinamento em tanques m1 abrams e para treinamento basico de recrutas em simulacao de combate real."
+              "mykel_hawke",
+              "birthplace",
+              "*fort_knox"
             ]
           ],
           "score": 11.333333,
@@ -1354,9 +1354,9 @@
         {
           "triples": [
             [
-              "*fort_knox",
-              "wikipagewikilink",
-              "ficheiro:fortknoxgoldvault2.jpg"
+              "randolph_bresnik",
+              "birthplace",
+              "*fort_knox"
             ]
           ],
           "score": 11.333333,
@@ -1388,18 +1388,18 @@
         {
           "triples": [
             [
-              "*fort_knox",
-              "wikipagewikilink",
-              "cidade"
+              "*fort_knox?dbpv=2016_10&nif=context",
+              "nif_core#sourceurl",
+              "*fort_knox?oldid=45246321"
             ]
           ],
-          "score": 11.333333,
+          "score": 8.724165,
           "detail": {
             "keywords": [
               "fort_knox"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 7.3908315,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1409,8 +1409,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "fort_knox",
-                  "score": 10.0
+                  "resource": "fort_knox?oldid=45246321",
+                  "score": 7.3908315
                 }
               }
             },
@@ -1422,18 +1422,18 @@
         {
           "triples": [
             [
-              "*fort_knox",
-              "wikipagewikilink",
-              "eua"
+              "*fort_knox?dbpv=2016_10&nif=context",
+              "22_rdf_syntax_ns#type",
+              "nif_core#context"
             ]
           ],
-          "score": 11.333333,
+          "score": 6.111745,
           "detail": {
             "keywords": [
               "fort_knox"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 4.7784114,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1443,8 +1443,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "fort_knox",
-                  "score": 10.0
+                  "resource": "fort_knox?dbpv=2016_10&nif=context",
+                  "score": 4.7784114
                 }
               }
             },
@@ -1456,18 +1456,18 @@
         {
           "triples": [
             [
-              "*fort_knox",
-              "wikipagewikilink",
-              "exercito_dos_estados_unidos"
+              "*fort_knox?dbpv=2016_10&nif=context",
+              "nif_core#beginindex",
+              "0"
             ]
           ],
-          "score": 11.333333,
+          "score": 6.111745,
           "detail": {
             "keywords": [
               "fort_knox"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 4.7784114,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1477,8 +1477,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "fort_knox",
-                  "score": 10.0
+                  "resource": "fort_knox?dbpv=2016_10&nif=context",
+                  "score": 4.7784114
                 }
               }
             },
@@ -1490,18 +1490,18 @@
         {
           "triples": [
             [
-              "*fort_knox",
-              "wikipagewikilink",
-              "kentucky"
+              "*fort_knox?dbpv=2016_10&nif=context",
+              "nif_core#endindex",
+              "2674"
             ]
           ],
-          "score": 11.333333,
+          "score": 6.111745,
           "detail": {
             "keywords": [
               "fort_knox"
             ],
             "score_detail": {
-              "m1": 10.0,
+              "m1": 4.7784114,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1511,8 +1511,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "fort_knox",
-                  "score": 10.0
+                  "resource": "fort_knox?dbpv=2016_10&nif=context",
+                  "score": 4.7784114
                 }
               }
             },
@@ -1522,12 +1522,15 @@
           "id": 29
         }
       ],
-      "ranking_time": 1072041761,
+      "ranking_time": 1746443526,
       "l_sizes": [
-        10114
+        10031
       ],
-      "ranking_time_only": 133816661,
-      "total_time": 7834582445,
+      "a_sizes": [
+        10031
+      ],
+      "ranking_time_only": 249501339,
+      "total_time": 11262370159,
       "timeout": false
     }
   }

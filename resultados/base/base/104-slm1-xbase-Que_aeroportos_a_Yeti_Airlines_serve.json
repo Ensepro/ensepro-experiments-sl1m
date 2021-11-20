@@ -171,14 +171,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "airport",
-                "sinonimo": "Aeroportos_da_América_do_Sul",
+                "synset": "airfield",
+                "sinonimo": "aeroporto",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "airfield",
-                "sinonimo": "aeroporto",
+                "synset": "airport",
+                "sinonimo": "Aeroportos_da_América_do_Sul",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -198,7 +198,7 @@
             "eng": [
               {
                 "synset": "airfield",
-                "sinonimo": "flying_field",
+                "sinonimo": "airfield",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -209,14 +209,26 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "airfield",
-                "sinonimo": "field",
+                "synset": "airport",
+                "sinonimo": "aerodrome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "airport",
                 "sinonimo": "drome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "landing_field",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "flying_field",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -228,19 +240,7 @@
               },
               {
                 "synset": "airfield",
-                "sinonimo": "airfield",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "airport",
-                "sinonimo": "aerodrome",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "airfield",
-                "sinonimo": "landing_field",
+                "sinonimo": "field",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -303,12 +303,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "service",
-                "sinonimo": "funcionar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "serve",
                 "sinonimo": "exercer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -316,7 +310,7 @@
               },
               {
                 "synset": "service",
-                "sinonimo": "servir",
+                "sinonimo": "funcionar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -333,6 +327,12 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "serve",
+                "sinonimo": "servir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "provide",
                 "sinonimo": "fornecer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -347,22 +347,10 @@
                 "distancia_semantica": "06"
               },
               {
-                "synset": "provide",
-                "sinonimo": "ply",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "serve",
                 "sinonimo": "dish_out",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
-              },
-              {
-                "synset": "provide",
-                "sinonimo": "supply",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               },
               {
                 "synset": "provide",
@@ -377,14 +365,26 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "serve",
-                "sinonimo": "serve_up",
+                "synset": "provide",
+                "sinonimo": "supply",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "ply",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "service",
-                "sinonimo": "service",
+                "sinonimo": "serve",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "function",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -396,13 +396,13 @@
               },
               {
                 "synset": "serve",
-                "sinonimo": "serve",
+                "sinonimo": "serve_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
               },
               {
-                "synset": "serve",
-                "sinonimo": "function",
+                "synset": "service",
+                "sinonimo": "service",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -443,14 +443,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "airport",
-                "sinonimo": "Aeroportos_da_América_do_Sul",
+                "synset": "airfield",
+                "sinonimo": "aeroporto",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "airfield",
-                "sinonimo": "aeroporto",
+                "synset": "airport",
+                "sinonimo": "Aeroportos_da_América_do_Sul",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -470,7 +470,7 @@
             "eng": [
               {
                 "synset": "airfield",
-                "sinonimo": "flying_field",
+                "sinonimo": "airfield",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -481,14 +481,26 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "airfield",
-                "sinonimo": "field",
+                "synset": "airport",
+                "sinonimo": "aerodrome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "airport",
                 "sinonimo": "drome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "landing_field",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "flying_field",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -500,19 +512,7 @@
               },
               {
                 "synset": "airfield",
-                "sinonimo": "airfield",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "airport",
-                "sinonimo": "aerodrome",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "airfield",
-                "sinonimo": "landing_field",
+                "sinonimo": "field",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -553,12 +553,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "service",
-                "sinonimo": "funcionar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "serve",
                 "sinonimo": "exercer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -566,7 +560,7 @@
               },
               {
                 "synset": "service",
-                "sinonimo": "servir",
+                "sinonimo": "funcionar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -583,6 +577,12 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "serve",
+                "sinonimo": "servir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "provide",
                 "sinonimo": "fornecer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -597,22 +597,10 @@
                 "distancia_semantica": "06"
               },
               {
-                "synset": "provide",
-                "sinonimo": "ply",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "serve",
                 "sinonimo": "dish_out",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
-              },
-              {
-                "synset": "provide",
-                "sinonimo": "supply",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               },
               {
                 "synset": "provide",
@@ -627,14 +615,26 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "serve",
-                "sinonimo": "serve_up",
+                "synset": "provide",
+                "sinonimo": "supply",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "ply",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "service",
-                "sinonimo": "service",
+                "sinonimo": "serve",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "function",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -646,13 +646,13 @@
               },
               {
                 "synset": "serve",
-                "sinonimo": "serve",
+                "sinonimo": "serve_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
               },
               {
-                "synset": "serve",
-                "sinonimo": "function",
+                "synset": "service",
+                "sinonimo": "service",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -670,44 +670,46 @@
         {
           "triples": [
             [
-              "lista_de_companhias_aereas_em_atividade",
-              "wikipagewikilink",
-              "*yeti_airlines"
+              "qantas",
+              "*hubssecundarios",
+              "*aeroporto de perth"
             ]
           ],
-          "score": 11.333333,
+          "score": 2.9882987,
           "detail": {
             "keywords": [
-              "yeti_airlines"
+              "servir",
+              "aeroporto"
             ],
             "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
+              "m1": 2.321632,
+              "m2": 0.6666667,
+              "m3": 0.0,
               "matches": {
-                "yeti_airlines": {
+                "servir": {
                   "keyword": {
-                    "termo": "yeti_airlines",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
                   },
-                  "resource": "yeti_airlines",
-                  "score": 10.0
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto de perth",
+                  "score": 1.737796
                 }
               }
             },
             "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
+            "proper_nouns_matched_count": 0
           },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "yeti_airlines": "-3"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
+          "id": 0
         },
         {
           "triples": [
@@ -800,50 +802,6 @@
         {
           "triples": [
             [
-              "qantas",
-              "*hubssecundarios",
-              "*aeroporto de perth"
-            ]
-          ],
-          "score": 2.9882987,
-          "detail": {
-            "keywords": [
-              "servir",
-              "aeroporto"
-            ],
-            "score_detail": {
-              "m1": 2.321632,
-              "m2": 0.6666667,
-              "m3": 0.0,
-              "matches": {
-                "servir": {
-                  "keyword": {
-                    "termo": "dar",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "hubssecundarios",
-                  "score": 0.583836
-                },
-                "aeroporto": {
-                  "keyword": {
-                    "termo": "aeroporto",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "aeroporto de perth",
-                  "score": 1.737796
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 3
-        },
-        {
-          "triples": [
-            [
               "airasia",
               "*hubssecundarios",
               "*aeroporto de penang"
@@ -883,7 +841,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 4
+          "id": 3
         },
         {
           "triples": [
@@ -927,7 +885,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 5
+          "id": 4
         },
         {
           "triples": [
@@ -971,26 +929,26 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 6
+          "id": 5
         },
         {
           "triples": [
             [
-              "arik_air",
-              "*hubssecundarios",
-              "*aeroporto de accra"
+              "virgin_blue",
+              "hubsprimarios",
+              "*aeroporto de brisbane"
             ],
             [
-              "arik_air",
-              "abstract",
-              "*arik air ltd e una linha aerea nigeriana privada com base em lagos na nigeria. fundado em 2002 e iniciando voos desde 2006 opera uma crescente rede de destinos. sua principal base de operacoes e o aeroporto internacional murtala muhammed, em lagos."
+              "virgin_blue",
+              "*hubssecundarios",
+              "*aeroporto adelaide"
             ]
           ],
           "score": 2.6549652,
           "detail": {
             "keywords": [
-              "servir",
-              "aeroporto"
+              "aeroporto",
+              "servir"
             ],
             "score_detail": {
               "m1": 2.321632,
@@ -1012,7 +970,56 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "aeroporto de accra",
+                  "resource": "aeroporto adelaide",
+                  "score": 1.737796
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "virgin_blue",
+              "hubsprimarios",
+              "*aeroporto de melbourne"
+            ],
+            [
+              "virgin_blue",
+              "*hubssecundarios",
+              "*aeroporto adelaide"
+            ]
+          ],
+          "score": 2.6549652,
+          "detail": {
+            "keywords": [
+              "aeroporto",
+              "servir"
+            ],
+            "score_detail": {
+              "m1": 2.321632,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto adelaide",
                   "score": 1.737796
                 }
               }
@@ -1027,7 +1034,7 @@
             [
               "virgin_blue",
               "hubsprimarios",
-              "*aeroporto de brisbane"
+              "*aeroporto internacional de sydney"
             ],
             [
               "virgin_blue",
@@ -1075,104 +1082,6 @@
           "triples": [
             [
               "virgin_blue",
-              "hubsprimarios",
-              "*aeroporto de melbourne"
-            ],
-            [
-              "virgin_blue",
-              "*hubssecundarios",
-              "*aeroporto adelaide"
-            ]
-          ],
-          "score": 2.6549652,
-          "detail": {
-            "keywords": [
-              "aeroporto",
-              "servir"
-            ],
-            "score_detail": {
-              "m1": 2.321632,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "servir": {
-                  "keyword": {
-                    "termo": "dar",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "hubssecundarios",
-                  "score": 0.583836
-                },
-                "aeroporto": {
-                  "keyword": {
-                    "termo": "aeroporto",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "aeroporto adelaide",
-                  "score": 1.737796
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "virgin_blue",
-              "hubsprimarios",
-              "*aeroporto internacional de sydney"
-            ],
-            [
-              "virgin_blue",
-              "*hubssecundarios",
-              "*aeroporto adelaide"
-            ]
-          ],
-          "score": 2.6549652,
-          "detail": {
-            "keywords": [
-              "aeroporto",
-              "servir"
-            ],
-            "score_detail": {
-              "m1": 2.321632,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "servir": {
-                  "keyword": {
-                    "termo": "dar",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "hubssecundarios",
-                  "score": 0.583836
-                },
-                "aeroporto": {
-                  "keyword": {
-                    "termo": "aeroporto",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "aeroporto adelaide",
-                  "score": 1.737796
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 10
-        },
-        {
-          "triples": [
-            [
-              "virgin_blue",
               "*hubssecundarios",
               "*aeroporto adelaide"
             ],
@@ -1216,7 +1125,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 11
+          "id": 9
         },
         {
           "triples": [
@@ -1265,7 +1174,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 12
+          "id": 10
         },
         {
           "triples": [
@@ -1314,56 +1223,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 13
-        },
-        {
-          "triples": [
-            [
-              "arik_air",
-              "abstract",
-              "*arik air ltd e una linha aerea nigeriana privada com base em lagos na nigeria. fundado em 2002 e iniciando voos desde 2006 opera uma crescente rede de destinos. sua principal base de operacoes e o aeroporto internacional murtala muhammed, em lagos."
-            ],
-            [
-              "arik_air",
-              "*hubssecundarios",
-              "*aeroporto de accra"
-            ]
-          ],
-          "score": 2.6549652,
-          "detail": {
-            "keywords": [
-              "aeroporto",
-              "servir"
-            ],
-            "score_detail": {
-              "m1": 2.321632,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "servir": {
-                  "keyword": {
-                    "termo": "dar",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "hubssecundarios",
-                  "score": 0.583836
-                },
-                "aeroporto": {
-                  "keyword": {
-                    "termo": "aeroporto",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "aeroporto de accra",
-                  "score": 1.737796
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 14
+          "id": 11
         },
         {
           "triples": [
@@ -1407,7 +1267,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 15
+          "id": 12
         },
         {
           "triples": [
@@ -1451,7 +1311,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 16
+          "id": 13
         },
         {
           "triples": [
@@ -1471,6 +1331,153 @@
             "keywords": [
               "servir",
               "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.282952,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto de penang",
+                  "score": 1.6991161
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "airasia",
+              "*hubssecundarios",
+              "*aeroporto de penang"
+            ],
+            [
+              "airasia",
+              "abstract",
+              "*airasia e uma companhia aerea de baixo custo da malasia, uma pioneira em viagens desse tipo na asia. o grupo airasia opera voos domesticos e internacionais programados para mais de 65 destinos, abrangendo 25 paises. seu principal hub e o low cost carrier terminal do aeroporto internacional de kuala lumpur (wmkk). suas companhias afiliadas thai airasia e indonesia airasia tem hubs no aeroporto internacional de suvarnabhumi e no aeroporto internacional soekarno-hatta, respectivamente. estabelecida em 1993, iniciou suas atividades em 18 de novembro de 1996. fazia parte da drb-hicom, um conglomerado governamental malaio. em dezembro de 2001, bastante endividada, foi adquirida pelo empresario tony fernandes pelo valor simbolico de rm1 (um ringgit). fernandes reestruturou a companhia lancando novas rotas do centro de operacoes no aeroporto internacional de kuala lumpur com bilhetes a rm1, enfraquecendo o monopolio da malaysia airlines."
+            ]
+          ],
+          "score": 2.6162853,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.282952,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto de penang",
+                  "score": 1.6991161
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "airasia",
+              "*hubssecundarios",
+              "*aeroporto de kuching"
+            ],
+            [
+              "airasia",
+              "*hubssecundarios",
+              "*aeroporto de penang"
+            ]
+          ],
+          "score": 2.6162853,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.282952,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto de penang",
+                  "score": 1.6991161
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "airasia",
+              "abstract",
+              "*airasia e uma companhia aerea de baixo custo da malasia, uma pioneira em viagens desse tipo na asia. o grupo airasia opera voos domesticos e internacionais programados para mais de 65 destinos, abrangendo 25 paises. seu principal hub e o low cost carrier terminal do aeroporto internacional de kuala lumpur (wmkk). suas companhias afiliadas thai airasia e indonesia airasia tem hubs no aeroporto internacional de suvarnabhumi e no aeroporto internacional soekarno-hatta, respectivamente. estabelecida em 1993, iniciou suas atividades em 18 de novembro de 1996. fazia parte da drb-hicom, um conglomerado governamental malaio. em dezembro de 2001, bastante endividada, foi adquirida pelo empresario tony fernandes pelo valor simbolico de rm1 (um ringgit). fernandes reestruturou a companhia lancando novas rotas do centro de operacoes no aeroporto internacional de kuala lumpur com bilhetes a rm1, enfraquecendo o monopolio da malaysia airlines."
+            ],
+            [
+              "airasia",
+              "*hubssecundarios",
+              "*aeroporto de penang"
+            ]
+          ],
+          "score": 2.6162853,
+          "detail": {
+            "keywords": [
+              "aeroporto",
+              "servir"
             ],
             "score_detail": {
               "m1": 2.282952,
@@ -1507,7 +1514,7 @@
             [
               "airasia",
               "*hubssecundarios",
-              "*aeroporto de penang"
+              "*aeroporto de kuching"
             ],
             [
               "airasia",
@@ -1515,14 +1522,14 @@
               "*airasia e uma companhia aerea de baixo custo da malasia, uma pioneira em viagens desse tipo na asia. o grupo airasia opera voos domesticos e internacionais programados para mais de 65 destinos, abrangendo 25 paises. seu principal hub e o low cost carrier terminal do aeroporto internacional de kuala lumpur (wmkk). suas companhias afiliadas thai airasia e indonesia airasia tem hubs no aeroporto internacional de suvarnabhumi e no aeroporto internacional soekarno-hatta, respectivamente. estabelecida em 1993, iniciou suas atividades em 18 de novembro de 1996. fazia parte da drb-hicom, um conglomerado governamental malaio. em dezembro de 2001, bastante endividada, foi adquirida pelo empresario tony fernandes pelo valor simbolico de rm1 (um ringgit). fernandes reestruturou a companhia lancando novas rotas do centro de operacoes no aeroporto internacional de kuala lumpur com bilhetes a rm1, enfraquecendo o monopolio da malaysia airlines."
             ]
           ],
-          "score": 2.6162853,
+          "score": 2.575679,
           "detail": {
             "keywords": [
               "servir",
               "aeroporto"
             ],
             "score_detail": {
-              "m1": 2.282952,
+              "m1": 2.2423458,
               "m2": 0.33333334,
               "m3": 0.0,
               "matches": {
@@ -1541,8 +1548,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "aeroporto de penang",
-                  "score": 1.6991161
+                  "resource": "aeroporto de kuching",
+                  "score": 1.6585097
                 }
               }
             },
@@ -1555,23 +1562,23 @@
           "triples": [
             [
               "airasia",
-              "*hubssecundarios",
-              "*aeroporto de kuching"
+              "abstract",
+              "*airasia e uma companhia aerea de baixo custo da malasia, uma pioneira em viagens desse tipo na asia. o grupo airasia opera voos domesticos e internacionais programados para mais de 65 destinos, abrangendo 25 paises. seu principal hub e o low cost carrier terminal do aeroporto internacional de kuala lumpur (wmkk). suas companhias afiliadas thai airasia e indonesia airasia tem hubs no aeroporto internacional de suvarnabhumi e no aeroporto internacional soekarno-hatta, respectivamente. estabelecida em 1993, iniciou suas atividades em 18 de novembro de 1996. fazia parte da drb-hicom, um conglomerado governamental malaio. em dezembro de 2001, bastante endividada, foi adquirida pelo empresario tony fernandes pelo valor simbolico de rm1 (um ringgit). fernandes reestruturou a companhia lancando novas rotas do centro de operacoes no aeroporto internacional de kuala lumpur com bilhetes a rm1, enfraquecendo o monopolio da malaysia airlines."
             ],
             [
               "airasia",
               "*hubssecundarios",
-              "*aeroporto de penang"
+              "*aeroporto de kuching"
             ]
           ],
-          "score": 2.6162853,
+          "score": 2.575679,
           "detail": {
             "keywords": [
-              "servir",
-              "aeroporto"
+              "aeroporto",
+              "servir"
             ],
             "score_detail": {
-              "m1": 2.282952,
+              "m1": 2.2423458,
               "m2": 0.33333334,
               "m3": 0.0,
               "matches": {
@@ -1590,8 +1597,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "aeroporto de penang",
-                  "score": 1.6991161
+                  "resource": "aeroporto de kuching",
+                  "score": 1.6585097
                 }
               }
             },
@@ -1599,153 +1606,6 @@
             "proper_nouns_matched_count": 0
           },
           "id": 19
-        },
-        {
-          "triples": [
-            [
-              "airasia",
-              "abstract",
-              "*airasia e uma companhia aerea de baixo custo da malasia, uma pioneira em viagens desse tipo na asia. o grupo airasia opera voos domesticos e internacionais programados para mais de 65 destinos, abrangendo 25 paises. seu principal hub e o low cost carrier terminal do aeroporto internacional de kuala lumpur (wmkk). suas companhias afiliadas thai airasia e indonesia airasia tem hubs no aeroporto internacional de suvarnabhumi e no aeroporto internacional soekarno-hatta, respectivamente. estabelecida em 1993, iniciou suas atividades em 18 de novembro de 1996. fazia parte da drb-hicom, um conglomerado governamental malaio. em dezembro de 2001, bastante endividada, foi adquirida pelo empresario tony fernandes pelo valor simbolico de rm1 (um ringgit). fernandes reestruturou a companhia lancando novas rotas do centro de operacoes no aeroporto internacional de kuala lumpur com bilhetes a rm1, enfraquecendo o monopolio da malaysia airlines."
-            ],
-            [
-              "airasia",
-              "*hubssecundarios",
-              "*aeroporto de penang"
-            ]
-          ],
-          "score": 2.6162853,
-          "detail": {
-            "keywords": [
-              "aeroporto",
-              "servir"
-            ],
-            "score_detail": {
-              "m1": 2.282952,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "servir": {
-                  "keyword": {
-                    "termo": "dar",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "hubssecundarios",
-                  "score": 0.583836
-                },
-                "aeroporto": {
-                  "keyword": {
-                    "termo": "aeroporto",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "aeroporto de penang",
-                  "score": 1.6991161
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 20
-        },
-        {
-          "triples": [
-            [
-              "airasia",
-              "*hubssecundarios",
-              "*aeroporto de kuching"
-            ],
-            [
-              "airasia",
-              "abstract",
-              "*airasia e uma companhia aerea de baixo custo da malasia, uma pioneira em viagens desse tipo na asia. o grupo airasia opera voos domesticos e internacionais programados para mais de 65 destinos, abrangendo 25 paises. seu principal hub e o low cost carrier terminal do aeroporto internacional de kuala lumpur (wmkk). suas companhias afiliadas thai airasia e indonesia airasia tem hubs no aeroporto internacional de suvarnabhumi e no aeroporto internacional soekarno-hatta, respectivamente. estabelecida em 1993, iniciou suas atividades em 18 de novembro de 1996. fazia parte da drb-hicom, um conglomerado governamental malaio. em dezembro de 2001, bastante endividada, foi adquirida pelo empresario tony fernandes pelo valor simbolico de rm1 (um ringgit). fernandes reestruturou a companhia lancando novas rotas do centro de operacoes no aeroporto internacional de kuala lumpur com bilhetes a rm1, enfraquecendo o monopolio da malaysia airlines."
-            ]
-          ],
-          "score": 2.575679,
-          "detail": {
-            "keywords": [
-              "servir",
-              "aeroporto"
-            ],
-            "score_detail": {
-              "m1": 2.2423458,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "servir": {
-                  "keyword": {
-                    "termo": "dar",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "hubssecundarios",
-                  "score": 0.583836
-                },
-                "aeroporto": {
-                  "keyword": {
-                    "termo": "aeroporto",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "aeroporto de kuching",
-                  "score": 1.6585097
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 21
-        },
-        {
-          "triples": [
-            [
-              "airasia",
-              "abstract",
-              "*airasia e uma companhia aerea de baixo custo da malasia, uma pioneira em viagens desse tipo na asia. o grupo airasia opera voos domesticos e internacionais programados para mais de 65 destinos, abrangendo 25 paises. seu principal hub e o low cost carrier terminal do aeroporto internacional de kuala lumpur (wmkk). suas companhias afiliadas thai airasia e indonesia airasia tem hubs no aeroporto internacional de suvarnabhumi e no aeroporto internacional soekarno-hatta, respectivamente. estabelecida em 1993, iniciou suas atividades em 18 de novembro de 1996. fazia parte da drb-hicom, um conglomerado governamental malaio. em dezembro de 2001, bastante endividada, foi adquirida pelo empresario tony fernandes pelo valor simbolico de rm1 (um ringgit). fernandes reestruturou a companhia lancando novas rotas do centro de operacoes no aeroporto internacional de kuala lumpur com bilhetes a rm1, enfraquecendo o monopolio da malaysia airlines."
-            ],
-            [
-              "airasia",
-              "*hubssecundarios",
-              "*aeroporto de kuching"
-            ]
-          ],
-          "score": 2.575679,
-          "detail": {
-            "keywords": [
-              "aeroporto",
-              "servir"
-            ],
-            "score_detail": {
-              "m1": 2.2423458,
-              "m2": 0.33333334,
-              "m3": 0.0,
-              "matches": {
-                "servir": {
-                  "keyword": {
-                    "termo": "dar",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "hubssecundarios",
-                  "score": 0.583836
-                },
-                "aeroporto": {
-                  "keyword": {
-                    "termo": "aeroporto",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "aeroporto de kuching",
-                  "score": 1.6585097
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 0
-          },
-          "id": 22
         },
         {
           "triples": [
@@ -1794,7 +1654,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 23
+          "id": 20
         },
         {
           "triples": [
@@ -1843,7 +1703,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 24
+          "id": 21
         },
         {
           "triples": [
@@ -1892,7 +1752,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 25
+          "id": 22
         },
         {
           "triples": [
@@ -1941,7 +1801,56 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 26
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto_internacional_de_viena",
+              "rdf_schema#label",
+              "*aeroporto internacional de viena"
+            ],
+            [
+              "*aeroporto_internacional_de_viena",
+              "*serve",
+              "viena,austria,bratislava e eslovaquia"
+            ]
+          ],
+          "score": 2.3950102,
+          "detail": {
+            "keywords": [
+              "aeroporto",
+              "servir"
+            ],
+            "score_detail": {
+              "m1": 2.061677,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "serve",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "serve",
+                  "score": 1.0
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto_internacional_de_viena",
+                  "score": 1.0616771
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
         },
         {
           "triples": [
@@ -1990,7 +1899,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 27
+          "id": 25
         },
         {
           "triples": [
@@ -2039,7 +1948,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
-          "id": 28
+          "id": 26
         },
         {
           "triples": [
@@ -2088,16 +1997,118 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 0
           },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto_internacional_de_viena",
+              "*serve",
+              "viena,austria,bratislava e eslovaquia"
+            ],
+            [
+              "*aeroporto_internacional_de_viena",
+              "name",
+              "*aeroporto internacional de viena"
+            ]
+          ],
+          "score": 2.3950102,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.061677,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "serve",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "serve",
+                  "score": 1.0
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto internacional de viena",
+                  "score": 1.0616771
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto_internacional_de_viena",
+              "*serve",
+              "viena,austria,bratislava e eslovaquia"
+            ],
+            [
+              "*aeroporto_internacional_de_viena",
+              "rdf_schema#label",
+              "*aeroporto internacional de viena"
+            ]
+          ],
+          "score": 2.3950102,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.061677,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "serve",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "serve",
+                  "score": 1.0
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto internacional de viena",
+                  "score": 1.0616771
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
           "id": 29
         }
       ],
-      "ranking_time": 23445900004,
+      "ranking_time": 41436782288,
       "l_sizes": [
-        18478,
-        9528930
+        17433,
+        17433
       ],
-      "ranking_time_only": 21131603129,
-      "total_time": 31264654481,
+      "a_sizes": [
+        17433,
+        8575340
+      ],
+      "ranking_time_only": 35142264897,
+      "total_time": 59705834890,
       "timeout": false
     }
   }

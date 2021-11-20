@@ -452,7 +452,77 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [],
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "mick_fanning",
+              "wikipageusestemplate",
+              "*surfista"
+            ],
+            [
+              "mick_fanning",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 15.5,
+          "detail": {
+            "keywords": [
+              "surfista",
+              "nascimento",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "surfista": {
+                  "keyword": {
+                    "termo": "surfista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "surfista",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "surfista": "-4161",
+              "nascimento": "-732",
+              "australia": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
       "all_answers": [
         {
           "triples": [
@@ -514,85 +584,12 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "surfista": "-4236",
-              "nascimento": "-1142",
-              "australia": "-22"
+              "surfista": "-4161",
+              "nascimento": "-732",
+              "australia": "-1"
             },
             "best_bind": {
-              "score": 0.1696995975,
-              "resource_id": 4234,
-              "tr": "nascer"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "mick_fanning",
-              "wikipagewikilink",
-              "*surfista"
-            ],
-            [
-              "mick_fanning",
-              "*nascimento",
-              "*australia"
-            ]
-          ],
-          "score": 15.5,
-          "detail": {
-            "keywords": [
-              "surfista",
-              "nascimento",
-              "australia"
-            ],
-            "score_detail": {
-              "m1": 14.0,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimento",
-                  "score": 2.0
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "surfista",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 1,
-          "bind_control": {
-            "binds": {
-              "surfista": "-4236",
-              "nascimento": "-1142",
-              "australia": "-22"
-            },
-            "best_bind": {
-              "score": 0.0139348275,
-              "resource_id": 39,
-              "tr": "nascer"
+              "score": 0
             }
           }
         },
@@ -647,6 +644,75 @@
                   },
                   "resource": "surfista",
                   "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "mick_fanning",
+              "abstract",
+              "*michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013."
+            ],
+            [
+              "mick_fanning",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 14.666667,
+          "detail": {
+            "keywords": [
+              "surfista",
+              "profissional",
+              "nascimento",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "surfista": {
+                  "keyword": {
+                    "termo": "surfista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
+                  "score": 8.425216e-08
+                },
+                "profissional": {
+                  "keyword": {
+                    "termo": "profissional",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
+                  "score": 1.0
                 }
               }
             },
@@ -664,20 +730,21 @@
             ],
             [
               "mick_fanning",
-              "wikipagewikilink",
-              "*surfista"
+              "abstract",
+              "*michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013."
             ]
           ],
-          "score": 15.5,
+          "score": 14.666667,
           "detail": {
             "keywords": [
               "nascimento",
               "australia",
-              "surfista"
+              "surfista",
+              "profissional"
             ],
             "score_detail": {
-              "m1": 14.0,
-              "m2": 0.5,
+              "m1": 13.0,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
                 "nascimento": {
@@ -704,8 +771,17 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "surfista",
-                  "score": 2.0
+                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
+                  "score": 8.425216e-08
+                },
+                "profissional": {
+                  "keyword": {
+                    "termo": "profissional",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
+                  "score": 1.0
                 }
               }
             },
@@ -717,17 +793,17 @@
         {
           "triples": [
             [
-              "*julian_wilson_(surfista)",
-              "wikipagewikilink",
-              "mick_fanning"
+              "bede_durbidge",
+              "wikipageusestemplate",
+              "*surfista"
             ],
             [
-              "mick_fanning",
+              "bede_durbidge",
               "*nascimento",
-              "*australia"
+              "*brisbane, australia"
             ]
           ],
-          "score": 14.879909,
+          "score": 13.995581,
           "detail": {
             "keywords": [
               "surfista",
@@ -735,7 +811,7 @@
               "australia"
             ],
             "score_detail": {
-              "m1": 13.379909,
+              "m1": 12.495581,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -754,8 +830,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "australia",
-                  "score": 10.0
+                  "resource": "brisbane, australia",
+                  "score": 8.495581
                 },
                 "surfista": {
                   "keyword": {
@@ -763,8 +839,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "julian_wilson_(surfista)",
-                  "score": 1.3799082
+                  "resource": "surfista",
+                  "score": 2.0
                 }
               }
             },
@@ -776,25 +852,25 @@
         {
           "triples": [
             [
-              "mick_fanning",
-              "wikipagewikilink",
-              "*julian_wilson_(surfista)"
+              "bede_durbidge",
+              "*nascimento",
+              "*brisbane, australia"
             ],
             [
-              "mick_fanning",
-              "*nascimento",
-              "*australia"
+              "bede_durbidge",
+              "wikipageusestemplate",
+              "*surfista"
             ]
           ],
-          "score": 14.879909,
+          "score": 13.995581,
           "detail": {
             "keywords": [
-              "surfista",
               "nascimento",
-              "australia"
+              "australia",
+              "surfista"
             ],
             "score_detail": {
-              "m1": 13.379909,
+              "m1": 12.495581,
               "m2": 0.5,
               "m3": 1.0,
               "matches": {
@@ -813,8 +889,8 @@
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "australia",
-                  "score": 10.0
+                  "resource": "brisbane, australia",
+                  "score": 8.495581
                 },
                 "surfista": {
                   "keyword": {
@@ -822,8 +898,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "julian_wilson_(surfista)",
-                  "score": 1.3799082
+                  "resource": "surfista",
+                  "score": 2.0
                 }
               }
             },
@@ -831,872 +907,6 @@
             "proper_nouns_matched_count": 1
           },
           "id": 5
-        },
-        {
-          "triples": [
-            [
-              "mick_fanning",
-              "*nascimento",
-              "*australia"
-            ],
-            [
-              "*julian_wilson_(surfista)",
-              "wikipagewikilink",
-              "mick_fanning"
-            ]
-          ],
-          "score": 14.879909,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "australia",
-              "surfista"
-            ],
-            "score_detail": {
-              "m1": 13.379909,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimento",
-                  "score": 2.0
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "julian_wilson_(surfista)",
-                  "score": 1.3799082
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 6
-        },
-        {
-          "triples": [
-            [
-              "mick_fanning",
-              "*nascimento",
-              "*australia"
-            ],
-            [
-              "mick_fanning",
-              "wikipagewikilink",
-              "*julian_wilson_(surfista)"
-            ]
-          ],
-          "score": 14.879909,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "australia",
-              "surfista"
-            ],
-            "score_detail": {
-              "m1": 13.379909,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimento",
-                  "score": 2.0
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "julian_wilson_(surfista)",
-                  "score": 1.3799082
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 7
-        },
-        {
-          "triples": [
-            [
-              "*julian_wilson_(surfista)",
-              "*localnascimento",
-              "*coolum beach, queensland, australia"
-            ],
-            [
-              "*julian_wilson_(surfista)",
-              "wikipagewikilink",
-              "*australia"
-            ]
-          ],
-          "score": 14.764832,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "australia",
-              "surfista"
-            ],
-            "score_detail": {
-              "m1": 13.264832,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "localnascimento",
-                  "score": 1.8849236
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "julian_wilson_(surfista)",
-                  "score": 1.3799082
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "*julian_wilson_(surfista)",
-              "wikipagewikilink",
-              "*australia"
-            ],
-            [
-              "*julian_wilson_(surfista)",
-              "*localnascimento",
-              "*coolum beach, queensland, australia"
-            ]
-          ],
-          "score": 14.764832,
-          "detail": {
-            "keywords": [
-              "australia",
-              "surfista",
-              "nascimento"
-            ],
-            "score_detail": {
-              "m1": 13.264832,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "localnascimento",
-                  "score": 1.8849236
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "julian_wilson_(surfista)",
-                  "score": 1.3799082
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "mick_fanning",
-              "abstract",
-              "*michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013."
-            ],
-            [
-              "mick_fanning",
-              "*nascimento",
-              "*australia"
-            ]
-          ],
-          "score": 14.666667,
-          "detail": {
-            "keywords": [
-              "surfista",
-              "profissional",
-              "nascimento",
-              "australia"
-            ],
-            "score_detail": {
-              "m1": 13.0,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimento",
-                  "score": 2.0
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
-                  "score": 8.425216e-08
-                },
-                "profissional": {
-                  "keyword": {
-                    "termo": "profissional",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 10
-        },
-        {
-          "triples": [
-            [
-              "mick_fanning",
-              "rdf_schema#comment",
-              "*michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013."
-            ],
-            [
-              "mick_fanning",
-              "*nascimento",
-              "*australia"
-            ]
-          ],
-          "score": 14.666667,
-          "detail": {
-            "keywords": [
-              "surfista",
-              "profissional",
-              "nascimento",
-              "australia"
-            ],
-            "score_detail": {
-              "m1": 13.0,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimento",
-                  "score": 2.0
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
-                  "score": 8.425216e-08
-                },
-                "profissional": {
-                  "keyword": {
-                    "termo": "profissional",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 11
-        },
-        {
-          "triples": [
-            [
-              "mick_fanning",
-              "*nascimento",
-              "*australia"
-            ],
-            [
-              "mick_fanning",
-              "abstract",
-              "*michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013."
-            ]
-          ],
-          "score": 14.666667,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "australia",
-              "surfista",
-              "profissional"
-            ],
-            "score_detail": {
-              "m1": 13.0,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimento",
-                  "score": 2.0
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
-                  "score": 8.425216e-08
-                },
-                "profissional": {
-                  "keyword": {
-                    "termo": "profissional",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 12
-        },
-        {
-          "triples": [
-            [
-              "mick_fanning",
-              "*nascimento",
-              "*australia"
-            ],
-            [
-              "mick_fanning",
-              "rdf_schema#comment",
-              "*michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013."
-            ]
-          ],
-          "score": 14.666667,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "australia",
-              "surfista",
-              "profissional"
-            ],
-            "score_detail": {
-              "m1": 13.0,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimento",
-                  "score": 2.0
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
-                  "score": 8.425216e-08
-                },
-                "profissional": {
-                  "keyword": {
-                    "termo": "profissional",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "michael eugene \\\"mick\\\" fanning (new south wales, 13 de junho de 1981), tambem conhecido como eugene, e um surfista profissional, tricampeao mundial do wct, tendo conquistados os titulos de 2007, 2009 e 2013.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 13
-        },
-        {
-          "triples": [
-            [
-              "bede_durbidge",
-              "wikipageusestemplate",
-              "*surfista"
-            ],
-            [
-              "bede_durbidge",
-              "*nascimento",
-              "*brisbane, australia"
-            ]
-          ],
-          "score": 13.995581,
-          "detail": {
-            "keywords": [
-              "surfista",
-              "nascimento",
-              "australia"
-            ],
-            "score_detail": {
-              "m1": 12.495581,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimento",
-                  "score": 2.0
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "brisbane, australia",
-                  "score": 8.495581
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "surfista",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 14
-        },
-        {
-          "triples": [
-            [
-              "bede_durbidge",
-              "*nascimento",
-              "*brisbane, australia"
-            ],
-            [
-              "bede_durbidge",
-              "wikipageusestemplate",
-              "*surfista"
-            ]
-          ],
-          "score": 13.995581,
-          "detail": {
-            "keywords": [
-              "nascimento",
-              "australia",
-              "surfista"
-            ],
-            "score_detail": {
-              "m1": 12.495581,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "nascimento": {
-                  "keyword": {
-                    "termo": "nascimento",
-                    "peso": 2.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "nascimento",
-                  "score": 2.0
-                },
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "brisbane, australia",
-                  "score": 8.495581
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "surfista",
-                  "score": 2.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 15
-        },
-        {
-          "triples": [
-            [
-              "*julian_wilson_(surfista)",
-              "abstract",
-              "*julian wilson (n. a 8 de novembro de 1988) e um surfista profissional australiano que compete na association of surfing professionals men's world tour. ele nasceu e cresceu em coolum beach, queensland.ele e um embaixador para a national breast cancer foundation.a mae de julian e sobrevivente da doenca do cancro, e ele se inspirou a usar uma prancha cor de rosa usada pelo amigo da familia e cricketer internacional matt hayden, que joga com um bastao cor de rosa pela mesma causa."
-            ],
-            [
-              "*julian_wilson_(surfista)",
-              "wikipagewikilink",
-              "*australia"
-            ]
-          ],
-          "score": 13.879909,
-          "detail": {
-            "keywords": [
-              "australia",
-              "surfista",
-              "profissional"
-            ],
-            "score_detail": {
-              "m1": 12.379909,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "julian_wilson_(surfista)",
-                  "score": 1.3799082
-                },
-                "profissional": {
-                  "keyword": {
-                    "termo": "profissional",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "julian wilson (n. a 8 de novembro de 1988) e um surfista profissional australiano que compete na association of surfing professionals men's world tour. ele nasceu e cresceu em coolum beach, queensland.ele e um embaixador para a national breast cancer foundation.a mae de julian e sobrevivente da doenca do cancro, e ele se inspirou a usar uma prancha cor de rosa usada pelo amigo da familia e cricketer internacional matt hayden, que joga com um bastao cor de rosa pela mesma causa.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 16
-        },
-        {
-          "triples": [
-            [
-              "*julian_wilson_(surfista)",
-              "rdf_schema#comment",
-              "*julian wilson (n. a 8 de novembro de 1988) e um surfista profissional australiano que compete na association of surfing professionals men's world tour. ele nasceu e cresceu em coolum beach, queensland.ele e um embaixador para a national breast cancer foundation.a mae de julian e sobrevivente da doenca do cancro, e ele se inspirou a usar uma prancha cor de rosa usada pelo amigo da familia e cricketer internacional matt hayden, que joga com um bastao cor de rosa pela mesma causa."
-            ],
-            [
-              "*julian_wilson_(surfista)",
-              "wikipagewikilink",
-              "*australia"
-            ]
-          ],
-          "score": 13.879909,
-          "detail": {
-            "keywords": [
-              "australia",
-              "surfista",
-              "profissional"
-            ],
-            "score_detail": {
-              "m1": 12.379909,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "julian_wilson_(surfista)",
-                  "score": 1.3799082
-                },
-                "profissional": {
-                  "keyword": {
-                    "termo": "profissional",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "julian wilson (n. a 8 de novembro de 1988) e um surfista profissional australiano que compete na association of surfing professionals men's world tour. ele nasceu e cresceu em coolum beach, queensland.ele e um embaixador para a national breast cancer foundation.a mae de julian e sobrevivente da doenca do cancro, e ele se inspirou a usar uma prancha cor de rosa usada pelo amigo da familia e cricketer internacional matt hayden, que joga com um bastao cor de rosa pela mesma causa.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 17
-        },
-        {
-          "triples": [
-            [
-              "*julian_wilson_(surfista)",
-              "wikipagewikilink",
-              "*australia"
-            ],
-            [
-              "*julian_wilson_(surfista)",
-              "abstract",
-              "*julian wilson (n. a 8 de novembro de 1988) e um surfista profissional australiano que compete na association of surfing professionals men's world tour. ele nasceu e cresceu em coolum beach, queensland.ele e um embaixador para a national breast cancer foundation.a mae de julian e sobrevivente da doenca do cancro, e ele se inspirou a usar uma prancha cor de rosa usada pelo amigo da familia e cricketer internacional matt hayden, que joga com um bastao cor de rosa pela mesma causa."
-            ]
-          ],
-          "score": 13.879909,
-          "detail": {
-            "keywords": [
-              "australia",
-              "surfista",
-              "profissional"
-            ],
-            "score_detail": {
-              "m1": 12.379909,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "julian_wilson_(surfista)",
-                  "score": 1.3799082
-                },
-                "profissional": {
-                  "keyword": {
-                    "termo": "profissional",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "julian wilson (n. a 8 de novembro de 1988) e um surfista profissional australiano que compete na association of surfing professionals men's world tour. ele nasceu e cresceu em coolum beach, queensland.ele e um embaixador para a national breast cancer foundation.a mae de julian e sobrevivente da doenca do cancro, e ele se inspirou a usar uma prancha cor de rosa usada pelo amigo da familia e cricketer internacional matt hayden, que joga com um bastao cor de rosa pela mesma causa.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 18
-        },
-        {
-          "triples": [
-            [
-              "*julian_wilson_(surfista)",
-              "wikipagewikilink",
-              "*australia"
-            ],
-            [
-              "*julian_wilson_(surfista)",
-              "rdf_schema#comment",
-              "*julian wilson (n. a 8 de novembro de 1988) e um surfista profissional australiano que compete na association of surfing professionals men's world tour. ele nasceu e cresceu em coolum beach, queensland.ele e um embaixador para a national breast cancer foundation.a mae de julian e sobrevivente da doenca do cancro, e ele se inspirou a usar uma prancha cor de rosa usada pelo amigo da familia e cricketer internacional matt hayden, que joga com um bastao cor de rosa pela mesma causa."
-            ]
-          ],
-          "score": 13.879909,
-          "detail": {
-            "keywords": [
-              "australia",
-              "surfista",
-              "profissional"
-            ],
-            "score_detail": {
-              "m1": 12.379909,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "australia": {
-                  "keyword": {
-                    "termo": "australia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "australia",
-                  "score": 10.0
-                },
-                "surfista": {
-                  "keyword": {
-                    "termo": "surfista",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "julian_wilson_(surfista)",
-                  "score": 1.3799082
-                },
-                "profissional": {
-                  "keyword": {
-                    "termo": "profissional",
-                    "peso": 1.0,
-                    "classe": "ADJ"
-                  },
-                  "resource": "julian wilson (n. a 8 de novembro de 1988) e um surfista profissional australiano que compete na association of surfing professionals men's world tour. ele nasceu e cresceu em coolum beach, queensland.ele e um embaixador para a national breast cancer foundation.a mae de julian e sobrevivente da doenca do cancro, e ele se inspirou a usar uma prancha cor de rosa usada pelo amigo da familia e cricketer internacional matt hayden, que joga com um bastao cor de rosa pela mesma causa.",
-                  "score": 1.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 19
         },
         {
           "triples": [
@@ -1740,7 +950,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 20
+          "id": 6
         },
         {
           "triples": [
@@ -1784,7 +994,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 21
+          "id": 7
         },
         {
           "triples": [
@@ -1828,7 +1038,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 22
+          "id": 8
         },
         {
           "triples": [
@@ -1872,7 +1082,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 23
+          "id": 9
         },
         {
           "triples": [
@@ -1916,7 +1126,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 24
+          "id": 10
         },
         {
           "triples": [
@@ -1960,7 +1170,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 25
+          "id": 11
         },
         {
           "triples": [
@@ -2004,7 +1214,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 26
+          "id": 12
         },
         {
           "triples": [
@@ -2053,7 +1263,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 27
+          "id": 13
         },
         {
           "triples": [
@@ -2102,7 +1312,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 28
+          "id": 14
         },
         {
           "triples": [
@@ -2151,16 +1361,706 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "22_rdf_syntax_ns#type",
+              "country"
+            ],
+            [
+              "mick_fanning",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "nomenativo",
+              "*commonwealth of australia"
+            ],
+            [
+              "raja_ram",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "nomenativo",
+              "*commonwealth of australia"
+            ],
+            [
+              "mick_fanning",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "hino",
+              "*advance australia fair noicon|center"
+            ],
+            [
+              "raja_ram",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "hino",
+              "*advance australia fair noicon|center"
+            ],
+            [
+              "mick_fanning",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "name",
+              "*commonwealth of australia"
+            ],
+            [
+              "raja_ram",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "name",
+              "*commonwealth of australia"
+            ],
+            [
+              "mick_fanning",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "motto",
+              "*(antigamente: advance australia)"
+            ],
+            [
+              "raja_ram",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "motto",
+              "*(antigamente: advance australia)"
+            ],
+            [
+              "mick_fanning",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "imagembandeira",
+              "*flag of australia .svg"
+            ],
+            [
+              "raja_ram",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "imagembandeira",
+              "*flag of australia .svg"
+            ],
+            [
+              "mick_fanning",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "mapa",
+              "*australia - location map  - aus - unocha.svg"
+            ],
+            [
+              "raja_ram",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "mapa",
+              "*australia - location map  - aus - unocha.svg"
+            ],
+            [
+              "mick_fanning",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "titulo",
+              "*artists & galleries of australia"
+            ],
+            [
+              "raja_ram",
+              "*nascimento",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 29
         }
       ],
-      "ranking_time": 6836428527,
+      "ranking_time": 5457992162,
       "l_sizes": [
-        7797,
-        797614
+        7387,
+        7387
       ],
-      "ranking_time_only": 2619354181,
-      "total_time": 15538739872,
+      "a_sizes": [
+        7387,
+        635602
+      ],
+      "ranking_time_only": 2142327176,
+      "total_time": 13196431929,
       "timeout": false
     }
   }

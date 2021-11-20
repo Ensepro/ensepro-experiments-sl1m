@@ -221,14 +221,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "spouse",
-                "sinonimo": "esposa",
+                "synset": "wife",
+                "sinonimo": "mulher",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "spouse",
-                "sinonimo": "esposo",
+                "sinonimo": "homem",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -240,7 +240,7 @@
               },
               {
                 "synset": "spouse",
-                "sinonimo": "colega",
+                "sinonimo": "cônjuge",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -252,7 +252,19 @@
               },
               {
                 "synset": "spouse",
-                "sinonimo": "homem",
+                "sinonimo": "colega",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "esposa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "esposo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -261,33 +273,9 @@
                 "sinonimo": "cónjuge",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "spouse",
-                "sinonimo": "cônjuge",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "wife",
-                "sinonimo": "mulher",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ],
             "eng": [
-              {
-                "synset": "spouse",
-                "sinonimo": "better_half",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "wife",
-                "sinonimo": "married_woman",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "spouse",
                 "sinonimo": "spouse",
@@ -296,7 +284,7 @@
               },
               {
                 "synset": "spouse",
-                "sinonimo": "partner",
+                "sinonimo": "married_person",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -308,13 +296,25 @@
               },
               {
                 "synset": "spouse",
-                "sinonimo": "married_person",
+                "sinonimo": "partner",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "wife",
                 "sinonimo": "wife",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "married_woman",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "better_half",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -404,15 +404,9 @@
             "por": [
               {
                 "synset": "call",
-                "sinonimo": "telefonar",
+                "sinonimo": "chamar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "name",
-                "sinonimo": "denominar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "24"
               },
               {
                 "synset": "name",
@@ -421,14 +415,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "chamar",
+                "synset": "name",
+                "sinonimo": "denominar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "call",
                 "sinonimo": "ligar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "call",
+                "sinonimo": "telefonar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
@@ -441,28 +441,22 @@
             ],
             "eng": [
               {
-                "synset": "designate",
-                "sinonimo": "designate",
+                "synset": "call",
+                "sinonimo": "call",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "stigmatize",
+                "sinonimo": "mark",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "call",
-                "sinonimo": "call",
+                "sinonimo": "send_for",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "24"
-              },
-              {
-                "synset": "stigmatize",
-                "sinonimo": "stigmatize",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "name",
-                "sinonimo": "name",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "stigmatize",
@@ -471,28 +465,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "designate",
-                "sinonimo": "denominate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "call",
-                "sinonimo": "call_up",
+                "sinonimo": "telephone",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
-              },
-              {
-                "synset": "stigmatize",
-                "sinonimo": "stigmatise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "stigmatize",
-                "sinonimo": "brand",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
               },
               {
                 "synset": "call",
@@ -507,20 +483,44 @@
                 "distancia_semantica": "03"
               },
               {
+                "synset": "stigmatize",
+                "sinonimo": "stigmatize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "designate",
+                "sinonimo": "denominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stigmatize",
+                "sinonimo": "stigmatise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "call",
-                "sinonimo": "telephone",
+                "sinonimo": "call_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "call",
-                "sinonimo": "send_for",
+                "synset": "name",
+                "sinonimo": "name",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "stigmatize",
-                "sinonimo": "mark",
+                "sinonimo": "brand",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "designate",
+                "sinonimo": "designate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -590,14 +590,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "spouse",
-                "sinonimo": "esposa",
+                "synset": "wife",
+                "sinonimo": "mulher",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "spouse",
-                "sinonimo": "esposo",
+                "sinonimo": "homem",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -609,7 +609,7 @@
               },
               {
                 "synset": "spouse",
-                "sinonimo": "colega",
+                "sinonimo": "cônjuge",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -621,7 +621,19 @@
               },
               {
                 "synset": "spouse",
-                "sinonimo": "homem",
+                "sinonimo": "colega",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "esposa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "esposo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -630,33 +642,9 @@
                 "sinonimo": "cónjuge",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "spouse",
-                "sinonimo": "cônjuge",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "wife",
-                "sinonimo": "mulher",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ],
             "eng": [
-              {
-                "synset": "spouse",
-                "sinonimo": "better_half",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "wife",
-                "sinonimo": "married_woman",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "spouse",
                 "sinonimo": "spouse",
@@ -665,7 +653,7 @@
               },
               {
                 "synset": "spouse",
-                "sinonimo": "partner",
+                "sinonimo": "married_person",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -677,13 +665,25 @@
               },
               {
                 "synset": "spouse",
-                "sinonimo": "married_person",
+                "sinonimo": "partner",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "wife",
                 "sinonimo": "wife",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "married_woman",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "better_half",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -729,15 +729,9 @@
             "por": [
               {
                 "synset": "call",
-                "sinonimo": "telefonar",
+                "sinonimo": "chamar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "name",
-                "sinonimo": "denominar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "24"
               },
               {
                 "synset": "name",
@@ -746,14 +740,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "chamar",
+                "synset": "name",
+                "sinonimo": "denominar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "call",
                 "sinonimo": "ligar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "call",
+                "sinonimo": "telefonar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
@@ -766,28 +766,22 @@
             ],
             "eng": [
               {
-                "synset": "designate",
-                "sinonimo": "designate",
+                "synset": "call",
+                "sinonimo": "call",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "stigmatize",
+                "sinonimo": "mark",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "call",
-                "sinonimo": "call",
+                "sinonimo": "send_for",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "24"
-              },
-              {
-                "synset": "stigmatize",
-                "sinonimo": "stigmatize",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "name",
-                "sinonimo": "name",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "stigmatize",
@@ -796,28 +790,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "designate",
-                "sinonimo": "denominate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "call",
-                "sinonimo": "call_up",
+                "sinonimo": "telephone",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
-              },
-              {
-                "synset": "stigmatize",
-                "sinonimo": "stigmatise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "stigmatize",
-                "sinonimo": "brand",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
               },
               {
                 "synset": "call",
@@ -832,20 +808,44 @@
                 "distancia_semantica": "03"
               },
               {
+                "synset": "stigmatize",
+                "sinonimo": "stigmatize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "designate",
+                "sinonimo": "denominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stigmatize",
+                "sinonimo": "stigmatise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "call",
-                "sinonimo": "telephone",
+                "sinonimo": "call_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "call",
-                "sinonimo": "send_for",
+                "synset": "name",
+                "sinonimo": "name",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "stigmatize",
-                "sinonimo": "mark",
+                "sinonimo": "brand",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "designate",
+                "sinonimo": "designate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -887,14 +887,14 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "spouse",
-                  "sinonimo": "esposa",
+                  "synset": "wife",
+                  "sinonimo": "mulher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
                   "synset": "spouse",
-                  "sinonimo": "esposo",
+                  "sinonimo": "homem",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -906,7 +906,7 @@
                 },
                 {
                   "synset": "spouse",
-                  "sinonimo": "colega",
+                  "sinonimo": "cônjuge",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -918,7 +918,19 @@
                 },
                 {
                   "synset": "spouse",
-                  "sinonimo": "homem",
+                  "sinonimo": "colega",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "wife",
+                  "sinonimo": "esposa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "esposo",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -927,33 +939,9 @@
                   "sinonimo": "cónjuge",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "spouse",
-                  "sinonimo": "cônjuge",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "wife",
-                  "sinonimo": "mulher",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
                 }
               ],
               "eng": [
-                {
-                  "synset": "spouse",
-                  "sinonimo": "better_half",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "wife",
-                  "sinonimo": "married_woman",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
                 {
                   "synset": "spouse",
                   "sinonimo": "spouse",
@@ -962,7 +950,7 @@
                 },
                 {
                   "synset": "spouse",
-                  "sinonimo": "partner",
+                  "sinonimo": "married_person",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -974,13 +962,25 @@
                 },
                 {
                   "synset": "spouse",
-                  "sinonimo": "married_person",
+                  "sinonimo": "partner",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
                   "synset": "wife",
                   "sinonimo": "wife",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "wife",
+                  "sinonimo": "married_woman",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "better_half",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -1011,221 +1011,35 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [
-        {
-          "triples": [
-            [
-              "*mary",
-              "language",
-              "pt"
-            ],
-            [
-              "*presidente_lincoln",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "mary": "-1",
-              "presidente_lincoln": "-70",
-              "chamar": 162
-            },
-            "best_bind": {
-              "score": 0.4514925,
-              "resource_id": 162,
-              "tr": "chamar"
-            }
-          }
-        }
-      ],
+      "correct_answer": [],
       "all_answers": [
         {
           "triples": [
             [
-              "*mary",
-              "language",
-              "pt"
-            ],
-            [
-              "*presidente_lincoln",
-              "language",
-              "pt"
+              "brendan_gleeson",
+              "*conjuge",
+              "*mary"
             ]
           ],
-          "score": 21.333334,
+          "score": 12.166667,
           "detail": {
             "keywords": [
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "mary": "-1",
-              "presidente_lincoln": "-70",
-              "chamar": 162
-            },
-            "best_bind": {
-              "score": 0.4514925,
-              "resource_id": 162,
-              "tr": "chamar"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*mary",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*presidente_lincoln",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 1,
-          "bind_control": {
-            "binds": {
-              "mary": "-1",
-              "presidente_lincoln": "-70"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*presidente_lincoln",
-              "language",
-              "pt"
-            ],
-            [
-              "*mary",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "presidente_lincoln",
+              "esposa",
               "mary"
             ],
             "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 0.5,
               "matches": {
-                "presidente_lincoln": {
+                "esposa": {
                   "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
+                    "termo": "conjuge",
+                    "peso": 1.0,
+                    "classe": "SUB"
                   },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
+                  "resource": "conjuge",
+                  "score": 1.0
                 },
                 "mary": {
                   "keyword": {
@@ -1239,1044 +1053,115 @@
               }
             },
             "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "zuenir_ventura",
+              "*conjuge",
+              "*mary"
+            ]
+          ],
+          "score": 12.166667,
+          "detail": {
+            "keywords": [
+              "esposa",
+              "mary"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "esposa": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "conjuge",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "robert_jenkinson,_2.o_conde_de_liverpool",
+              "*conjuge",
+              "*mary"
+            ]
+          ],
+          "score": 12.166667,
+          "detail": {
+            "keywords": [
+              "esposa",
+              "mary"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "esposa": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "conjuge",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
           },
           "id": 2
         },
         {
           "triples": [
             [
-              "*presidente_lincoln",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*mary",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 21.333334,
-          "detail": {
-            "keywords": [
-              "presidente_lincoln",
-              "mary"
-            ],
-            "score_detail": {
-              "m1": 20.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 3
-        },
-        {
-          "triples": [
-            [
-              "*presidente_lincoln",
-              "wikipageredirects",
-              "abraham_lincoln"
-            ],
-            [
-              "abraham_lincoln",
-              "*conjuge",
-              "*mary todd"
-            ]
-          ],
-          "score": 21.175829,
-          "detail": {
-            "keywords": [
-              "presidente_lincoln",
-              "esposa",
-              "mary"
-            ],
-            "score_detail": {
-              "m1": 19.675829,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "conjuge",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "conjuge",
-                  "score": 1.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary todd",
-                  "score": 8.675829
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 4
-        },
-        {
-          "triples": [
-            [
-              "*presidente_lincoln",
-              "wikipagewikilink",
-              "abraham_lincoln"
-            ],
-            [
-              "abraham_lincoln",
-              "*conjuge",
-              "*mary todd"
-            ]
-          ],
-          "score": 21.175829,
-          "detail": {
-            "keywords": [
-              "presidente_lincoln",
-              "esposa",
-              "mary"
-            ],
-            "score_detail": {
-              "m1": 19.675829,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "conjuge",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "conjuge",
-                  "score": 1.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary todd",
-                  "score": 8.675829
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 5
-        },
-        {
-          "triples": [
-            [
-              "abraham_lincoln",
-              "*conjuge",
-              "*mary todd"
-            ],
-            [
-              "*presidente_lincoln",
-              "wikipageredirects",
-              "abraham_lincoln"
-            ]
-          ],
-          "score": 21.175829,
-          "detail": {
-            "keywords": [
-              "esposa",
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 19.675829,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "conjuge",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "conjuge",
-                  "score": 1.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary todd",
-                  "score": 8.675829
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 6
-        },
-        {
-          "triples": [
-            [
-              "abraham_lincoln",
-              "*conjuge",
-              "*mary todd"
-            ],
-            [
-              "*presidente_lincoln",
-              "wikipagewikilink",
-              "abraham_lincoln"
-            ]
-          ],
-          "score": 21.175829,
-          "detail": {
-            "keywords": [
-              "esposa",
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 19.675829,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "conjuge",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "conjuge",
-                  "score": 1.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary todd",
-                  "score": 8.675829
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 7
-        },
-        {
-          "triples": [
-            [
-              "*presidente_lincoln",
-              "wikipageredirects",
-              "abraham_lincoln"
-            ],
-            [
-              "abraham_lincoln",
-              "*spouse",
-              "*mary_todd_lincoln"
-            ]
-          ],
-          "score": 18.699366,
-          "detail": {
-            "keywords": [
-              "presidente_lincoln",
-              "esposa",
-              "mary"
-            ],
-            "score_detail": {
-              "m1": 17.199366,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "spouse",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "spouse",
-                  "score": 1.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary_todd_lincoln",
-                  "score": 6.199366
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "*presidente_lincoln",
-              "wikipagewikilink",
-              "abraham_lincoln"
-            ],
-            [
-              "abraham_lincoln",
-              "*spouse",
-              "*mary_todd_lincoln"
-            ]
-          ],
-          "score": 18.699366,
-          "detail": {
-            "keywords": [
-              "presidente_lincoln",
-              "esposa",
-              "mary"
-            ],
-            "score_detail": {
-              "m1": 17.199366,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "spouse",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "spouse",
-                  "score": 1.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary_todd_lincoln",
-                  "score": 6.199366
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "abraham_lincoln",
-              "*spouse",
-              "*mary_todd_lincoln"
-            ],
-            [
-              "*presidente_lincoln",
-              "wikipageredirects",
-              "abraham_lincoln"
-            ]
-          ],
-          "score": 18.699366,
-          "detail": {
-            "keywords": [
-              "esposa",
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 17.199366,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "spouse",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "spouse",
-                  "score": 1.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary_todd_lincoln",
-                  "score": 6.199366
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 10
-        },
-        {
-          "triples": [
-            [
-              "abraham_lincoln",
-              "*spouse",
-              "*mary_todd_lincoln"
-            ],
-            [
-              "*presidente_lincoln",
-              "wikipagewikilink",
-              "abraham_lincoln"
-            ]
-          ],
-          "score": 18.699366,
-          "detail": {
-            "keywords": [
-              "esposa",
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 17.199366,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "spouse",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "spouse",
-                  "score": 1.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary_todd_lincoln",
-                  "score": 6.199366
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 11
-        },
-        {
-          "triples": [
-            [
-              "*presidente_lincoln",
-              "language",
-              "pt"
-            ],
-            [
-              "*mary,_queen_of_scots",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 16.599974,
-          "detail": {
-            "keywords": [
-              "presidente_lincoln",
-              "mary"
-            ],
-            "score_detail": {
-              "m1": 15.266641,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary,_queen_of_scots",
-                  "score": 5.2666407
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 12
-        },
-        {
-          "triples": [
-            [
-              "*presidente_lincoln",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*mary,_queen_of_scots",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 16.599974,
-          "detail": {
-            "keywords": [
-              "presidente_lincoln",
-              "mary"
-            ],
-            "score_detail": {
-              "m1": 15.266641,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary,_queen_of_scots",
-                  "score": 5.2666407
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 13
-        },
-        {
-          "triples": [
-            [
-              "*mary,_queen_of_scots",
-              "language",
-              "pt"
-            ],
-            [
-              "*presidente_lincoln",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 16.599974,
-          "detail": {
-            "keywords": [
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 15.266641,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary,_queen_of_scots",
-                  "score": 5.2666407
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 14
-        },
-        {
-          "triples": [
-            [
-              "*mary,_queen_of_scots",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*presidente_lincoln",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 16.599974,
-          "detail": {
-            "keywords": [
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 15.266641,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary,_queen_of_scots",
-                  "score": 5.2666407
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 15
-        },
-        {
-          "triples": [
-            [
-              "*presidente_lincoln",
-              "wikipageoutdegree",
-              "1"
-            ],
-            [
-              "*mary,_princesa_herdeira_da_dinamarca",
-              "wikipageoutdegree",
-              "1"
-            ]
-          ],
-          "score": 12.992135,
-          "detail": {
-            "keywords": [
-              "presidente_lincoln",
-              "mary"
-            ],
-            "score_detail": {
-              "m1": 11.658802,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary,_princesa_herdeira_da_dinamarca",
-                  "score": 1.6588018
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 16
-        },
-        {
-          "triples": [
-            [
-              "*mary,_princesa_herdeira_da_dinamarca",
-              "wikipageoutdegree",
-              "1"
-            ],
-            [
-              "*presidente_lincoln",
-              "wikipageoutdegree",
-              "1"
-            ]
-          ],
-          "score": 12.992135,
-          "detail": {
-            "keywords": [
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 11.658802,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary,_princesa_herdeira_da_dinamarca",
-                  "score": 1.6588018
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 17
-        },
-        {
-          "triples": [
-            [
-              "*presidente_lincoln",
-              "language",
-              "pt"
-            ],
-            [
-              "*mary,_princesa_herdeira_da_dinamarca",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 12.992135,
-          "detail": {
-            "keywords": [
-              "presidente_lincoln",
-              "mary"
-            ],
-            "score_detail": {
-              "m1": 11.658802,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary,_princesa_herdeira_da_dinamarca",
-                  "score": 1.6588018
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 18
-        },
-        {
-          "triples": [
-            [
-              "*presidente_lincoln",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*mary,_princesa_herdeira_da_dinamarca",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 12.992135,
-          "detail": {
-            "keywords": [
-              "presidente_lincoln",
-              "mary"
-            ],
-            "score_detail": {
-              "m1": 11.658802,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary,_princesa_herdeira_da_dinamarca",
-                  "score": 1.6588018
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 19
-        },
-        {
-          "triples": [
-            [
-              "*mary,_princesa_herdeira_da_dinamarca",
-              "language",
-              "pt"
-            ],
-            [
-              "*presidente_lincoln",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 12.992135,
-          "detail": {
-            "keywords": [
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 11.658802,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary,_princesa_herdeira_da_dinamarca",
-                  "score": 1.6588018
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 20
-        },
-        {
-          "triples": [
-            [
-              "*mary,_princesa_herdeira_da_dinamarca",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*presidente_lincoln",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 12.992135,
-          "detail": {
-            "keywords": [
-              "mary",
-              "presidente_lincoln"
-            ],
-            "score_detail": {
-              "m1": 11.658802,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "presidente_lincoln": {
-                  "keyword": {
-                    "termo": "presidente_lincoln",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "presidente_lincoln",
-                  "score": 10.0
-                },
-                "mary": {
-                  "keyword": {
-                    "termo": "mary",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "mary,_princesa_herdeira_da_dinamarca",
-                  "score": 1.6588018
-                }
-              }
-            },
-            "proper_nouns_count": 2,
-            "proper_nouns_matched_count": 2
-          },
-          "id": 21
-        },
-        {
-          "triples": [
-            [
-              "maria_de_teck",
-              "*givenname",
+              "*mary_somerset,_duquesa_de_beaufort",
+              "*name",
               "*mary"
-            ],
-            [
-              "jorge_v_do_reino_unido",
-              "*spouse",
-              "maria_de_teck"
             ]
           ],
-          "score": 12.867583,
+          "score": 12.166667,
           "detail": {
             "keywords": [
               "chamar",
-              "mary",
-              "esposa"
+              "mary"
             ],
             "score_detail": {
-              "m1": 11.867583,
-              "m2": 0.5,
+              "m1": 11.0,
+              "m2": 0.6666667,
               "m3": 0.5,
               "matches": {
                 "chamar": {
@@ -2285,16 +1170,903 @@
                     "peso": 1.0,
                     "classe": "VERB"
                   },
-                  "resource": "givenname",
-                  "score": 0.8675829
+                  "resource": "name",
+                  "score": 1.0
                 },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*mary_(provincia)",
+              "*name",
+              "*mary"
+            ]
+          ],
+          "score": 12.166667,
+          "detail": {
+            "keywords": [
+              "chamar",
+              "mary"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "chamar": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*mary_(album)",
+              "*name",
+              "*mary"
+            ]
+          ],
+          "score": 12.166667,
+          "detail": {
+            "keywords": [
+              "chamar",
+              "mary"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "chamar": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*mary_(turcomenistao)",
+              "*name",
+              "*mary"
+            ]
+          ],
+          "score": 12.166667,
+          "detail": {
+            "keywords": [
+              "chamar",
+              "mary"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "chamar": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "austin_strong",
+              "*conjuge",
+              "*mary"
+            ]
+          ],
+          "score": 12.166667,
+          "detail": {
+            "keywords": [
+              "esposa",
+              "mary"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
                 "esposa": {
                   "keyword": {
-                    "termo": "spouse",
+                    "termo": "conjuge",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "spouse",
+                  "resource": "conjuge",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*mary_(saone_et_loire)",
+              "*name",
+              "*mary"
+            ]
+          ],
+          "score": 12.166667,
+          "detail": {
+            "keywords": [
+              "chamar",
+              "mary"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "chamar": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*2779_mary",
+              "*name",
+              "*mary"
+            ]
+          ],
+          "score": 12.166667,
+          "detail": {
+            "keywords": [
+              "chamar",
+              "mary"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "chamar": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*homem_de_gelo",
+              "parentes",
+              "*mary"
+            ]
+          ],
+          "score": 11.980523,
+          "detail": {
+            "keywords": [
+              "esposa",
+              "mary"
+            ],
+            "score_detail": {
+              "m1": 10.813856,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "esposa": {
+                  "keyword": {
+                    "termo": "homem",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "homem_de_gelo",
+                  "score": 0.81385654
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "brendan_gleeson",
+              "*conjuge",
+              "*mary"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "esposa"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "esposa": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "conjuge",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "zuenir_ventura",
+              "*conjuge",
+              "*mary"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "esposa"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "esposa": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "conjuge",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "robert_jenkinson,_2.o_conde_de_liverpool",
+              "*conjuge",
+              "*mary"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "esposa"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "esposa": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "conjuge",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*mary_somerset,_duquesa_de_beaufort",
+              "*name",
+              "*mary"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "chamar"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "chamar": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*mary_(provincia)",
+              "*name",
+              "*mary"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "chamar"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "chamar": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*mary_(album)",
+              "*name",
+              "*mary"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "chamar"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "chamar": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*mary_(turcomenistao)",
+              "*name",
+              "*mary"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "chamar"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "chamar": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "austin_strong",
+              "*conjuge",
+              "*mary"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "esposa"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "esposa": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "conjuge",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*mary_(saone_et_loire)",
+              "*name",
+              "*mary"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "chamar"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "chamar": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*2779_mary",
+              "*name",
+              "*mary"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "chamar"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "chamar": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*colega",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "esposa"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "esposa": {
+                  "keyword": {
+                    "termo": "colega",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "colega",
+                  "score": 1.0
+                },
+                "mary": {
+                  "keyword": {
+                    "termo": "mary",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mary",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*mary",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*consorte",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "mary",
+              "esposa"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "esposa": {
+                  "keyword": {
+                    "termo": "consorte",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "consorte",
                   "score": 1.0
                 },
                 "mary": {
@@ -2316,44 +2088,34 @@
         {
           "triples": [
             [
-              "maria_de_teck",
-              "*givenname",
-              "*mary"
+              "*mary",
+              "wikipageusestemplate",
+              "nome"
             ],
             [
-              "maria_de_teck",
-              "*spouse",
-              "jorge_v_do_reino_unido"
+              "brendan_gleeson",
+              "*conjuge",
+              "*mary"
             ]
           ],
-          "score": 12.867583,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "chamar",
               "mary",
               "esposa"
             ],
             "score_detail": {
-              "m1": 11.867583,
-              "m2": 0.5,
+              "m1": 11.0,
+              "m2": 0.33333334,
               "m3": 0.5,
               "matches": {
-                "chamar": {
-                  "keyword": {
-                    "termo": "name",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "givenname",
-                  "score": 0.8675829
-                },
                 "esposa": {
                   "keyword": {
-                    "termo": "spouse",
+                    "termo": "conjuge",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "spouse",
+                  "resource": "conjuge",
                   "score": 1.0
                 },
                 "mary": {
@@ -2375,44 +2137,34 @@
         {
           "triples": [
             [
-              "maria_i_de_inglaterra",
-              "*givenname",
-              "*mary"
+              "*mary",
+              "wikipageusestemplate",
+              "nome"
             ],
             [
-              "maria_i_de_inglaterra",
-              "*spouse",
-              "filipe_ii_de_espanha"
+              "zuenir_ventura",
+              "*conjuge",
+              "*mary"
             ]
           ],
-          "score": 12.867583,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "chamar",
               "mary",
               "esposa"
             ],
             "score_detail": {
-              "m1": 11.867583,
-              "m2": 0.5,
+              "m1": 11.0,
+              "m2": 0.33333334,
               "m3": 0.5,
               "matches": {
-                "chamar": {
-                  "keyword": {
-                    "termo": "name",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "givenname",
-                  "score": 0.8675829
-                },
                 "esposa": {
                   "keyword": {
-                    "termo": "spouse",
+                    "termo": "conjuge",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "spouse",
+                  "resource": "conjuge",
                   "score": 1.0
                 },
                 "mary": {
@@ -2434,44 +2186,34 @@
         {
           "triples": [
             [
-              "*mary_shelley",
-              "*givenname",
-              "*mary"
+              "*mary",
+              "wikipageusestemplate",
+              "nome"
             ],
             [
-              "*mary_shelley",
-              "*spouse",
-              "percy_bysshe_shelley"
+              "robert_jenkinson,_2.o_conde_de_liverpool",
+              "*conjuge",
+              "*mary"
             ]
           ],
-          "score": 12.867583,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "chamar",
               "mary",
               "esposa"
             ],
             "score_detail": {
-              "m1": 11.867583,
-              "m2": 0.5,
+              "m1": 11.0,
+              "m2": 0.33333334,
               "m3": 0.5,
               "matches": {
-                "chamar": {
-                  "keyword": {
-                    "termo": "name",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "givenname",
-                  "score": 0.8675829
-                },
                 "esposa": {
                   "keyword": {
-                    "termo": "spouse",
+                    "termo": "conjuge",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "spouse",
+                  "resource": "conjuge",
                   "score": 1.0
                 },
                 "mary": {
@@ -2493,26 +2235,25 @@
         {
           "triples": [
             [
-              "maria_de_gueldres",
-              "*givenname",
-              "*mary"
+              "*mary",
+              "wikipageusestemplate",
+              "nome"
             ],
             [
-              "maria_de_gueldres",
-              "*spouse",
-              "jaime_ii_da_escocia"
+              "*mary_somerset,_duquesa_de_beaufort",
+              "*name",
+              "*mary"
             ]
           ],
-          "score": 12.867583,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "chamar",
               "mary",
-              "esposa"
+              "chamar"
             ],
             "score_detail": {
-              "m1": 11.867583,
-              "m2": 0.5,
+              "m1": 11.0,
+              "m2": 0.33333334,
               "m3": 0.5,
               "matches": {
                 "chamar": {
@@ -2521,16 +2262,7 @@
                     "peso": 1.0,
                     "classe": "VERB"
                   },
-                  "resource": "givenname",
-                  "score": 0.8675829
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "spouse",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "spouse",
+                  "resource": "name",
                   "score": 1.0
                 },
                 "mary": {
@@ -2552,26 +2284,25 @@
         {
           "triples": [
             [
-              "*mary_anne_disraeli",
-              "*givenname",
-              "*mary"
+              "*mary",
+              "wikipageusestemplate",
+              "nome"
             ],
             [
-              "benjamin_disraeli",
-              "*spouse",
-              "*mary_anne_disraeli"
+              "*mary_(provincia)",
+              "*name",
+              "*mary"
             ]
           ],
-          "score": 12.867583,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "chamar",
               "mary",
-              "esposa"
+              "chamar"
             ],
             "score_detail": {
-              "m1": 11.867583,
-              "m2": 0.5,
+              "m1": 11.0,
+              "m2": 0.33333334,
               "m3": 0.5,
               "matches": {
                 "chamar": {
@@ -2580,16 +2311,7 @@
                     "peso": 1.0,
                     "classe": "VERB"
                   },
-                  "resource": "givenname",
-                  "score": 0.8675829
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "spouse",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "spouse",
+                  "resource": "name",
                   "score": 1.0
                 },
                 "mary": {
@@ -2611,26 +2333,25 @@
         {
           "triples": [
             [
-              "*mary_donaldson,_baronesa_donaldson_de_lymington",
-              "*givenname",
-              "*mary"
+              "*mary",
+              "wikipageusestemplate",
+              "nome"
             ],
             [
-              "*mary_donaldson,_baronesa_donaldson_de_lymington",
-              "*tipoconjuge",
-              "*marido"
+              "*mary_(album)",
+              "*name",
+              "*mary"
             ]
           ],
-          "score": 12.867583,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "chamar",
               "mary",
-              "esposa"
+              "chamar"
             ],
             "score_detail": {
-              "m1": 11.867583,
-              "m2": 0.5,
+              "m1": 11.0,
+              "m2": 0.33333334,
               "m3": 0.5,
               "matches": {
                 "chamar": {
@@ -2639,16 +2360,7 @@
                     "peso": 1.0,
                     "classe": "VERB"
                   },
-                  "resource": "givenname",
-                  "score": 0.8675829
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "marido",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "marido",
+                  "resource": "name",
                   "score": 1.0
                 },
                 "mary": {
@@ -2670,26 +2382,25 @@
         {
           "triples": [
             [
-              "*mary_anderson",
-              "*givenname",
-              "*mary"
+              "*mary",
+              "wikipageusestemplate",
+              "nome"
             ],
             [
-              "*mary_anderson",
-              "*partner",
-              "leon_shamroy"
+              "*mary_(turcomenistao)",
+              "*name",
+              "*mary"
             ]
           ],
-          "score": 12.867583,
+          "score": 11.833333,
           "detail": {
             "keywords": [
-              "chamar",
               "mary",
-              "esposa"
+              "chamar"
             ],
             "score_detail": {
-              "m1": 11.867583,
-              "m2": 0.5,
+              "m1": 11.0,
+              "m2": 0.33333334,
               "m3": 0.5,
               "matches": {
                 "chamar": {
@@ -2698,16 +2409,7 @@
                     "peso": 1.0,
                     "classe": "VERB"
                   },
-                  "resource": "givenname",
-                  "score": 0.8675829
-                },
-                "esposa": {
-                  "keyword": {
-                    "termo": "partner",
-                    "peso": 1.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "partner",
+                  "resource": "name",
                   "score": 1.0
                 },
                 "mary": {
@@ -2727,13 +2429,17 @@
           "id": 29
         }
       ],
-      "ranking_time": 72002979477,
+      "ranking_time": 40872088350,
       "l_sizes": [
-        39624,
-        998736
+        39185,
+        39185
       ],
-      "ranking_time_only": 35995112984,
-      "total_time": 88811347976,
+      "a_sizes": [
+        39185,
+        588582
+      ],
+      "ranking_time_only": 14158643736,
+      "total_time": 54506926385,
       "timeout": false
     }
   }

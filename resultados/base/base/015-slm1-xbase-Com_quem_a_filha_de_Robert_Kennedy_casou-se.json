@@ -200,7 +200,13 @@
             "por": [
               {
                 "synset": "marry",
-                "sinonimo": "casarem-se",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "juntar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -212,7 +218,7 @@
               },
               {
                 "synset": "marry",
-                "sinonimo": "juntar",
+                "sinonimo": "casarem-se",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -221,15 +227,21 @@
                 "sinonimo": "acoplar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
-              },
-              {
-                "synset": "match",
-                "sinonimo": "casar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
               }
             ],
             "eng": [
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "match",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
               {
                 "synset": "marry",
                 "sinonimo": "conjoin",
@@ -237,10 +249,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "marry",
-                "sinonimo": "hook_up_with",
+                "synset": "match",
+                "sinonimo": "pair",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "marry",
@@ -255,26 +273,26 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "marry",
-                "sinonimo": "marry",
+                "synset": "match",
+                "sinonimo": "couple",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "marry",
-                "sinonimo": "tie",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "get_married",
+                "sinonimo": "hook_up_with",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "marry",
                 "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_married",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -295,24 +313,6 @@
                 "sinonimo": "get_hitched_with",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "match",
-                "sinonimo": "couple",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "match",
-                "sinonimo": "pair",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "match",
-                "sinonimo": "match",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
               }
             ]
           }
@@ -355,36 +355,30 @@
             "por": [
               {
                 "synset": "daughter",
-                "sinonimo": "filha",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "child",
-                "sinonimo": "filho",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "child",
                 "sinonimo": "criança",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "child",
                 "sinonimo": "menino",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "daughter",
+                "sinonimo": "filho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "filha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "child",
-                "sinonimo": "child",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
               {
                 "synset": "child",
                 "sinonimo": "kid",
@@ -393,15 +387,21 @@
               },
               {
                 "synset": "daughter",
-                "sinonimo": "girl",
+                "sinonimo": "daughter",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "daughter",
-                "sinonimo": "daughter",
+                "sinonimo": "girl",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "child",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -447,7 +447,13 @@
             "por": [
               {
                 "synset": "marry",
-                "sinonimo": "casarem-se",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "juntar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -459,7 +465,7 @@
               },
               {
                 "synset": "marry",
-                "sinonimo": "juntar",
+                "sinonimo": "casarem-se",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -468,15 +474,21 @@
                 "sinonimo": "acoplar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
-              },
-              {
-                "synset": "match",
-                "sinonimo": "casar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
               }
             ],
             "eng": [
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "match",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
               {
                 "synset": "marry",
                 "sinonimo": "conjoin",
@@ -484,10 +496,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "marry",
-                "sinonimo": "hook_up_with",
+                "synset": "match",
+                "sinonimo": "pair",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "marry",
@@ -502,26 +520,26 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "marry",
-                "sinonimo": "marry",
+                "synset": "match",
+                "sinonimo": "couple",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "marry",
-                "sinonimo": "tie",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "get_married",
+                "sinonimo": "hook_up_with",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "marry",
                 "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_married",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -542,24 +560,6 @@
                 "sinonimo": "get_hitched_with",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "match",
-                "sinonimo": "couple",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "match",
-                "sinonimo": "pair",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "match",
-                "sinonimo": "match",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
               }
             ]
           }
@@ -579,36 +579,30 @@
             "por": [
               {
                 "synset": "daughter",
-                "sinonimo": "filha",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "child",
-                "sinonimo": "filho",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "child",
                 "sinonimo": "criança",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "child",
                 "sinonimo": "menino",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "daughter",
+                "sinonimo": "filho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "filha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "child",
-                "sinonimo": "child",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
               {
                 "synset": "child",
                 "sinonimo": "kid",
@@ -617,15 +611,21 @@
               },
               {
                 "synset": "daughter",
-                "sinonimo": "girl",
+                "sinonimo": "daughter",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "daughter",
-                "sinonimo": "daughter",
+                "sinonimo": "girl",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "child",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -638,7 +638,7 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [],
-      "total_time": 8044966279,
+      "total_time": 7540695295,
       "timeout": false
     }
   }

@@ -253,14 +253,14 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "crossbreed",
-                "sinonimo": "hibridizar",
+                "synset": "cruise",
+                "sinonimo": "cruzar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "crossbreed",
-                "sinonimo": "cruzar",
+                "sinonimo": "hibridizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -269,12 +269,6 @@
               {
                 "synset": "crossbreed",
                 "sinonimo": "crossbreed",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "crossbreed",
-                "sinonimo": "hybridize",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -291,16 +285,22 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "cruise",
-                "sinonimo": "cruise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "crossbreed",
                 "sinonimo": "hybridise",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "crossbreed",
+                "sinonimo": "hybridize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cruise",
+                "sinonimo": "cruise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -397,14 +397,14 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "crossbreed",
-                "sinonimo": "hibridizar",
+                "synset": "cruise",
+                "sinonimo": "cruzar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "crossbreed",
-                "sinonimo": "cruzar",
+                "sinonimo": "hibridizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -413,12 +413,6 @@
               {
                 "synset": "crossbreed",
                 "sinonimo": "crossbreed",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "crossbreed",
-                "sinonimo": "hybridize",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -435,16 +429,22 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "cruise",
-                "sinonimo": "cruise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "crossbreed",
                 "sinonimo": "hybridise",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "crossbreed",
+                "sinonimo": "hybridize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cruise",
+                "sinonimo": "cruise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -512,8 +512,8 @@
           "bind_control": {
             "binds": {
               "ponte_do_brooklyn": "-1",
-              "cross": "-146",
-              "rio": "-89"
+              "cross": "-144",
+              "rio": "-81"
             },
             "best_bind": {
               "score": 0
@@ -578,603 +578,13 @@
           "bind_control": {
             "binds": {
               "ponte_do_brooklyn": "-1",
-              "cross": "-146",
-              "rio": "-89"
+              "cross": "-144",
+              "rio": "-81"
             },
             "best_bind": {
               "score": 0
             }
           }
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wikipageusestemplate",
-              "predefinicao:geocoordenadas"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 1
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wikipageusestemplate",
-              "predefinicao:fix_bunching"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 2
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wikipageusestemplate",
-              "ponte"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 3
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wikipageusestemplate",
-              "nrhp"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 4
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wikipageusestemplate",
-              "predefinicao:fmtn"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 5
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wikipageusestemplate",
-              "predefinicao:referencias"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 6
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wikipageusestemplate",
-              "predefinicao:commonscat"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 7
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wikipageusestemplate",
-              "predefinicao:link"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 8
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wikipageusestemplate",
-              "predefinicao:atracoes_turisticas_de_nova_iorque"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wikipageusestemplate",
-              "predefinicao:portal3"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 10
         },
         {
           "triples": [
@@ -1233,7 +643,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 11
+          "id": 1
         },
         {
           "triples": [
@@ -1292,243 +702,597 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wikipageusestemplate",
+              "predefinicao:geocoordenadas"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wikipageusestemplate",
+              "predefinicao:fix_bunching"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wikipageusestemplate",
+              "ponte"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wikipageusestemplate",
+              "nrhp"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wikipageusestemplate",
+              "predefinicao:fmtn"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wikipageusestemplate",
+              "predefinicao:link"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wikipageusestemplate",
+              "predefinicao:atracoes_turisticas_de_nova_iorque"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 12
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "22_rdf_syntax_ns#type",
-              "wgs84_pos#spatialthing"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 13
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wgs84_pos#lat",
-              "40.70583333333333"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 14
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "wgs84_pos#long",
-              "-73.99805555555555"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 15
-        },
-        {
-          "triples": [
-            [
-              "*ponte_do_brooklyn",
-              "point",
-              "40.70583333333333 -73.99805555555555"
-            ],
-            [
-              "*ponte_do_brooklyn",
-              "*crosses",
-              "*rio_east"
-            ]
-          ],
-          "score": 14.121508,
-          "detail": {
-            "keywords": [
-              "ponte_do_brooklyn",
-              "rio",
-              "cruzar"
-            ],
-            "score_detail": {
-              "m1": 12.621508,
-              "m2": 0.5,
-              "m3": 1.0,
-              "matches": {
-                "ponte_do_brooklyn": {
-                  "keyword": {
-                    "termo": "ponte_do_brooklyn",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "ponte_do_brooklyn",
-                  "score": 10.0
-                },
-                "rio": {
-                  "keyword": {
-                    "termo": "rio",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "rio_east",
-                  "score": 1.661815
-                },
-                "cruzar": {
-                  "keyword": {
-                    "termo": "cross",
-                    "peso": 1.0,
-                    "classe": "VERB"
-                  },
-                  "resource": "crosses",
-                  "score": 0.9596929
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 16
         },
         {
           "triples": [
@@ -1587,7 +1351,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 17
+          "id": 13
         },
         {
           "triples": [
@@ -1646,7 +1410,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 18
+          "id": 14
         },
         {
           "triples": [
@@ -1705,7 +1469,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 19
+          "id": 15
         },
         {
           "triples": [
@@ -1764,7 +1528,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 20
+          "id": 16
         },
         {
           "triples": [
@@ -1823,7 +1587,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 21
+          "id": 17
         },
         {
           "triples": [
@@ -1882,7 +1646,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 22
+          "id": 18
         },
         {
           "triples": [
@@ -1941,7 +1705,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 23
+          "id": 19
         },
         {
           "triples": [
@@ -2000,7 +1764,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 24
+          "id": 20
         },
         {
           "triples": [
@@ -2059,7 +1823,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 25
+          "id": 21
         },
         {
           "triples": [
@@ -2118,7 +1882,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 26
+          "id": 22
         },
         {
           "triples": [
@@ -2177,7 +1941,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 27
+          "id": 23
         },
         {
           "triples": [
@@ -2236,7 +2000,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 28
+          "id": 24
         },
         {
           "triples": [
@@ -2295,16 +2059,256 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "22_rdf_syntax_ns#type",
+              "wgs84_pos#spatialthing"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wgs84_pos#lat",
+              "40.70583333333333"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "wgs84_pos#long",
+              "-73.99805555555555"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*ponte_do_brooklyn",
+              "point",
+              "40.70583333333333 -73.99805555555555"
+            ],
+            [
+              "*ponte_do_brooklyn",
+              "*crosses",
+              "*rio_east"
+            ]
+          ],
+          "score": 14.121508,
+          "detail": {
+            "keywords": [
+              "ponte_do_brooklyn",
+              "rio",
+              "cruzar"
+            ],
+            "score_detail": {
+              "m1": 12.621508,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "ponte_do_brooklyn": {
+                  "keyword": {
+                    "termo": "ponte_do_brooklyn",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ponte_do_brooklyn",
+                  "score": 10.0
+                },
+                "rio": {
+                  "keyword": {
+                    "termo": "rio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rio_east",
+                  "score": 1.661815
+                },
+                "cruzar": {
+                  "keyword": {
+                    "termo": "cross",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "crosses",
+                  "score": 0.9596929
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
           "id": 29
         }
       ],
-      "ranking_time": 6924148332,
+      "ranking_time": 12431359304,
       "l_sizes": [
-        13443,
-        816356
+        11467,
+        11467
       ],
-      "ranking_time_only": 5497137246,
-      "total_time": 17099182989,
+      "a_sizes": [
+        11467,
+        10132652
+      ],
+      "ranking_time_only": 10417229389,
+      "total_time": 21920694780,
       "timeout": false
     }
   }

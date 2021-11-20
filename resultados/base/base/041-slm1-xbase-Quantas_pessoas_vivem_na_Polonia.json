@@ -184,19 +184,13 @@
               },
               {
                 "synset": "person",
-                "sinonimo": "ser_humano",
+                "sinonimo": "alguém",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "individual",
-                "sinonimo": "indivíduo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "person",
-                "sinonimo": "alguém",
+                "sinonimo": "ser_humano",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -216,58 +210,22 @@
                 "synset": "person",
                 "sinonimo": "pessoa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "man",
                 "sinonimo": "homem",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "indivíduo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
-              {
-                "synset": "person",
-                "sinonimo": "someone",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "person",
-                "sinonimo": "person",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "person",
-                "sinonimo": "mortal",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "man",
-                "sinonimo": "man",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "name",
-                "sinonimo": "name",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "name",
-                "sinonimo": "figure",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "personality",
-                "sinonimo": "personality",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "name",
                 "sinonimo": "public_figure",
@@ -276,7 +234,7 @@
               },
               {
                 "synset": "person",
-                "sinonimo": "individual",
+                "sinonimo": "mortal",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -287,10 +245,52 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "individual",
+                "sinonimo": "individual",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "someone",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "person",
                 "sinonimo": "somebody",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "personality",
+                "sinonimo": "personality",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "person",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "name",
+                "sinonimo": "figure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "name",
+                "sinonimo": "name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "man",
+                "sinonimo": "man",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -313,20 +313,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "live",
+                "synset": "populate",
                 "sinonimo": "viver",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "populate",
-                "sinonimo": "povoar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "populate",
-                "sinonimo": "morar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -337,13 +325,49 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "populate",
+                "synset": "occupy",
                 "sinonimo": "habitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "morar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "povoar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "populate",
+                "sinonimo": "dwell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "lodge_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "inhabit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "populate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "occupy",
                 "sinonimo": "occupy",
@@ -357,34 +381,10 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "occupy",
-                "sinonimo": "lodge_in",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "live",
                 "sinonimo": "live",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "populate",
-                "sinonimo": "dwell",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "populate",
-                "sinonimo": "populate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "populate",
-                "sinonimo": "inhabit",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
               }
             ]
           }
@@ -461,19 +461,13 @@
               },
               {
                 "synset": "person",
-                "sinonimo": "ser_humano",
+                "sinonimo": "alguém",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "individual",
-                "sinonimo": "indivíduo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "person",
-                "sinonimo": "alguém",
+                "sinonimo": "ser_humano",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -493,58 +487,22 @@
                 "synset": "person",
                 "sinonimo": "pessoa",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "man",
                 "sinonimo": "homem",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "indivíduo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
-              {
-                "synset": "person",
-                "sinonimo": "someone",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "person",
-                "sinonimo": "person",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "person",
-                "sinonimo": "mortal",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "man",
-                "sinonimo": "man",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "name",
-                "sinonimo": "name",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "name",
-                "sinonimo": "figure",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "personality",
-                "sinonimo": "personality",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "name",
                 "sinonimo": "public_figure",
@@ -553,7 +511,7 @@
               },
               {
                 "synset": "person",
-                "sinonimo": "individual",
+                "sinonimo": "mortal",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -564,10 +522,52 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "individual",
+                "sinonimo": "individual",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "someone",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "person",
                 "sinonimo": "somebody",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "personality",
+                "sinonimo": "personality",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "person",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "name",
+                "sinonimo": "figure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "name",
+                "sinonimo": "name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "man",
+                "sinonimo": "man",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -590,20 +590,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "live",
+                "synset": "populate",
                 "sinonimo": "viver",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "populate",
-                "sinonimo": "povoar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "populate",
-                "sinonimo": "morar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -614,13 +602,49 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "populate",
+                "synset": "occupy",
                 "sinonimo": "habitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "morar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "povoar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "populate",
+                "sinonimo": "dwell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "lodge_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "inhabit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "populate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "occupy",
                 "sinonimo": "occupy",
@@ -634,34 +658,10 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "occupy",
-                "sinonimo": "lodge_in",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "live",
                 "sinonimo": "live",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "populate",
-                "sinonimo": "dwell",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "populate",
-                "sinonimo": "populate",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "populate",
-                "sinonimo": "inhabit",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
               }
             ]
           }
@@ -672,102 +672,35 @@
       "resposta": null
     },
     "resposta": {
-      "correct_answer": [
-        {
-          "triples": [
-            [
-              "*polonia",
-              "language",
-              "pt"
-            ],
-            [
-              "*pessoa",
-              "language",
-              "pt"
-            ]
-          ],
-          "score": 13.333333,
-          "detail": {
-            "keywords": [
-              "polonia",
-              "pessoa"
-            ],
-            "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "pessoa",
-                  "score": 2.0
-                },
-                "polonia": {
-                  "keyword": {
-                    "termo": "polonia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "polonia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "polonia": "-1",
-              "pessoa": "-577",
-              "viver": 19
-            },
-            "best_bind": {
-              "score": 0.35123333,
-              "resource_id": 19,
-              "tr": "viver"
-            }
-          }
-        }
-      ],
+      "correct_answer": [],
       "all_answers": [
         {
           "triples": [
             [
-              "*polonia",
-              "language",
-              "pt"
-            ],
-            [
-              "*pessoa",
-              "language",
-              "pt"
+              "*1112_polonia",
+              "*name",
+              "*polonia"
             ]
           ],
-          "score": 13.333333,
+          "score": 12.666667,
           "detail": {
             "keywords": [
-              "polonia",
-              "pessoa"
+              "pessoa",
+              "polonia"
             ],
             "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
+              "m1": 11.0,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "pessoa",
-                  "score": 2.0
+                  "resource": "name",
+                  "score": 1.0
                 },
                 "polonia": {
                   "keyword": {
@@ -786,69 +719,8 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "polonia": "-1",
-              "pessoa": "-577",
-              "viver": 19
-            },
-            "best_bind": {
-              "score": 0.35123333,
-              "resource_id": 19,
-              "tr": "viver"
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*polonia",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*pessoa",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ]
-          ],
-          "score": 13.333333,
-          "detail": {
-            "keywords": [
-              "polonia",
-              "pessoa"
-            ],
-            "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "pessoa",
-                  "score": 2.0
-                },
-                "polonia": {
-                  "keyword": {
-                    "termo": "polonia",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "polonia",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 1,
-          "bind_control": {
-            "binds": {
-              "polonia": "-1",
-              "pessoa": "-577"
+              "polonia": "-14",
+              "name": "-163"
             },
             "best_bind": {
               "score": 0
@@ -858,36 +730,22 @@
         {
           "triples": [
             [
-              "*pessoa",
-              "language",
-              "pt"
-            ],
-            [
-              "*polonia",
-              "language",
-              "pt"
+              "mariusz_fyrstenberg",
+              "*residence",
+              "*polonia"
             ]
           ],
-          "score": 13.333333,
+          "score": 12.614385,
           "detail": {
             "keywords": [
-              "pessoa",
-              "polonia"
+              "polonia",
+              "viver"
             ],
             "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
+              "m1": 10.947718,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "pessoa",
-                  "score": 2.0
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -896,6 +754,59 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "marcin_matkowski",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.614385,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
                 }
               }
             },
@@ -907,36 +818,22 @@
         {
           "triples": [
             [
-              "*pessoa",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*polonia",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "micha_przysiezny",
+              "*residence",
+              "*polonia"
             ]
           ],
-          "score": 13.333333,
+          "score": 12.614385,
           "detail": {
             "keywords": [
-              "pessoa",
-              "polonia"
+              "polonia",
+              "viver"
             ],
             "score_detail": {
-              "m1": 12.0,
-              "m2": 0.33333334,
+              "m1": 10.947718,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "pessoa",
-                  "score": 2.0
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -945,6 +842,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
                 }
               }
             },
@@ -956,36 +862,22 @@
         {
           "triples": [
             [
-              "*polonia",
-              "wikipageoutdegree",
-              "1"
-            ],
-            [
-              "*negro_(pessoa)",
-              "wikipageoutdegree",
-              "1"
+              "tomasz_bednarek",
+              "*residence",
+              "*polonia"
             ]
           ],
-          "score": 13.013161,
+          "score": 12.614385,
           "detail": {
             "keywords": [
               "polonia",
-              "pessoa"
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.679828,
-              "m2": 0.33333334,
+              "m1": 10.947718,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "negro_(pessoa)",
-                  "score": 1.6798279
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -994,6 +886,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
                 }
               }
             },
@@ -1005,36 +906,22 @@
         {
           "triples": [
             [
-              "*polonia",
-              "language",
-              "pt"
-            ],
-            [
-              "*negro_(pessoa)",
-              "language",
-              "pt"
+              "agnieszka_radwanska",
+              "*residence",
+              "*polonia"
             ]
           ],
-          "score": 13.013161,
+          "score": 12.614385,
           "detail": {
             "keywords": [
               "polonia",
-              "pessoa"
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.679828,
-              "m2": 0.33333334,
+              "m1": 10.947718,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "negro_(pessoa)",
-                  "score": 1.6798279
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -1043,6 +930,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
                 }
               }
             },
@@ -1054,36 +950,22 @@
         {
           "triples": [
             [
-              "*polonia",
-              "language",
-              "pt"
-            ],
-            [
-              "*genio_(pessoa)",
-              "language",
-              "pt"
+              "agnieszka_radwanska",
+              "*residencia",
+              "*polonia"
             ]
           ],
-          "score": 13.013161,
+          "score": 12.594871,
           "detail": {
             "keywords": [
               "polonia",
-              "pessoa"
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.679828,
-              "m2": 0.33333334,
+              "m1": 10.928204,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "genio_(pessoa)",
-                  "score": 1.6798279
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -1092,6 +974,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
                 }
               }
             },
@@ -1103,36 +994,22 @@
         {
           "triples": [
             [
-              "*polonia",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*negro_(pessoa)",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "mariusz_fyrstenberg",
+              "*residencia",
+              "*polonia"
             ]
           ],
-          "score": 13.013161,
+          "score": 12.594871,
           "detail": {
             "keywords": [
               "polonia",
-              "pessoa"
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.679828,
-              "m2": 0.33333334,
+              "m1": 10.928204,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "negro_(pessoa)",
-                  "score": 1.6798279
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -1141,6 +1018,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
                 }
               }
             },
@@ -1152,36 +1038,22 @@
         {
           "triples": [
             [
-              "*polonia",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*genio_(pessoa)",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "marcin_matkowski",
+              "*residencia",
+              "*polonia"
             ]
           ],
-          "score": 13.013161,
+          "score": 12.594871,
           "detail": {
             "keywords": [
               "polonia",
-              "pessoa"
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.679828,
-              "m2": 0.33333334,
+              "m1": 10.928204,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "genio_(pessoa)",
-                  "score": 1.6798279
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -1190,6 +1062,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
                 }
               }
             },
@@ -1201,36 +1082,22 @@
         {
           "triples": [
             [
-              "*negro_(pessoa)",
-              "wikipageoutdegree",
-              "1"
-            ],
-            [
-              "*polonia",
-              "wikipageoutdegree",
-              "1"
+              "micha_przysiezny",
+              "*residencia",
+              "*polonia"
             ]
           ],
-          "score": 13.013161,
+          "score": 12.594871,
           "detail": {
             "keywords": [
-              "pessoa",
-              "polonia"
+              "polonia",
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.679828,
-              "m2": 0.33333334,
+              "m1": 10.928204,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "negro_(pessoa)",
-                  "score": 1.6798279
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -1239,6 +1106,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
                 }
               }
             },
@@ -1250,36 +1126,22 @@
         {
           "triples": [
             [
-              "*negro_(pessoa)",
-              "language",
-              "pt"
-            ],
-            [
-              "*polonia",
-              "language",
-              "pt"
+              "tomasz_bednarek",
+              "*residencia",
+              "*polonia"
             ]
           ],
-          "score": 13.013161,
+          "score": 12.594871,
           "detail": {
             "keywords": [
-              "pessoa",
-              "polonia"
+              "polonia",
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.679828,
-              "m2": 0.33333334,
+              "m1": 10.928204,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "negro_(pessoa)",
-                  "score": 1.6798279
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -1288,6 +1150,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
                 }
               }
             },
@@ -1299,36 +1170,22 @@
         {
           "triples": [
             [
-              "*negro_(pessoa)",
-              "22_rdf_syntax_ns#type",
-              "document"
-            ],
-            [
-              "*polonia",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "mateusz_kowalczyk",
+              "*residencia",
+              "*polonia"
             ]
           ],
-          "score": 13.013161,
+          "score": 12.594871,
           "detail": {
             "keywords": [
-              "pessoa",
-              "polonia"
+              "polonia",
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.679828,
-              "m2": 0.33333334,
+              "m1": 10.928204,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "negro_(pessoa)",
-                  "score": 1.6798279
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -1337,6 +1194,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
                 }
               }
             },
@@ -1348,35 +1214,30 @@
         {
           "triples": [
             [
-              "*genio_(pessoa)",
-              "language",
-              "pt"
-            ],
-            [
-              "*polonia",
-              "language",
-              "pt"
+              "*luis_polonia",
+              "*surname",
+              "*polonia"
             ]
           ],
-          "score": 13.013161,
+          "score": 12.590241,
           "detail": {
             "keywords": [
               "pessoa",
               "polonia"
             ],
             "score_detail": {
-              "m1": 11.679828,
-              "m2": 0.33333334,
+              "m1": 10.923574,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "genio_(pessoa)",
-                  "score": 1.6798279
+                  "resource": "surname",
+                  "score": 0.92357427
                 },
                 "polonia": {
                   "keyword": {
@@ -1397,35 +1258,35 @@
         {
           "triples": [
             [
-              "*genio_(pessoa)",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*polonia",
+              "owl#sameas",
+              "m.05qhw"
             ],
             [
-              "*polonia",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*1112_polonia",
+              "*name",
+              "*polonia"
             ]
           ],
-          "score": 13.013161,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "pessoa",
-              "polonia"
+              "polonia",
+              "pessoa"
             ],
             "score_detail": {
-              "m1": 11.679828,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "genio_(pessoa)",
-                  "score": 1.6798279
+                  "resource": "name",
+                  "score": 1.0
                 },
                 "polonia": {
                   "keyword": {
@@ -1446,35 +1307,35 @@
         {
           "triples": [
             [
-              "*polonia",
-              "wikipageoutdegree",
-              "1"
+              "*1112_polonia",
+              "abstract",
+              "*polonia (asteroide 1112) e um asteroide da cintura principal com um diametro de 35,76 quilometros, a 2,7149702 ua. possui uma excentricidade de 0,1014478 e um periodo orbital de 1 918,33 dias (5,25 anos). polonia tem uma velocidade orbital media de 17,13491203 km/s e uma inclinacao de 8,99516o. este asteroide foi descoberto em 15 de agosto de 1928 por pelageja shajn."
             ],
             [
-              "*modelo_(pessoa)",
-              "wikipageoutdegree",
-              "1"
+              "*1112_polonia",
+              "*name",
+              "*polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.333333,
           "detail": {
             "keywords": [
               "polonia",
               "pessoa"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "modelo_(pessoa)",
-                  "score": 1.6308894
+                  "resource": "name",
+                  "score": 1.0
                 },
                 "polonia": {
                   "keyword": {
@@ -1495,35 +1356,35 @@
         {
           "triples": [
             [
-              "*polonia",
-              "wikipageoutdegree",
-              "1"
+              "*1112_polonia",
+              "*name",
+              "*polonia"
             ],
             [
-              "*branco_(pessoa)",
-              "wikipageoutdegree",
-              "1"
+              "*polonia",
+              "owl#sameas",
+              "m.05qhw"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "polonia",
-              "pessoa"
+              "pessoa",
+              "polonia"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "branco_(pessoa)",
-                  "score": 1.6308894
+                  "resource": "name",
+                  "score": 1.0
                 },
                 "polonia": {
                   "keyword": {
@@ -1544,35 +1405,35 @@
         {
           "triples": [
             [
-              "*polonia",
-              "wikipagelength",
-              "21"
+              "*1112_polonia",
+              "*name",
+              "*polonia"
             ],
             [
-              "*branco_(pessoa)",
-              "wikipagelength",
-              "21"
+              "*1112_polonia",
+              "abstract",
+              "*polonia (asteroide 1112) e um asteroide da cintura principal com um diametro de 35,76 quilometros, a 2,7149702 ua. possui uma excentricidade de 0,1014478 e um periodo orbital de 1 918,33 dias (5,25 anos). polonia tem uma velocidade orbital media de 17,13491203 km/s e uma inclinacao de 8,99516o. este asteroide foi descoberto em 15 de agosto de 1928 por pelageja shajn."
             ]
           ],
-          "score": 12.964223,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "polonia",
-              "pessoa"
+              "pessoa",
+              "polonia"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "branco_(pessoa)",
-                  "score": 1.6308894
+                  "resource": "name",
+                  "score": 1.0
                 },
                 "polonia": {
                   "keyword": {
@@ -1593,35 +1454,35 @@
         {
           "triples": [
             [
-              "*polonia",
-              "language",
-              "pt"
+              "*1112_polonia",
+              "*name",
+              "*polonia"
             ],
             [
-              "*branco_(pessoa)",
-              "language",
-              "pt"
+              "*1112_polonia",
+              "rdf_schema#label",
+              "*1112 polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "polonia",
-              "pessoa"
+              "pessoa",
+              "polonia"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "branco_(pessoa)",
-                  "score": 1.6308894
+                  "resource": "name",
+                  "score": 1.0
                 },
                 "polonia": {
                   "keyword": {
@@ -1642,35 +1503,35 @@
         {
           "triples": [
             [
-              "*polonia",
-              "language",
-              "pt"
+              "*1112_polonia",
+              "*name",
+              "*polonia"
             ],
             [
-              "*modelo_(pessoa)",
-              "language",
-              "pt"
+              "*1112_polonia",
+              "rdf_schema#label",
+              "*1112 polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "polonia",
-              "pessoa"
+              "pessoa",
+              "polonia"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "modelo_(pessoa)",
-                  "score": 1.6308894
+                  "resource": "name",
+                  "score": 1.0
                 },
                 "polonia": {
                   "keyword": {
@@ -1691,35 +1552,35 @@
         {
           "triples": [
             [
-              "*polonia",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*1112_polonia",
+              "rdf_schema#label",
+              "*1112 polonia"
             ],
             [
-              "*branco_(pessoa)",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*1112_polonia",
+              "*name",
+              "*polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.333333,
           "detail": {
             "keywords": [
               "polonia",
               "pessoa"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "branco_(pessoa)",
-                  "score": 1.6308894
+                  "resource": "name",
+                  "score": 1.0
                 },
                 "polonia": {
                   "keyword": {
@@ -1740,35 +1601,35 @@
         {
           "triples": [
             [
-              "*polonia",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*1112_polonia",
+              "rdf_schema#label",
+              "*1112 polonia"
             ],
             [
-              "*modelo_(pessoa)",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*1112_polonia",
+              "*name",
+              "*polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.333333,
           "detail": {
             "keywords": [
               "polonia",
               "pessoa"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "modelo_(pessoa)",
-                  "score": 1.6308894
+                  "resource": "name",
+                  "score": 1.0
                 },
                 "polonia": {
                   "keyword": {
@@ -1789,35 +1650,35 @@
         {
           "triples": [
             [
-              "*modelo_(pessoa)",
-              "wikipageoutdegree",
-              "1"
+              "*luis_polonia",
+              "*name",
+              "*luis polonia"
             ],
             [
-              "*polonia",
-              "wikipageoutdegree",
-              "1"
+              "*luis_polonia",
+              "*surname",
+              "*polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.333333,
           "detail": {
             "keywords": [
               "pessoa",
               "polonia"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "modelo_(pessoa)",
-                  "score": 1.6308894
+                  "resource": "name",
+                  "score": 1.0
                 },
                 "polonia": {
                   "keyword": {
@@ -1838,35 +1699,35 @@
         {
           "triples": [
             [
-              "*branco_(pessoa)",
-              "wikipageoutdegree",
-              "1"
+              "*luis_polonia",
+              "*surname",
+              "*polonia"
             ],
             [
-              "*polonia",
-              "wikipageoutdegree",
-              "1"
+              "*luis_polonia",
+              "*name",
+              "*luis polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.333333,
           "detail": {
             "keywords": [
               "pessoa",
               "polonia"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "pessoa": {
                   "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
+                    "termo": "name",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "branco_(pessoa)",
-                  "score": 1.6308894
+                  "resource": "name",
+                  "score": 1.0
                 },
                 "polonia": {
                   "keyword": {
@@ -1887,36 +1748,27 @@
         {
           "triples": [
             [
-              "*branco_(pessoa)",
-              "wikipagelength",
-              "21"
+              "*polonia",
+              "owl#sameas",
+              "m.05qhw"
             ],
             [
-              "*polonia",
-              "wikipagelength",
-              "21"
+              "mariusz_fyrstenberg",
+              "*residence",
+              "*polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.281051,
           "detail": {
             "keywords": [
-              "pessoa",
-              "polonia"
+              "polonia",
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 10.947718,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "branco_(pessoa)",
-                  "score": 1.6308894
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -1925,6 +1777,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
                 }
               }
             },
@@ -1936,36 +1797,27 @@
         {
           "triples": [
             [
-              "*branco_(pessoa)",
-              "language",
-              "pt"
+              "*polonia",
+              "owl#sameas",
+              "m.05qhw"
             ],
             [
-              "*polonia",
-              "language",
-              "pt"
+              "marcin_matkowski",
+              "*residence",
+              "*polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.281051,
           "detail": {
             "keywords": [
-              "pessoa",
-              "polonia"
+              "polonia",
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 10.947718,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "branco_(pessoa)",
-                  "score": 1.6308894
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -1974,6 +1826,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
                 }
               }
             },
@@ -1985,36 +1846,27 @@
         {
           "triples": [
             [
-              "*branco_(pessoa)",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*polonia",
+              "owl#sameas",
+              "m.05qhw"
             ],
             [
-              "*polonia",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "micha_przysiezny",
+              "*residence",
+              "*polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.281051,
           "detail": {
             "keywords": [
-              "pessoa",
-              "polonia"
+              "polonia",
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 10.947718,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "branco_(pessoa)",
-                  "score": 1.6308894
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -2023,6 +1875,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
                 }
               }
             },
@@ -2034,36 +1895,27 @@
         {
           "triples": [
             [
-              "*modelo_(pessoa)",
-              "language",
-              "pt"
+              "*polonia",
+              "owl#sameas",
+              "m.05qhw"
             ],
             [
-              "*polonia",
-              "language",
-              "pt"
+              "tomasz_bednarek",
+              "*residence",
+              "*polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.281051,
           "detail": {
             "keywords": [
-              "pessoa",
-              "polonia"
+              "polonia",
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 10.947718,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "modelo_(pessoa)",
-                  "score": 1.6308894
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -2072,6 +1924,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
                 }
               }
             },
@@ -2083,36 +1944,27 @@
         {
           "triples": [
             [
-              "*modelo_(pessoa)",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "*polonia",
+              "owl#sameas",
+              "m.05qhw"
             ],
             [
-              "*polonia",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "agnieszka_radwanska",
+              "*residence",
+              "*polonia"
             ]
           ],
-          "score": 12.964223,
+          "score": 12.281051,
           "detail": {
             "keywords": [
-              "pessoa",
-              "polonia"
+              "polonia",
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.63089,
+              "m1": 10.947718,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "modelo_(pessoa)",
-                  "score": 1.6308894
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -2121,6 +1973,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
                 }
               }
             },
@@ -2132,36 +1993,27 @@
         {
           "triples": [
             [
-              "*polonia",
-              "wikipageoutdegree",
-              "1"
+              "mariusz_fyrstenberg",
+              "*residence",
+              "*polonia"
             ],
             [
-              "*crioulo_(pessoa)",
-              "wikipageoutdegree",
-              "1"
+              "*polonia",
+              "owl#sameas",
+              "m.05qhw"
             ]
           ],
-          "score": 12.913581,
+          "score": 12.281051,
           "detail": {
             "keywords": [
               "polonia",
-              "pessoa"
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.580248,
+              "m1": 10.947718,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "crioulo_(pessoa)",
-                  "score": 1.5802484
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -2170,6 +2022,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
                 }
               }
             },
@@ -2181,36 +2042,27 @@
         {
           "triples": [
             [
-              "*polonia",
-              "wikipageoutdegree",
-              "1"
+              "mariusz_fyrstenberg",
+              "*residence",
+              "*polonia"
             ],
             [
-              "*amarelo_(pessoa)",
-              "wikipageoutdegree",
-              "1"
+              "marcin_matkowski",
+              "*residence",
+              "*polonia"
             ]
           ],
-          "score": 12.913581,
+          "score": 12.281051,
           "detail": {
             "keywords": [
               "polonia",
-              "pessoa"
+              "viver"
             ],
             "score_detail": {
-              "m1": 11.580248,
+              "m1": 10.947718,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "pessoa": {
-                  "keyword": {
-                    "termo": "pessoa",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "amarelo_(pessoa)",
-                  "score": 1.5802484
-                },
                 "polonia": {
                   "keyword": {
                     "termo": "polonia",
@@ -2219,6 +2071,15 @@
                   },
                   "resource": "polonia",
                   "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
                 }
               }
             },
@@ -2228,13 +2089,17 @@
           "id": 29
         }
       ],
-      "ranking_time": 17060948896,
+      "ranking_time": 16439599099,
       "l_sizes": [
-        19590,
-        4012020
+        19746,
+        19746
       ],
-      "ranking_time_only": 14944751571,
-      "total_time": 25424792634,
+      "a_sizes": [
+        19746,
+        9033752
+      ],
+      "ranking_time_only": 14042882235,
+      "total_time": 24651005672,
       "timeout": false
     }
   }

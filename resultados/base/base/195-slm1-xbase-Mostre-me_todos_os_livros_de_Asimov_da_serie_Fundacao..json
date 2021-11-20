@@ -299,10 +299,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "volume",
-                "sinonimo": "livro",
+                "synset": "tome",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "phrase_book",
@@ -311,10 +311,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "tome",
-                "sinonimo": "volume",
+                "synset": "phrase_book",
+                "sinonimo": "livro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "livros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "phrase_book",
@@ -327,20 +333,14 @@
                 "sinonimo": "álbum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "11"
-              },
-              {
-                "synset": "book",
-                "sinonimo": "livros",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
                 "synset": "book",
-                "sinonimo": "volume",
+                "sinonimo": "book",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "11"
               },
               {
                 "synset": "tome",
@@ -355,10 +355,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "book",
-                "sinonimo": "book",
+                "synset": "volume",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -468,20 +468,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "series",
-                "sinonimo": "série",
+                "synset": "world_series",
+                "sinonimo": "World_series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "string",
+                "sinonimo": "série",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "series",
                 "sinonimo": "sequência",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "world_series",
-                "sinonimo": "World_series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -494,14 +494,14 @@
             ],
             "eng": [
               {
-                "synset": "series",
-                "sinonimo": "series",
+                "synset": "string",
+                "sinonimo": "train",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "04"
               },
               {
                 "synset": "string",
-                "sinonimo": "train",
+                "sinonimo": "string",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
               },
@@ -512,10 +512,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "string",
-                "sinonimo": "string",
+                "synset": "series",
+                "sinonimo": "series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "07"
               }
             ]
           }
@@ -541,12 +541,6 @@
             "por": [
               {
                 "synset": "initiation",
-                "sinonimo": "início",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "initiation",
                 "sinonimo": "instituição",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
@@ -559,13 +553,19 @@
               },
               {
                 "synset": "initiation",
+                "sinonimo": "fundação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "initiation",
                 "sinonimo": "criação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "initiation",
-                "sinonimo": "fundação",
+                "sinonimo": "início",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -573,19 +573,7 @@
             "eng": [
               {
                 "synset": "initiation",
-                "sinonimo": "introduction",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "initiation",
-                "sinonimo": "origination",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "initiation",
-                "sinonimo": "institution",
+                "sinonimo": "creation",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -603,13 +591,13 @@
               },
               {
                 "synset": "initiation",
-                "sinonimo": "creation",
+                "sinonimo": "initiation",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "initiation",
-                "sinonimo": "innovation",
+                "sinonimo": "introduction",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -621,7 +609,19 @@
               },
               {
                 "synset": "initiation",
-                "sinonimo": "initiation",
+                "sinonimo": "origination",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "initiation",
+                "sinonimo": "innovation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "initiation",
+                "sinonimo": "institution",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -662,10 +662,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "volume",
-                "sinonimo": "livro",
+                "synset": "tome",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "phrase_book",
@@ -674,10 +674,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "tome",
-                "sinonimo": "volume",
+                "synset": "phrase_book",
+                "sinonimo": "livro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "livros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "phrase_book",
@@ -690,20 +696,14 @@
                 "sinonimo": "álbum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "11"
-              },
-              {
-                "synset": "book",
-                "sinonimo": "livros",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
                 "synset": "book",
-                "sinonimo": "volume",
+                "sinonimo": "book",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "11"
               },
               {
                 "synset": "tome",
@@ -718,10 +718,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "book",
-                "sinonimo": "book",
+                "synset": "volume",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -758,20 +758,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "series",
-                "sinonimo": "série",
+                "synset": "world_series",
+                "sinonimo": "World_series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "string",
+                "sinonimo": "série",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "series",
                 "sinonimo": "sequência",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "world_series",
-                "sinonimo": "World_series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -784,14 +784,14 @@
             ],
             "eng": [
               {
-                "synset": "series",
-                "sinonimo": "series",
+                "synset": "string",
+                "sinonimo": "train",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "04"
               },
               {
                 "synset": "string",
-                "sinonimo": "train",
+                "sinonimo": "string",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
               },
@@ -802,10 +802,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "string",
-                "sinonimo": "string",
+                "synset": "series",
+                "sinonimo": "series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "07"
               }
             ]
           }
@@ -831,12 +831,6 @@
             "por": [
               {
                 "synset": "initiation",
-                "sinonimo": "início",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "initiation",
                 "sinonimo": "instituição",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
@@ -849,13 +843,19 @@
               },
               {
                 "synset": "initiation",
+                "sinonimo": "fundação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "initiation",
                 "sinonimo": "criação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "initiation",
-                "sinonimo": "fundação",
+                "sinonimo": "início",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -863,19 +863,7 @@
             "eng": [
               {
                 "synset": "initiation",
-                "sinonimo": "introduction",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "initiation",
-                "sinonimo": "origination",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "initiation",
-                "sinonimo": "institution",
+                "sinonimo": "creation",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -893,13 +881,13 @@
               },
               {
                 "synset": "initiation",
-                "sinonimo": "creation",
+                "sinonimo": "initiation",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "initiation",
-                "sinonimo": "innovation",
+                "sinonimo": "introduction",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -911,7 +899,19 @@
               },
               {
                 "synset": "initiation",
-                "sinonimo": "initiation",
+                "sinonimo": "origination",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "initiation",
+                "sinonimo": "innovation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "initiation",
+                "sinonimo": "institution",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -936,10 +936,10 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "volume",
-                  "sinonimo": "livro",
+                  "synset": "tome",
+                  "sinonimo": "volume",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "phrase_book",
@@ -948,10 +948,16 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "tome",
-                  "sinonimo": "volume",
+                  "synset": "phrase_book",
+                  "sinonimo": "livro",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "book",
+                  "sinonimo": "livros",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "phrase_book",
@@ -964,20 +970,14 @@
                   "sinonimo": "álbum",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "11"
-                },
-                {
-                  "synset": "book",
-                  "sinonimo": "livros",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
                 }
               ],
               "eng": [
                 {
                   "synset": "book",
-                  "sinonimo": "volume",
+                  "sinonimo": "book",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "11"
                 },
                 {
                   "synset": "tome",
@@ -992,10 +992,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "book",
-                  "sinonimo": "book",
+                  "synset": "volume",
+                  "sinonimo": "volume",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "04"
                 }
               ]
             }
@@ -1052,20 +1052,20 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "series",
-                  "sinonimo": "série",
+                  "synset": "world_series",
+                  "sinonimo": "World_series",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "string",
+                  "sinonimo": "série",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "series",
                   "sinonimo": "sequência",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "world_series",
-                  "sinonimo": "World_series",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1078,14 +1078,14 @@
               ],
               "eng": [
                 {
-                  "synset": "series",
-                  "sinonimo": "series",
+                  "synset": "string",
+                  "sinonimo": "train",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "string",
-                  "sinonimo": "train",
+                  "sinonimo": "string",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "04"
                 },
@@ -1096,10 +1096,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "string",
-                  "sinonimo": "string",
+                  "synset": "series",
+                  "sinonimo": "series",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
+                  "distancia_semantica": "07"
                 }
               ]
             }
@@ -1113,26 +1113,25 @@
         {
           "triples": [
             [
-              "*i,_robot_(livro)",
-              "wikipagewikilink",
+              "*isaac_asimov",
+              "surname",
               "*asimov"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "*i,_robot_(livro)",
+              "autor",
+              "*isaac_asimov"
             ]
           ],
-          "score": 14.626944,
+          "score": 12.792523,
           "detail": {
             "keywords": [
               "asimov",
-              "livro",
-              "fundacao"
+              "livro"
             ],
             "score_detail": {
-              "m1": 13.126944,
-              "m2": 0.5,
+              "m1": 11.45919,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "asimov": {
@@ -1143,15 +1142,6 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
-                },
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
                 },
                 "livro": {
                   "keyword": {
@@ -1167,15 +1157,17 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 0,
+          "id": 2,
           "bind_control": {
             "binds": {
-              "livro": "-138",
-              "asimov": "-22",
-              "fundacao": "-315"
+              "asimov": "-49",
+              "livro": "-118",
+              "serie": 756
             },
             "best_bind": {
-              "score": 0
+              "score": 0.36212492,
+              "resource_id": 756,
+              "tr": "serie"
             }
           }
         }
@@ -1184,26 +1176,25 @@
         {
           "triples": [
             [
-              "*i,_robot_(livro)",
-              "wikipagewikilink",
+              "*isaac_asimov",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "*i,_robot_(livro)",
+              "autor",
+              "*isaac_asimov"
             ]
           ],
-          "score": 14.626944,
+          "score": 12.792523,
           "detail": {
             "keywords": [
               "asimov",
-              "livro",
-              "fundacao"
+              "livro"
             ],
             "score_detail": {
-              "m1": 13.126944,
-              "m2": 0.5,
+              "m1": 11.45919,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "asimov": {
@@ -1214,15 +1205,6 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
-                },
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
                 },
                 "livro": {
                   "keyword": {
@@ -1241,49 +1223,41 @@
           "id": 0,
           "bind_control": {
             "binds": {
-              "livro": "-138",
-              "asimov": "-22",
-              "fundacao": "-315"
+              "asimov": "-49",
+              "livro": "-118",
+              "fundacao": 193
             },
             "best_bind": {
-              "score": 0
+              "score": 0.34701118,
+              "resource_id": 193,
+              "tr": "fundacao"
             }
           }
         },
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "*isaac_asimov",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*i,_robot_(livro)",
-              "wikipagewikilink",
-              "*asimov"
+              "*isaac_asimov",
+              "obrasdestaque",
+              "*i,_robot_(livro)"
             ]
           ],
-          "score": 14.626944,
+          "score": 12.792523,
           "detail": {
             "keywords": [
-              "fundacao",
               "asimov",
               "livro"
             ],
             "score_detail": {
-              "m1": 13.126944,
-              "m2": 0.5,
+              "m1": 11.45919,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -1312,68 +1286,24 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
-            ]
-          ],
-          "score": 13.33442,
-          "detail": {
-            "keywords": [
-              "fundacao",
-              "asimov"
-            ],
-            "score_detail": {
-              "m1": 11.667753,
-              "m2": 0.6666667,
-              "m3": 1.0,
-              "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
-                "asimov": {
-                  "keyword": {
-                    "termo": "asimov",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "asimov",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 2
-        },
-        {
-          "triples": [
-            [
-              "*i,_robot_(livro)",
-              "wikipagewikilink",
+              "*isaac_asimov",
+              "surname",
               "*asimov"
             ],
             [
               "*i,_robot_(livro)",
-              "wikipageusestemplate",
-              "*livro"
+              "autor",
+              "*isaac_asimov"
             ]
           ],
-          "score": 13.333333,
+          "score": 12.792523,
           "detail": {
             "keywords": [
               "asimov",
               "livro"
             ],
             "score_detail": {
-              "m1": 12.0,
+              "m1": 11.45919,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1392,8 +1322,69 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "livro",
-                  "score": 2.0
+                  "resource": "i,_robot_(livro)",
+                  "score": 1.4591899
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "asimov": "-49",
+              "livro": "-118",
+              "serie": 756
+            },
+            "best_bind": {
+              "score": 0.36212492,
+              "resource_id": 756,
+              "tr": "serie"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*isaac_asimov",
+              "surname",
+              "*asimov"
+            ],
+            [
+              "*isaac_asimov",
+              "obrasdestaque",
+              "*i,_robot_(livro)"
+            ]
+          ],
+          "score": 12.792523,
+          "detail": {
+            "keywords": [
+              "asimov",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 11.45919,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "asimov": {
+                  "keyword": {
+                    "termo": "asimov",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "asimov",
+                  "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "livro",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "i,_robot_(livro)",
+                  "score": 1.4591899
                 }
               }
             },
@@ -1406,23 +1397,23 @@
           "triples": [
             [
               "*i,_robot_(livro)",
-              "wikipageusestemplate",
-              "*livro"
+              "autor",
+              "*isaac_asimov"
             ],
             [
-              "*i,_robot_(livro)",
-              "wikipagewikilink",
+              "*isaac_asimov",
+              "sobrenome",
               "*asimov"
             ]
           ],
-          "score": 13.333333,
+          "score": 12.792523,
           "detail": {
             "keywords": [
-              "livro",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 12.0,
+              "m1": 11.45919,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1441,8 +1432,8 @@
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "livro",
-                  "score": 2.0
+                  "resource": "i,_robot_(livro)",
+                  "score": 1.4591899
                 }
               }
             },
@@ -1455,11 +1446,16 @@
           "triples": [
             [
               "*i,_robot_(livro)",
-              "wikipagewikilink",
+              "autor",
+              "*isaac_asimov"
+            ],
+            [
+              "*isaac_asimov",
+              "surname",
               "*asimov"
             ]
           ],
-          "score": 13.125857,
+          "score": 12.792523,
           "detail": {
             "keywords": [
               "asimov",
@@ -1467,7 +1463,7 @@
             ],
             "score_detail": {
               "m1": 11.45919,
-              "m2": 0.6666667,
+              "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
                 "asimov": {
@@ -1498,24 +1494,24 @@
         {
           "triples": [
             [
-              "*asimov",
-              "owl#sameas",
-              "m.03rx9"
+              "*isaac_asimov",
+              "obrasdestaque",
+              "*i,_robot_(livro)"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "*isaac_asimov",
+              "sobrenome",
               "*asimov"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.792523,
           "detail": {
             "keywords": [
               "asimov",
-              "fundacao"
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.45919,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1528,14 +1524,14 @@
                   "resource": "asimov",
                   "score": 10.0
                 },
-                "fundacao": {
+                "livro": {
                   "keyword": {
-                    "termo": "fundacao",
+                    "termo": "livro",
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
+                  "resource": "i,_robot_(livro)",
+                  "score": 1.4591899
                 }
               }
             },
@@ -1547,24 +1543,24 @@
         {
           "triples": [
             [
-              "*asimov",
-              "wikipageoutdegree",
-              "1"
+              "*isaac_asimov",
+              "obrasdestaque",
+              "*i,_robot_(livro)"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "*isaac_asimov",
+              "surname",
               "*asimov"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.792523,
           "detail": {
             "keywords": [
               "asimov",
-              "fundacao"
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.45919,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1577,14 +1573,14 @@
                   "resource": "asimov",
                   "score": 10.0
                 },
-                "fundacao": {
+                "livro": {
                   "keyword": {
-                    "termo": "fundacao",
+                    "termo": "livro",
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
+                  "resource": "i,_robot_(livro)",
+                  "score": 1.4591899
                 }
               }
             },
@@ -1596,44 +1592,64 @@
         {
           "triples": [
             [
-              "*asimov",
-              "wikipageid",
-              "74835"
+              "*foundation",
+              "owl#sameas",
+              "*fondation_(asimov)"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "*serie_da_fundacao",
+              "*livros",
+              "*foundation"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.439965,
           "detail": {
             "keywords": [
+              "fundacao",
               "asimov",
-              "fundacao"
+              "livro",
+              "serie"
             ],
             "score_detail": {
-              "m1": 11.667753,
-              "m2": 0.33333334,
+              "m1": 10.773298,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "foundation",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "foundation",
+                  "score": 1.0
+                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "asimov",
-                  "score": 10.0
+                  "resource": "fondation_(asimov)",
+                  "score": 7.37243
                 },
-                "fundacao": {
+                "livro": {
                   "keyword": {
-                    "termo": "fundacao",
+                    "termo": "livros",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "livros",
+                  "score": 1.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
+                  "resource": "serie_da_fundacao",
+                  "score": 1.4008684
                 }
               }
             },
@@ -1645,44 +1661,64 @@
         {
           "triples": [
             [
-              "*asimov",
-              "wikipagelength",
-              "26"
+              "*serie_da_fundacao",
+              "*livros",
+              "*foundation"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "*foundation",
+              "owl#sameas",
+              "*fondation_(asimov)"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.439965,
           "detail": {
             "keywords": [
-              "asimov",
-              "fundacao"
+              "fundacao",
+              "livro",
+              "serie",
+              "asimov"
             ],
             "score_detail": {
-              "m1": 11.667753,
-              "m2": 0.33333334,
+              "m1": 10.773298,
+              "m2": 0.6666667,
               "m3": 1.0,
               "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "foundation",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "foundation",
+                  "score": 1.0
+                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
                     "peso": 10.0,
                     "classe": "PROP"
                   },
-                  "resource": "asimov",
-                  "score": 10.0
+                  "resource": "fondation_(asimov)",
+                  "score": 7.37243
                 },
-                "fundacao": {
+                "livro": {
                   "keyword": {
-                    "termo": "fundacao",
+                    "termo": "livros",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "livros",
+                  "score": 1.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
+                  "resource": "serie_da_fundacao",
+                  "score": 1.4008684
                 }
               }
             },
@@ -1694,24 +1730,24 @@
         {
           "triples": [
             [
-              "*asimov",
-              "wikipageredirects",
-              "*isaac_asimov"
+              "*isaac_asimov",
+              "sobrenome",
+              "*asimov"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "*isaac_asimov",
+              "obrasdestaque",
+              "*planets_for_man_(livro)"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.379367,
           "detail": {
             "keywords": [
               "asimov",
-              "fundacao"
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.046034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1724,14 +1760,14 @@
                   "resource": "asimov",
                   "score": 10.0
                 },
-                "fundacao": {
+                "livro": {
                   "keyword": {
-                    "termo": "fundacao",
+                    "termo": "livro",
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
+                  "resource": "planets_for_man_(livro)",
+                  "score": 1.046034
                 }
               }
             },
@@ -1743,24 +1779,24 @@
         {
           "triples": [
             [
-              "*asimov",
-              "wikipagerevisionid",
-              "545040"
+              "*isaac_asimov",
+              "surname",
+              "*asimov"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "*isaac_asimov",
+              "obrasdestaque",
+              "*planets_for_man_(livro)"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.379367,
           "detail": {
             "keywords": [
               "asimov",
-              "fundacao"
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.046034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1773,14 +1809,14 @@
                   "resource": "asimov",
                   "score": 10.0
                 },
-                "fundacao": {
+                "livro": {
                   "keyword": {
-                    "termo": "fundacao",
+                    "termo": "livro",
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
+                  "resource": "planets_for_man_(livro)",
+                  "score": 1.046034
                 }
               }
             },
@@ -1792,24 +1828,24 @@
         {
           "triples": [
             [
-              "*asimov",
-              "prov#wasderivedfrom",
-              "*asimov?oldid=545040"
+              "*isaac_asimov",
+              "obrasdestaque",
+              "*planets_for_man_(livro)"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "*isaac_asimov",
+              "sobrenome",
               "*asimov"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.379367,
           "detail": {
             "keywords": [
               "asimov",
-              "fundacao"
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.046034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1822,14 +1858,14 @@
                   "resource": "asimov",
                   "score": 10.0
                 },
-                "fundacao": {
+                "livro": {
                   "keyword": {
-                    "termo": "fundacao",
+                    "termo": "livro",
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
+                  "resource": "planets_for_man_(livro)",
+                  "score": 1.046034
                 }
               }
             },
@@ -1841,24 +1877,24 @@
         {
           "triples": [
             [
-              "*asimov",
-              "language",
-              "pt"
+              "*isaac_asimov",
+              "obrasdestaque",
+              "*planets_for_man_(livro)"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "*isaac_asimov",
+              "surname",
               "*asimov"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.379367,
           "detail": {
             "keywords": [
               "asimov",
-              "fundacao"
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.046034,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1871,14 +1907,14 @@
                   "resource": "asimov",
                   "score": 10.0
                 },
-                "fundacao": {
+                "livro": {
                   "keyword": {
-                    "termo": "fundacao",
+                    "termo": "livro",
                     "peso": 2.0,
                     "classe": "SUB"
                   },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
+                  "resource": "planets_for_man_(livro)",
+                  "score": 1.046034
                 }
               }
             },
@@ -1890,24 +1926,24 @@
         {
           "triples": [
             [
-              "*asimov",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "reino_de_roma",
+              "sobrenome",
+              "*asimov"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "reino_de_roma",
+              "*volume",
+              "x"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
               "asimov",
-              "fundacao"
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1920,14 +1956,14 @@
                   "resource": "asimov",
                   "score": 10.0
                 },
-                "fundacao": {
+                "livro": {
                   "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
+                    "termo": "volume",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -1939,36 +1975,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "abstract",
-              "*solaria e o mais estranho dos planetas espaciais, criado por asimov para o livro the naked sunos solarianos rejeitam qualquer contato fisico como indecente, so tendo contato atraves da hiperonda, uma especie de tv interativa muito comum em historias de ficcao cientifica."
+              "reino_de_roma",
+              "sobrenome",
+              "*asimov"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "reino_de_roma",
+              "*volume",
+              "40"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -1977,6 +2004,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -1988,24 +2024,24 @@
         {
           "triples": [
             [
-              "enciclopedia_galactica",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "reino_de_roma",
+              "*volume",
+              "ii.37.3"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
               "asimov",
-              "fundacao"
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2018,14 +2054,14 @@
                   "resource": "asimov",
                   "score": 10.0
                 },
-                "fundacao": {
+                "livro": {
                   "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
+                    "termo": "volume",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2037,24 +2073,24 @@
         {
           "triples": [
             [
-              "leis_de_clarke",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "reino_de_roma",
+              "*volume",
+              "13"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
               "asimov",
-              "fundacao"
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2067,14 +2103,14 @@
                   "resource": "asimov",
                   "score": 10.0
                 },
-                "fundacao": {
+                "livro": {
                   "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
+                    "termo": "volume",
+                    "peso": 1.0,
                     "classe": "SUB"
                   },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2086,36 +2122,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "rdf_schema#comment",
-              "*solaria e o mais estranho dos planetas espaciais, criado por asimov para o livro the naked sunos solarianos rejeitam qualquer contato fisico como indecente, so tendo contato atraves da hiperonda, uma especie de tv interativa muito comum em historias de ficcao cientifica."
+              "reino_de_roma",
+              "sobrenome",
+              "*asimov"
             ],
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "reino_de_roma",
+              "*volume",
+              "172"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2124,6 +2151,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2135,36 +2171,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*asimov",
-              "owl#sameas",
-              "m.03rx9"
+              "reino_de_roma",
+              "*volume",
+              "63"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2173,6 +2200,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2184,36 +2220,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*asimov",
-              "wikipageoutdegree",
-              "1"
+              "reino_de_roma",
+              "*volume",
+              "iv"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2222,6 +2249,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2233,36 +2269,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*asimov",
-              "wikipageid",
-              "74835"
+              "reino_de_roma",
+              "*volume",
+              "21"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2271,6 +2298,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2282,36 +2318,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*asimov",
-              "wikipagelength",
-              "26"
+              "reino_de_roma",
+              "*volume",
+              "2"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2320,6 +2347,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2331,36 +2367,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*asimov",
-              "wikipageredirects",
-              "*isaac_asimov"
+              "reino_de_roma",
+              "*volume",
+              "22"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2369,6 +2396,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2380,36 +2416,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*asimov",
-              "wikipagerevisionid",
-              "545040"
+              "reino_de_roma",
+              "*volume",
+              "74"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2418,6 +2445,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2429,36 +2465,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*asimov",
-              "prov#wasderivedfrom",
-              "*asimov?oldid=545040"
+              "reino_de_roma",
+              "*volume",
+              "24"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2467,6 +2494,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2478,36 +2514,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*asimov",
-              "language",
-              "pt"
+              "reino_de_roma",
+              "*volume",
+              "31"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2516,6 +2543,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2527,36 +2563,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*asimov",
-              "22_rdf_syntax_ns#type",
-              "document"
+              "reino_de_roma",
+              "*volume",
+              "39"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2565,6 +2592,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2576,36 +2612,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ],
             [
-              "*solaria_(fundacao)",
-              "abstract",
-              "*solaria e o mais estranho dos planetas espaciais, criado por asimov para o livro the naked sunos solarianos rejeitam qualquer contato fisico como indecente, so tendo contato atraves da hiperonda, uma especie de tv interativa muito comum em historias de ficcao cientifica."
+              "reino_de_roma",
+              "*volume",
+              "94"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
-              "asimov"
+              "asimov",
+              "livro"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2614,6 +2641,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2625,36 +2661,27 @@
         {
           "triples": [
             [
-              "*solaria_(fundacao)",
-              "wikipagewikilink",
-              "*asimov"
+              "reino_de_roma",
+              "*volume",
+              "x"
             ],
             [
-              "enciclopedia_galactica",
-              "wikipagewikilink",
+              "reino_de_roma",
+              "sobrenome",
               "*asimov"
             ]
           ],
-          "score": 13.001086,
+          "score": 12.333333,
           "detail": {
             "keywords": [
-              "fundacao",
+              "livro",
               "asimov"
             ],
             "score_detail": {
-              "m1": 11.667753,
+              "m1": 11.0,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
-                "fundacao": {
-                  "keyword": {
-                    "termo": "fundacao",
-                    "peso": 2.0,
-                    "classe": "SUB"
-                  },
-                  "resource": "solaria_(fundacao)",
-                  "score": 1.6677536
-                },
                 "asimov": {
                   "keyword": {
                     "termo": "asimov",
@@ -2663,6 +2690,15 @@
                   },
                   "resource": "asimov",
                   "score": 10.0
+                },
+                "livro": {
+                  "keyword": {
+                    "termo": "volume",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "volume",
+                  "score": 1.0
                 }
               }
             },
@@ -2672,13 +2708,17 @@
           "id": 29
         }
       ],
-      "ranking_time": 68815355174,
+      "ranking_time": 83847210358,
       "l_sizes": [
-        28413,
-        13305724
+        28601,
+        28601
       ],
-      "ranking_time_only": 64812645458,
-      "total_time": 81599396683,
+      "a_sizes": [
+        28601,
+        14052968
+      ],
+      "ranking_time_only": 76092646546,
+      "total_time": 104048501586,
       "timeout": false
     }
   }

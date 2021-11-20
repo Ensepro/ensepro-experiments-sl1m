@@ -128,21 +128,33 @@
             "por": [
               {
                 "synset": "cost",
-                "sinonimo": "valer",
+                "sinonimo": "custar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "cost",
-                "sinonimo": "custar",
+                "sinonimo": "valer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
+                "synset": "cost",
+                "sinonimo": "be",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "claim",
                 "sinonimo": "exact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "claim",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
@@ -154,21 +166,9 @@
               },
               {
                 "synset": "cost",
-                "sinonimo": "be",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "cost",
                 "sinonimo": "cost",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "claim",
-                "sinonimo": "claim",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -230,21 +230,33 @@
             "por": [
               {
                 "synset": "cost",
-                "sinonimo": "valer",
+                "sinonimo": "custar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "cost",
-                "sinonimo": "custar",
+                "sinonimo": "valer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
+                "synset": "cost",
+                "sinonimo": "be",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "claim",
                 "sinonimo": "exact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "claim",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
@@ -256,21 +268,9 @@
               },
               {
                 "synset": "cost",
-                "sinonimo": "be",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "cost",
                 "sinonimo": "cost",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "claim",
-                "sinonimo": "claim",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -333,15 +333,15 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 69,
+          "id": 104,
           "bind_control": {
             "binds": {
               "the_lego_movie": "-1",
-              "custar": 80
+              "custar": 127
             },
             "best_bind": {
               "score": 0.40265304,
-              "resource_id": 80,
+              "resource_id": 127,
               "tr": "custar"
             }
           }
@@ -352,8 +352,8 @@
           "triples": [
             [
               "*the_lego_movie",
-              "wikipageusestemplate",
-              "predefinicao:mais_notas"
+              "depiction",
+              "*the_lego_movie.jpg"
             ]
           ],
           "score": 11.333333,
@@ -380,22 +380,14 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 0,
-          "bind_control": {
-            "binds": {
-              "the_lego_movie": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
+          "id": 0
         },
         {
           "triples": [
             [
               "*the_lego_movie",
-              "wikipageusestemplate",
-              "filme"
+              "thumbnail",
+              "*the_lego_movie.jpg?width=300"
             ]
           ],
           "score": 11.333333,
@@ -422,24 +414,14 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 1,
-          "bind_control": {
-            "binds": {
-              "the_lego_movie": "-1"
-            },
-            "best_bind": {
-              "score": 0.21085321875,
-              "resource_id": 2,
-              "tr": "custar"
-            }
-          }
+          "id": 1
         },
         {
           "triples": [
             [
               "*the_lego_movie",
               "wikipageusestemplate",
-              "predefinicao:euab"
+              "predefinicao:eua"
             ]
           ],
           "score": 11.333333,
@@ -481,7 +463,7 @@
             [
               "*the_lego_movie",
               "wikipageusestemplate",
-              "predefinicao:brab"
+              "predefinicao:aus"
             ]
           ],
           "score": 11.333333,
@@ -523,7 +505,7 @@
             [
               "*the_lego_movie",
               "wikipageusestemplate",
-              "predefinicao:porb"
+              "predefinicao:den"
             ]
           ],
           "score": 11.333333,
@@ -565,7 +547,7 @@
             [
               "*the_lego_movie",
               "wikipageusestemplate",
-              "predefinicao:referencias"
+              "predefinicao:denb"
             ]
           ],
           "score": 11.333333,
@@ -607,7 +589,7 @@
             [
               "*the_lego_movie",
               "wikipageusestemplate",
-              "predefinicao:link"
+              "predefinicao:euab"
             ]
           ],
           "score": 11.333333,
@@ -649,7 +631,7 @@
             [
               "*the_lego_movie",
               "wikipageusestemplate",
-              "predefinicao:bafta_de_melhor_filme_de_animacao"
+              "predefinicao:brab"
             ]
           ],
           "score": 11.333333,
@@ -691,284 +673,6 @@
             [
               "*the_lego_movie",
               "wikipageusestemplate",
-              "predefinicao:portal3"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "the_lego_movie"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "the_lego_movie": {
-                  "keyword": {
-                    "termo": "the_lego_movie",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "the_lego_movie",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 8,
-          "bind_control": {
-            "binds": {
-              "the_lego_movie": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*the_lego_movie",
-              "depiction",
-              "*the_lego_movie.jpg"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "the_lego_movie"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "the_lego_movie": {
-                  "keyword": {
-                    "termo": "the_lego_movie",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "the_lego_movie",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 9
-        },
-        {
-          "triples": [
-            [
-              "*the_lego_movie",
-              "thumbnail",
-              "*the_lego_movie.jpg?width=300"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "the_lego_movie"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "the_lego_movie": {
-                  "keyword": {
-                    "termo": "the_lego_movie",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "the_lego_movie",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 10
-        },
-        {
-          "triples": [
-            [
-              "*the_lego_movie",
-              "wikipageusestemplate",
-              "predefinicao:eua"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "the_lego_movie"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "the_lego_movie": {
-                  "keyword": {
-                    "termo": "the_lego_movie",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "the_lego_movie",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 11,
-          "bind_control": {
-            "binds": {
-              "the_lego_movie": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*the_lego_movie",
-              "wikipageusestemplate",
-              "predefinicao:aus"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "the_lego_movie"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "the_lego_movie": {
-                  "keyword": {
-                    "termo": "the_lego_movie",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "the_lego_movie",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 12,
-          "bind_control": {
-            "binds": {
-              "the_lego_movie": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*the_lego_movie",
-              "wikipageusestemplate",
-              "predefinicao:den"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "the_lego_movie"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "the_lego_movie": {
-                  "keyword": {
-                    "termo": "the_lego_movie",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "the_lego_movie",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 13,
-          "bind_control": {
-            "binds": {
-              "the_lego_movie": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*the_lego_movie",
-              "wikipageusestemplate",
-              "predefinicao:denb"
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "the_lego_movie"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "the_lego_movie": {
-                  "keyword": {
-                    "termo": "the_lego_movie",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "the_lego_movie",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 14,
-          "bind_control": {
-            "binds": {
-              "the_lego_movie": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*the_lego_movie",
-              "wikipageusestemplate",
               "predefinicao:prtb"
             ]
           ],
@@ -996,7 +700,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 15,
+          "id": 8,
           "bind_control": {
             "binds": {
               "the_lego_movie": "-1"
@@ -1038,7 +742,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 16,
+          "id": 9,
           "bind_control": {
             "binds": {
               "the_lego_movie": "-1"
@@ -1080,49 +784,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 17,
-          "bind_control": {
-            "binds": {
-              "the_lego_movie": "-1"
-            },
-            "best_bind": {
-              "score": 0
-            }
-          }
-        },
-        {
-          "triples": [
-            [
-              "*the_lego_movie",
-              "homepage",
-              24
-            ]
-          ],
-          "score": 11.333333,
-          "detail": {
-            "keywords": [
-              "the_lego_movie"
-            ],
-            "score_detail": {
-              "m1": 10.0,
-              "m2": 0.33333334,
-              "m3": 1.0,
-              "matches": {
-                "the_lego_movie": {
-                  "keyword": {
-                    "termo": "the_lego_movie",
-                    "peso": 10.0,
-                    "classe": "PROP"
-                  },
-                  "resource": "the_lego_movie",
-                  "score": 10.0
-                }
-              }
-            },
-            "proper_nouns_count": 1,
-            "proper_nouns_matched_count": 1
-          },
-          "id": 18,
+          "id": 10,
           "bind_control": {
             "binds": {
               "the_lego_movie": "-1"
@@ -1137,7 +799,7 @@
             [
               "*the_lego_movie",
               "wikipageexternallink",
-              24
+              17
             ]
           ],
           "score": 11.333333,
@@ -1164,7 +826,7 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 19,
+          "id": 11,
           "bind_control": {
             "binds": {
               "the_lego_movie": "-1"
@@ -1206,7 +868,345 @@
             "proper_nouns_count": 1,
             "proper_nouns_matched_count": 1
           },
-          "id": 20
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*the_lego_movie",
+              "wikipageusestemplate",
+              "predefinicao:mais_notas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "the_lego_movie"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "the_lego_movie": {
+                  "keyword": {
+                    "termo": "the_lego_movie",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_lego_movie",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "the_lego_movie": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*the_lego_movie",
+              "wikipageusestemplate",
+              "filme"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "the_lego_movie"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "the_lego_movie": {
+                  "keyword": {
+                    "termo": "the_lego_movie",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_lego_movie",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "the_lego_movie": "-1"
+            },
+            "best_bind": {
+              "score": 0.21085321875,
+              "resource_id": 6,
+              "tr": "custar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*the_lego_movie",
+              "wikipageusestemplate",
+              "predefinicao:porb"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "the_lego_movie"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "the_lego_movie": {
+                  "keyword": {
+                    "termo": "the_lego_movie",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_lego_movie",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "the_lego_movie": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*the_lego_movie",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "the_lego_movie"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "the_lego_movie": {
+                  "keyword": {
+                    "termo": "the_lego_movie",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_lego_movie",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "the_lego_movie": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*the_lego_movie",
+              "wikipageusestemplate",
+              "predefinicao:link"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "the_lego_movie"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "the_lego_movie": {
+                  "keyword": {
+                    "termo": "the_lego_movie",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_lego_movie",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "the_lego_movie": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*the_lego_movie",
+              "wikipageusestemplate",
+              "predefinicao:bafta_de_melhor_filme_de_animacao"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "the_lego_movie"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "the_lego_movie": {
+                  "keyword": {
+                    "termo": "the_lego_movie",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_lego_movie",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "the_lego_movie": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*the_lego_movie",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "the_lego_movie"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "the_lego_movie": {
+                  "keyword": {
+                    "termo": "the_lego_movie",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_lego_movie",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "the_lego_movie": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*the_lego_movie",
+              "owl#sameas",
+              "m.0n4g1dj"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "the_lego_movie"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "the_lego_movie": {
+                  "keyword": {
+                    "termo": "the_lego_movie",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_lego_movie",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "the_lego_movie": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
         },
         {
           "triples": [
@@ -1289,7 +1289,7 @@
             },
             "best_bind": {
               "score": 0.21894968,
-              "resource_id": 26,
+              "resource_id": 27,
               "tr": "custar"
             }
           }
@@ -1333,7 +1333,7 @@
             },
             "best_bind": {
               "score": 0.21894968,
-              "resource_id": 26,
+              "resource_id": 27,
               "tr": "custar"
             }
           }
@@ -1419,7 +1419,7 @@
             },
             "best_bind": {
               "score": 0.21894968,
-              "resource_id": 26,
+              "resource_id": 27,
               "tr": "custar"
             }
           }
@@ -1505,7 +1505,7 @@
             },
             "best_bind": {
               "score": 0.21894968,
-              "resource_id": 26,
+              "resource_id": 27,
               "tr": "custar"
             }
           }
@@ -1549,7 +1549,7 @@
             },
             "best_bind": {
               "score": 0.21894968,
-              "resource_id": 26,
+              "resource_id": 27,
               "tr": "custar"
             }
           }
@@ -1597,12 +1597,15 @@
           }
         }
       ],
-      "ranking_time": 914780277,
+      "ranking_time": 822558050,
       "l_sizes": [
-        1136
+        938
       ],
-      "ranking_time_only": 70217713,
-      "total_time": 8720817383,
+      "a_sizes": [
+        938
+      ],
+      "ranking_time_only": 77084599,
+      "total_time": 7680433714,
       "timeout": false
     }
   }

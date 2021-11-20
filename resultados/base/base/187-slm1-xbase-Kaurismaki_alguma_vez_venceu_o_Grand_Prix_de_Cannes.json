@@ -183,22 +183,22 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "occasion",
+                "sinonimo": "ocasião",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "go",
+                "sinonimo": "vez",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "turn",
                 "sinonimo": "jogo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
-              },
-              {
-                "synset": "occasion",
-                "sinonimo": "vez",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "occasion",
-                "sinonimo": "chance",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
               },
               {
                 "synset": "go",
@@ -208,24 +208,12 @@
               },
               {
                 "synset": "occasion",
-                "sinonimo": "ocasião",
+                "sinonimo": "chance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "05"
               }
             ],
             "eng": [
-              {
-                "synset": "turn",
-                "sinonimo": "turn",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "go",
-                "sinonimo": "tour",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "time",
                 "sinonimo": "time",
@@ -233,8 +221,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "time",
-                "sinonimo": "clip",
+                "synset": "go",
+                "sinonimo": "tour",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -245,22 +233,34 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "occasion",
+                "sinonimo": "occasion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
                 "synset": "go",
                 "sinonimo": "spell",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
+                "synset": "time",
+                "sinonimo": "clip",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "turn",
-                "sinonimo": "play",
+                "sinonimo": "turn",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "occasion",
-                "sinonimo": "occasion",
+                "synset": "turn",
+                "sinonimo": "play",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -283,32 +283,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "get_the_better_of",
-                "sinonimo": "superado",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "acquire",
-                "sinonimo": "obter",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "prevail",
-                "sinonimo": "triunfar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "get_the_better_of",
-                "sinonimo": "vencer",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "overcome",
+                "synset": "beat",
                 "sinonimo": "ultrapassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "triunfar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -319,10 +301,10 @@
                 "distancia_semantica": "05"
               },
               {
-                "synset": "get_the_best",
-                "sinonimo": "superar",
+                "synset": "acquire",
+                "sinonimo": "obter",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "beat",
@@ -332,15 +314,21 @@
               },
               {
                 "synset": "acquire",
-                "sinonimo": "auferir",
+                "sinonimo": "atingir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
               {
-                "synset": "win",
+                "synset": "acquire",
                 "sinonimo": "ganhar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "derrotar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "acquire",
@@ -349,22 +337,10 @@
                 "distancia_semantica": "05"
               },
               {
-                "synset": "acquire",
-                "sinonimo": "atingir",
+                "synset": "beat",
+                "sinonimo": "vencer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "overcome",
-                "sinonimo": "derrotar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "overcome",
-                "sinonimo": "subjugar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "acquire",
@@ -377,12 +353,48 @@
                 "sinonimo": "adquirir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "subjugar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_better_of",
+                "sinonimo": "superado",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "auferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "superar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
+                "synset": "overcome",
+                "sinonimo": "surmount",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "trounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "outdo",
-                "sinonimo": "outflank",
+                "sinonimo": "trump",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -393,50 +405,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "overcome",
-                "sinonimo": "surmount",
+                "synset": "beat",
+                "sinonimo": "vanquish",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "outdo",
-                "sinonimo": "best",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "prevail",
-                "sinonimo": "triumph",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "outdo",
-                "sinonimo": "trump",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "overcome",
-                "sinonimo": "get_over",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "overcome",
-                "sinonimo": "overcome",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "outdo",
-                "sinonimo": "scoop",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "beat",
-                "sinonimo": "vanquish",
+                "sinonimo": "shell",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -447,10 +423,46 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "beat",
-                "sinonimo": "shell",
+                "synset": "get_the_best",
+                "sinonimo": "overcome",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "get_over",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_best",
+                "sinonimo": "get_the_best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "outflank",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_best",
+                "sinonimo": "have_the_best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "scoop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "beat",
@@ -459,26 +471,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "acquire",
-                "sinonimo": "acquire",
+                "synset": "beat",
+                "sinonimo": "beat_out",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "get_the_better_of",
                 "sinonimo": "defeat",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "beat",
-                "sinonimo": "trounce",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "get_the_best",
-                "sinonimo": "get_the_best",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -495,8 +495,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "get_the_best",
-                "sinonimo": "have_the_best",
+                "synset": "beat",
+                "sinonimo": "beat",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -513,20 +513,20 @@
                 "distancia_semantica": "05"
               },
               {
-                "synset": "beat",
-                "sinonimo": "beat",
+                "synset": "prevail",
+                "sinonimo": "prevail",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "04"
               },
               {
-                "synset": "beat",
-                "sinonimo": "beat_out",
+                "synset": "acquire",
+                "sinonimo": "acquire",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "prevail",
-                "sinonimo": "prevail",
+                "sinonimo": "triumph",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "04"
               }
@@ -571,22 +571,22 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "occasion",
+                "sinonimo": "ocasião",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "go",
+                "sinonimo": "vez",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "turn",
                 "sinonimo": "jogo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
-              },
-              {
-                "synset": "occasion",
-                "sinonimo": "vez",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "occasion",
-                "sinonimo": "chance",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
               },
               {
                 "synset": "go",
@@ -596,24 +596,12 @@
               },
               {
                 "synset": "occasion",
-                "sinonimo": "ocasião",
+                "sinonimo": "chance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "05"
               }
             ],
             "eng": [
-              {
-                "synset": "turn",
-                "sinonimo": "turn",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "go",
-                "sinonimo": "tour",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "time",
                 "sinonimo": "time",
@@ -621,8 +609,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "time",
-                "sinonimo": "clip",
+                "synset": "go",
+                "sinonimo": "tour",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -633,22 +621,34 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "occasion",
+                "sinonimo": "occasion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
                 "synset": "go",
                 "sinonimo": "spell",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
+                "synset": "time",
+                "sinonimo": "clip",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "turn",
-                "sinonimo": "play",
+                "sinonimo": "turn",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "occasion",
-                "sinonimo": "occasion",
+                "synset": "turn",
+                "sinonimo": "play",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -671,32 +671,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "get_the_better_of",
-                "sinonimo": "superado",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "acquire",
-                "sinonimo": "obter",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "prevail",
-                "sinonimo": "triunfar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "get_the_better_of",
-                "sinonimo": "vencer",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "overcome",
+                "synset": "beat",
                 "sinonimo": "ultrapassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "triunfar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -707,10 +689,10 @@
                 "distancia_semantica": "05"
               },
               {
-                "synset": "get_the_best",
-                "sinonimo": "superar",
+                "synset": "acquire",
+                "sinonimo": "obter",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "beat",
@@ -720,15 +702,21 @@
               },
               {
                 "synset": "acquire",
-                "sinonimo": "auferir",
+                "sinonimo": "atingir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
               {
-                "synset": "win",
+                "synset": "acquire",
                 "sinonimo": "ganhar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "derrotar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "acquire",
@@ -737,22 +725,10 @@
                 "distancia_semantica": "05"
               },
               {
-                "synset": "acquire",
-                "sinonimo": "atingir",
+                "synset": "beat",
+                "sinonimo": "vencer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "overcome",
-                "sinonimo": "derrotar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "overcome",
-                "sinonimo": "subjugar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "acquire",
@@ -765,12 +741,48 @@
                 "sinonimo": "adquirir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "subjugar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_better_of",
+                "sinonimo": "superado",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "auferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "superar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
+                "synset": "overcome",
+                "sinonimo": "surmount",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "trounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "outdo",
-                "sinonimo": "outflank",
+                "sinonimo": "trump",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -781,50 +793,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "overcome",
-                "sinonimo": "surmount",
+                "synset": "beat",
+                "sinonimo": "vanquish",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "outdo",
-                "sinonimo": "best",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "prevail",
-                "sinonimo": "triumph",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "outdo",
-                "sinonimo": "trump",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "overcome",
-                "sinonimo": "get_over",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "overcome",
-                "sinonimo": "overcome",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "outdo",
-                "sinonimo": "scoop",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "beat",
-                "sinonimo": "vanquish",
+                "sinonimo": "shell",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -835,10 +811,46 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "beat",
-                "sinonimo": "shell",
+                "synset": "get_the_best",
+                "sinonimo": "overcome",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "get_over",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_best",
+                "sinonimo": "get_the_best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "outflank",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_best",
+                "sinonimo": "have_the_best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "scoop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "beat",
@@ -847,26 +859,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "acquire",
-                "sinonimo": "acquire",
+                "synset": "beat",
+                "sinonimo": "beat_out",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "get_the_better_of",
                 "sinonimo": "defeat",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "beat",
-                "sinonimo": "trounce",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "get_the_best",
-                "sinonimo": "get_the_best",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -883,8 +883,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "get_the_best",
-                "sinonimo": "have_the_best",
+                "synset": "beat",
+                "sinonimo": "beat",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -901,20 +901,20 @@
                 "distancia_semantica": "05"
               },
               {
-                "synset": "beat",
-                "sinonimo": "beat",
+                "synset": "prevail",
+                "sinonimo": "prevail",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "04"
               },
               {
-                "synset": "beat",
-                "sinonimo": "beat_out",
+                "synset": "acquire",
+                "sinonimo": "acquire",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "prevail",
-                "sinonimo": "prevail",
+                "sinonimo": "triumph",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "04"
               }
@@ -929,7 +929,7 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [],
-      "total_time": 10668405614,
+      "total_time": 14803238403,
       "timeout": false
     }
   }
