@@ -1,0 +1,2493 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "papa",
+          "palavra_canonica": "papa",
+          "tags": [
+            "<food-h>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "fundou",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Televisão_do_Vaticano",
+          "palavra_canonica": "Televisão_do_Vaticano",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "papa",
+          "palavra_canonica": "papa",
+          "tags": [
+            "<food-h>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pope",
+                "sinonimo": "pontífice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pope",
+                "sinonimo": "pontiff",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Roman_Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Bishop_of_Rome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Vicar_of_Christ",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Holy_Father",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Alexander_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "fundou",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "establish",
+                "sinonimo": "estabelecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "fundar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "establish",
+                "sinonimo": "plant",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "found",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "establish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "institute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "constitute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Televisão_do_Vaticano",
+          "palavra_canonica": "Televisão_do_Vaticano",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.86,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "papa",
+          "palavra_canonica": "papa",
+          "tags": [
+            "<food-h>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pope",
+                "sinonimo": "pontífice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pope",
+                "sinonimo": "pontiff",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Roman_Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Bishop_of_Rome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Vicar_of_Christ",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Holy_Father",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Alexander_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "fundou",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "establish",
+                "sinonimo": "estabelecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "fundar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "establish",
+                "sinonimo": "plant",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "found",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "establish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "institute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "constitute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Televisão_do_Vaticano",
+          "palavra_canonica": "Televisão_do_Vaticano",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "arquidiocese_de_campo_grande",
+              "*fundacao",
+              "*por papa pio xii,"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "arquidiocese_de_campo_grande",
+              "*fundacao",
+              "*por papa pio xii,"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "*santiago_papasquiaro",
+              "*fundacao",
+              "1597"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "*santiago_papasquiaro",
+              "*fundacao",
+              "1597"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "arquidiocese_de_natal",
+              "*fundacao",
+              "*pela bula apostolicam in singulis do papa pio x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "arquidiocese_de_natal",
+              "*fundacao",
+              "*pela bula apostolicam in singulis do papa pio x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ],
+            [
+              "arquidiocese_de_campo_grande",
+              "*fundacao",
+              "*por papa pio xii,"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ],
+            [
+              "*santiago_papasquiaro",
+              "*fundacao",
+              "1597"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ],
+            [
+              "arquidiocese_de_natal",
+              "*fundacao",
+              "*pela bula apostolicam in singulis do papa pio x"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ],
+            [
+              "arquidiocese_de_campo_grande",
+              "*fundacao",
+              "*por papa pio xii,"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ],
+            [
+              "*santiago_papasquiaro",
+              "*fundacao",
+              "1597"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ],
+            [
+              "arquidiocese_de_natal",
+              "*fundacao",
+              "*pela bula apostolicam in singulis do papa pio x"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "arquidiocese_de_campo_grande",
+              "*fundacao",
+              "*por papa pio xii,"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "arquidiocese_de_campo_grande",
+              "*fundacao",
+              "*por papa pio xii,"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "*santiago_papasquiaro",
+              "*fundacao",
+              "1597"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "*santiago_papasquiaro",
+              "*fundacao",
+              "1597"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "arquidiocese_de_natal",
+              "*fundacao",
+              "*pela bula apostolicam in singulis do papa pio x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "arquidiocese_de_natal",
+              "*fundacao",
+              "*pela bula apostolicam in singulis do papa pio x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ],
+            [
+              "arquidiocese_de_campo_grande",
+              "*fundacao",
+              "*por papa pio xii,"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ],
+            [
+              "*santiago_papasquiaro",
+              "*fundacao",
+              "1597"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ],
+            [
+              "arquidiocese_de_natal",
+              "*fundacao",
+              "*pela bula apostolicam in singulis do papa pio x"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ],
+            [
+              "arquidiocese_de_campo_grande",
+              "*fundacao",
+              "*por papa pio xii,"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ],
+            [
+              "*santiago_papasquiaro",
+              "*fundacao",
+              "1597"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ],
+            [
+              "arquidiocese_de_natal",
+              "*fundacao",
+              "*pela bula apostolicam in singulis do papa pio x"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "criancas_da_eucaristia",
+              "*fundador",
+              "*papa bento xv"
+            ],
+            [
+              "arquidiocese_de_campo_grande",
+              "*fundacao",
+              "*por papa pio xii,"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "criancas_da_eucaristia",
+              "*fundador",
+              "*papa bento xv"
+            ],
+            [
+              "arquidiocese_de_campo_grande",
+              "*fundacao",
+              "*por papa pio xii,"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "criancas_da_eucaristia",
+              "*fundador",
+              "*papa bento xv"
+            ],
+            [
+              "*santiago_papasquiaro",
+              "*fundacao",
+              "1597"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "criancas_da_eucaristia",
+              "*fundador",
+              "*papa bento xv"
+            ],
+            [
+              "*santiago_papasquiaro",
+              "*fundacao",
+              "1597"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "criancas_da_eucaristia",
+              "*fundador",
+              "*papa bento xv"
+            ],
+            [
+              "arquidiocese_de_natal",
+              "*fundacao",
+              "*pela bula apostolicam in singulis do papa pio x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:info"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "criancas_da_eucaristia",
+              "*fundador",
+              "*papa bento xv"
+            ],
+            [
+              "arquidiocese_de_natal",
+              "*fundacao",
+              "*pela bula apostolicam in singulis do papa pio x"
+            ],
+            [
+              "*papa",
+              "wikipageusestemplate",
+              "predefinicao:pagename"
+            ]
+          ],
+          "score": 6.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 6.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 20963833635,
+      "l_sizes": [
+        15350,
+        10,
+        10
+      ],
+      "a_sizes": [
+        15350,
+        2,
+        720
+      ],
+      "ranking_time_only": 244226200,
+      "total_time": 36318447363,
+      "timeout": false
+    }
+  }
+]
