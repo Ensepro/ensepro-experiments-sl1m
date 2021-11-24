@@ -92,16 +92,16 @@ slm1_jar = "/jars/ensepro-answer-generator-size-slm1.jar"
 configs_file = "/ensepro-core/ensepro/configuracoes/configs.json"
 frases = carregar_frases("../phrases/qald7.txt")
 slm1_only_l1_options = [True, False]
-sizes = [10, 50, 75, 100, 150, 200, 300, 400, 500, 750, 1000]
+sizes = [10, 30, 50, 75,100, 150, 200, 300, 400, 500]
 
 for slm1_only_l1 in slm1_only_l1_options:
     for size in sizes:
         execEnsepro("slm1", configs_file, slm1_jar, size, slm1_only_l1)
 execEnsepro("base", configs_file, base_jar)
 
-configs_file = "/ensepro-core/ensepro/configuracoes/configs.json"
-slm1_only_l1_options = [True, False]
-sizes = [10, 50, 75, 100, 150, 200, 300, 400, 500, 750, 1000]
+# configs_file = "/ensepro-core/ensepro/configuracoes/configs.json"
+# slm1_only_l1_options = [True, False]
+# sizes = [10, 30, 50, 75, 100, 150, 200, 300, 400, 500]
 
 all_jar = "/jars/ensepro-answer-generator-"
 jars = [
@@ -111,7 +111,7 @@ jars = [
     "all5"
 ]
 
-for jar in jars:
+for size in sizes:
     for slm1_only_l1 in slm1_only_l1_options:
-        for size in sizes:
+        for jar in jars:
             execEnsepro(jar, configs_file, all_jar + jar + ".jar", size, slm1_only_l1)
