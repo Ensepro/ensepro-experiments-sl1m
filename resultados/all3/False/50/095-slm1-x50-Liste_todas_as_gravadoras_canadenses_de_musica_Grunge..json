@@ -1,0 +1,614 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Liste",
+          "palavra_canonica": "listar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todas_as",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "gravadoras",
+          "palavra_canonica": "gravadora",
+          "tags": [
+            "<Hprof>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "canadenses",
+          "palavra_canonica": "canadense",
+          "tags": [
+            "<nat>",
+            "<jh>",
+            "<np-close>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "música",
+          "palavra_canonica": "músico",
+          "tags": [
+            "<nh>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:n",
+          "palavra_original": "Grunge",
+          "palavra_canonica": "grunge",
+          "tags": [
+            "<*>",
+            "<sem-l>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": ".",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [P:v-fin|2| Liste] [ Od:np|3| [DN:pron-indef|4| todas_as] [H:n|5| gravadoras] [DN:adj|6| canadenses] [ DN:pp|7| [H:prp|8| de] [ DP:np|9| [DN:adj|10| música] [H:n|11| Grunge] ] ] ] [.|12|  ] ] ]",
+      "tipo": {
+        "tipo": "consulta",
+        "confianca": 0.68,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "gravadoras",
+          "palavra_canonica": "gravadora",
+          "tags": [
+            "<Hprof>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:n",
+          "palavra_original": "Grunge",
+          "palavra_canonica": "grunge",
+          "tags": [
+            "<*>",
+            "<sem-l>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "gravadoras",
+            "palavra_canonica": "gravadora",
+            "tags": [
+              "<Hprof>",
+              "F",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          },
+          "complemento": {
+            "id": 6,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "canadenses",
+            "palavra_canonica": "canadense",
+            "tags": [
+              "<nat>",
+              "<jh>",
+              "<np-close>",
+              "F",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "gravadoras",
+            "palavra_canonica": "gravadora",
+            "tags": [
+              "<Hprof>",
+              "F",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          },
+          "complemento": {
+            "id": 11,
+            "tag_inicial": "H:n",
+            "palavra_original": "Grunge",
+            "palavra_canonica": "grunge",
+            "tags": [
+              "<*>",
+              "<sem-l>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        },
+        {
+          "nome": {
+            "id": 11,
+            "tag_inicial": "H:n",
+            "palavra_original": "Grunge",
+            "palavra_canonica": "grunge",
+            "tags": [
+              "<*>",
+              "<sem-l>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          },
+          "complemento": {
+            "id": 10,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "música",
+            "palavra_canonica": "músico",
+            "tags": [
+              "<nh>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": null
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Liste",
+          "palavra_canonica": "listar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todas_as",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "gravadoras",
+          "palavra_canonica": "gravadora",
+          "tags": [
+            "<Hprof>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "canadenses",
+          "palavra_canonica": "canadense",
+          "tags": [
+            "<nat>",
+            "<jh>",
+            "<np-close>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "música",
+          "palavra_canonica": "músico",
+          "tags": [
+            "<nh>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:n",
+          "palavra_original": "Grunge",
+          "palavra_canonica": "grunge",
+          "tags": [
+            "<*>",
+            "<sem-l>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": ".",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [P:v-fin|2| Liste] [ Od:np|3| [DN:pron-indef|4| todas_as] [H:n|5| gravadoras] [DN:adj|6| canadenses] [ DN:pp|7| [H:prp|8| de] [ DP:np|9| [DN:adj|10| música] [H:n|11| Grunge] ] ] ] [.|12|  ] ] ]",
+      "tipo": {
+        "tipo": "consulta",
+        "confianca": 0.68,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "gravadoras",
+          "palavra_canonica": "gravadora",
+          "tags": [
+            "<Hprof>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:n",
+          "palavra_original": "Grunge",
+          "palavra_canonica": "grunge",
+          "tags": [
+            "<*>",
+            "<sem-l>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "gravadoras",
+            "palavra_canonica": "gravadora",
+            "tags": [
+              "<Hprof>",
+              "F",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          },
+          "complemento": {
+            "id": 6,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "canadenses",
+            "palavra_canonica": "canadense",
+            "tags": [
+              "<nat>",
+              "<jh>",
+              "<np-close>",
+              "F",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "gravadoras",
+            "palavra_canonica": "gravadora",
+            "tags": [
+              "<Hprof>",
+              "F",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          },
+          "complemento": {
+            "id": 11,
+            "tag_inicial": "H:n",
+            "palavra_original": "Grunge",
+            "palavra_canonica": "grunge",
+            "tags": [
+              "<*>",
+              "<sem-l>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        },
+        {
+          "nome": {
+            "id": 11,
+            "tag_inicial": "H:n",
+            "palavra_original": "Grunge",
+            "palavra_canonica": "grunge",
+            "tags": [
+              "<*>",
+              "<sem-l>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          },
+          "complemento": {
+            "id": 10,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "música",
+            "palavra_canonica": "músico",
+            "tags": [
+              "<nh>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": null
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "total_time": 23318156785,
+      "timeout": false
+    }
+  }
+]

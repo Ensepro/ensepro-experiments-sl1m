@@ -1,0 +1,2995 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Encontre",
+          "palavra_canonica": "encontrar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Co:icl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "dirigidos",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<jh>",
+            "<passive>",
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "fApass:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "por",
+          "palavra_canonica": "por",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Francis",
+          "palavra_canonica": "Francis",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Ford_Coppola",
+          "palavra_canonica": "Ford_Coppola",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": ".",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "DN:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Ford_coppola",
+          "palavra_canonica": "Ford_coppola",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Co:icl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "dirigidos",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<jh>",
+            "<passive>",
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "target",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "fApass:prp",
+          "palavra_original": "por",
+          "palavra_canonica": "por",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "desconhecido",
+        "confianca": 1,
+        "ids": []
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Ford_coppola",
+          "palavra_canonica": "Ford_coppola",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "dirigidos",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<jh>",
+            "<passive>",
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "target",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*nazare_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*oxala_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*silvestre_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*francisca_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*adao_e_eva_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*tentacao_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*bocage_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*gado_bravo_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*a_severa_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*love_me_tender_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*faces_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*jailhouse_rock_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*g.i._blues_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*blue_hawaii_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*xanadu_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*follow_that_dream_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*girls!_girls!_girls!_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*iris_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*human_nature_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*get_over_it_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*ghost_rider_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*viva_las_vegas_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*uma_vida_em_segredo_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*danton_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*alpicat",
+              "*point",
+              "41.668055555555554 0.5561111111111111"
+            ],
+            [
+              "*sargento_getulio_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*pico_ruivo",
+              "*point",
+              "32.763888888888886 -16.925833333333333"
+            ],
+            [
+              "*nazare_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*pico_ruivo",
+              "*point",
+              "32.763888888888886 -16.925833333333333"
+            ],
+            [
+              "*oxala_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*pico_ruivo",
+              "*point",
+              "32.763888888888886 -16.925833333333333"
+            ],
+            [
+              "*silvestre_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*pico_ruivo",
+              "*point",
+              "32.763888888888886 -16.925833333333333"
+            ],
+            [
+              "*francisca_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*1911_(filme)",
+              "*diretor",
+              "jackie_chan"
+            ],
+            [
+              "*pico_ruivo",
+              "*point",
+              "32.763888888888886 -16.925833333333333"
+            ],
+            [
+              "*adao_e_eva_(filme)",
+              "wikipageusestemplate",
+              "*filme"
+            ]
+          ],
+          "score": 5.3333335,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "filme",
+              "dirigir"
+            ],
+            "score_detail": {
+              "m1": 5.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "point",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "point",
+                  "score": 1.0
+                },
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "filme",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 18567256342,
+      "l_sizes": [
+        31028,
+        80,
+        43,
+        28
+      ],
+      "a_sizes": [
+        31028,
+        658,
+        264966,
+        13285272
+      ],
+      "ranking_time_only": 16175079970,
+      "total_time": 27959318293,
+      "timeout": false
+    }
+  }
+]

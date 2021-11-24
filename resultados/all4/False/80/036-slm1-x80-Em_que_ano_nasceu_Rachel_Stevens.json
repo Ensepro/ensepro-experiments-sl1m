@@ -1,0 +1,670 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np-",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "ano",
+          "palavra_canonica": "ano",
+          "tags": [
+            "<dur>",
+            "<temp>",
+            "<per>",
+            "<unit>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "-S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DNapp:prop",
+          "palavra_original": "Rachel_Stevens",
+          "palavra_canonica": "Rachel_Stevens",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "DNapp:prop",
+          "palavra_original": "Rachel_stevens",
+          "palavra_canonica": "Rachel_stevens",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "ano",
+          "palavra_canonica": "ano",
+          "tags": [
+            "<dur>",
+            "<temp>",
+            "<per>",
+            "<unit>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "class",
+                "sinonimo": "classe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "sleep",
+                "sinonimo": "sesta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "school",
+                "sinonimo": "ano",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "sleep",
+                "sinonimo": "sono",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "solar_year",
+                "sinonimo": "ano_trópico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "class",
+                "sinonimo": "curso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "idade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "velhice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "school",
+                "sinonimo": "school",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "year",
+                "sinonimo": "year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "eld",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "old_age",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "solar_year",
+                "sinonimo": "tropical_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "school",
+                "sinonimo": "school_day",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "calendar_year",
+                "sinonimo": "civil_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "years",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "calendar_year",
+                "sinonimo": "calendar_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "sleep",
+                "sinonimo": "sleep",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "solar_year",
+                "sinonimo": "equinoctial_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "year",
+                "sinonimo": "twelvemonth",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "age",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "school",
+                "sinonimo": "schooltime",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "school_year",
+                "sinonimo": "academic_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "year",
+                "sinonimo": "yr",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "school_year",
+                "sinonimo": "school_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "solar_year",
+                "sinonimo": "astronomical_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "class",
+                "sinonimo": "class",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "geezerhood",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "sleep",
+                "sinonimo": "nap",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "solar_year",
+                "sinonimo": "solar_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "STA:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 0,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "be_born",
+                "sinonimo": "nascer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "be_born",
+                "sinonimo": "vir_ao_mundo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "be_born",
+                "sinonimo": "be_born",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.76,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "ano",
+          "palavra_canonica": "ano",
+          "tags": [
+            "<dur>",
+            "<temp>",
+            "<per>",
+            "<unit>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "class",
+                "sinonimo": "classe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "sleep",
+                "sinonimo": "sesta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "school",
+                "sinonimo": "ano",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "sleep",
+                "sinonimo": "sono",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "solar_year",
+                "sinonimo": "ano_trópico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "class",
+                "sinonimo": "curso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "idade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "velhice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "school",
+                "sinonimo": "school",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "year",
+                "sinonimo": "year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "eld",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "old_age",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "solar_year",
+                "sinonimo": "tropical_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "school",
+                "sinonimo": "school_day",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "calendar_year",
+                "sinonimo": "civil_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "years",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "calendar_year",
+                "sinonimo": "calendar_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "sleep",
+                "sinonimo": "sleep",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "solar_year",
+                "sinonimo": "equinoctial_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "year",
+                "sinonimo": "twelvemonth",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "age",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "school",
+                "sinonimo": "schooltime",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "school_year",
+                "sinonimo": "academic_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "year",
+                "sinonimo": "yr",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "school_year",
+                "sinonimo": "school_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "solar_year",
+                "sinonimo": "astronomical_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "class",
+                "sinonimo": "class",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "old_age",
+                "sinonimo": "geezerhood",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "sleep",
+                "sinonimo": "nap",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "solar_year",
+                "sinonimo": "solar_year",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "STA:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 0,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "be_born",
+                "sinonimo": "nascer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "be_born",
+                "sinonimo": "vir_ao_mundo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "be_born",
+                "sinonimo": "be_born",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "total_time": 7763021566,
+      "timeout": false
+    }
+  }
+]
