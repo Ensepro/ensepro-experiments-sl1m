@@ -1,0 +1,1784 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "rei",
+          "palavra_canonica": "rei",
+          "tags": [
+            "<Htit>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Holanda",
+          "palavra_canonica": "Holanda",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "rei",
+          "palavra_canonica": "rei",
+          "tags": [
+            "<Htit>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "king",
+                "sinonimo": "Rei",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "king",
+                "sinonimo": "rei",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "10"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "king",
+                "sinonimo": "king",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "king",
+                "sinonimo": "Rex",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "king",
+                "sinonimo": "male_monarch",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Países_baixos",
+          "palavra_canonica": "Países_baixos",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [Cs:spec|2| Quem] [P:v-fin|3| é] [ S:np|4| [DN:art|5| o] [H:n|6| rei] [ DN:pp|7| [H:prp|8| de] [ DP:np|9| [DN:art|10| a] [H:prop|11| Países_baixos] ] ] ] [?|12|  ] ] ]",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.89,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "rei",
+          "palavra_canonica": "rei",
+          "tags": [
+            "<Htit>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "king",
+                "sinonimo": "Rei",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "king",
+                "sinonimo": "rei",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "10"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "king",
+                "sinonimo": "king",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "king",
+                "sinonimo": "Rex",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "king",
+                "sinonimo": "male_monarch",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Países_baixos",
+          "palavra_canonica": "Países_baixos",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "rei",
+            "palavra_canonica": "rei",
+            "tags": [
+              "<Htit>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "king",
+                  "sinonimo": "Rei",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "king",
+                  "sinonimo": "rei",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "10"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "king",
+                  "sinonimo": "king",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "king",
+                  "sinonimo": "Rex",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "king",
+                  "sinonimo": "male_monarch",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 11,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Países_baixos",
+            "palavra_canonica": "Países_baixos",
+            "tags": [
+              "<org>",
+              "<*>",
+              "<heur>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*paises_baixos_caribenhos",
+              "titulolider",
+              "*rei"
+            ]
+          ],
+          "score": 12.419039,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 10.752372,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paises_baixos_caribenhos",
+                  "score": 8.752372
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "paises_baixos": "-2881",
+              "rei": "-140"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*reino_unido_dos_paises_baixos",
+              "titulolider",
+              "*rei"
+            ]
+          ],
+          "score": 11.500363,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 9.833696,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "reino_unido_dos_paises_baixos",
+                  "score": 7.833697
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "paises_baixos": "-1487",
+              "rei": "-140"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*paises_baixos_caribenhos",
+              "titulolider",
+              "*rei"
+            ]
+          ],
+          "score": 12.419039,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 10.752372,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paises_baixos_caribenhos",
+                  "score": 8.752372
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "paises_baixos": "-2881",
+              "rei": "-140"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*reino_unido_dos_paises_baixos",
+              "titulolider",
+              "*rei"
+            ]
+          ],
+          "score": 11.500363,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 9.833696,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "reino_unido_dos_paises_baixos",
+                  "score": 7.833697
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "paises_baixos": "-1487",
+              "rei": "-140"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*dia_da_rainha_(paises_baixos)",
+              "nome",
+              "*dia do rei"
+            ]
+          ],
+          "score": 11.019845,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 9.353178,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dia_da_rainha_(paises_baixos)",
+                  "score": 7.833697
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "dia do rei",
+                  "score": 1.5194807
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*sofia_dos_paises_baixos",
+              "abstract",
+              "*a princesa sofia dos paises baixos (8 de abril de 1824  23 de marco de 1897) foi a unica filha do rei guilherme iii dos paises baixos e da sua esposa, a gra-duquesa ana pavlovna da russia. foi herdeira presuntiva da sua sobrinha, a rainha guilhermina dos paises baixos, durante sete anos, entre a morte do irmao dela ate ela propria falecer."
+            ]
+          ],
+          "score": 10.574594,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 8.907927,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sofia_dos_paises_baixos",
+                  "score": 8.907927
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "a princesa sofia dos paises baixos (8 de abril de 1824  23 de marco de 1897) foi a unica filha do rei guilherme iii dos paises baixos e da sua esposa, a gra-duquesa ana pavlovna da russia. foi herdeira presuntiva da sua sobrinha, a rainha guilhermina dos paises baixos, durante sete anos, entre a morte do irmao dela ate ela propria falecer.",
+                  "score": 6.129435e-14
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*alexia_dos_paises_baixos",
+              "abstract",
+              "*alexia juliana marcela laurentina (haia, 26 de junho de 2005) e a segunda filha do rei guilherme alexandre dos paises baixos e da rainha maxima. atualmente, e a segunda na linha de sucessao ao trono holandes, atras de sua irma mais velha, catarina amalia, e a frente de sua irma mais nova, ariana."
+            ]
+          ],
+          "score": 10.419039,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 8.752372,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alexia_dos_paises_baixos",
+                  "score": 8.752372
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "alexia juliana marcela laurentina (haia, 26 de junho de 2005) e a segunda filha do rei guilherme alexandre dos paises baixos e da rainha maxima. atualmente, e a segunda na linha de sucessao ao trono holandes, atras de sua irma mais velha, catarina amalia, e a frente de sua irma mais nova, ariana.",
+                  "score": 4.061618e-12
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*ariana_dos_paises_baixos",
+              "abstract",
+              "*ariana guilhermina maxima ines (haia, 10 de abril de 2007) e a terceira filha do rei guilherme alexandre dos paises baixos e sua esposa, a rainha maxima. atualmente, e a terceira na linha de sucessao ao trono holandes, atras de suas irmas mais velhas, as princesas catarina amalia e alexia."
+            ]
+          ],
+          "score": 10.419039,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 8.752372,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ariana_dos_paises_baixos",
+                  "score": 8.752372
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ariana guilhermina maxima ines (haia, 10 de abril de 2007) e a terceira filha do rei guilherme alexandre dos paises baixos e sua esposa, a rainha maxima. atualmente, e a terceira na linha de sucessao ao trono holandes, atras de suas irmas mais velhas, as princesas catarina amalia e alexia.",
+                  "score": 7.914946e-12
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*maxima_dos_paises_baixos",
+              "abstract",
+              "*maxima zorreguieta cerruti (buenos aires, 17 de maio de 1971) e a esposa do rei guilherme alexandre e rainha consorte dos paises baixos desde 2013. em 30 de abril de 2013, a rainha beatriz abdicou e a princesa maxima tornou-se rainha consorte dos paises baixos devido a subida do seu marido ao trono como rei guilherme alexandre. e a primeira rainha de origem argentina."
+            ]
+          ],
+          "score": 10.419039,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 8.752372,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "maxima_dos_paises_baixos",
+                  "score": 8.752372
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "maxima zorreguieta cerruti (buenos aires, 17 de maio de 1971) e a esposa do rei guilherme alexandre e rainha consorte dos paises baixos desde 2013. em 30 de abril de 2013, a rainha beatriz abdicou e a princesa maxima tornou-se rainha consorte dos paises baixos devido a subida do seu marido ao trono como rei guilherme alexandre. e a primeira rainha de origem argentina.",
+                  "score": 3.8639576e-15
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*guilherme_i_dos_paises_baixos",
+              "titulo",
+              "*rei dos paises baixos"
+            ]
+          ],
+          "score": 10.2940235,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 8.627357,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "guilherme_i_dos_paises_baixos",
+                  "score": 7.833697
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei dos paises baixos",
+                  "score": 0.79365927
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*guilherme_ii_dos_paises_baixos",
+              "titulo",
+              "*rei dos paises baixos"
+            ]
+          ],
+          "score": 10.08296,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 8.416293,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "guilherme_ii_dos_paises_baixos",
+                  "score": 7.622634
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei dos paises baixos",
+                  "score": 0.79365927
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*guilherme_iii_dos_paises_baixos",
+              "titulo",
+              "*rei dos paises baixos"
+            ]
+          ],
+          "score": 9.863549,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 8.196882,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "guilherme_iii_dos_paises_baixos",
+                  "score": 7.403223
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei dos paises baixos",
+                  "score": 0.79365927
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*constantino_dos_paises_baixos",
+              "abstract",
+              "*constantino cristovao frederico aschwin (utrecht, 11 de outubro de 1969) e o terceiro e mais novo filho da rainha beatriz dos paises baixos e seu marido claus von amsberg, sendo o irmao cacula do rei guilherme alexandre. o principe estudou direito na universidade leiden, a universidade mais antiga de seu pais, e trabalhou no departamento de comissionarios de relacoes estrangeiras holandeses da uniao europeia van den broek, em bruxelas. depois, ele foi empregado pela ue e continuou a trabalhar la em varias capacidades ate o fim de 1999. em dezembro de 2000, ele foi honrado com o mestrado em administracao de empresas no instituto europeu de administracao de empresas, em fontainebleau, na franca. ele passou entao um ano trabalhando para a corporacao financeira internacional do banco mundial, em washington dc, nos estados unidos. em 17 de maio de 2001, o principe constantino casou-se com laurentien brinkhorst. apos a cerimonia de casamento, eles se mudaram para londres. atualmente, eles tem tres filhos: \\n*  eloisa de orange-nassau, jonkvrouwe von amsberg, nascida em 8 de junho de 2002. \\n*  claus-casimiro de orange-nassau, jonkheer von amsberg, nascido em 21 de marco de 2004. \\n*  leonor de orange-nassau, jonkvrouwe von amsberg, nascida em 3 de junho de 2006. esportista, constantino gosta de praticar futebol, tenis, golfe e esqui. seus hobbies sao desenhar, cozinhar e ler. ele raramente participa de eventos publicos, como membro da familia real holandesa. atualmente, o principe e sua familia vivem em bruxelas, na belgica."
+            ]
+          ],
+          "score": 9.500363,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 7.833697,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "constantino_dos_paises_baixos",
+                  "score": 7.833697
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "constantino cristovao frederico aschwin (utrecht, 11 de outubro de 1969) e o terceiro e mais novo filho da rainha beatriz dos paises baixos e seu marido claus von amsberg, sendo o irmao cacula do rei guilherme alexandre. o principe estudou direito na universidade leiden, a universidade mais antiga de seu pais, e trabalhou no departamento de comissionarios de relacoes estrangeiras holandeses da uniao europeia van den broek, em bruxelas. depois, ele foi empregado pela ue e continuou a trabalhar la em varias capacidades ate o fim de 1999. em dezembro de 2000, ele foi honrado com o mestrado em administracao de empresas no instituto europeu de administracao de empresas, em fontainebleau, na franca. ele passou entao um ano trabalhando para a corporacao financeira internacional do banco mundial, em washington dc, nos estados unidos. em 17 de maio de 2001, o principe constantino casou-se com laurentien brinkhorst. apos a cerimonia de casamento, eles se mudaram para londres. atualmente, eles tem tres filhos: \\n*  eloisa de orange-nassau, jonkvrouwe von amsberg, nascida em 8 de junho de 2002. \\n*  claus-casimiro de orange-nassau, jonkheer von amsberg, nascido em 21 de marco de 2004. \\n*  leonor de orange-nassau, jonkvrouwe von amsberg, nascida em 3 de junho de 2006. esportista, constantino gosta de praticar futebol, tenis, golfe e esqui. seus hobbies sao desenhar, cozinhar e ler. ele raramente participa de eventos publicos, como membro da familia real holandesa. atualmente, o principe e sua familia vivem em bruxelas, na belgica.",
+                  "score": 0.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*brasao_de_armas_dos_paises_baixos",
+              "abstract",
+              "*o brasao de armas dos paises baixos (grote rijkswapen - grande brasao de armas do reino) e o simbolo da monarquia neerlandesa. foi adotado por decreto do rei guilherme i em 24 de agosto de 1815 pela constituicao do reino dos paises baixos. e uma combinacao dos brasoes de armas de orange-nassau e das provincias unidas dos paises baixos. o escudo e azul, com bilhetes (pequenos retangulos verticais) no cor de ouro, e com um leao tambem de cor de ouro, armado e lampassado no vermelho. este foi o brasao de orange-nassau. o leao e coroado, e tem um grupo de sete setas na sua mao esquerda, e uma espada na sua mao direita. estas cargas sao derivadas do brasao das provincias unidas. as sete setas representam as sete provincias holandesas que revoltaram contra espanha em 1568. sobre o escudo e a coroa real neerlandesa. os suportes sao leoes dourados, tambem armados e lampassados no vermelho. a lema e je maintiendrai, que significa na frances: eu manterei."
+            ]
+          ],
+          "score": 8.608329,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 6.9416623,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "brasao_de_armas_dos_paises_baixos",
+                  "score": 6.9416623
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "o brasao de armas dos paises baixos (grote rijkswapen - grande brasao de armas do reino) e o simbolo da monarquia neerlandesa. foi adotado por decreto do rei guilherme i em 24 de agosto de 1815 pela constituicao do reino dos paises baixos. e uma combinacao dos brasoes de armas de orange-nassau e das provincias unidas dos paises baixos. o escudo e azul, com bilhetes (pequenos retangulos verticais) no cor de ouro, e com um leao tambem de cor de ouro, armado e lampassado no vermelho. este foi o brasao de orange-nassau. o leao e coroado, e tem um grupo de sete setas na sua mao esquerda, e uma espada na sua mao direita. estas cargas sao derivadas do brasao das provincias unidas. as sete setas representam as sete provincias holandesas que revoltaram contra espanha em 1568. sobre o escudo e a coroa real neerlandesa. os suportes sao leoes dourados, tambem armados e lampassados no vermelho. a lema e je maintiendrai, que significa na frances: eu manterei.",
+                  "score": 0.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*guilhermina_da_prussia,_rainha_dos_paises_baixos",
+              "abstract",
+              "*frederica luisa guilhermina da prussia (potsdam, 18 de novembro de 1774  haia, 12 de outubro de 1837) foi a esposa do rei guilherme i e rainha consorte do reino unido dos paises baixos e gra-duquesa consorte de luxemburgo de 1815 ate sua morte. era filha do rei frederico guilherme ii da prussia com sua segunda esposa frederica luisa de hesse-darmstadt."
+            ]
+          ],
+          "score": 4.9083633,
+          "detail": {
+            "keywords": [
+              "paises_baixos",
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 3.2416966,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "paises_baixos": {
+                  "keyword": {
+                    "termo": "paises_baixos",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "guilhermina_da_prussia,_rainha_dos_paises_baixos",
+                  "score": 3.2416966
+                },
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "frederica luisa guilhermina da prussia (potsdam, 18 de novembro de 1774  haia, 12 de outubro de 1837) foi a esposa do rei guilherme i e rainha consorte do reino unido dos paises baixos e gra-duquesa consorte de luxemburgo de 1815 ate sua morte. era filha do rei frederico guilherme ii da prussia com sua segunda esposa frederica luisa de hesse-darmstadt.",
+                  "score": 1.7754786e-14
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "depiction",
+              "baronetuk.jpg"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "thumbnail",
+              "baronetuk.jpg?width=300"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "wikipageusestemplate",
+              "predefinicao:monarquia"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "wikipageusestemplate",
+              "predefinicao:classificacao_da_nobreza"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "wikipageusestemplate",
+              "predefinicao:sfn"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "wikipageusestemplate",
+              "predefinicao:esboco_personalizado"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "subject",
+              "categoria:titulos_de_realeza"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "subject",
+              "*categoria:reis"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "subject",
+              "categoria:monarquia"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "wikipageexternallink",
+              "*index.php?lingua=portugues_portugues&palavra=rei"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "wikipageexternallink",
+              "*rei"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "owl#sameas",
+              "m.03w9bnr"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "owl#sameas",
+              "q12097"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "owl#sameas",
+              "kral"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "owl#sameas",
+              "konig"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*rei",
+              "owl#sameas",
+              "errege"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "rei"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "rei": {
+                  "keyword": {
+                    "termo": "rei",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rei",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 2129964060,
+      "l_sizes": [
+        10936
+      ],
+      "a_sizes": [
+        10936
+      ],
+      "stats": {},
+      "ranking_time_only": 160315061,
+      "total_time": 9973872172,
+      "timeout": false
+    }
+  }
+]

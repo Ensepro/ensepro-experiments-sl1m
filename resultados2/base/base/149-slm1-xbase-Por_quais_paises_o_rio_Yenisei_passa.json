@@ -1,0 +1,2761 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Por",
+          "palavra_canonica": "por",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "países",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:n",
+          "palavra_original": "rio",
+          "palavra_canonica": "rio",
+          "tags": [
+            "<Lwater>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Yenisei",
+          "palavra_canonica": "Yenisei",
+          "tags": [
+            "<top>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "passa",
+          "palavra_canonica": "passar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Por",
+          "palavra_canonica": "por",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "países",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "state",
+                "sinonimo": "país",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "terra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "distrito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "comarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "região",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "república",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "condado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "território",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "países",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "colónia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "domínio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "pais",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "união",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "província",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "districto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição_administriva",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "nação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "bairro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "district",
+                "sinonimo": "dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "country",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "commonwealth",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "land",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "body_politic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "nation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "res_publica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "district",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territorial_dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Rio_ienissei",
+          "palavra_canonica": "Rio_ienissei",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "passa",
+          "palavra_canonica": "passar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pass",
+                "sinonimo": "acercar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "trespassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "spread",
+                "sinonimo": "passar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "traspassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "ceder",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "atravessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "dar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "spread",
+                "sinonimo": "espalhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "entregar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "while_away",
+                "sinonimo": "get_through",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "pass_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "pass",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "turn_over",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "go_through",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "draw",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "go_across",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "hand",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "give",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "reach",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "spread",
+                "sinonimo": "spread",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "run",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "while_away",
+                "sinonimo": "while_away",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.79,
+        "ids": [
+          5
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "países",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "state",
+                "sinonimo": "país",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "terra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "distrito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "comarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "região",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "república",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "condado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "território",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "países",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "colónia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "domínio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "pais",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "união",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "província",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "districto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição_administriva",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "nação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "bairro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "district",
+                "sinonimo": "dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "country",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "commonwealth",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "land",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "body_politic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "nation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "res_publica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "district",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territorial_dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Rio_ienissei",
+          "palavra_canonica": "Rio_ienissei",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "passa",
+          "palavra_canonica": "passar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pass",
+                "sinonimo": "acercar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "trespassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "spread",
+                "sinonimo": "passar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "traspassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "ceder",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "atravessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "dar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "spread",
+                "sinonimo": "espalhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "entregar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "while_away",
+                "sinonimo": "get_through",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "pass_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "pass",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "turn_over",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "go_through",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "draw",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "go_across",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "hand",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "give",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "reach",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "spread",
+                "sinonimo": "spread",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "run",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "while_away",
+                "sinonimo": "while_away",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*harz_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.227316,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.893983,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "harz_(distrito)",
+                  "score": 0.8939829
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-1063"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*harz_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.227316,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.893983,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "harz_(distrito)",
+                  "score": 0.8939829
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "distrito": "-1063",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ],
+            [
+              "*sokol_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sokol_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-879"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*brena_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "brena_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-516"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*ancon_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ancon_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-519"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*arbat_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "arbat_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-896"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*borde_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "borde_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-1056"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*dolpa_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "dolpa_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-2352"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*cahul_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cahul_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-2760"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*brena_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "brena_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "distrito": "-516",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*ancon_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ancon_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "distrito": "-519",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sokol_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sokol_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "distrito": "-879",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*arbat_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "arbat_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "distrito": "-896",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*borde_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "borde_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "distrito": "-1056",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*dolpa_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "dolpa_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "distrito": "-2352",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*cahul_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.208263,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.87493,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cahul_(distrito)",
+                  "score": 0.87492996
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "distrito": "-2760",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*selva_(comarca)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.192904,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.859571,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "comarca",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "selva_(comarca)",
+                  "score": 0.8595719
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "comarca": "-1109"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*selva_(comarca)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.192904,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.859571,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "comarca",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "selva_(comarca)",
+                  "score": 0.8595719
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "comarca": "-1109",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*bienna_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.188221,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.854888,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "bienna_(distrito)",
+                  "score": 0.85488826
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-2681"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*bienna_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.188221,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.854888,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "bienna_(distrito)",
+                  "score": 0.85488826
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "distrito": "-2681",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ],
+            [
+              "*spassky_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ]
+          ],
+          "score": 12.16721,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.833877,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spassky_(distrito)",
+                  "score": 0.8338768
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-2179"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ],
+            [
+              "*zainsky_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ]
+          ],
+          "score": 12.16721,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.833877,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "zainsky_(distrito)",
+                  "score": 0.8338768
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-2185"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*vnukovo_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.16721,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.833877,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vnukovo_(distrito)",
+                  "score": 0.8338768
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-2108"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*mustang_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.16721,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.833877,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mustang_(distrito)",
+                  "score": 0.8338768
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-2342"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*vnukovo_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.16721,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.833877,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vnukovo_(distrito)",
+                  "score": 0.8338768
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "distrito": "-2108",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*spassky_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ]
+          ],
+          "score": 12.16721,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.833877,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spassky_(distrito)",
+                  "score": 0.8338768
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "distrito": "-2179",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*zainsky_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ]
+          ],
+          "score": 12.16721,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.833877,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "zainsky_(distrito)",
+                  "score": 0.8338768
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "distrito": "-2185",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*mustang_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.16721,
+          "detail": {
+            "keywords": [
+              "pais",
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.833877,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mustang_(distrito)",
+                  "score": 0.8338768
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "distrito": "-2342",
+              "rio_ienissei": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ],
+            [
+              "*sabinsky_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:lang_ru"
+            ]
+          ],
+          "score": 12.145259,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.811926,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sabinsky_(distrito)",
+                  "score": 0.8119258
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-2182"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*barranco_(distrito)",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 12.145259,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.811926,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "distrito",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "barranco_(distrito)",
+                  "score": 0.8119258
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "distrito": "-517"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 50835039660,
+      "l_sizes": [
+        28561,
+        28561
+      ],
+      "a_sizes": [
+        28561,
+        4898614
+      ],
+      "stats": {},
+      "ranking_time_only": 42468958089,
+      "total_time": 95315677022,
+      "timeout": false
+    }
+  }
+]

@@ -1,0 +1,1692 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "descobriu",
+          "palavra_canonica": "descobrir",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Ceres",
+          "palavra_canonica": "Ceres",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "descobriu",
+          "palavra_canonica": "descobrir",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "detect",
+                "sinonimo": "relevar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "achar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "informar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "unfold",
+                "sinonimo": "revelar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "determine",
+                "sinonimo": "encontrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "discover",
+                "sinonimo": "descobrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "ver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "inteirar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "detectar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "detetar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "localizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "determine",
+                "sinonimo": "check",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "ascertain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "see",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "get_word",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "determine",
+                "sinonimo": "watch",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "get_wind",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discover",
+                "sinonimo": "find",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "get_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "unfold",
+                "sinonimo": "unfold",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "learn",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "notice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "see_to_it",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "assure",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "detect",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discover",
+                "sinonimo": "discover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "determine",
+                "sinonimo": "determine",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "find_out",
+                "sinonimo": "catch_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "pick_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "turn_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "determine",
+                "sinonimo": "find_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "control",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "insure",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "ensure",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "locate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "hear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "observe",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Ceres_mitologia",
+          "palavra_canonica": "Ceres_mitologia",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.93,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "descobriu",
+          "palavra_canonica": "descobrir",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "detect",
+                "sinonimo": "relevar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "achar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "informar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "unfold",
+                "sinonimo": "revelar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "determine",
+                "sinonimo": "encontrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "discover",
+                "sinonimo": "descobrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "ver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "inteirar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "detectar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "detetar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "localizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "determine",
+                "sinonimo": "check",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "ascertain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "see",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "get_word",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "determine",
+                "sinonimo": "watch",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "get_wind",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discover",
+                "sinonimo": "find",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "get_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "unfold",
+                "sinonimo": "unfold",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "learn",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "notice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "see_to_it",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "assure",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "detect",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discover",
+                "sinonimo": "discover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "determine",
+                "sinonimo": "determine",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "find_out",
+                "sinonimo": "catch_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "pick_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "turn_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "determine",
+                "sinonimo": "find_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "control",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "insure",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "see",
+                "sinonimo": "ensure",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "locate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "learn",
+                "sinonimo": "hear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "detect",
+                "sinonimo": "observe",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Ceres_mitologia",
+          "palavra_canonica": "Ceres_mitologia",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "158520_ricardoferreira",
+              "*descobridor",
+              "paulo holvorcem e"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "158520_ricardoferreira",
+              "*descobridor",
+              "charles_w._juels"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "103_hera",
+              "*descobridor",
+              "james_craig_watson"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "104_klymene",
+              "*descobridor",
+              "james_craig_watson"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "944_hidalgo",
+              "*descobridor",
+              "walter_baade"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "ngc_3181",
+              "*descoberta",
+              "william_parsons"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "ngc_3180",
+              "*descoberta",
+              "william_parsons"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "ngc_4400",
+              "*descoberta",
+              "william_parsons"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "ngc_4401",
+              "*descoberta",
+              "william_herschel"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "ngc_4399",
+              "*descoberta",
+              "william_parsons"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "nebulosa_de_bow_tie",
+              "*descoberta",
+              "william_herschel"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "1871_astyanax",
+              "*descobridor",
+              "cornelis_johannes_van_houten"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "1871_astyanax",
+              "*descobridor",
+              "i. van houten-groeneveld e tom gehrels"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "1872_helenos",
+              "*descobridor",
+              "cornelis_johannes_van_houten"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "1872_helenos",
+              "*descobridor",
+              "i. van houten-groeneveld e tom gehrels"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "1873_agenor",
+              "*descobridor",
+              "cornelis_johannes_van_houten"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "1873_agenor",
+              "*descobridor",
+              "i. van houten-groeneveld e tom gehrels"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "2207_antenor",
+              "*descobridor",
+              "nikolai_stepanovich_chernykh"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descobridor"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descobridor": {
+                  "keyword": {
+                    "termo": "descobridor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descobridor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "ngc_261",
+              "*descoberta",
+              "james_dunlop"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "ngc_896",
+              "*descoberta",
+              "william_herschel"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "ngc_1432",
+              "*descoberta",
+              "prosper_henry"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "ngc_1435",
+              "*descoberta",
+              "wilhelm_tempel"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "ngc_1333",
+              "*descoberta",
+              "eduard_schonfeld"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "ngc_1491",
+              "*descoberta",
+              "william_herschel"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "ngc_1554",
+              "*descoberta",
+              "otto_struve"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "ngc_1737",
+              "*descoberta",
+              "john_herschel"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "ngc_1555",
+              "*descoberta",
+              "john_hind"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "ngc_1715",
+              "*descoberta",
+              "john_herschel"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "ngc_1743",
+              "*descoberta",
+              "james_dunlop"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "ngc_1736",
+              "*descoberta",
+              "john_herschel"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "descoberta"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "descoberta": {
+                  "keyword": {
+                    "termo": "descoberta",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "descoberta",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1061798593,
+      "l_sizes": [
+        10000
+      ],
+      "a_sizes": [
+        10000
+      ],
+      "stats": {},
+      "ranking_time_only": 166489402,
+      "total_time": 8810633183,
+      "timeout": false
+    }
+  }
+]
