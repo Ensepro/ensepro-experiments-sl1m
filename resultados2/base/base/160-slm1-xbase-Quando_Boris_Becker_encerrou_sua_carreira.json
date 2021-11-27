@@ -173,21 +173,33 @@
             "por": [
               {
                 "synset": "end",
+                "sinonimo": "finalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
                 "sinonimo": "parar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "end",
-                "sinonimo": "cessar",
+                "sinonimo": "concluir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "complete",
+                "synset": "end",
                 "sinonimo": "encerrar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "complete",
@@ -197,30 +209,12 @@
               },
               {
                 "synset": "end",
-                "sinonimo": "terminar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "complete",
-                "sinonimo": "finalizar",
+                "sinonimo": "cessar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "end",
-                "sinonimo": "concluir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "complete",
-                "sinonimo": "complete",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "end",
                 "sinonimo": "end",
@@ -229,7 +223,13 @@
               },
               {
                 "synset": "end",
-                "sinonimo": "cease",
+                "sinonimo": "stop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "finish",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -240,14 +240,14 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "complete",
-                "sinonimo": "finish",
+                "synset": "end",
+                "sinonimo": "cease",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "end",
-                "sinonimo": "stop",
+                "synset": "complete",
+                "sinonimo": "complete",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -294,43 +294,7 @@
             "por": [
               {
                 "synset": "bus",
-                "sinonimo": "Autocarro",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "machimbombo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "track",
-                "sinonimo": "carreira",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "11"
-              },
-              {
-                "synset": "racing",
-                "sinonimo": "Esportes_de_corrida",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "ônibus",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "autocarro",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "auto-ônibus",
+                "sinonimo": "Ônibus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -342,13 +306,31 @@
               },
               {
                 "synset": "bus",
-                "sinonimo": "ónibus",
+                "sinonimo": "ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "Esportes_de_corrida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "carreira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "bus",
-                "sinonimo": "Ônibus",
+                "sinonimo": "machimbombo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -357,20 +339,32 @@
                 "sinonimo": "corrida",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
+              },
               {
                 "synset": "bus",
-                "sinonimo": "double-decker",
+                "sinonimo": "Autocarro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "bus",
-                "sinonimo": "motorcoach",
+                "sinonimo": "ónibus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "auto-ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dash",
+                "sinonimo": "sprint",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "bus",
@@ -385,32 +379,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "racing",
-                "sinonimo": "racing",
+                "synset": "bus",
+                "sinonimo": "motorcoach",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "dash",
-                "sinonimo": "sprint",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "bus",
-                "sinonimo": "omnibus",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "track",
-                "sinonimo": "running",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "11"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "passenger_vehicle",
+                "sinonimo": "coach",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -422,7 +398,31 @@
               },
               {
                 "synset": "bus",
-                "sinonimo": "coach",
+                "sinonimo": "bus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "running",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "racing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "double-decker",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "passenger_vehicle",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -434,7 +434,7 @@
               },
               {
                 "synset": "bus",
-                "sinonimo": "bus",
+                "sinonimo": "omnibus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -509,21 +509,33 @@
             "por": [
               {
                 "synset": "end",
+                "sinonimo": "finalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
                 "sinonimo": "parar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "end",
-                "sinonimo": "cessar",
+                "sinonimo": "concluir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "complete",
+                "synset": "end",
                 "sinonimo": "encerrar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "complete",
@@ -533,30 +545,12 @@
               },
               {
                 "synset": "end",
-                "sinonimo": "terminar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "complete",
-                "sinonimo": "finalizar",
+                "sinonimo": "cessar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "end",
-                "sinonimo": "concluir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "complete",
-                "sinonimo": "complete",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
               {
                 "synset": "end",
                 "sinonimo": "end",
@@ -565,7 +559,13 @@
               },
               {
                 "synset": "end",
-                "sinonimo": "cease",
+                "sinonimo": "stop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "finish",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -576,14 +576,14 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "complete",
-                "sinonimo": "finish",
+                "synset": "end",
+                "sinonimo": "cease",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "end",
-                "sinonimo": "stop",
+                "synset": "complete",
+                "sinonimo": "complete",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -605,43 +605,7 @@
             "por": [
               {
                 "synset": "bus",
-                "sinonimo": "Autocarro",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "machimbombo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "track",
-                "sinonimo": "carreira",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "11"
-              },
-              {
-                "synset": "racing",
-                "sinonimo": "Esportes_de_corrida",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "ônibus",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "autocarro",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "auto-ônibus",
+                "sinonimo": "Ônibus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -653,13 +617,31 @@
               },
               {
                 "synset": "bus",
-                "sinonimo": "ónibus",
+                "sinonimo": "ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "Esportes_de_corrida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "carreira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "bus",
-                "sinonimo": "Ônibus",
+                "sinonimo": "machimbombo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -668,20 +650,32 @@
                 "sinonimo": "corrida",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
+              },
               {
                 "synset": "bus",
-                "sinonimo": "double-decker",
+                "sinonimo": "Autocarro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "bus",
-                "sinonimo": "motorcoach",
+                "sinonimo": "ónibus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "auto-ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dash",
+                "sinonimo": "sprint",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "bus",
@@ -696,32 +690,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "racing",
-                "sinonimo": "racing",
+                "synset": "bus",
+                "sinonimo": "motorcoach",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "dash",
-                "sinonimo": "sprint",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "bus",
-                "sinonimo": "omnibus",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "track",
-                "sinonimo": "running",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "11"
-              },
-              {
-                "synset": "bus",
-                "sinonimo": "passenger_vehicle",
+                "sinonimo": "coach",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -733,7 +709,31 @@
               },
               {
                 "synset": "bus",
-                "sinonimo": "coach",
+                "sinonimo": "bus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "running",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "racing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "double-decker",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "passenger_vehicle",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -745,7 +745,7 @@
               },
               {
                 "synset": "bus",
-                "sinonimo": "bus",
+                "sinonimo": "omnibus",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1710,14 +1710,14 @@
               "predefinicao:referencias"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "boris_becker",
               "carreira"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1732,12 +1732,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -1748,7 +1748,7 @@
           "bind_control": {
             "binds": {
               "boris_becker": "-1",
-              "autocarro": "-149"
+              "autocarros": "-149"
             },
             "best_bind": {
               "score": 0
@@ -1768,14 +1768,14 @@
               "predefinicao:portal3"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "boris_becker",
               "carreira"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1790,12 +1790,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -1806,7 +1806,7 @@
           "bind_control": {
             "binds": {
               "boris_becker": "-1",
-              "autocarro": "-149"
+              "autocarros": "-149"
             },
             "best_bind": {
               "score": 0
@@ -1826,14 +1826,14 @@
               "owl#thing"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "boris_becker",
               "carreira"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1848,12 +1848,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -1864,7 +1864,7 @@
           "bind_control": {
             "binds": {
               "boris_becker": "-1",
-              "autocarro": "-149"
+              "autocarros": "-149"
             },
             "best_bind": {
               "score": 0
@@ -1884,14 +1884,14 @@
               "agent"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "boris_becker",
               "carreira"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1906,12 +1906,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -1922,7 +1922,7 @@
           "bind_control": {
             "binds": {
               "boris_becker": "-1",
-              "autocarro": "-149"
+              "autocarros": "-149"
             },
             "best_bind": {
               "score": 0
@@ -1942,14 +1942,14 @@
               "dul.owl#agent"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "boris_becker",
               "carreira"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -1964,12 +1964,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -1980,7 +1980,7 @@
           "bind_control": {
             "binds": {
               "boris_becker": "-1",
-              "autocarro": "-149"
+              "autocarros": "-149"
             },
             "best_bind": {
               "score": 0
@@ -2000,14 +2000,14 @@
               "q24229398"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "boris_becker",
               "carreira"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2022,12 +2022,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -2038,7 +2038,7 @@
           "bind_control": {
             "binds": {
               "boris_becker": "-1",
-              "autocarro": "-149"
+              "autocarros": "-149"
             },
             "best_bind": {
               "score": 0
@@ -2058,14 +2058,14 @@
               "predefinicao:referencias"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "carreira",
               "boris_becker"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2080,12 +2080,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -2095,7 +2095,7 @@
           "id": 21,
           "bind_control": {
             "binds": {
-              "autocarro": "-149",
+              "autocarros": "-149",
               "boris_becker": "-1"
             },
             "best_bind": {
@@ -2116,14 +2116,14 @@
               "predefinicao:portal3"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "carreira",
               "boris_becker"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2138,12 +2138,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -2153,7 +2153,7 @@
           "id": 22,
           "bind_control": {
             "binds": {
-              "autocarro": "-149",
+              "autocarros": "-149",
               "boris_becker": "-1"
             },
             "best_bind": {
@@ -2174,14 +2174,14 @@
               "agent"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "carreira",
               "boris_becker"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2196,12 +2196,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -2211,7 +2211,7 @@
           "id": 23,
           "bind_control": {
             "binds": {
-              "autocarro": "-149",
+              "autocarros": "-149",
               "boris_becker": "-1"
             },
             "best_bind": {
@@ -2232,14 +2232,14 @@
               "dul.owl#agent"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "carreira",
               "boris_becker"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2254,12 +2254,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -2269,7 +2269,7 @@
           "id": 24,
           "bind_control": {
             "binds": {
-              "autocarro": "-149",
+              "autocarros": "-149",
               "boris_becker": "-1"
             },
             "best_bind": {
@@ -2290,14 +2290,14 @@
               "q24229398"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "carreira",
               "boris_becker"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2312,12 +2312,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -2327,7 +2327,7 @@
           "id": 25,
           "bind_control": {
             "binds": {
-              "autocarro": "-149",
+              "autocarros": "-149",
               "boris_becker": "-1"
             },
             "best_bind": {
@@ -2348,14 +2348,14 @@
               "owl#thing"
             ]
           ],
-          "score": 12.237972,
+          "score": 12.2617035,
           "detail": {
             "keywords": [
               "carreira",
               "boris_becker"
             ],
             "score_detail": {
-              "m1": 10.904639,
+              "m1": 10.92837,
               "m2": 0.33333334,
               "m3": 1.0,
               "matches": {
@@ -2370,12 +2370,12 @@
                 },
                 "carreira": {
                   "keyword": {
-                    "termo": "autocarro",
+                    "termo": "autocarros",
                     "peso": 1.0,
                     "classe": "SUB"
                   },
                   "resource": "sam_(autocarros)",
-                  "score": 0.90463924
+                  "score": 0.9283705
                 }
               }
             },
@@ -2385,7 +2385,7 @@
           "id": 26,
           "bind_control": {
             "binds": {
-              "autocarro": "-149",
+              "autocarros": "-149",
               "boris_becker": "-1"
             },
             "best_bind": {
@@ -2541,7 +2541,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 15489093257,
+      "ranking_time": 4350604678,
       "l_sizes": [
         12773,
         12773
@@ -2551,8 +2551,8 @@
         77976
       ],
       "stats": {},
-      "ranking_time_only": 7325735716,
-      "total_time": 38329441083,
+      "ranking_time_only": 1603741075,
+      "total_time": 12989357964,
       "timeout": false
     }
   }

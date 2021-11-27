@@ -208,15 +208,21 @@
             "por": [
               {
                 "synset": "wise",
-                "sinonimo": "jeito",
+                "sinonimo": "forma",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "shape",
-                "sinonimo": "forma_geométrica",
+                "synset": "wise",
+                "sinonimo": "maneira",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wise",
+                "sinonimo": "jeito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "shape",
@@ -226,18 +232,18 @@
               },
               {
                 "synset": "shape",
-                "sinonimo": "forma",
+                "sinonimo": "forma_geométrica",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "wise",
-                "sinonimo": "maneira",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "shape",
+                "sinonimo": "form",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
               {
                 "synset": "wise",
                 "sinonimo": "wise",
@@ -247,12 +253,6 @@
               {
                 "synset": "shape",
                 "sinonimo": "shape",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "shape",
-                "sinonimo": "form",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -299,10 +299,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "government",
-                "sinonimo": "administração",
+                "synset": "agency",
+                "sinonimo": "agência_governamental",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "agency",
@@ -311,16 +311,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "steering",
-                "sinonimo": "governo",
+                "synset": "government",
+                "sinonimo": "governação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "agency",
-                "sinonimo": "Governo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "government",
@@ -335,30 +329,54 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "government",
+                "sinonimo": "administração",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "agency",
-                "sinonimo": "agência_governamental",
+                "sinonimo": "Governo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steering",
+                "sinonimo": "governo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "agency",
+                "sinonimo": "government_agency",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "government",
-                "sinonimo": "governação",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              }
-            ],
-            "eng": [
-              {
-                "synset": "government",
-                "sinonimo": "governance",
+                "sinonimo": "government_activity",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "steering",
-                "sinonimo": "steerage",
+                "synset": "government",
+                "sinonimo": "government",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "government",
+                "sinonimo": "authorities",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "government",
+                "sinonimo": "administration",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "government",
@@ -380,33 +398,9 @@
               },
               {
                 "synset": "government",
-                "sinonimo": "authorities",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "government",
-                "sinonimo": "administration",
+                "sinonimo": "governance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "agency",
-                "sinonimo": "bureau",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "government",
-                "sinonimo": "government_activity",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "agency",
-                "sinonimo": "government_agency",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               },
               {
                 "synset": "government",
@@ -415,8 +409,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "government",
-                "sinonimo": "government",
+                "synset": "agency",
+                "sinonimo": "federal_agency",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -428,15 +422,21 @@
               },
               {
                 "synset": "agency",
-                "sinonimo": "agency",
+                "sinonimo": "bureau",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "agency",
-                "sinonimo": "federal_agency",
+                "sinonimo": "agency",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "steering",
+                "sinonimo": "steerage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -533,15 +533,21 @@
             "por": [
               {
                 "synset": "wise",
-                "sinonimo": "jeito",
+                "sinonimo": "forma",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "shape",
-                "sinonimo": "forma_geométrica",
+                "synset": "wise",
+                "sinonimo": "maneira",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wise",
+                "sinonimo": "jeito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "shape",
@@ -551,18 +557,18 @@
               },
               {
                 "synset": "shape",
-                "sinonimo": "forma",
+                "sinonimo": "forma_geométrica",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "wise",
-                "sinonimo": "maneira",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "shape",
+                "sinonimo": "form",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
               {
                 "synset": "wise",
                 "sinonimo": "wise",
@@ -572,12 +578,6 @@
               {
                 "synset": "shape",
                 "sinonimo": "shape",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "shape",
-                "sinonimo": "form",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -604,10 +604,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "government",
-                "sinonimo": "administração",
+                "synset": "agency",
+                "sinonimo": "agência_governamental",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "agency",
@@ -616,16 +616,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "steering",
-                "sinonimo": "governo",
+                "synset": "government",
+                "sinonimo": "governação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "agency",
-                "sinonimo": "Governo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "government",
@@ -640,30 +634,54 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "government",
+                "sinonimo": "administração",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "agency",
-                "sinonimo": "agência_governamental",
+                "sinonimo": "Governo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steering",
+                "sinonimo": "governo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "agency",
+                "sinonimo": "government_agency",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "government",
-                "sinonimo": "governação",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              }
-            ],
-            "eng": [
-              {
-                "synset": "government",
-                "sinonimo": "governance",
+                "sinonimo": "government_activity",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "steering",
-                "sinonimo": "steerage",
+                "synset": "government",
+                "sinonimo": "government",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "government",
+                "sinonimo": "authorities",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "government",
+                "sinonimo": "administration",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "government",
@@ -685,33 +703,9 @@
               },
               {
                 "synset": "government",
-                "sinonimo": "authorities",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "government",
-                "sinonimo": "administration",
+                "sinonimo": "governance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "agency",
-                "sinonimo": "bureau",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "government",
-                "sinonimo": "government_activity",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "agency",
-                "sinonimo": "government_agency",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               },
               {
                 "synset": "government",
@@ -720,8 +714,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "government",
-                "sinonimo": "government",
+                "synset": "agency",
+                "sinonimo": "federal_agency",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -733,15 +727,21 @@
               },
               {
                 "synset": "agency",
-                "sinonimo": "agency",
+                "sinonimo": "bureau",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "agency",
-                "sinonimo": "federal_agency",
+                "sinonimo": "agency",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "steering",
+                "sinonimo": "steerage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
               }
             ]
           }
@@ -783,15 +783,21 @@
               "por": [
                 {
                   "synset": "wise",
-                  "sinonimo": "jeito",
+                  "sinonimo": "forma",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "shape",
-                  "sinonimo": "forma_geométrica",
+                  "synset": "wise",
+                  "sinonimo": "maneira",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "wise",
+                  "sinonimo": "jeito",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "shape",
@@ -801,18 +807,18 @@
                 },
                 {
                   "synset": "shape",
-                  "sinonimo": "forma",
+                  "sinonimo": "forma_geométrica",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
-                },
-                {
-                  "synset": "wise",
-                  "sinonimo": "maneira",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
                 }
               ],
               "eng": [
+                {
+                  "synset": "shape",
+                  "sinonimo": "form",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
                 {
                   "synset": "wise",
                   "sinonimo": "wise",
@@ -822,12 +828,6 @@
                 {
                   "synset": "shape",
                   "sinonimo": "shape",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "shape",
-                  "sinonimo": "form",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 }
@@ -854,10 +854,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "government",
-                  "sinonimo": "administração",
+                  "synset": "agency",
+                  "sinonimo": "agência_governamental",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "agency",
@@ -866,16 +866,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "steering",
-                  "sinonimo": "governo",
+                  "synset": "government",
+                  "sinonimo": "governação",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "agency",
-                  "sinonimo": "Governo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "government",
@@ -890,30 +884,54 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "government",
+                  "sinonimo": "administração",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
                   "synset": "agency",
-                  "sinonimo": "agência_governamental",
+                  "sinonimo": "Governo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "steering",
+                  "sinonimo": "governo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "agency",
+                  "sinonimo": "government_agency",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
                   "synset": "government",
-                  "sinonimo": "governação",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                }
-              ],
-              "eng": [
-                {
-                  "synset": "government",
-                  "sinonimo": "governance",
+                  "sinonimo": "government_activity",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "steering",
-                  "sinonimo": "steerage",
+                  "synset": "government",
+                  "sinonimo": "government",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "government",
+                  "sinonimo": "authorities",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "government",
+                  "sinonimo": "administration",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "government",
@@ -935,33 +953,9 @@
                 },
                 {
                   "synset": "government",
-                  "sinonimo": "authorities",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "government",
-                  "sinonimo": "administration",
+                  "sinonimo": "governance",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
-                },
-                {
-                  "synset": "agency",
-                  "sinonimo": "bureau",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "government",
-                  "sinonimo": "government_activity",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "agency",
-                  "sinonimo": "government_agency",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "government",
@@ -970,8 +964,8 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "government",
-                  "sinonimo": "government",
+                  "synset": "agency",
+                  "sinonimo": "federal_agency",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -983,15 +977,21 @@
                 },
                 {
                   "synset": "agency",
-                  "sinonimo": "agency",
+                  "sinonimo": "bureau",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
                   "synset": "agency",
-                  "sinonimo": "federal_agency",
+                  "sinonimo": "agency",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "steering",
+                  "sinonimo": "steerage",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
                 }
               ]
             }
@@ -2498,7 +2498,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 55754219308,
+      "ranking_time": 16490457645,
       "l_sizes": [
         22168,
         22168
@@ -2508,8 +2508,8 @@
         7908370
       ],
       "stats": {},
-      "ranking_time_only": 39652701600,
-      "total_time": 88369675847,
+      "ranking_time_only": 10334062735,
+      "total_time": 28675242381,
       "timeout": false
     }
   }

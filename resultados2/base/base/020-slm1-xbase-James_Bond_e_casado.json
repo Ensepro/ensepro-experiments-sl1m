@@ -152,24 +152,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "marry",
-                "sinonimo": "casar-se",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "casar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "casarem-se",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "match",
                 "sinonimo": "acoplar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -180,26 +162,32 @@
                 "sinonimo": "juntar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casarem-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "marry",
-                "sinonimo": "espouse",
+                "synset": "match",
+                "sinonimo": "match",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "tie",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "get_married",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "match",
@@ -208,8 +196,44 @@
                 "distancia_semantica": "03"
               },
               {
+                "synset": "marry",
+                "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "espouse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "conjoin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "match",
-                "sinonimo": "match",
+                "sinonimo": "couple",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "twin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "pair",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
@@ -220,38 +244,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "match",
-                "sinonimo": "twin",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
                 "synset": "marry",
-                "sinonimo": "conjoin",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "match",
-                "sinonimo": "pair",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "get_hitched_with",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "wed",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "marry",
+                "sinonimo": "get_married",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -262,10 +256,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "match",
-                "sinonimo": "couple",
+                "synset": "marry",
+                "sinonimo": "get_hitched_with",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -319,24 +319,6 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "marry",
-                  "sinonimo": "casar-se",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "marry",
-                  "sinonimo": "casar",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "marry",
-                  "sinonimo": "casarem-se",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "match",
                   "sinonimo": "acoplar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
@@ -347,26 +329,32 @@
                   "sinonimo": "juntar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "casar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "casarem-se",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "casar-se",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
                 }
               ],
               "eng": [
                 {
-                  "synset": "marry",
-                  "sinonimo": "espouse",
+                  "synset": "match",
+                  "sinonimo": "match",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "marry",
-                  "sinonimo": "tie",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "marry",
-                  "sinonimo": "get_married",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "match",
@@ -375,8 +363,44 @@
                   "distancia_semantica": "03"
                 },
                 {
+                  "synset": "marry",
+                  "sinonimo": "wed",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "espouse",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "conjoin",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "match",
-                  "sinonimo": "match",
+                  "sinonimo": "couple",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "twin",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "tie",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "pair",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "03"
                 },
@@ -387,38 +411,8 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "match",
-                  "sinonimo": "twin",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
-                },
-                {
                   "synset": "marry",
-                  "sinonimo": "conjoin",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "match",
-                  "sinonimo": "pair",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "marry",
-                  "sinonimo": "get_hitched_with",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "marry",
-                  "sinonimo": "wed",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "marry",
-                  "sinonimo": "marry",
+                  "sinonimo": "get_married",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
                 },
@@ -429,10 +423,16 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "match",
-                  "sinonimo": "couple",
+                  "synset": "marry",
+                  "sinonimo": "get_hitched_with",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "marry",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
                 }
               ]
             }
@@ -472,24 +472,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "marry",
-                "sinonimo": "casar-se",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "casar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "casarem-se",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "match",
                 "sinonimo": "acoplar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -500,26 +482,32 @@
                 "sinonimo": "juntar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casarem-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "marry",
-                "sinonimo": "espouse",
+                "synset": "match",
+                "sinonimo": "match",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "tie",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "get_married",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "match",
@@ -528,8 +516,44 @@
                 "distancia_semantica": "03"
               },
               {
+                "synset": "marry",
+                "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "espouse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "conjoin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "match",
-                "sinonimo": "match",
+                "sinonimo": "couple",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "twin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "pair",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
@@ -540,38 +564,8 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "match",
-                "sinonimo": "twin",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
                 "synset": "marry",
-                "sinonimo": "conjoin",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "match",
-                "sinonimo": "pair",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "get_hitched_with",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "wed",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "marry",
-                "sinonimo": "marry",
+                "sinonimo": "get_married",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -582,10 +576,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "match",
-                "sinonimo": "couple",
+                "synset": "marry",
+                "sinonimo": "get_hitched_with",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -1902,7 +1902,7 @@
           }
         }
       ],
-      "ranking_time": 875958867,
+      "ranking_time": 917085382,
       "l_sizes": [
         2543
       ],
@@ -1910,8 +1910,8 @@
         2543
       ],
       "stats": {},
-      "ranking_time_only": 104769309,
-      "total_time": 7504366470,
+      "ranking_time_only": 93129924,
+      "total_time": 7579756819,
       "timeout": false
     }
   }

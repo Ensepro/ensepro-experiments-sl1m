@@ -1,0 +1,3139 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:art",
+          "palavra_original": "A",
+          "palavra_canonica": "o",
+          "tags": [
+            "<*>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:spec",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<interr>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:n",
+          "palavra_original": "partido",
+          "palavra_canonica": "partido",
+          "tags": [
+            "<HHparty>",
+            "<am>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "prefeito",
+          "palavra_canonica": "prefeito",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Paris",
+          "palavra_canonica": "Paris",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "pertence",
+          "palavra_canonica": "pertencer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:art",
+          "palavra_original": "A",
+          "palavra_canonica": "o",
+          "tags": [
+            "<*>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:spec",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<interr>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:n",
+          "palavra_original": "partido",
+          "palavra_canonica": "partido",
+          "tags": [
+            "<HHparty>",
+            "<am>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "party",
+                "sinonimo": "partidos_políticos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "party",
+                "sinonimo": "partido_político",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "party",
+                "sinonimo": "Partido_político",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "party",
+                "sinonimo": "partido",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "party",
+                "sinonimo": "Partido_Político",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "party",
+                "sinonimo": "party",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "party",
+                "sinonimo": "political_party",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "prefeito",
+          "palavra_canonica": "prefeito",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "mayor",
+                "sinonimo": "presidente_da_câmara_municipal",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "autarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "burgomaster",
+                "sinonimo": "prefeito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayoress",
+                "sinonimo": "presidente_da_câmara",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "burgomaster",
+                "sinonimo": "burgomaster",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "city_manager",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayoress",
+                "sinonimo": "mayoress",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "mayor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Paris",
+          "palavra_canonica": "Paris",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "pertence",
+          "palavra_canonica": "pertencer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "belong_to",
+                "sinonimo": "caber_a",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "belong_to",
+                "sinonimo": "pertencer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "belong_to",
+                "sinonimo": "tocar_a",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pertain",
+                "sinonimo": "referir-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "belong",
+                "sinonimo": "fazer_parte",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "belong",
+                "sinonimo": "pertenecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "belong_to",
+                "sinonimo": "ser_de",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pertain",
+                "sinonimo": "appertain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "belong_to",
+                "sinonimo": "belong_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pertain",
+                "sinonimo": "pertain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "belong_to",
+                "sinonimo": "belong",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [ Cs:np|2| [DN:art|3| A] [H:spec|4| que] ] [S:n|5| partido] [ S:np|6| [DN:art|7| o] [H:n|8| prefeito] [ DN:pp|9| [H:prp|10| de] [DP:prop|11| Paris] ] ] [P:v-fin|12| pertence] [?|13|  ] ] ]",
+      "tipo": {
+        "tipo": "o_que",
+        "confianca": 0.96,
+        "ids": [
+          4
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "S:n",
+          "palavra_original": "partido",
+          "palavra_canonica": "partido",
+          "tags": [
+            "<HHparty>",
+            "<am>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "party",
+                "sinonimo": "partidos_políticos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "party",
+                "sinonimo": "partido_político",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "party",
+                "sinonimo": "Partido_político",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "party",
+                "sinonimo": "partido",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "party",
+                "sinonimo": "Partido_Político",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "party",
+                "sinonimo": "party",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "party",
+                "sinonimo": "political_party",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "prefeito",
+          "palavra_canonica": "prefeito",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "mayor",
+                "sinonimo": "presidente_da_câmara_municipal",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "autarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "burgomaster",
+                "sinonimo": "prefeito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayoress",
+                "sinonimo": "presidente_da_câmara",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "burgomaster",
+                "sinonimo": "burgomaster",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "city_manager",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayoress",
+                "sinonimo": "mayoress",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "mayor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Paris",
+          "palavra_canonica": "Paris",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "pertence",
+          "palavra_canonica": "pertencer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "belong_to",
+                "sinonimo": "caber_a",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "belong_to",
+                "sinonimo": "pertencer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "belong_to",
+                "sinonimo": "tocar_a",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pertain",
+                "sinonimo": "referir-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "belong",
+                "sinonimo": "fazer_parte",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "belong",
+                "sinonimo": "pertenecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "belong_to",
+                "sinonimo": "ser_de",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pertain",
+                "sinonimo": "appertain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "belong_to",
+                "sinonimo": "belong_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pertain",
+                "sinonimo": "pertain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "belong_to",
+                "sinonimo": "belong",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 8,
+            "tag_inicial": "H:n",
+            "palavra_original": "prefeito",
+            "palavra_canonica": "prefeito",
+            "tags": [
+              "<Hprof>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "mayor",
+                  "sinonimo": "presidente_da_câmara_municipal",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mayor",
+                  "sinonimo": "autarca",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "burgomaster",
+                  "sinonimo": "prefeito",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mayoress",
+                  "sinonimo": "presidente_da_câmara",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "burgomaster",
+                  "sinonimo": "burgomaster",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mayor",
+                  "sinonimo": "city_manager",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mayoress",
+                  "sinonimo": "mayoress",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "mayor",
+                  "sinonimo": "mayor",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 11,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Paris",
+            "palavra_canonica": "Paris",
+            "tags": [
+              "<civ>",
+              "<*>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*partido_radical_(franca)",
+              "sede",
+              "*paris,"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "paris": "-52",
+              "prefeito": "-82",
+              "partido": "-14035",
+              "pertencer": -14035
+            },
+            "best_bind": {
+              "score": 0.6717525,
+              "resource_id": -14035,
+              "tr": "pertencer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*partido_socialista_(franca)",
+              "sede",
+              "*paris,"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "paris": "-52",
+              "prefeito": "-82",
+              "partido": "-14035",
+              "pertencer": -14035
+            },
+            "best_bind": {
+              "score": 0.6717525,
+              "resource_id": -14035,
+              "tr": "pertencer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*partido_socialista_unificado_(franca)",
+              "sede",
+              "*paris,"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "paris": "-52",
+              "prefeito": "-82",
+              "partido": "-14035",
+              "pertencer": -14035
+            },
+            "best_bind": {
+              "score": 0.6717525,
+              "resource_id": -14035,
+              "tr": "pertencer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*partido_comunista_internationalista_(franca)",
+              "sede",
+              "*paris,"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "paris": "-52",
+              "prefeito": "-82",
+              "partido": "-14035",
+              "pertencer": -14035
+            },
+            "best_bind": {
+              "score": 0.6717525,
+              "resource_id": -14035,
+              "tr": "pertencer"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*partido_comunista_frances",
+              "headquarter",
+              "*paris"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*partido_socialista_(franca)",
+              "headquarter",
+              "*paris"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*partido_radical_(franca)",
+              "sede",
+              "*paris,"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "paris": "-52",
+              "prefeito": "-82",
+              "partido": "-14035",
+              "pertencer": -14035
+            },
+            "best_bind": {
+              "score": 0.6717525,
+              "resource_id": -14035,
+              "tr": "pertencer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "*mayor",
+              "anne_hidalgo"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "abbecourt",
+              "*prefeito",
+              "*rene paris"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*partido_socialista_(franca)",
+              "sede",
+              "*paris,"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "paris": "-52",
+              "prefeito": "-82",
+              "partido": "-14035",
+              "pertencer": -14035
+            },
+            "best_bind": {
+              "score": 0.6717525,
+              "resource_id": -14035,
+              "tr": "pertencer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*partido_socialista_unificado_(franca)",
+              "sede",
+              "*paris,"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "paris": "-52",
+              "prefeito": "-82",
+              "partido": "-14035",
+              "pertencer": -14035
+            },
+            "best_bind": {
+              "score": 0.6717525,
+              "resource_id": -14035,
+              "tr": "pertencer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*partido_comunista_internationalista_(franca)",
+              "sede",
+              "*paris,"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "paris": "-52",
+              "prefeito": "-82",
+              "partido": "-14035",
+              "pertencer": -14035
+            },
+            "best_bind": {
+              "score": 0.6717525,
+              "resource_id": -14035,
+              "tr": "pertencer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "saltinho_(santa_catarina)",
+              "*prefeito",
+              "*luiz de paris"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "wikipageexternallink",
+              "*www.paris.fr"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "wikipageexternallink",
+              55
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "wikipageexternallink",
+              "2986f8a0d35157fbc1256da40045a27d?opendocument&sessionm=3.2&l=1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "wikipageexternallink",
+              "index.html"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "wikipageexternallink",
+              "accueil.aspx"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "wikipageexternallink",
+              "home.php"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "wikipageexternallink",
+              "*www.abcparislive.com"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "nome",
+              "*paris"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "nomefr",
+              "*ville de paris"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "lema",
+              "fluctuat nec mergitur"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "bandeira",
+              "*flag of paris.svg"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "regiao",
+              "ile-de-france"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "area",
+              "10540"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "populacao",
+              "2240621"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "censo",
+              "2012"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "insee",
+              "75056"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "codpostal",
+              "75001"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "imagemtamanho",
+              "280"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ],
+            [
+              "*paris",
+              "legenda",
+              "*do topo, em sentido horario: piramide do louvre; arco do triunfo; vista de la defense; panorama urbano de paris com o rio sena, a ponte das artes e a torre eiffel."
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*partido_comunista_frances",
+              "headquarter",
+              "*paris"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*paris",
+              "*prefeito",
+              "anne hidalgo"
+            ],
+            [
+              "*partido_socialista_(franca)",
+              "headquarter",
+              "*paris"
+            ],
+            [
+              "*parisi",
+              "*partido",
+              "psdb"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "paris",
+              "partido"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "paris": {
+                  "keyword": {
+                    "termo": "paris",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "paris",
+                  "score": 10.0
+                },
+                "partido": {
+                  "keyword": {
+                    "termo": "partido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "partido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 37652520303,
+      "l_sizes": [
+        33806,
+        30,
+        23,
+        30,
+        30
+      ],
+      "a_sizes": [
+        33806,
+        516,
+        18676,
+        657720,
+        17100720
+      ],
+      "stats": {},
+      "ranking_time_only": 27522065313,
+      "total_time": 47267979245,
+      "timeout": false
+    }
+  }
+]

@@ -197,38 +197,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "play",
-                "sinonimo": "jogos",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "set",
-                "sinonimo": "grupo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pastime",
-                "sinonimo": "passatempo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "contest",
-                "sinonimo": "torneio",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "contest",
-                "sinonimo": "certame",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pastime",
-                "sinonimo": "entreterimento",
+                "sinonimo": "competição",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -240,9 +210,21 @@
               },
               {
                 "synset": "contest",
-                "sinonimo": "jogo",
+                "sinonimo": "torneio",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "jogo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "jogos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
               },
               {
                 "synset": "contest",
@@ -258,29 +240,65 @@
               },
               {
                 "synset": "contest",
-                "sinonimo": "competição",
+                "sinonimo": "certame",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "passatempo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "set",
+                "sinonimo": "grupo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "entreterimento",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
+                "synset": "set",
+                "sinonimo": "set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "round",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "pastime",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "play",
                 "sinonimo": "play",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "08"
               },
               {
-                "synset": "turn",
-                "sinonimo": "turn",
+                "synset": "pastime",
+                "sinonimo": "pursuit",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "turn",
-                "sinonimo": "bout",
+                "synset": "contest",
+                "sinonimo": "competition",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "09"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "play",
@@ -295,46 +313,28 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "game",
+                "sinonimo": "game",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "contest",
                 "sinonimo": "contest",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "pastime",
-                "sinonimo": "pursuit",
+                "synset": "turn",
+                "sinonimo": "turn",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "set",
-                "sinonimo": "set",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "contest",
-                "sinonimo": "competition",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pastime",
-                "sinonimo": "pastime",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "turn",
-                "sinonimo": "round",
+                "sinonimo": "bout",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "09"
-              },
-              {
-                "synset": "game",
-                "sinonimo": "game",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ]
           }
@@ -421,38 +421,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "play",
-                "sinonimo": "jogos",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "set",
-                "sinonimo": "grupo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pastime",
-                "sinonimo": "passatempo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "contest",
-                "sinonimo": "torneio",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "contest",
-                "sinonimo": "certame",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pastime",
-                "sinonimo": "entreterimento",
+                "sinonimo": "competição",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -464,9 +434,21 @@
               },
               {
                 "synset": "contest",
-                "sinonimo": "jogo",
+                "sinonimo": "torneio",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "jogo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "jogos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
               },
               {
                 "synset": "contest",
@@ -482,29 +464,65 @@
               },
               {
                 "synset": "contest",
-                "sinonimo": "competição",
+                "sinonimo": "certame",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "passatempo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "set",
+                "sinonimo": "grupo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "entreterimento",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
+                "synset": "set",
+                "sinonimo": "set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "round",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "pastime",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "play",
                 "sinonimo": "play",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "08"
               },
               {
-                "synset": "turn",
-                "sinonimo": "turn",
+                "synset": "pastime",
+                "sinonimo": "pursuit",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "turn",
-                "sinonimo": "bout",
+                "synset": "contest",
+                "sinonimo": "competition",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "09"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "play",
@@ -519,46 +537,28 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "game",
+                "sinonimo": "game",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "contest",
                 "sinonimo": "contest",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "pastime",
-                "sinonimo": "pursuit",
+                "synset": "turn",
+                "sinonimo": "turn",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "set",
-                "sinonimo": "set",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "contest",
-                "sinonimo": "competition",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "pastime",
-                "sinonimo": "pastime",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "turn",
-                "sinonimo": "round",
+                "sinonimo": "bout",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "09"
-              },
-              {
-                "synset": "game",
-                "sinonimo": "game",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               }
             ]
           }
@@ -602,38 +602,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "play",
-                  "sinonimo": "jogos",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "05"
-                },
-                {
-                  "synset": "set",
-                  "sinonimo": "grupo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pastime",
-                  "sinonimo": "passatempo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "contest",
-                  "sinonimo": "torneio",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "contest",
-                  "sinonimo": "certame",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pastime",
-                  "sinonimo": "entreterimento",
+                  "sinonimo": "competição",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -645,9 +615,21 @@
                 },
                 {
                   "synset": "contest",
-                  "sinonimo": "jogo",
+                  "sinonimo": "torneio",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "jogo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "jogos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
                 },
                 {
                   "synset": "contest",
@@ -663,29 +645,65 @@
                 },
                 {
                   "synset": "contest",
-                  "sinonimo": "competição",
+                  "sinonimo": "certame",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "passatempo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "set",
+                  "sinonimo": "grupo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "entreterimento",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
               ],
               "eng": [
                 {
+                  "synset": "set",
+                  "sinonimo": "set",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "round",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "pastime",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "play",
                   "sinonimo": "play",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "05"
+                  "distancia_semantica": "08"
                 },
                 {
-                  "synset": "turn",
-                  "sinonimo": "turn",
+                  "synset": "pastime",
+                  "sinonimo": "pursuit",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "turn",
-                  "sinonimo": "bout",
+                  "synset": "contest",
+                  "sinonimo": "competition",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "09"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "play",
@@ -700,46 +718,28 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "game",
+                  "sinonimo": "game",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
                   "synset": "contest",
                   "sinonimo": "contest",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "pastime",
-                  "sinonimo": "pursuit",
+                  "synset": "turn",
+                  "sinonimo": "turn",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "set",
-                  "sinonimo": "set",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "contest",
-                  "sinonimo": "competition",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pastime",
-                  "sinonimo": "pastime",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "turn",
-                  "sinonimo": "round",
+                  "sinonimo": "bout",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "09"
-                },
-                {
-                  "synset": "game",
-                  "sinonimo": "game",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
                 }
               ]
             }
@@ -777,38 +777,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "play",
-                  "sinonimo": "jogos",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "05"
-                },
-                {
-                  "synset": "set",
-                  "sinonimo": "grupo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pastime",
-                  "sinonimo": "passatempo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "contest",
-                  "sinonimo": "torneio",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "contest",
-                  "sinonimo": "certame",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pastime",
-                  "sinonimo": "entreterimento",
+                  "sinonimo": "competição",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -820,9 +790,21 @@
                 },
                 {
                   "synset": "contest",
-                  "sinonimo": "jogo",
+                  "sinonimo": "torneio",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "jogo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "jogos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
                 },
                 {
                   "synset": "contest",
@@ -838,29 +820,65 @@
                 },
                 {
                   "synset": "contest",
-                  "sinonimo": "competição",
+                  "sinonimo": "certame",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "passatempo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "set",
+                  "sinonimo": "grupo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "entreterimento",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
               ],
               "eng": [
                 {
+                  "synset": "set",
+                  "sinonimo": "set",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "round",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "pastime",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "play",
                   "sinonimo": "play",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "05"
+                  "distancia_semantica": "08"
                 },
                 {
-                  "synset": "turn",
-                  "sinonimo": "turn",
+                  "synset": "pastime",
+                  "sinonimo": "pursuit",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "turn",
-                  "sinonimo": "bout",
+                  "synset": "contest",
+                  "sinonimo": "competition",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "09"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "play",
@@ -875,46 +893,28 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "game",
+                  "sinonimo": "game",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
                   "synset": "contest",
                   "sinonimo": "contest",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "pastime",
-                  "sinonimo": "pursuit",
+                  "synset": "turn",
+                  "sinonimo": "turn",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "set",
-                  "sinonimo": "set",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "contest",
-                  "sinonimo": "competition",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pastime",
-                  "sinonimo": "pastime",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "turn",
-                  "sinonimo": "round",
+                  "sinonimo": "bout",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "09"
-                },
-                {
-                  "synset": "game",
-                  "sinonimo": "game",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
                 }
               ]
             }
@@ -951,38 +951,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "play",
-                  "sinonimo": "jogos",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "05"
-                },
-                {
-                  "synset": "set",
-                  "sinonimo": "grupo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pastime",
-                  "sinonimo": "passatempo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "contest",
-                  "sinonimo": "torneio",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "contest",
-                  "sinonimo": "certame",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pastime",
-                  "sinonimo": "entreterimento",
+                  "sinonimo": "competição",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -994,9 +964,21 @@
                 },
                 {
                   "synset": "contest",
-                  "sinonimo": "jogo",
+                  "sinonimo": "torneio",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "jogo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "jogos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
                 },
                 {
                   "synset": "contest",
@@ -1012,29 +994,65 @@
                 },
                 {
                   "synset": "contest",
-                  "sinonimo": "competição",
+                  "sinonimo": "certame",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "passatempo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "set",
+                  "sinonimo": "grupo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "entreterimento",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
               ],
               "eng": [
                 {
+                  "synset": "set",
+                  "sinonimo": "set",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "round",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "pastime",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "play",
                   "sinonimo": "play",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "05"
+                  "distancia_semantica": "08"
                 },
                 {
-                  "synset": "turn",
-                  "sinonimo": "turn",
+                  "synset": "pastime",
+                  "sinonimo": "pursuit",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "turn",
-                  "sinonimo": "bout",
+                  "synset": "contest",
+                  "sinonimo": "competition",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "09"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "play",
@@ -1049,46 +1067,28 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "game",
+                  "sinonimo": "game",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
                   "synset": "contest",
                   "sinonimo": "contest",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "pastime",
-                  "sinonimo": "pursuit",
+                  "synset": "turn",
+                  "sinonimo": "turn",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "set",
-                  "sinonimo": "set",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "contest",
-                  "sinonimo": "competition",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "pastime",
-                  "sinonimo": "pastime",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "turn",
-                  "sinonimo": "round",
+                  "sinonimo": "bout",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "09"
-                },
-                {
-                  "synset": "game",
-                  "sinonimo": "game",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
                 }
               ]
             }
@@ -2426,7 +2426,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 2847854010,
+      "ranking_time": 1601748323,
       "l_sizes": [
         25064
       ],
@@ -2434,8 +2434,8 @@
         25064
       ],
       "stats": {},
-      "ranking_time_only": 698945720,
-      "total_time": 16907975224,
+      "ranking_time_only": 277690360,
+      "total_time": 9933335108,
       "timeout": false
     }
   }

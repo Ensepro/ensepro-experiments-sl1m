@@ -223,18 +223,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "world_series",
-                "sinonimo": "World_Series",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "series",
-                "sinonimo": "série",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "series",
                 "sinonimo": "sequência",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -245,14 +233,32 @@
                 "sinonimo": "World_series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
+              },
+              {
+                "synset": "string",
+                "sinonimo": "série",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
               {
                 "synset": "world_series",
                 "sinonimo": "World_Series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "string",
+                "sinonimo": "train",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "series",
+                "sinonimo": "series",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
               },
               {
                 "synset": "string",
@@ -261,16 +267,10 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "series",
-                "sinonimo": "series",
+                "synset": "world_series",
+                "sinonimo": "World_Series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "string",
-                "sinonimo": "train",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
               }
             ]
           }
@@ -310,14 +310,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "television",
+                "synset": "television_receiver",
                 "sinonimo": "televisor",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "television",
-                "sinonimo": "Tevê",
+                "sinonimo": "televisão",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -334,34 +334,16 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "television_receiver",
-                "sinonimo": "televisão",
+                "synset": "television",
+                "sinonimo": "Tevê",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "television",
-                "sinonimo": "video",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "television_receiver",
-                "sinonimo": "telly",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "television",
-                "sinonimo": "television_system",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "television_receiver",
-                "sinonimo": "television_receiver",
+                "sinonimo": "boob_tube",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -373,21 +355,9 @@
               },
               {
                 "synset": "television",
-                "sinonimo": "TV",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "television",
                 "sinonimo": "television",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "television_receiver",
-                "sinonimo": "boob_tube",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "television_receiver",
@@ -397,7 +367,7 @@
               },
               {
                 "synset": "television_receiver",
-                "sinonimo": "tv_set",
+                "sinonimo": "idiot_box",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -409,13 +379,43 @@
               },
               {
                 "synset": "television_receiver",
-                "sinonimo": "idiot_box",
+                "sinonimo": "television_receiver",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "telly",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "television",
                 "sinonimo": "telecasting",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "tv_set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "TV",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "television_system",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "video",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -462,21 +462,15 @@
             "por": [
               {
                 "synset": "make",
-                "sinonimo": "realizar",
+                "sinonimo": "causar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "develop",
-                "sinonimo": "fazer",
+                "sinonimo": "desenvolver",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "create",
-                "sinonimo": "instituir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
               },
               {
                 "synset": "produce",
@@ -492,39 +486,45 @@
               },
               {
                 "synset": "make",
-                "sinonimo": "provocar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "make",
-                "sinonimo": "causar",
+                "sinonimo": "criar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "create",
-                "sinonimo": "criar",
+                "sinonimo": "instituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "construir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "develop",
-                "sinonimo": "desenvolver",
+                "synset": "make",
+                "sinonimo": "realizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "make",
-                "sinonimo": "construir",
+                "sinonimo": "provocar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               }
             ],
             "eng": [
               {
-                "synset": "make",
-                "sinonimo": "make",
+                "synset": "breed",
+                "sinonimo": "breed",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
@@ -535,8 +535,32 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "create",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "nurture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "produce",
                 "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "bring_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -547,16 +571,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "breed",
-                "sinonimo": "breed",
+                "synset": "rear",
+                "sinonimo": "parent",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "create",
-                "sinonimo": "create",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "foster",
@@ -566,25 +584,7 @@
               },
               {
                 "synset": "rear",
-                "sinonimo": "nurture",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "rear",
-                "sinonimo": "parent",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "rear",
                 "sinonimo": "raise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "rear",
-                "sinonimo": "bring_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -677,21 +677,15 @@
               "por": [
                 {
                   "synset": "make",
-                  "sinonimo": "realizar",
+                  "sinonimo": "causar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "03"
                 },
                 {
                   "synset": "develop",
-                  "sinonimo": "fazer",
+                  "sinonimo": "desenvolver",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "create",
-                  "sinonimo": "instituir",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "05"
                 },
                 {
                   "synset": "produce",
@@ -707,39 +701,45 @@
                 },
                 {
                   "synset": "make",
-                  "sinonimo": "provocar",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "make",
-                  "sinonimo": "causar",
+                  "sinonimo": "criar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "03"
                 },
                 {
                   "synset": "create",
-                  "sinonimo": "criar",
+                  "sinonimo": "instituir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "create",
+                  "sinonimo": "fazer",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "produce",
+                  "sinonimo": "construir",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "develop",
-                  "sinonimo": "desenvolver",
+                  "synset": "make",
+                  "sinonimo": "realizar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "make",
-                  "sinonimo": "construir",
+                  "sinonimo": "provocar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "03"
                 }
               ],
               "eng": [
                 {
-                  "synset": "make",
-                  "sinonimo": "make",
+                  "synset": "breed",
+                  "sinonimo": "breed",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "03"
                 },
@@ -750,8 +750,32 @@
                   "distancia_semantica": "02"
                 },
                 {
+                  "synset": "create",
+                  "sinonimo": "make",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "create",
+                  "sinonimo": "create",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "rear",
+                  "sinonimo": "nurture",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
                   "synset": "produce",
                   "sinonimo": "produce",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "rear",
+                  "sinonimo": "bring_up",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "02"
                 },
@@ -762,16 +786,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "breed",
-                  "sinonimo": "breed",
+                  "synset": "rear",
+                  "sinonimo": "parent",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "create",
-                  "sinonimo": "create",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "05"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "foster",
@@ -781,25 +799,7 @@
                 },
                 {
                   "synset": "rear",
-                  "sinonimo": "nurture",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "rear",
-                  "sinonimo": "parent",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "rear",
                   "sinonimo": "raise",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "rear",
-                  "sinonimo": "bring_up",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "02"
                 }
@@ -823,18 +823,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "world_series",
-                "sinonimo": "World_Series",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "series",
-                "sinonimo": "série",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "series",
                 "sinonimo": "sequência",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -845,14 +833,32 @@
                 "sinonimo": "World_series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
+              },
+              {
+                "synset": "string",
+                "sinonimo": "série",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
               {
                 "synset": "world_series",
                 "sinonimo": "World_Series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "string",
+                "sinonimo": "train",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "series",
+                "sinonimo": "series",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
               },
               {
                 "synset": "string",
@@ -861,16 +867,10 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "series",
-                "sinonimo": "series",
+                "synset": "world_series",
+                "sinonimo": "World_Series",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "string",
-                "sinonimo": "train",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
               }
             ]
           }
@@ -890,14 +890,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "television",
+                "synset": "television_receiver",
                 "sinonimo": "televisor",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "television",
-                "sinonimo": "Tevê",
+                "sinonimo": "televisão",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -914,34 +914,16 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "television_receiver",
-                "sinonimo": "televisão",
+                "synset": "television",
+                "sinonimo": "Tevê",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "television",
-                "sinonimo": "video",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "television_receiver",
-                "sinonimo": "telly",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "television",
-                "sinonimo": "television_system",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "television_receiver",
-                "sinonimo": "television_receiver",
+                "sinonimo": "boob_tube",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -953,21 +935,9 @@
               },
               {
                 "synset": "television",
-                "sinonimo": "TV",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "television",
                 "sinonimo": "television",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "television_receiver",
-                "sinonimo": "boob_tube",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "television_receiver",
@@ -977,7 +947,7 @@
               },
               {
                 "synset": "television_receiver",
-                "sinonimo": "tv_set",
+                "sinonimo": "idiot_box",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -989,13 +959,43 @@
               },
               {
                 "synset": "television_receiver",
-                "sinonimo": "idiot_box",
+                "sinonimo": "television_receiver",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "telly",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "television",
                 "sinonimo": "telecasting",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "tv_set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "TV",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "television_system",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "video",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -1017,21 +1017,15 @@
             "por": [
               {
                 "synset": "make",
-                "sinonimo": "realizar",
+                "sinonimo": "causar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "develop",
-                "sinonimo": "fazer",
+                "sinonimo": "desenvolver",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "create",
-                "sinonimo": "instituir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
               },
               {
                 "synset": "produce",
@@ -1047,39 +1041,45 @@
               },
               {
                 "synset": "make",
-                "sinonimo": "provocar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "make",
-                "sinonimo": "causar",
+                "sinonimo": "criar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "create",
-                "sinonimo": "criar",
+                "sinonimo": "instituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "construir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "develop",
-                "sinonimo": "desenvolver",
+                "synset": "make",
+                "sinonimo": "realizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "make",
-                "sinonimo": "construir",
+                "sinonimo": "provocar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               }
             ],
             "eng": [
               {
-                "synset": "make",
-                "sinonimo": "make",
+                "synset": "breed",
+                "sinonimo": "breed",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
@@ -1090,8 +1090,32 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "create",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "nurture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "produce",
                 "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "bring_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -1102,16 +1126,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "breed",
-                "sinonimo": "breed",
+                "synset": "rear",
+                "sinonimo": "parent",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "create",
-                "sinonimo": "create",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "foster",
@@ -1121,25 +1139,7 @@
               },
               {
                 "synset": "rear",
-                "sinonimo": "nurture",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "rear",
-                "sinonimo": "parent",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "rear",
                 "sinonimo": "raise",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "rear",
-                "sinonimo": "bring_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -1181,18 +1181,6 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "world_series",
-                  "sinonimo": "World_Series",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "series",
-                  "sinonimo": "série",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "series",
                   "sinonimo": "sequência",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -1203,14 +1191,32 @@
                   "sinonimo": "World_series",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                }
-              ],
-              "eng": [
+                },
+                {
+                  "synset": "string",
+                  "sinonimo": "série",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
                 {
                   "synset": "world_series",
                   "sinonimo": "World_Series",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "string",
+                  "sinonimo": "train",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "series",
+                  "sinonimo": "series",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
                 },
                 {
                   "synset": "string",
@@ -1219,16 +1225,10 @@
                   "distancia_semantica": "04"
                 },
                 {
-                  "synset": "series",
-                  "sinonimo": "series",
+                  "synset": "world_series",
+                  "sinonimo": "World_Series",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "string",
-                  "sinonimo": "train",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
                 }
               ]
             }
@@ -1248,14 +1248,14 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "television",
+                  "synset": "television_receiver",
                   "sinonimo": "televisor",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "television",
-                  "sinonimo": "Tevê",
+                  "sinonimo": "televisão",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1272,34 +1272,16 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "television_receiver",
-                  "sinonimo": "televisão",
+                  "synset": "television",
+                  "sinonimo": "Tevê",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
               ],
               "eng": [
                 {
-                  "synset": "television",
-                  "sinonimo": "video",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "television_receiver",
-                  "sinonimo": "telly",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "television",
-                  "sinonimo": "television_system",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "television_receiver",
-                  "sinonimo": "television_receiver",
+                  "sinonimo": "boob_tube",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1311,21 +1293,9 @@
                 },
                 {
                   "synset": "television",
-                  "sinonimo": "TV",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "television",
                   "sinonimo": "television",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "television_receiver",
-                  "sinonimo": "boob_tube",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "television_receiver",
@@ -1335,7 +1305,7 @@
                 },
                 {
                   "synset": "television_receiver",
-                  "sinonimo": "tv_set",
+                  "sinonimo": "idiot_box",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1347,13 +1317,43 @@
                 },
                 {
                   "synset": "television_receiver",
-                  "sinonimo": "idiot_box",
+                  "sinonimo": "television_receiver",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television_receiver",
+                  "sinonimo": "telly",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
                   "synset": "television",
                   "sinonimo": "telecasting",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television_receiver",
+                  "sinonimo": "tv_set",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television",
+                  "sinonimo": "TV",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television",
+                  "sinonimo": "television_system",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "television",
+                  "sinonimo": "video",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -3213,7 +3213,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 31396149989,
+      "ranking_time": 8168040247,
       "l_sizes": [
         24271,
         24271
@@ -3223,8 +3223,8 @@
         260384
       ],
       "stats": {},
-      "ranking_time_only": 20520970567,
-      "total_time": 67095817975,
+      "ranking_time_only": 4799519739,
+      "total_time": 19534658112,
       "timeout": false
     }
   }

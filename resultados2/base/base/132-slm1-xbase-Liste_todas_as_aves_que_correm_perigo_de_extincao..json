@@ -68,13 +68,13 @@
             "por": [
               {
                 "synset": "bird",
-                "sinonimo": "pássaro",
+                "sinonimo": "ave",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "bird",
-                "sinonimo": "ave",
+                "sinonimo": "pássaro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -130,28 +130,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "flow",
-                "sinonimo": "luir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "fly",
-                "sinonimo": "voar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "fly",
+                "synset": "run",
                 "sinonimo": "correr",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "apressar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "06"
               },
               {
                 "synset": "rush",
@@ -167,33 +149,39 @@
               },
               {
                 "synset": "flow",
+                "sinonimo": "luir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "apressar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "flow",
                 "sinonimo": "fluir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "fly",
+                "sinonimo": "voar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
-                "synset": "run",
-                "sinonimo": "feed",
+                "synset": "race",
+                "sinonimo": "race",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "rush",
-                "sinonimo": "step_on_it",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "hasten",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "hie",
+                "sinonimo": "rush_along",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -205,13 +193,31 @@
               },
               {
                 "synset": "trickle",
-                "sinonimo": "filter",
+                "sinonimo": "trickle",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
-                "sinonimo": "race",
+                "sinonimo": "speed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "hasten",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pour",
+                "sinonimo": "pour",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "rush",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -222,20 +228,38 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "rush",
-                "sinonimo": "rush_along",
+                "synset": "run",
+                "sinonimo": "flow",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "06"
               },
               {
                 "synset": "trickle",
-                "sinonimo": "trickle",
+                "sinonimo": "filter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "flow",
+                "sinonimo": "flux",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
-                "sinonimo": "rush",
+                "sinonimo": "hie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "run",
+                "sinonimo": "run",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "step_on_it",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -246,46 +270,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "rush",
-                "sinonimo": "cannonball_along",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "run",
-                "sinonimo": "course",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
-              },
-              {
-                "synset": "flow",
-                "sinonimo": "flux",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "run",
-                "sinonimo": "flow",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "speed",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "fly",
                 "sinonimo": "fly",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "pour",
-                "sinonimo": "pour",
+                "synset": "rush",
+                "sinonimo": "cannonball_along",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
@@ -301,7 +295,13 @@
               },
               {
                 "synset": "run",
-                "sinonimo": "run",
+                "sinonimo": "course",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "run",
+                "sinonimo": "feed",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
               }
@@ -332,24 +332,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "hazard",
-                "sinonimo": "perigo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "hazard",
-                "sinonimo": "ameaça",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "riskiness",
-                "sinonimo": "escabrosidade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "danger",
                 "sinonimo": "risco",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -360,12 +342,36 @@
                 "sinonimo": "perigos_(segurança_no_trabalho)",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "danger",
+                "sinonimo": "ameaça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "riskiness",
+                "sinonimo": "perigo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "riskiness",
+                "sinonimo": "escabrosidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "riskiness",
                 "sinonimo": "riskiness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hazard",
+                "sinonimo": "jeopardy",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -385,13 +391,7 @@
                 "synset": "danger",
                 "sinonimo": "danger",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "hazard",
-                "sinonimo": "jeopardy",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "hazard",
@@ -400,16 +400,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "hazard",
-                "sinonimo": "endangerment",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "chance",
                 "sinonimo": "chance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "hazard",
+                "sinonimo": "endangerment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -458,12 +458,6 @@
             "eng": [
               {
                 "synset": "extinction",
-                "sinonimo": "extinction",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "extinction",
                 "sinonimo": "quenching",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "06"
@@ -476,9 +470,9 @@
               },
               {
                 "synset": "extinction",
-                "sinonimo": "extermination",
+                "sinonimo": "extinction",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "extinction",
@@ -491,6 +485,12 @@
                 "sinonimo": "defunctness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "extinction",
+                "sinonimo": "extermination",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -530,13 +530,13 @@
             "por": [
               {
                 "synset": "bird",
-                "sinonimo": "pássaro",
+                "sinonimo": "ave",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "bird",
-                "sinonimo": "ave",
+                "sinonimo": "pássaro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -568,28 +568,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "flow",
-                "sinonimo": "luir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "fly",
-                "sinonimo": "voar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "fly",
+                "synset": "run",
                 "sinonimo": "correr",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "apressar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "06"
               },
               {
                 "synset": "rush",
@@ -605,33 +587,39 @@
               },
               {
                 "synset": "flow",
+                "sinonimo": "luir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "apressar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "flow",
                 "sinonimo": "fluir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "fly",
+                "sinonimo": "voar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
-                "synset": "run",
-                "sinonimo": "feed",
+                "synset": "race",
+                "sinonimo": "race",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "rush",
-                "sinonimo": "step_on_it",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "hasten",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "hie",
+                "sinonimo": "rush_along",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -643,13 +631,31 @@
               },
               {
                 "synset": "trickle",
-                "sinonimo": "filter",
+                "sinonimo": "trickle",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
-                "sinonimo": "race",
+                "sinonimo": "speed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "hasten",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pour",
+                "sinonimo": "pour",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "rush",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -660,20 +666,38 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "rush",
-                "sinonimo": "rush_along",
+                "synset": "run",
+                "sinonimo": "flow",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "06"
               },
               {
                 "synset": "trickle",
-                "sinonimo": "trickle",
+                "sinonimo": "filter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "flow",
+                "sinonimo": "flux",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
-                "sinonimo": "rush",
+                "sinonimo": "hie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "run",
+                "sinonimo": "run",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "step_on_it",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -684,46 +708,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "rush",
-                "sinonimo": "cannonball_along",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "run",
-                "sinonimo": "course",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
-              },
-              {
-                "synset": "flow",
-                "sinonimo": "flux",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "run",
-                "sinonimo": "flow",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "speed",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "fly",
                 "sinonimo": "fly",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "pour",
-                "sinonimo": "pour",
+                "synset": "rush",
+                "sinonimo": "cannonball_along",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
@@ -739,7 +733,13 @@
               },
               {
                 "synset": "run",
-                "sinonimo": "run",
+                "sinonimo": "course",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "run",
+                "sinonimo": "feed",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
               }
@@ -761,24 +761,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "hazard",
-                "sinonimo": "perigo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "hazard",
-                "sinonimo": "ameaça",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "riskiness",
-                "sinonimo": "escabrosidade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "danger",
                 "sinonimo": "risco",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -789,12 +771,36 @@
                 "sinonimo": "perigos_(segurança_no_trabalho)",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "danger",
+                "sinonimo": "ameaça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "riskiness",
+                "sinonimo": "perigo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "riskiness",
+                "sinonimo": "escabrosidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "riskiness",
                 "sinonimo": "riskiness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hazard",
+                "sinonimo": "jeopardy",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -814,13 +820,7 @@
                 "synset": "danger",
                 "sinonimo": "danger",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "hazard",
-                "sinonimo": "jeopardy",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "hazard",
@@ -829,16 +829,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "hazard",
-                "sinonimo": "endangerment",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "chance",
                 "sinonimo": "chance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "hazard",
+                "sinonimo": "endangerment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -867,12 +867,6 @@
             "eng": [
               {
                 "synset": "extinction",
-                "sinonimo": "extinction",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "extinction",
                 "sinonimo": "quenching",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "06"
@@ -885,9 +879,9 @@
               },
               {
                 "synset": "extinction",
-                "sinonimo": "extermination",
+                "sinonimo": "extinction",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "extinction",
@@ -900,6 +894,12 @@
                 "sinonimo": "defunctness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "extinction",
+                "sinonimo": "extermination",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -923,24 +923,6 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "hazard",
-                  "sinonimo": "perigo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "hazard",
-                  "sinonimo": "ameaça",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "riskiness",
-                  "sinonimo": "escabrosidade",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "danger",
                   "sinonimo": "risco",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -951,12 +933,36 @@
                   "sinonimo": "perigos_(segurança_no_trabalho)",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "danger",
+                  "sinonimo": "ameaça",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "riskiness",
+                  "sinonimo": "perigo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "riskiness",
+                  "sinonimo": "escabrosidade",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
                 }
               ],
               "eng": [
                 {
                   "synset": "riskiness",
                   "sinonimo": "riskiness",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hazard",
+                  "sinonimo": "jeopardy",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -976,13 +982,7 @@
                   "synset": "danger",
                   "sinonimo": "danger",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "hazard",
-                  "sinonimo": "jeopardy",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "hazard",
@@ -991,16 +991,16 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "hazard",
-                  "sinonimo": "endangerment",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "chance",
                   "sinonimo": "chance",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
+                },
+                {
+                  "synset": "hazard",
+                  "sinonimo": "endangerment",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
                 }
               ]
             }
@@ -1029,12 +1029,6 @@
               "eng": [
                 {
                   "synset": "extinction",
-                  "sinonimo": "extinction",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
-                },
-                {
-                  "synset": "extinction",
                   "sinonimo": "quenching",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "06"
@@ -1047,9 +1041,9 @@
                 },
                 {
                   "synset": "extinction",
-                  "sinonimo": "extermination",
+                  "sinonimo": "extinction",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "extinction",
@@ -1062,6 +1056,12 @@
                   "sinonimo": "defunctness",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
+                },
+                {
+                  "synset": "extinction",
+                  "sinonimo": "extermination",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
                 }
               ]
             }
@@ -1138,13 +1138,13 @@
             "por": [
               {
                 "synset": "bird",
-                "sinonimo": "pássaro",
+                "sinonimo": "ave",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "bird",
-                "sinonimo": "ave",
+                "sinonimo": "pássaro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -1200,28 +1200,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "flow",
-                "sinonimo": "luir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "fly",
-                "sinonimo": "voar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "fly",
+                "synset": "run",
                 "sinonimo": "correr",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "apressar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "06"
               },
               {
                 "synset": "rush",
@@ -1237,33 +1219,39 @@
               },
               {
                 "synset": "flow",
+                "sinonimo": "luir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "apressar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "flow",
                 "sinonimo": "fluir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "fly",
+                "sinonimo": "voar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
-                "synset": "run",
-                "sinonimo": "feed",
+                "synset": "race",
+                "sinonimo": "race",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "rush",
-                "sinonimo": "step_on_it",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "hasten",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "hie",
+                "sinonimo": "rush_along",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1275,13 +1263,31 @@
               },
               {
                 "synset": "trickle",
-                "sinonimo": "filter",
+                "sinonimo": "trickle",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
-                "sinonimo": "race",
+                "sinonimo": "speed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "hasten",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pour",
+                "sinonimo": "pour",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "rush",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1292,20 +1298,38 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "rush",
-                "sinonimo": "rush_along",
+                "synset": "run",
+                "sinonimo": "flow",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "06"
               },
               {
                 "synset": "trickle",
-                "sinonimo": "trickle",
+                "sinonimo": "filter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "flow",
+                "sinonimo": "flux",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
-                "sinonimo": "rush",
+                "sinonimo": "hie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "run",
+                "sinonimo": "run",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "step_on_it",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1316,46 +1340,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "rush",
-                "sinonimo": "cannonball_along",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "run",
-                "sinonimo": "course",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
-              },
-              {
-                "synset": "flow",
-                "sinonimo": "flux",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "run",
-                "sinonimo": "flow",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "speed",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "fly",
                 "sinonimo": "fly",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "pour",
-                "sinonimo": "pour",
+                "synset": "rush",
+                "sinonimo": "cannonball_along",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
@@ -1371,7 +1365,13 @@
               },
               {
                 "synset": "run",
-                "sinonimo": "run",
+                "sinonimo": "course",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "run",
+                "sinonimo": "feed",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
               }
@@ -1402,24 +1402,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "hazard",
-                "sinonimo": "perigo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "hazard",
-                "sinonimo": "ameaça",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "riskiness",
-                "sinonimo": "escabrosidade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "danger",
                 "sinonimo": "risco",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -1430,12 +1412,36 @@
                 "sinonimo": "perigos_(segurança_no_trabalho)",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "danger",
+                "sinonimo": "ameaça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "riskiness",
+                "sinonimo": "perigo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "riskiness",
+                "sinonimo": "escabrosidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "riskiness",
                 "sinonimo": "riskiness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hazard",
+                "sinonimo": "jeopardy",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1455,13 +1461,7 @@
                 "synset": "danger",
                 "sinonimo": "danger",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "hazard",
-                "sinonimo": "jeopardy",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "hazard",
@@ -1470,16 +1470,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "hazard",
-                "sinonimo": "endangerment",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "chance",
                 "sinonimo": "chance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "hazard",
+                "sinonimo": "endangerment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -1528,12 +1528,6 @@
             "eng": [
               {
                 "synset": "extinction",
-                "sinonimo": "extinction",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "extinction",
                 "sinonimo": "quenching",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "06"
@@ -1546,9 +1540,9 @@
               },
               {
                 "synset": "extinction",
-                "sinonimo": "extermination",
+                "sinonimo": "extinction",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "extinction",
@@ -1561,6 +1555,12 @@
                 "sinonimo": "defunctness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "extinction",
+                "sinonimo": "extermination",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -1600,13 +1600,13 @@
             "por": [
               {
                 "synset": "bird",
-                "sinonimo": "pássaro",
+                "sinonimo": "ave",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "bird",
-                "sinonimo": "ave",
+                "sinonimo": "pássaro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -1638,28 +1638,10 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "flow",
-                "sinonimo": "luir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "fly",
-                "sinonimo": "voar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "fly",
+                "synset": "run",
                 "sinonimo": "correr",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "apressar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "06"
               },
               {
                 "synset": "rush",
@@ -1675,33 +1657,39 @@
               },
               {
                 "synset": "flow",
+                "sinonimo": "luir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "apressar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "flow",
                 "sinonimo": "fluir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "fly",
+                "sinonimo": "voar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ],
             "eng": [
               {
-                "synset": "run",
-                "sinonimo": "feed",
+                "synset": "race",
+                "sinonimo": "race",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "rush",
-                "sinonimo": "step_on_it",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "hasten",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "hie",
+                "sinonimo": "rush_along",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1713,13 +1701,31 @@
               },
               {
                 "synset": "trickle",
-                "sinonimo": "filter",
+                "sinonimo": "trickle",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
-                "sinonimo": "race",
+                "sinonimo": "speed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "hasten",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pour",
+                "sinonimo": "pour",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "rush",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1730,20 +1736,38 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "rush",
-                "sinonimo": "rush_along",
+                "synset": "run",
+                "sinonimo": "flow",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "06"
               },
               {
                 "synset": "trickle",
-                "sinonimo": "trickle",
+                "sinonimo": "filter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "flow",
+                "sinonimo": "flux",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
-                "sinonimo": "rush",
+                "sinonimo": "hie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "run",
+                "sinonimo": "run",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "rush",
+                "sinonimo": "step_on_it",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -1754,46 +1778,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "rush",
-                "sinonimo": "cannonball_along",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "run",
-                "sinonimo": "course",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
-              },
-              {
-                "synset": "flow",
-                "sinonimo": "flux",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "run",
-                "sinonimo": "flow",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
-              },
-              {
-                "synset": "rush",
-                "sinonimo": "speed",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "fly",
                 "sinonimo": "fly",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "pour",
-                "sinonimo": "pour",
+                "synset": "rush",
+                "sinonimo": "cannonball_along",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "rush",
@@ -1809,7 +1803,13 @@
               },
               {
                 "synset": "run",
-                "sinonimo": "run",
+                "sinonimo": "course",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "run",
+                "sinonimo": "feed",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
               }
@@ -1831,24 +1831,6 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "hazard",
-                "sinonimo": "perigo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "hazard",
-                "sinonimo": "ameaça",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "riskiness",
-                "sinonimo": "escabrosidade",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "danger",
                 "sinonimo": "risco",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -1859,12 +1841,36 @@
                 "sinonimo": "perigos_(segurança_no_trabalho)",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "danger",
+                "sinonimo": "ameaça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "riskiness",
+                "sinonimo": "perigo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "riskiness",
+                "sinonimo": "escabrosidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "riskiness",
                 "sinonimo": "riskiness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hazard",
+                "sinonimo": "jeopardy",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -1884,13 +1890,7 @@
                 "synset": "danger",
                 "sinonimo": "danger",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "hazard",
-                "sinonimo": "jeopardy",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "hazard",
@@ -1899,16 +1899,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "hazard",
-                "sinonimo": "endangerment",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "chance",
                 "sinonimo": "chance",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "hazard",
+                "sinonimo": "endangerment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -1937,12 +1937,6 @@
             "eng": [
               {
                 "synset": "extinction",
-                "sinonimo": "extinction",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "extinction",
                 "sinonimo": "quenching",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "06"
@@ -1955,9 +1949,9 @@
               },
               {
                 "synset": "extinction",
-                "sinonimo": "extermination",
+                "sinonimo": "extinction",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "extinction",
@@ -1970,6 +1964,12 @@
                 "sinonimo": "defunctness",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
+              },
+              {
+                "synset": "extinction",
+                "sinonimo": "extermination",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -1993,24 +1993,6 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "hazard",
-                  "sinonimo": "perigo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "hazard",
-                  "sinonimo": "ameaça",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "riskiness",
-                  "sinonimo": "escabrosidade",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "danger",
                   "sinonimo": "risco",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -2021,12 +2003,36 @@
                   "sinonimo": "perigos_(segurança_no_trabalho)",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "danger",
+                  "sinonimo": "ameaça",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "riskiness",
+                  "sinonimo": "perigo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "riskiness",
+                  "sinonimo": "escabrosidade",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
                 }
               ],
               "eng": [
                 {
                   "synset": "riskiness",
                   "sinonimo": "riskiness",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hazard",
+                  "sinonimo": "jeopardy",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -2046,13 +2052,7 @@
                   "synset": "danger",
                   "sinonimo": "danger",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "hazard",
-                  "sinonimo": "jeopardy",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "hazard",
@@ -2061,16 +2061,16 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "hazard",
-                  "sinonimo": "endangerment",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "chance",
                   "sinonimo": "chance",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
+                },
+                {
+                  "synset": "hazard",
+                  "sinonimo": "endangerment",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
                 }
               ]
             }
@@ -2099,12 +2099,6 @@
               "eng": [
                 {
                   "synset": "extinction",
-                  "sinonimo": "extinction",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
-                },
-                {
-                  "synset": "extinction",
                   "sinonimo": "quenching",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "06"
@@ -2117,9 +2111,9 @@
                 },
                 {
                   "synset": "extinction",
-                  "sinonimo": "extermination",
+                  "sinonimo": "extinction",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "extinction",
@@ -2132,6 +2126,12 @@
                   "sinonimo": "defunctness",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
+                },
+                {
+                  "synset": "extinction",
+                  "sinonimo": "extermination",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
                 }
               ]
             }
@@ -2143,7 +2143,7 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [],
-      "total_time": 17641184819,
+      "total_time": 9043765862,
       "timeout": false
     }
   }

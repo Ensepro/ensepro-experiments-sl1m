@@ -234,8 +234,20 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "wife",
+                "sinonimo": "esposa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "mulher",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "spouse",
-                "sinonimo": "cónjuge",
+                "sinonimo": "homem",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -252,26 +264,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "wife",
+                "synset": "spouse",
                 "sinonimo": "marido",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "wife",
-                "sinonimo": "mulher",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "wife",
-                "sinonimo": "esposa",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "spouse",
-                "sinonimo": "colega",
+                "sinonimo": "cónjuge",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -283,7 +283,7 @@
               },
               {
                 "synset": "spouse",
-                "sinonimo": "homem",
+                "sinonimo": "colega",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -291,7 +291,19 @@
             "eng": [
               {
                 "synset": "wife",
+                "sinonimo": "married_woman",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
                 "sinonimo": "wife",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "married_person",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -308,20 +320,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "wife",
-                "sinonimo": "married_woman",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "spouse",
                 "sinonimo": "better_half",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "spouse",
-                "sinonimo": "married_person",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -415,21 +415,21 @@
             "por": [
               {
                 "synset": "name",
+                "sinonimo": "denominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "name",
                 "sinonimo": "nomear",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "call",
-                "sinonimo": "telefonar",
+                "sinonimo": "convocar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "designate",
-                "sinonimo": "chamar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "call",
@@ -439,27 +439,21 @@
               },
               {
                 "synset": "call",
-                "sinonimo": "convocar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "designate",
-                "sinonimo": "denominar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
-              {
-                "synset": "call",
-                "sinonimo": "phone",
+                "sinonimo": "chamar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "designate",
-                "sinonimo": "designate",
+                "synset": "call",
+                "sinonimo": "telefonar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "stigmatize",
+                "sinonimo": "mark",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -470,20 +464,26 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "stigmatise",
+                "synset": "call",
+                "sinonimo": "phone",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "call",
-                "sinonimo": "call",
+                "sinonimo": "send_for",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
               {
-                "synset": "name",
-                "sinonimo": "name",
+                "synset": "stigmatize",
+                "sinonimo": "denounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stigmatize",
+                "sinonimo": "stigmatize",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -494,16 +494,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "mark",
+                "synset": "name",
+                "sinonimo": "name",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "denounce",
+                "synset": "call",
+                "sinonimo": "ring",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "call",
@@ -512,16 +512,10 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "stigmatize",
+                "synset": "designate",
+                "sinonimo": "designate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "call",
-                "sinonimo": "send_for",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
               },
               {
                 "synset": "call",
@@ -530,8 +524,14 @@
                 "distancia_semantica": "03"
               },
               {
+                "synset": "stigmatize",
+                "sinonimo": "stigmatise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "call",
-                "sinonimo": "ring",
+                "sinonimo": "call",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               }
@@ -594,8 +594,20 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "wife",
+                "sinonimo": "esposa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "mulher",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "spouse",
-                "sinonimo": "cónjuge",
+                "sinonimo": "homem",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -612,26 +624,14 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "wife",
+                "synset": "spouse",
                 "sinonimo": "marido",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "wife",
-                "sinonimo": "mulher",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "wife",
-                "sinonimo": "esposa",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "spouse",
-                "sinonimo": "colega",
+                "sinonimo": "cónjuge",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -643,7 +643,7 @@
               },
               {
                 "synset": "spouse",
-                "sinonimo": "homem",
+                "sinonimo": "colega",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -651,7 +651,19 @@
             "eng": [
               {
                 "synset": "wife",
+                "sinonimo": "married_woman",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
                 "sinonimo": "wife",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "married_person",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -668,20 +680,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "wife",
-                "sinonimo": "married_woman",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "spouse",
                 "sinonimo": "better_half",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "spouse",
-                "sinonimo": "married_person",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -733,21 +733,21 @@
             "por": [
               {
                 "synset": "name",
+                "sinonimo": "denominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "name",
                 "sinonimo": "nomear",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "call",
-                "sinonimo": "telefonar",
+                "sinonimo": "convocar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "designate",
-                "sinonimo": "chamar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "call",
@@ -757,27 +757,21 @@
               },
               {
                 "synset": "call",
-                "sinonimo": "convocar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
-              },
-              {
-                "synset": "designate",
-                "sinonimo": "denominar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              }
-            ],
-            "eng": [
-              {
-                "synset": "call",
-                "sinonimo": "phone",
+                "sinonimo": "chamar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
               {
-                "synset": "designate",
-                "sinonimo": "designate",
+                "synset": "call",
+                "sinonimo": "telefonar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "stigmatize",
+                "sinonimo": "mark",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -788,20 +782,26 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "stigmatise",
+                "synset": "call",
+                "sinonimo": "phone",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "call",
-                "sinonimo": "call",
+                "sinonimo": "send_for",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
               {
-                "synset": "name",
-                "sinonimo": "name",
+                "synset": "stigmatize",
+                "sinonimo": "denounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stigmatize",
+                "sinonimo": "stigmatize",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -812,16 +812,16 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "mark",
+                "synset": "name",
+                "sinonimo": "name",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "denounce",
+                "synset": "call",
+                "sinonimo": "ring",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "03"
               },
               {
                 "synset": "call",
@@ -830,16 +830,10 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "stigmatize",
-                "sinonimo": "stigmatize",
+                "synset": "designate",
+                "sinonimo": "designate",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "call",
-                "sinonimo": "send_for",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "05"
               },
               {
                 "synset": "call",
@@ -848,8 +842,14 @@
                 "distancia_semantica": "03"
               },
               {
+                "synset": "stigmatize",
+                "sinonimo": "stigmatise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "call",
-                "sinonimo": "ring",
+                "sinonimo": "call",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               }
@@ -893,8 +893,20 @@
             "sinonimos": {
               "por": [
                 {
+                  "synset": "wife",
+                  "sinonimo": "esposa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "wife",
+                  "sinonimo": "mulher",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "spouse",
-                  "sinonimo": "cónjuge",
+                  "sinonimo": "homem",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -911,26 +923,14 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "wife",
+                  "synset": "spouse",
                   "sinonimo": "marido",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "wife",
-                  "sinonimo": "mulher",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "wife",
-                  "sinonimo": "esposa",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "spouse",
-                  "sinonimo": "colega",
+                  "sinonimo": "cónjuge",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -942,7 +942,7 @@
                 },
                 {
                   "synset": "spouse",
-                  "sinonimo": "homem",
+                  "sinonimo": "colega",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -950,7 +950,19 @@
               "eng": [
                 {
                   "synset": "wife",
+                  "sinonimo": "married_woman",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "wife",
                   "sinonimo": "wife",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "married_person",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -967,20 +979,8 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "wife",
-                  "sinonimo": "married_woman",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "spouse",
                   "sinonimo": "better_half",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "spouse",
-                  "sinonimo": "married_person",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -3216,7 +3216,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 39645477788,
+      "ranking_time": 12413796876,
       "l_sizes": [
         29703,
         29703
@@ -3226,8 +3226,8 @@
         538806
       ],
       "stats": {},
-      "ranking_time_only": 28727607683,
-      "total_time": 63455574396,
+      "ranking_time_only": 8458662860,
+      "total_time": 22664459567,
       "timeout": false
     }
   }

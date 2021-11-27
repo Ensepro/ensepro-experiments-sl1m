@@ -66,8 +66,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "tome",
-                "sinonimo": "volume",
+                "synset": "phrase_book",
+                "sinonimo": "manual_idiomático",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -78,37 +78,31 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "manual_idiomático",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "book",
                 "sinonimo": "álbum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "11"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "livro_de_frases",
+                "synset": "tome",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phrase_book",
+                "synset": "volume",
                 "sinonimo": "livro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "phrase_book",
+                "sinonimo": "livro_de_frases",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
-              {
-                "synset": "volume",
-                "sinonimo": "volume",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
               {
                 "synset": "tome",
                 "sinonimo": "tome",
@@ -116,14 +110,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "phrase_book",
+                "synset": "volume",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "04"
               },
               {
                 "synset": "book",
                 "sinonimo": "book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "phrase_book",
+                "sinonimo": "phrase_book",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -189,56 +189,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "zero",
-                "sinonimo": "número",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "phone_number",
-                "sinonimo": "número_telefônico",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "numeral",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "magnitude",
-                "sinonimo": "magnitude",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "number",
                 "sinonimo": "numeral_cardinal",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "measure",
-                "sinonimo": "medida",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "figure",
-                "sinonimo": "cifra",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "number",
-                "sinonimo": "Número",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "sum",
-                "sinonimo": "montante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -250,31 +202,19 @@
               },
               {
                 "synset": "number",
-                "sinonimo": "Numero",
+                "sinonimo": "Número",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "digit",
-                "sinonimo": "dígito",
+                "synset": "figure",
+                "sinonimo": "número",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "07"
               },
               {
-                "synset": "digit",
-                "sinonimo": "algarismo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "zero",
-                "sinonimo": "zero",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "amount",
-                "sinonimo": "Quantidade",
+                "synset": "sum",
+                "sinonimo": "montante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -285,10 +225,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "telefone",
+                "synset": "amount",
+                "sinonimo": "Quantidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "quantity",
@@ -303,48 +243,16 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "quantity",
+                "synset": "amount",
                 "sinonimo": "quantidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              }
-            ],
-            "eng": [
-              {
-                "synset": "measure",
-                "sinonimo": "measure",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "zero",
-                "sinonimo": "cypher",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "act",
-                "sinonimo": "bit",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "numeral",
+                "synset": "digit",
+                "sinonimo": "dígito",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "zero",
-                "sinonimo": "0",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "act",
-                "sinonimo": "routine",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
               },
               {
                 "synset": "magnitude",
@@ -354,37 +262,57 @@
               },
               {
                 "synset": "measure",
-                "sinonimo": "quantity",
+                "sinonimo": "medida",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "sum",
-                "sinonimo": "sum",
+                "synset": "phone_number",
+                "sinonimo": "telefone",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "zero",
-                "sinonimo": "cipher",
+                "synset": "numeral",
+                "sinonimo": "numeral",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "sum",
-                "sinonimo": "total",
+                "synset": "phone_number",
+                "sinonimo": "número_telefônico",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "number",
-                "sinonimo": "identification_number",
+                "sinonimo": "Numero",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "08"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "issue",
-                "sinonimo": "issue",
+                "synset": "digit",
+                "sinonimo": "algarismo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "figure",
+                "sinonimo": "cifra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "zero",
+                "sinonimo": "zero",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "sum",
+                "sinonimo": "sum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -395,16 +323,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "telephone_number",
+                "synset": "zero",
+                "sinonimo": "cypher",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "number",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "act",
@@ -413,28 +335,28 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "phone_number",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "sum",
-                "sinonimo": "amount",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "zero",
                 "sinonimo": "zero",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "digit",
-                "sinonimo": "figure",
+                "synset": "zero",
+                "sinonimo": "cipher",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "number",
+                "sinonimo": "identification_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
               },
               {
                 "synset": "zero",
@@ -443,10 +365,88 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "phone_number",
+                "sinonimo": "telephone_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "measure",
+                "sinonimo": "measure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "sum",
+                "sinonimo": "total",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "bit",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "measure",
+                "sinonimo": "quantity",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "magnitude",
+                "sinonimo": "magnitude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "number",
+                "sinonimo": "figure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "numeral",
+                "sinonimo": "numeral",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "act",
                 "sinonimo": "turn",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
+              },
+              {
+                "synset": "zero",
+                "sinonimo": "0",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "phone_number",
+                "sinonimo": "phone_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "routine",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "issue",
+                "sinonimo": "issue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "amount",
+                "sinonimo": "amount",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -491,6 +491,12 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "page",
+                "sinonimo": "lauda",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "web_page",
                 "sinonimo": "página_web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -504,18 +510,18 @@
               },
               {
                 "synset": "page",
-                "sinonimo": "lauda",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
                 "sinonimo": "página",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "page",
+                "sinonimo": "page",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "web_page",
                 "sinonimo": "web_page",
@@ -525,12 +531,6 @@
               {
                 "synset": "web_page",
                 "sinonimo": "webpage",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
-                "sinonimo": "page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -572,8 +572,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "tome",
-                "sinonimo": "volume",
+                "synset": "phrase_book",
+                "sinonimo": "manual_idiomático",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -584,37 +584,31 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "manual_idiomático",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "book",
                 "sinonimo": "álbum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "11"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "livro_de_frases",
+                "synset": "tome",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phrase_book",
+                "synset": "volume",
                 "sinonimo": "livro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "phrase_book",
+                "sinonimo": "livro_de_frases",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
-              {
-                "synset": "volume",
-                "sinonimo": "volume",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
               {
                 "synset": "tome",
                 "sinonimo": "tome",
@@ -622,14 +616,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "phrase_book",
+                "synset": "volume",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "04"
               },
               {
                 "synset": "book",
                 "sinonimo": "book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "phrase_book",
+                "sinonimo": "phrase_book",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -653,56 +653,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "zero",
-                "sinonimo": "número",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "phone_number",
-                "sinonimo": "número_telefônico",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "numeral",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "magnitude",
-                "sinonimo": "magnitude",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "number",
                 "sinonimo": "numeral_cardinal",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "measure",
-                "sinonimo": "medida",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "figure",
-                "sinonimo": "cifra",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "number",
-                "sinonimo": "Número",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "sum",
-                "sinonimo": "montante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -714,31 +666,19 @@
               },
               {
                 "synset": "number",
-                "sinonimo": "Numero",
+                "sinonimo": "Número",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "digit",
-                "sinonimo": "dígito",
+                "synset": "figure",
+                "sinonimo": "número",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "07"
               },
               {
-                "synset": "digit",
-                "sinonimo": "algarismo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "zero",
-                "sinonimo": "zero",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "amount",
-                "sinonimo": "Quantidade",
+                "synset": "sum",
+                "sinonimo": "montante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -749,10 +689,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "telefone",
+                "synset": "amount",
+                "sinonimo": "Quantidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "quantity",
@@ -767,48 +707,16 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "quantity",
+                "synset": "amount",
                 "sinonimo": "quantidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              }
-            ],
-            "eng": [
-              {
-                "synset": "measure",
-                "sinonimo": "measure",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "zero",
-                "sinonimo": "cypher",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "act",
-                "sinonimo": "bit",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "numeral",
+                "synset": "digit",
+                "sinonimo": "dígito",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "zero",
-                "sinonimo": "0",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "act",
-                "sinonimo": "routine",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
               },
               {
                 "synset": "magnitude",
@@ -818,37 +726,57 @@
               },
               {
                 "synset": "measure",
-                "sinonimo": "quantity",
+                "sinonimo": "medida",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "sum",
-                "sinonimo": "sum",
+                "synset": "phone_number",
+                "sinonimo": "telefone",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "zero",
-                "sinonimo": "cipher",
+                "synset": "numeral",
+                "sinonimo": "numeral",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "sum",
-                "sinonimo": "total",
+                "synset": "phone_number",
+                "sinonimo": "número_telefônico",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "number",
-                "sinonimo": "identification_number",
+                "sinonimo": "Numero",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "08"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "issue",
-                "sinonimo": "issue",
+                "synset": "digit",
+                "sinonimo": "algarismo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "figure",
+                "sinonimo": "cifra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "zero",
+                "sinonimo": "zero",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "sum",
+                "sinonimo": "sum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -859,16 +787,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "telephone_number",
+                "synset": "zero",
+                "sinonimo": "cypher",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "number",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "act",
@@ -877,28 +799,28 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "phone_number",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "sum",
-                "sinonimo": "amount",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "zero",
                 "sinonimo": "zero",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "digit",
-                "sinonimo": "figure",
+                "synset": "zero",
+                "sinonimo": "cipher",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "number",
+                "sinonimo": "identification_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
               },
               {
                 "synset": "zero",
@@ -907,10 +829,88 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "phone_number",
+                "sinonimo": "telephone_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "measure",
+                "sinonimo": "measure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "sum",
+                "sinonimo": "total",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "bit",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "measure",
+                "sinonimo": "quantity",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "magnitude",
+                "sinonimo": "magnitude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "number",
+                "sinonimo": "figure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "numeral",
+                "sinonimo": "numeral",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "act",
                 "sinonimo": "turn",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
+              },
+              {
+                "synset": "zero",
+                "sinonimo": "0",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "phone_number",
+                "sinonimo": "phone_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "routine",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "issue",
+                "sinonimo": "issue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "amount",
+                "sinonimo": "amount",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -935,6 +935,12 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "page",
+                "sinonimo": "lauda",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "web_page",
                 "sinonimo": "página_web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -948,18 +954,18 @@
               },
               {
                 "synset": "page",
-                "sinonimo": "lauda",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
                 "sinonimo": "página",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "page",
+                "sinonimo": "page",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "web_page",
                 "sinonimo": "web_page",
@@ -969,12 +975,6 @@
               {
                 "synset": "web_page",
                 "sinonimo": "webpage",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
-                "sinonimo": "page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -1000,8 +1000,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "tome",
-                  "sinonimo": "volume",
+                  "synset": "phrase_book",
+                  "sinonimo": "manual_idiomático",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -1012,37 +1012,31 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "phrase_book",
-                  "sinonimo": "manual_idiomático",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "book",
                   "sinonimo": "álbum",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "11"
                 },
                 {
-                  "synset": "phrase_book",
-                  "sinonimo": "livro_de_frases",
+                  "synset": "tome",
+                  "sinonimo": "volume",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phrase_book",
+                  "synset": "volume",
                   "sinonimo": "livro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "phrase_book",
+                  "sinonimo": "livro_de_frases",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
               ],
               "eng": [
-                {
-                  "synset": "volume",
-                  "sinonimo": "volume",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
-                },
                 {
                   "synset": "tome",
                   "sinonimo": "tome",
@@ -1050,14 +1044,20 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phrase_book",
-                  "sinonimo": "phrase_book",
+                  "synset": "volume",
+                  "sinonimo": "volume",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "book",
                   "sinonimo": "book",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "phrase_book",
+                  "sinonimo": "phrase_book",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -1081,56 +1081,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "zero",
-                  "sinonimo": "número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "phone_number",
-                  "sinonimo": "número_telefônico",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "magnitude",
-                  "sinonimo": "magnitude",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "number",
                   "sinonimo": "numeral_cardinal",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "measure",
-                  "sinonimo": "medida",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "figure",
-                  "sinonimo": "cifra",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "07"
-                },
-                {
-                  "synset": "number",
-                  "sinonimo": "Número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -1142,31 +1094,19 @@
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "Numero",
+                  "sinonimo": "Número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "dígito",
+                  "synset": "figure",
+                  "sinonimo": "número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "07"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "algarismo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "zero",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "amount",
-                  "sinonimo": "Quantidade",
+                  "synset": "sum",
+                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -1177,10 +1117,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telefone",
+                  "synset": "amount",
+                  "sinonimo": "Quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "quantity",
@@ -1195,48 +1135,16 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "quantity",
+                  "synset": "amount",
                   "sinonimo": "quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                }
-              ],
-              "eng": [
-                {
-                  "synset": "measure",
-                  "sinonimo": "measure",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cypher",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "bit",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
+                  "synset": "digit",
+                  "sinonimo": "dígito",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "0",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "routine",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "magnitude",
@@ -1246,37 +1154,57 @@
                 },
                 {
                   "synset": "measure",
-                  "sinonimo": "quantity",
+                  "sinonimo": "medida",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "sum",
+                  "synset": "phone_number",
+                  "sinonimo": "telefone",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cipher",
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "total",
+                  "synset": "phone_number",
+                  "sinonimo": "número_telefônico",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "identification_number",
+                  "sinonimo": "Numero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "08"
+                  "distancia_semantica": "02"
                 },
                 {
-                  "synset": "issue",
-                  "sinonimo": "issue",
+                  "synset": "digit",
+                  "sinonimo": "algarismo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "figure",
+                  "sinonimo": "cifra",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "zero",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "sum",
+                  "sinonimo": "sum",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -1287,16 +1215,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telephone_number",
+                  "synset": "zero",
+                  "sinonimo": "cypher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "act",
@@ -1305,28 +1227,28 @@
                   "distancia_semantica": "04"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "phone_number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "amount",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
                   "synset": "zero",
                   "sinonimo": "zero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "figure",
+                  "synset": "zero",
+                  "sinonimo": "cipher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "identification_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
                 },
                 {
                   "synset": "zero",
@@ -1335,10 +1257,88 @@
                   "distancia_semantica": "02"
                 },
                 {
+                  "synset": "phone_number",
+                  "sinonimo": "telephone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "measure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "sum",
+                  "sinonimo": "total",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "bit",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "quantity",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "magnitude",
+                  "sinonimo": "magnitude",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "figure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "act",
                   "sinonimo": "turn",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "04"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "0",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "phone_number",
+                  "sinonimo": "phone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "routine",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "issue",
+                  "sinonimo": "issue",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "amount",
+                  "sinonimo": "amount",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 }
               ]
             }
@@ -1362,56 +1362,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "zero",
-                  "sinonimo": "número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "phone_number",
-                  "sinonimo": "número_telefônico",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "magnitude",
-                  "sinonimo": "magnitude",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "number",
                   "sinonimo": "numeral_cardinal",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "measure",
-                  "sinonimo": "medida",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "figure",
-                  "sinonimo": "cifra",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "07"
-                },
-                {
-                  "synset": "number",
-                  "sinonimo": "Número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -1423,31 +1375,19 @@
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "Numero",
+                  "sinonimo": "Número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "dígito",
+                  "synset": "figure",
+                  "sinonimo": "número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "07"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "algarismo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "zero",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "amount",
-                  "sinonimo": "Quantidade",
+                  "synset": "sum",
+                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -1458,10 +1398,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telefone",
+                  "synset": "amount",
+                  "sinonimo": "Quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "quantity",
@@ -1476,48 +1416,16 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "quantity",
+                  "synset": "amount",
                   "sinonimo": "quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                }
-              ],
-              "eng": [
-                {
-                  "synset": "measure",
-                  "sinonimo": "measure",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cypher",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "bit",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
+                  "synset": "digit",
+                  "sinonimo": "dígito",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "0",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "routine",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "magnitude",
@@ -1527,37 +1435,57 @@
                 },
                 {
                   "synset": "measure",
-                  "sinonimo": "quantity",
+                  "sinonimo": "medida",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "sum",
+                  "synset": "phone_number",
+                  "sinonimo": "telefone",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cipher",
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "total",
+                  "synset": "phone_number",
+                  "sinonimo": "número_telefônico",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "identification_number",
+                  "sinonimo": "Numero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "08"
+                  "distancia_semantica": "02"
                 },
                 {
-                  "synset": "issue",
-                  "sinonimo": "issue",
+                  "synset": "digit",
+                  "sinonimo": "algarismo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "figure",
+                  "sinonimo": "cifra",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "zero",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "sum",
+                  "sinonimo": "sum",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -1568,16 +1496,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telephone_number",
+                  "synset": "zero",
+                  "sinonimo": "cypher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "act",
@@ -1586,28 +1508,28 @@
                   "distancia_semantica": "04"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "phone_number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "amount",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
                   "synset": "zero",
                   "sinonimo": "zero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "figure",
+                  "synset": "zero",
+                  "sinonimo": "cipher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "identification_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
                 },
                 {
                   "synset": "zero",
@@ -1616,10 +1538,88 @@
                   "distancia_semantica": "02"
                 },
                 {
+                  "synset": "phone_number",
+                  "sinonimo": "telephone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "measure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "sum",
+                  "sinonimo": "total",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "bit",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "quantity",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "magnitude",
+                  "sinonimo": "magnitude",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "figure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "act",
                   "sinonimo": "turn",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "04"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "0",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "phone_number",
+                  "sinonimo": "phone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "routine",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "issue",
+                  "sinonimo": "issue",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "amount",
+                  "sinonimo": "amount",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 }
               ]
             }
@@ -1656,56 +1656,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "zero",
-                  "sinonimo": "número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "phone_number",
-                  "sinonimo": "número_telefônico",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "magnitude",
-                  "sinonimo": "magnitude",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "number",
                   "sinonimo": "numeral_cardinal",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "measure",
-                  "sinonimo": "medida",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "figure",
-                  "sinonimo": "cifra",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "07"
-                },
-                {
-                  "synset": "number",
-                  "sinonimo": "Número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -1717,31 +1669,19 @@
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "Numero",
+                  "sinonimo": "Número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "dígito",
+                  "synset": "figure",
+                  "sinonimo": "número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "07"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "algarismo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "zero",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "amount",
-                  "sinonimo": "Quantidade",
+                  "synset": "sum",
+                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -1752,10 +1692,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telefone",
+                  "synset": "amount",
+                  "sinonimo": "Quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "quantity",
@@ -1770,48 +1710,16 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "quantity",
+                  "synset": "amount",
                   "sinonimo": "quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                }
-              ],
-              "eng": [
-                {
-                  "synset": "measure",
-                  "sinonimo": "measure",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cypher",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "bit",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
+                  "synset": "digit",
+                  "sinonimo": "dígito",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "0",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "routine",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "magnitude",
@@ -1821,37 +1729,57 @@
                 },
                 {
                   "synset": "measure",
-                  "sinonimo": "quantity",
+                  "sinonimo": "medida",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "sum",
+                  "synset": "phone_number",
+                  "sinonimo": "telefone",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cipher",
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "total",
+                  "synset": "phone_number",
+                  "sinonimo": "número_telefônico",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "identification_number",
+                  "sinonimo": "Numero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "08"
+                  "distancia_semantica": "02"
                 },
                 {
-                  "synset": "issue",
-                  "sinonimo": "issue",
+                  "synset": "digit",
+                  "sinonimo": "algarismo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "figure",
+                  "sinonimo": "cifra",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "zero",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "sum",
+                  "sinonimo": "sum",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -1862,16 +1790,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telephone_number",
+                  "synset": "zero",
+                  "sinonimo": "cypher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "act",
@@ -1880,28 +1802,28 @@
                   "distancia_semantica": "04"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "phone_number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "amount",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
                   "synset": "zero",
                   "sinonimo": "zero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "figure",
+                  "synset": "zero",
+                  "sinonimo": "cipher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "identification_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
                 },
                 {
                   "synset": "zero",
@@ -1910,10 +1832,88 @@
                   "distancia_semantica": "02"
                 },
                 {
+                  "synset": "phone_number",
+                  "sinonimo": "telephone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "measure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "sum",
+                  "sinonimo": "total",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "bit",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "quantity",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "magnitude",
+                  "sinonimo": "magnitude",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "figure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "act",
                   "sinonimo": "turn",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "04"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "0",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "phone_number",
+                  "sinonimo": "phone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "routine",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "issue",
+                  "sinonimo": "issue",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "amount",
+                  "sinonimo": "amount",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 }
               ]
             }
@@ -1938,6 +1938,12 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "page",
+                  "sinonimo": "lauda",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "web_page",
                   "sinonimo": "página_web",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -1951,18 +1957,18 @@
                 },
                 {
                   "synset": "page",
-                  "sinonimo": "lauda",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "page",
                   "sinonimo": "página",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
               ],
               "eng": [
+                {
+                  "synset": "page",
+                  "sinonimo": "page",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
                 {
                   "synset": "web_page",
                   "sinonimo": "web_page",
@@ -1972,12 +1978,6 @@
                 {
                   "synset": "web_page",
                   "sinonimo": "webpage",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "page",
-                  "sinonimo": "page",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -2054,8 +2054,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "tome",
-                "sinonimo": "volume",
+                "synset": "phrase_book",
+                "sinonimo": "manual_idiomático",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -2066,37 +2066,31 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "manual_idiomático",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "book",
                 "sinonimo": "álbum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "11"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "livro_de_frases",
+                "synset": "tome",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phrase_book",
+                "synset": "volume",
                 "sinonimo": "livro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "phrase_book",
+                "sinonimo": "livro_de_frases",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
-              {
-                "synset": "volume",
-                "sinonimo": "volume",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
               {
                 "synset": "tome",
                 "sinonimo": "tome",
@@ -2104,14 +2098,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "phrase_book",
+                "synset": "volume",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "04"
               },
               {
                 "synset": "book",
                 "sinonimo": "book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "phrase_book",
+                "sinonimo": "phrase_book",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -2177,56 +2177,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "zero",
-                "sinonimo": "número",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "phone_number",
-                "sinonimo": "número_telefônico",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "numeral",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "magnitude",
-                "sinonimo": "magnitude",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "number",
                 "sinonimo": "numeral_cardinal",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "measure",
-                "sinonimo": "medida",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "figure",
-                "sinonimo": "cifra",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "number",
-                "sinonimo": "Número",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "sum",
-                "sinonimo": "montante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -2238,31 +2190,19 @@
               },
               {
                 "synset": "number",
-                "sinonimo": "Numero",
+                "sinonimo": "Número",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "digit",
-                "sinonimo": "dígito",
+                "synset": "figure",
+                "sinonimo": "número",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "07"
               },
               {
-                "synset": "digit",
-                "sinonimo": "algarismo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "zero",
-                "sinonimo": "zero",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "amount",
-                "sinonimo": "Quantidade",
+                "synset": "sum",
+                "sinonimo": "montante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -2273,10 +2213,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "telefone",
+                "synset": "amount",
+                "sinonimo": "Quantidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "quantity",
@@ -2291,48 +2231,16 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "quantity",
+                "synset": "amount",
                 "sinonimo": "quantidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              }
-            ],
-            "eng": [
-              {
-                "synset": "measure",
-                "sinonimo": "measure",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "zero",
-                "sinonimo": "cypher",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "act",
-                "sinonimo": "bit",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "numeral",
+                "synset": "digit",
+                "sinonimo": "dígito",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "zero",
-                "sinonimo": "0",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "act",
-                "sinonimo": "routine",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
               },
               {
                 "synset": "magnitude",
@@ -2342,37 +2250,57 @@
               },
               {
                 "synset": "measure",
-                "sinonimo": "quantity",
+                "sinonimo": "medida",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "sum",
-                "sinonimo": "sum",
+                "synset": "phone_number",
+                "sinonimo": "telefone",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "zero",
-                "sinonimo": "cipher",
+                "synset": "numeral",
+                "sinonimo": "numeral",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "sum",
-                "sinonimo": "total",
+                "synset": "phone_number",
+                "sinonimo": "número_telefônico",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "number",
-                "sinonimo": "identification_number",
+                "sinonimo": "Numero",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "08"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "issue",
-                "sinonimo": "issue",
+                "synset": "digit",
+                "sinonimo": "algarismo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "figure",
+                "sinonimo": "cifra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "zero",
+                "sinonimo": "zero",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "sum",
+                "sinonimo": "sum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -2383,16 +2311,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "telephone_number",
+                "synset": "zero",
+                "sinonimo": "cypher",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "number",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "act",
@@ -2401,28 +2323,28 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "phone_number",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "sum",
-                "sinonimo": "amount",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "zero",
                 "sinonimo": "zero",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "digit",
-                "sinonimo": "figure",
+                "synset": "zero",
+                "sinonimo": "cipher",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "number",
+                "sinonimo": "identification_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
               },
               {
                 "synset": "zero",
@@ -2431,10 +2353,88 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "phone_number",
+                "sinonimo": "telephone_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "measure",
+                "sinonimo": "measure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "sum",
+                "sinonimo": "total",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "bit",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "measure",
+                "sinonimo": "quantity",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "magnitude",
+                "sinonimo": "magnitude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "number",
+                "sinonimo": "figure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "numeral",
+                "sinonimo": "numeral",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "act",
                 "sinonimo": "turn",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
+              },
+              {
+                "synset": "zero",
+                "sinonimo": "0",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "phone_number",
+                "sinonimo": "phone_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "routine",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "issue",
+                "sinonimo": "issue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "amount",
+                "sinonimo": "amount",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -2479,6 +2479,12 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "page",
+                "sinonimo": "lauda",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "web_page",
                 "sinonimo": "página_web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -2492,18 +2498,18 @@
               },
               {
                 "synset": "page",
-                "sinonimo": "lauda",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
                 "sinonimo": "página",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "page",
+                "sinonimo": "page",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "web_page",
                 "sinonimo": "web_page",
@@ -2513,12 +2519,6 @@
               {
                 "synset": "web_page",
                 "sinonimo": "webpage",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
-                "sinonimo": "page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -2560,8 +2560,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "tome",
-                "sinonimo": "volume",
+                "synset": "phrase_book",
+                "sinonimo": "manual_idiomático",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -2572,37 +2572,31 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "manual_idiomático",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "book",
                 "sinonimo": "álbum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "11"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "livro_de_frases",
+                "synset": "tome",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phrase_book",
+                "synset": "volume",
                 "sinonimo": "livro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "phrase_book",
+                "sinonimo": "livro_de_frases",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
-              {
-                "synset": "volume",
-                "sinonimo": "volume",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
               {
                 "synset": "tome",
                 "sinonimo": "tome",
@@ -2610,14 +2604,20 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "phrase_book",
+                "synset": "volume",
+                "sinonimo": "volume",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "04"
               },
               {
                 "synset": "book",
                 "sinonimo": "book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "phrase_book",
+                "sinonimo": "phrase_book",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -2641,56 +2641,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "zero",
-                "sinonimo": "número",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "phone_number",
-                "sinonimo": "número_telefônico",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "numeral",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "magnitude",
-                "sinonimo": "magnitude",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "number",
                 "sinonimo": "numeral_cardinal",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "measure",
-                "sinonimo": "medida",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "figure",
-                "sinonimo": "cifra",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "number",
-                "sinonimo": "Número",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "sum",
-                "sinonimo": "montante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -2702,31 +2654,19 @@
               },
               {
                 "synset": "number",
-                "sinonimo": "Numero",
+                "sinonimo": "Número",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "digit",
-                "sinonimo": "dígito",
+                "synset": "figure",
+                "sinonimo": "número",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "07"
               },
               {
-                "synset": "digit",
-                "sinonimo": "algarismo",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "zero",
-                "sinonimo": "zero",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "amount",
-                "sinonimo": "Quantidade",
+                "synset": "sum",
+                "sinonimo": "montante",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -2737,10 +2677,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "telefone",
+                "synset": "amount",
+                "sinonimo": "Quantidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "quantity",
@@ -2755,48 +2695,16 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "quantity",
+                "synset": "amount",
                 "sinonimo": "quantidade",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              }
-            ],
-            "eng": [
-              {
-                "synset": "measure",
-                "sinonimo": "measure",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "zero",
-                "sinonimo": "cypher",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "act",
-                "sinonimo": "bit",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "numeral",
+                "synset": "digit",
+                "sinonimo": "dígito",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "zero",
-                "sinonimo": "0",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "act",
-                "sinonimo": "routine",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
               },
               {
                 "synset": "magnitude",
@@ -2806,37 +2714,57 @@
               },
               {
                 "synset": "measure",
-                "sinonimo": "quantity",
+                "sinonimo": "medida",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "sum",
-                "sinonimo": "sum",
+                "synset": "phone_number",
+                "sinonimo": "telefone",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "zero",
-                "sinonimo": "cipher",
+                "synset": "numeral",
+                "sinonimo": "numeral",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
-                "synset": "sum",
-                "sinonimo": "total",
+                "synset": "phone_number",
+                "sinonimo": "número_telefônico",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "number",
-                "sinonimo": "identification_number",
+                "sinonimo": "Numero",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "08"
+                "distancia_semantica": "02"
               },
               {
-                "synset": "issue",
-                "sinonimo": "issue",
+                "synset": "digit",
+                "sinonimo": "algarismo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "figure",
+                "sinonimo": "cifra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "zero",
+                "sinonimo": "zero",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "sum",
+                "sinonimo": "sum",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -2847,16 +2775,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "telephone_number",
+                "synset": "zero",
+                "sinonimo": "cypher",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "numeral",
-                "sinonimo": "number",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "act",
@@ -2865,28 +2787,28 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "phone_number",
-                "sinonimo": "phone_number",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "sum",
-                "sinonimo": "amount",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "zero",
                 "sinonimo": "zero",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "digit",
-                "sinonimo": "figure",
+                "synset": "zero",
+                "sinonimo": "cipher",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "number",
+                "sinonimo": "identification_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
               },
               {
                 "synset": "zero",
@@ -2895,10 +2817,88 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "phone_number",
+                "sinonimo": "telephone_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "measure",
+                "sinonimo": "measure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "sum",
+                "sinonimo": "total",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "bit",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "measure",
+                "sinonimo": "quantity",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "magnitude",
+                "sinonimo": "magnitude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "number",
+                "sinonimo": "figure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "numeral",
+                "sinonimo": "numeral",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "act",
                 "sinonimo": "turn",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
+              },
+              {
+                "synset": "zero",
+                "sinonimo": "0",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "phone_number",
+                "sinonimo": "phone_number",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "routine",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "issue",
+                "sinonimo": "issue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "amount",
+                "sinonimo": "amount",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -2923,6 +2923,12 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "page",
+                "sinonimo": "lauda",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "web_page",
                 "sinonimo": "página_web",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -2936,18 +2942,18 @@
               },
               {
                 "synset": "page",
-                "sinonimo": "lauda",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
                 "sinonimo": "página",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
+              {
+                "synset": "page",
+                "sinonimo": "page",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
               {
                 "synset": "web_page",
                 "sinonimo": "web_page",
@@ -2957,12 +2963,6 @@
               {
                 "synset": "web_page",
                 "sinonimo": "webpage",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "page",
-                "sinonimo": "page",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -2988,8 +2988,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "tome",
-                  "sinonimo": "volume",
+                  "synset": "phrase_book",
+                  "sinonimo": "manual_idiomático",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -3000,37 +3000,31 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "phrase_book",
-                  "sinonimo": "manual_idiomático",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "book",
                   "sinonimo": "álbum",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "11"
                 },
                 {
-                  "synset": "phrase_book",
-                  "sinonimo": "livro_de_frases",
+                  "synset": "tome",
+                  "sinonimo": "volume",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phrase_book",
+                  "synset": "volume",
                   "sinonimo": "livro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "phrase_book",
+                  "sinonimo": "livro_de_frases",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
               ],
               "eng": [
-                {
-                  "synset": "volume",
-                  "sinonimo": "volume",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
-                },
                 {
                   "synset": "tome",
                   "sinonimo": "tome",
@@ -3038,14 +3032,20 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phrase_book",
-                  "sinonimo": "phrase_book",
+                  "synset": "volume",
+                  "sinonimo": "volume",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "book",
                   "sinonimo": "book",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "phrase_book",
+                  "sinonimo": "phrase_book",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -3069,56 +3069,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "zero",
-                  "sinonimo": "número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "phone_number",
-                  "sinonimo": "número_telefônico",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "magnitude",
-                  "sinonimo": "magnitude",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "number",
                   "sinonimo": "numeral_cardinal",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "measure",
-                  "sinonimo": "medida",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "figure",
-                  "sinonimo": "cifra",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "07"
-                },
-                {
-                  "synset": "number",
-                  "sinonimo": "Número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -3130,31 +3082,19 @@
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "Numero",
+                  "sinonimo": "Número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "dígito",
+                  "synset": "figure",
+                  "sinonimo": "número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "07"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "algarismo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "zero",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "amount",
-                  "sinonimo": "Quantidade",
+                  "synset": "sum",
+                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -3165,10 +3105,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telefone",
+                  "synset": "amount",
+                  "sinonimo": "Quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "quantity",
@@ -3183,48 +3123,16 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "quantity",
+                  "synset": "amount",
                   "sinonimo": "quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                }
-              ],
-              "eng": [
-                {
-                  "synset": "measure",
-                  "sinonimo": "measure",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cypher",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "bit",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
+                  "synset": "digit",
+                  "sinonimo": "dígito",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "0",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "routine",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "magnitude",
@@ -3234,37 +3142,57 @@
                 },
                 {
                   "synset": "measure",
-                  "sinonimo": "quantity",
+                  "sinonimo": "medida",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "sum",
+                  "synset": "phone_number",
+                  "sinonimo": "telefone",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cipher",
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "total",
+                  "synset": "phone_number",
+                  "sinonimo": "número_telefônico",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "identification_number",
+                  "sinonimo": "Numero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "08"
+                  "distancia_semantica": "02"
                 },
                 {
-                  "synset": "issue",
-                  "sinonimo": "issue",
+                  "synset": "digit",
+                  "sinonimo": "algarismo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "figure",
+                  "sinonimo": "cifra",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "zero",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "sum",
+                  "sinonimo": "sum",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -3275,16 +3203,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telephone_number",
+                  "synset": "zero",
+                  "sinonimo": "cypher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "act",
@@ -3293,28 +3215,28 @@
                   "distancia_semantica": "04"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "phone_number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "amount",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
                   "synset": "zero",
                   "sinonimo": "zero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "figure",
+                  "synset": "zero",
+                  "sinonimo": "cipher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "identification_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
                 },
                 {
                   "synset": "zero",
@@ -3323,10 +3245,88 @@
                   "distancia_semantica": "02"
                 },
                 {
+                  "synset": "phone_number",
+                  "sinonimo": "telephone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "measure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "sum",
+                  "sinonimo": "total",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "bit",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "quantity",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "magnitude",
+                  "sinonimo": "magnitude",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "figure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "act",
                   "sinonimo": "turn",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "04"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "0",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "phone_number",
+                  "sinonimo": "phone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "routine",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "issue",
+                  "sinonimo": "issue",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "amount",
+                  "sinonimo": "amount",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 }
               ]
             }
@@ -3350,56 +3350,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "zero",
-                  "sinonimo": "número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "phone_number",
-                  "sinonimo": "número_telefônico",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "magnitude",
-                  "sinonimo": "magnitude",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "number",
                   "sinonimo": "numeral_cardinal",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "measure",
-                  "sinonimo": "medida",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "figure",
-                  "sinonimo": "cifra",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "07"
-                },
-                {
-                  "synset": "number",
-                  "sinonimo": "Número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -3411,31 +3363,19 @@
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "Numero",
+                  "sinonimo": "Número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "dígito",
+                  "synset": "figure",
+                  "sinonimo": "número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "07"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "algarismo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "zero",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "amount",
-                  "sinonimo": "Quantidade",
+                  "synset": "sum",
+                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -3446,10 +3386,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telefone",
+                  "synset": "amount",
+                  "sinonimo": "Quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "quantity",
@@ -3464,48 +3404,16 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "quantity",
+                  "synset": "amount",
                   "sinonimo": "quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                }
-              ],
-              "eng": [
-                {
-                  "synset": "measure",
-                  "sinonimo": "measure",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cypher",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "bit",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
+                  "synset": "digit",
+                  "sinonimo": "dígito",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "0",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "routine",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "magnitude",
@@ -3515,37 +3423,57 @@
                 },
                 {
                   "synset": "measure",
-                  "sinonimo": "quantity",
+                  "sinonimo": "medida",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "sum",
+                  "synset": "phone_number",
+                  "sinonimo": "telefone",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cipher",
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "total",
+                  "synset": "phone_number",
+                  "sinonimo": "número_telefônico",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "identification_number",
+                  "sinonimo": "Numero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "08"
+                  "distancia_semantica": "02"
                 },
                 {
-                  "synset": "issue",
-                  "sinonimo": "issue",
+                  "synset": "digit",
+                  "sinonimo": "algarismo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "figure",
+                  "sinonimo": "cifra",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "zero",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "sum",
+                  "sinonimo": "sum",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -3556,16 +3484,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telephone_number",
+                  "synset": "zero",
+                  "sinonimo": "cypher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "act",
@@ -3574,28 +3496,28 @@
                   "distancia_semantica": "04"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "phone_number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "amount",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
                   "synset": "zero",
                   "sinonimo": "zero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "figure",
+                  "synset": "zero",
+                  "sinonimo": "cipher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "identification_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
                 },
                 {
                   "synset": "zero",
@@ -3604,10 +3526,88 @@
                   "distancia_semantica": "02"
                 },
                 {
+                  "synset": "phone_number",
+                  "sinonimo": "telephone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "measure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "sum",
+                  "sinonimo": "total",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "bit",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "quantity",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "magnitude",
+                  "sinonimo": "magnitude",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "figure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "act",
                   "sinonimo": "turn",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "04"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "0",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "phone_number",
+                  "sinonimo": "phone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "routine",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "issue",
+                  "sinonimo": "issue",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "amount",
+                  "sinonimo": "amount",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 }
               ]
             }
@@ -3644,56 +3644,8 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "zero",
-                  "sinonimo": "número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "phone_number",
-                  "sinonimo": "número_telefônico",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "magnitude",
-                  "sinonimo": "magnitude",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "number",
                   "sinonimo": "numeral_cardinal",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "measure",
-                  "sinonimo": "medida",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "figure",
-                  "sinonimo": "cifra",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "07"
-                },
-                {
-                  "synset": "number",
-                  "sinonimo": "Número",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -3705,31 +3657,19 @@
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "Numero",
+                  "sinonimo": "Número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "dígito",
+                  "synset": "figure",
+                  "sinonimo": "número",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "07"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "algarismo",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "zero",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "amount",
-                  "sinonimo": "Quantidade",
+                  "synset": "sum",
+                  "sinonimo": "montante",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -3740,10 +3680,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telefone",
+                  "synset": "amount",
+                  "sinonimo": "Quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "quantity",
@@ -3758,48 +3698,16 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "quantity",
+                  "synset": "amount",
                   "sinonimo": "quantidade",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                }
-              ],
-              "eng": [
-                {
-                  "synset": "measure",
-                  "sinonimo": "measure",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cypher",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "bit",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "numeral",
+                  "synset": "digit",
+                  "sinonimo": "dígito",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "zero",
-                  "sinonimo": "0",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "act",
-                  "sinonimo": "routine",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "04"
                 },
                 {
                   "synset": "magnitude",
@@ -3809,37 +3717,57 @@
                 },
                 {
                   "synset": "measure",
-                  "sinonimo": "quantity",
+                  "sinonimo": "medida",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "sum",
+                  "synset": "phone_number",
+                  "sinonimo": "telefone",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "zero",
-                  "sinonimo": "cipher",
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
-                  "synset": "sum",
-                  "sinonimo": "total",
+                  "synset": "phone_number",
+                  "sinonimo": "número_telefônico",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "number",
-                  "sinonimo": "identification_number",
+                  "sinonimo": "Numero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "08"
+                  "distancia_semantica": "02"
                 },
                 {
-                  "synset": "issue",
-                  "sinonimo": "issue",
+                  "synset": "digit",
+                  "sinonimo": "algarismo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "figure",
+                  "sinonimo": "cifra",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "zero",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "sum",
+                  "sinonimo": "sum",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -3850,16 +3778,10 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "telephone_number",
+                  "synset": "zero",
+                  "sinonimo": "cypher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "numeral",
-                  "sinonimo": "number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "act",
@@ -3868,28 +3790,28 @@
                   "distancia_semantica": "04"
                 },
                 {
-                  "synset": "phone_number",
-                  "sinonimo": "phone_number",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "sum",
-                  "sinonimo": "amount",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
                   "synset": "zero",
                   "sinonimo": "zero",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "digit",
-                  "sinonimo": "figure",
+                  "synset": "zero",
+                  "sinonimo": "cipher",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "identification_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
                 },
                 {
                   "synset": "zero",
@@ -3898,10 +3820,88 @@
                   "distancia_semantica": "02"
                 },
                 {
+                  "synset": "phone_number",
+                  "sinonimo": "telephone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "measure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "sum",
+                  "sinonimo": "total",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "bit",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "measure",
+                  "sinonimo": "quantity",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "magnitude",
+                  "sinonimo": "magnitude",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "number",
+                  "sinonimo": "figure",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "numeral",
+                  "sinonimo": "numeral",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "act",
                   "sinonimo": "turn",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "04"
+                },
+                {
+                  "synset": "zero",
+                  "sinonimo": "0",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "phone_number",
+                  "sinonimo": "phone_number",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "act",
+                  "sinonimo": "routine",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "issue",
+                  "sinonimo": "issue",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "amount",
+                  "sinonimo": "amount",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 }
               ]
             }
@@ -3926,6 +3926,12 @@
                   "distancia_semantica": "01"
                 },
                 {
+                  "synset": "page",
+                  "sinonimo": "lauda",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
                   "synset": "web_page",
                   "sinonimo": "página_web",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
@@ -3939,18 +3945,18 @@
                 },
                 {
                   "synset": "page",
-                  "sinonimo": "lauda",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "page",
                   "sinonimo": "página",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
               ],
               "eng": [
+                {
+                  "synset": "page",
+                  "sinonimo": "page",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
                 {
                   "synset": "web_page",
                   "sinonimo": "web_page",
@@ -3960,12 +3966,6 @@
                 {
                   "synset": "web_page",
                   "sinonimo": "webpage",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "page",
-                  "sinonimo": "page",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -3979,7 +3979,7 @@
     "resposta": {
       "correct_answer": [],
       "all_answers": [],
-      "total_time": 20483477751,
+      "total_time": 8802240766,
       "timeout": false
     }
   }

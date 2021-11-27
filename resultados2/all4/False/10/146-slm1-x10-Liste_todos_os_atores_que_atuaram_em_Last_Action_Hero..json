@@ -1,0 +1,2063 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Liste",
+          "palavra_canonica": "listar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "atores",
+          "palavra_canonica": "ator",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "S:spec",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<rel>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<mv>",
+            "<np-close>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Last_Action_Hero",
+          "palavra_canonica": "Last_Action_Hero",
+          "tags": [
+            "<top>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": ".",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Liste",
+          "palavra_canonica": "listar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "atores",
+          "palavra_canonica": "ator",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "actor",
+                "sinonimo": "artista",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "comediante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "Atores_de_teatro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "actor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "cômico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "ator",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "actriz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "intérprete",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "atriz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "actor",
+                "sinonimo": "player",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "histrion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "actress",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "role_player",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "actor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "thespian",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "S:spec",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<rel>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<mv>",
+            "<np-close>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "act",
+                "sinonimo": "representar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "atuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "parecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "agir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "comportar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer_papel",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "act",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "roleplay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "act",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "behave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "playact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "do",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "O_último_grande_herói",
+          "palavra_canonica": "O_último_grande_herói",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "consulta",
+        "confianca": 0.68,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "atores",
+          "palavra_canonica": "ator",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "actor",
+                "sinonimo": "artista",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "comediante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "Atores_de_teatro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "actor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "cômico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "ator",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "actriz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "intérprete",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "atriz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "actor",
+                "sinonimo": "player",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "histrion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "actress",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "role_player",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "actor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "thespian",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<mv>",
+            "<np-close>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "act",
+                "sinonimo": "representar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "atuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "parecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "agir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "comportar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer_papel",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "act",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "roleplay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "act",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "behave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "playact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "do",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "O_último_grande_herói",
+          "palavra_canonica": "O_último_grande_herói",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*jon_hall_(ator)",
+              "*abstract",
+              "*jon hall (registado como charles felix locher, fresno, california, 23 de fevereiro de 1915  north hollywood, ca., 13 de dezembro de 1979) foi um ator do cinema americano."
+            ]
+          ],
+          "score": 2.8643672,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.1977005,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "jon_hall_(ator)",
+                  "score": 1.366793
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "*alan_cox_(ator)",
+              "*abstract",
+              "*alan cox (londres, 6 de agosto de 1970) e um ator britanico. filho de ator brian cox, ficou famoso mundialmente pela atuacao no filme young sherlock holmes, quando fez o papel do jovem dr. watson, em 1985. em 1982, trabalhou no telefilme a voyage round my father, atuando ao lado de laurence olivier. estes dois trabalhos ocorreram depois da sua estreia como ator, pois ja atuava desde 1976, quando fez uma participacao no telefilme \\\"divorce\\\". tambem trabalhou em the odyssey, not only but always, housewife, 49, the young indiana jones chronicles, ladies in lavender, o ditador, entre outras producoes cinematograficas e televisivas."
+            ]
+          ],
+          "score": 2.8643672,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.1977005,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "alan_cox_(ator)",
+                  "score": 1.366793
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*brad_rowe_(ator)",
+              "*abstract",
+              "*bradley ashton rowe (milwaukee, wisconsin, estados unidos em 15 de maio de 1970) e um americano que comecou sua carreira em filmes como billy's hollywood screen kiss (que lancou a carreira de sean hayes) e aclamado filme de 1999 da tnt western film, purgatory (1999) com sam shepard. em 2007, ele interpretou shaun, o interesse romantico do personagem central (trevor wright) de shelter. \\\"shelter\\\" passou a ganhar o filme extraordinario, versao limitada durante a 20a annual glaad media awards."
+            ]
+          ],
+          "score": 2.8008392,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.1341724,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "brad_rowe_(ator)",
+                  "score": 1.303265
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*jim_kelly_(ator)",
+              "*abstract",
+              "*james milton kelly (paris, kentucky, 5 de maio de 1946 - san diego, 29 de junho de 2013) foi um ator, artista marcial e jogador de tenis americano que apareceu em filmes do genero das artes marciais na decada de 1970. ele se tornou conhecido em 1973 por sua atuacao no filme enter the dragon, ao lado do lendario bruce lee."
+            ]
+          ],
+          "score": 2.8008392,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.1341724,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "jim_kelly_(ator)",
+                  "score": 1.303265
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*matt_ryan_(ator)",
+              "*abstract",
+              "*matt ryan (nascido matthew darren evans; 11 abril de 1981) e um ator britanico de swansea, pais de gales, mais conhecido como edward kenway na ubisoft video game assassin's creed iv: black flag e john constantine na serie da nbc constantine."
+            ]
+          ],
+          "score": 2.8008392,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.1341724,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "matt_ryan_(ator)",
+                  "score": 1.303265
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*tom_burke_(ator)",
+              "*abstract",
+              "*tom liam benedict burke (n. 30 de junho de 1981) e um ator ingles conhecido pelos seus papeis de davy em third star, billy em only god forgives e athos na serie the musketeers."
+            ]
+          ],
+          "score": 2.8008392,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.1341724,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "tom_burke_(ator)",
+                  "score": 1.303265
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*max_adler_(ator)",
+              "*abstract",
+              "*max adler (nascido em 17 de janeiro de 1986) e um ator americano, mais conhecido por seu papel como david karofsky na serie de televisao glee e tanque na serie de televisao switched at birth ."
+            ]
+          ],
+          "score": 2.8008392,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.1341724,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "max_adler_(ator)",
+                  "score": 1.303265
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*john_wood_(ator)",
+              "*abstract",
+              "*john wood (derbyshire, 5 de julho de 1930  gloucestershire, 6 de agosto de 2011) foi um ator ingles. ator e produtor de pecas amadoras quando era estudante no \\\"jesus college in the university of oxford of queen elizabeth's foundation\\\". neste periodo, tambem foi presidente da \\\"oxford university dramatic society\\\", entidade que financiava o teatro universitario em oxford. iniciou a carreira de ator no teatro, notabilizando-se, ao longo de sua vida, com inumeras performances no universo shakespeariano. na decada de 1950, comecou a trabalhar em filmes e series para a televisao e no inicio da decada de 1960, comecou a atuar no cinema. seu primeiro grande papel (quando seu nome foi adicionado aos creditos) foi em \\\"two-way stretch\\\", trabalhando ao lado de peter sellers. no cinema atuou tanto na inglaterra como em hollywood, em filmes como: one more time, which way to the front? (ambos dirigidos por jerry lewis), wargames, the purple rose of cairo, ladyhawke, the body, entre outros. em 1976, ganhou um tony award e em 2007 foi condecorado com a ordem do imperio britanico."
+            ]
+          ],
+          "score": 2.8008392,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.1341724,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "john_wood_(ator)",
+                  "score": 1.303265
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*jim_davis_(ator)",
+              "*abstract",
+              "*jim davis (edgerton, missouri, 26 de agosto de 1909  northridge, california, 26 de abril de 1981) foi um ator norte-americano que ficou famoso como o patriarca jock ewing na serie dallas."
+            ]
+          ],
+          "score": 2.8008392,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.1341724,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "jim_davis_(ator)",
+                  "score": 1.303265
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*john_adam_(ator)",
+              "*abstract",
+              "*john adam e um ator de televisao australiano."
+            ]
+          ],
+          "score": 2.8008392,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.1341724,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "john_adam_(ator)",
+                  "score": 1.303265
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*ken_scott_(ator)",
+              "*abstract",
+              "*ken scott (brooklyn, new york; 13 de outubro de 1928 - los angeles, california; 2 de dezembro de 1986) foi um ator estadunidense."
+            ]
+          ],
+          "score": 2.8008392,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.1341724,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ken_scott_(ator)",
+                  "score": 1.303265
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*mike_starr_(ator)",
+              "*abstract",
+              "*michael \\\"mike\\\" starr (nascido em 29 de julho de 1950) e um ator americano. starr nasceu em um varejo em flushing no queens na cidade de nova york onde sua mae e seu pai empregado em um frigorifico moravam. a pos-graduacao da universidade hofstra, ele e sua familia moram em riverdale ainda em new york. seu irmao mais velho beau starr tambem e ator. ele ja apareceu em filmes notaveis como goodfellas, the bodyguard, ed wood, miller's crossing, jersey girl, dumb and dumber e the ice harvest."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mike_starr_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*john_payne_(ator)",
+              "*abstract",
+              "*john howard payne (roanoke, 28 de maio de 1912 - malibu, 6 de dezembro de 1989) foi um ator estadunidense. tornou-se famoso ao estrelar em 1947, o filme milagre na rua 34, um dos maiores classicos de natal do cinema. participou tambem de numerosos filmes de faroeste. antigo ator da broadway, nascido em roanoke no estado da virginia, payne chegou a hollywood em 1935, aos 23 anos, e comecou sua carreira no cinema em filmes musicais, protagonizando entre outros a vida e uma cancao (1940), sob o luar de miami (1941), minha secretaria brasileira (1942), conflito sentimental (1946) e o fio da navalha (1946), todos na 20th century fox. em 1950, transferiu-se para a paramount participando de diversos filmes de cowboys, genero bastante popular na epoca, e mais tarde protagonizou series de televisao como the restless gun (1957-59) pela rede nbc. por fim, apareceu algumas vezes na famosa serie gunsmoke exibido na rede cbs. parou de trabalhar em 1960, mas 13 anos depois voltou em um musical de repercussao nacional nos estados unidos, good news."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "john_payne_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*paul_blake_(ator)",
+              "*abstract",
+              "*paul blake (1904  28 de janeiro de 1960) foi um ator britanico da era do cinema mudo."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "paul_blake_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*hans_moser_(ator)",
+              "*abstract",
+              "*hans moser (viena, austriahungria, 6 de agosto de 1880  viena, austria, 19 de junho de 1964) foi um ator austriaco, que durante sua carreira, na decada de 1920 ate sua morte, atuou principalmente em filmes de comedia."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hans_moser_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*tom_wilson_(ator)",
+              "*abstract",
+              "*tom wilson (helena, montana, 27 de agosto de 1880  los angeles, ca, 19 de fevereiro de 1965) foi um ator norte-americano. atuou em 254 filmes entre 1915 e 1963. wilson tinha notaveis papeis coadjuvantes na era do cinema mudo, ao lado do comediante charles chaplin e buster keaton. no filme de 1921, the kid (o garoto br ou o garoto de charlot pt), atuou o seu mais famoso papel, como policial furioso. apos a ascensao do filme sonoro, ele atuou apenas em pequenos papeis ao longo de sua carreira no cinema."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "tom_wilson_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*jose_pinto_(ator)",
+              "*abstract",
+              "*jose pinto (n. 1929) e um ator portugues."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "jose_pinto_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*joe_harris_(ator)",
+              "*abstract",
+              "*joe harris (11 de janeiro de 1870  11 de junho de 1953) foi um ator norte-americano, que entre 1913 e 1923 apareceu em mais de 94 filmes mudos, muitos deles do genero faroeste. trabalhou principalmente com o cineasta harry carey. ele nasceu joseph harris a 1870, em lewiston, maine e faleceu a 1953, em hollywood, california, na casa de harry carey jr. ele tinha a idade de 82 anos."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "joe_harris_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*hugh_allan_(ator)",
+              "*abstract",
+              "*hugh allan (5 de novembro de 1903 - 12 de fevereiro de 1997), cujo nome verdadeiro era allan abram hughes foi um ator de cinema estadunidense da era do cinema mudo que atuou em 20 filmes entre 1925 e 1930."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hugh_allan_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*tom_wright_(ator)",
+              "*abstract",
+              "*harold thomas wright, conhecido artisticamente como tom wright (englewood, 29 de novembro de 1952), e um ator estadunidense. ator de series americanas como ncis, csi: crime scene investigation, close to home, criminal minds, grimm e star trek: enterprise, atuou em filmes de hollywood, como beyond the lights, world trade center e barbershop 2: back in business. sua carreira iniciou em 1970, quando participou da novela all my children, seguidos de filmes como exterminator 2 e troop beverly hills, alem da serie 21 jump street. tambem participou de varias producoes teatrais e em pecas musicais na broadway, recebendo duas indicacoes para o tony award."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "tom_wright_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*don_taylor_(ator)",
+              "*abstract",
+              "*don taylor (13 de dezembro de 1920 - 29 de dezembro de 1998) foi um ator e diretor de cinema norte-americano mais conhecido por suas atuacoes em filmes classicos como stalag 17. sepultado no westwood village memorial park cemetery."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "don_taylor_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*james_dunn_(ator)",
+              "*abstract",
+              "*james howard dunn (2 de novembro de 1901 - 3 de setembro de 1967) foi um ator de cinema norte-americano. foi premiado com o oscar de melhor ator coadjuvante em 1946, por sua atuacao no filme a tree grows in brooklyn."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "james_dunn_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*john_white_(ator)",
+              "*abstract",
+              "*john white (toronto, ontario, 10 de junho de 1981) e um ator canadense. seu primeiro grande papel foi nos episodios de goosebumps, the cuckoo clock of doom e the haunted mask ii. ele e mais conhecido por seu papel como erik stifler em the naked mile e beta house ele tambem apareceu no filme feito para tv, jiu-jitsu brasileiro como brad. ele tem um irmao chamado kevin e duas irmas, andrea e stephanie. embora seu nome de batismo seja john white, ele e por vezes creditado como johnny white."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "john_white_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*rui_santos_(ator)",
+              "*abstract",
+              "*rui santos (11 de outubro de 1977) e um actor portugues."
+            ]
+          ],
+          "score": 2.7374475,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0707808,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "rui_santos_(ator)",
+                  "score": 1.2398733
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*thomas_mann_(ator)",
+              "*abstract",
+              "*thomas mann (nascido em 27 de setembro de 1991) e um ator americano. mais conhecido por seu papel como thomas em project x."
+            ]
+          ],
+          "score": 2.6744776,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0078108,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "thomas_mann_(ator)",
+                  "score": 1.1769034
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*tom_holland_(ator)",
+              "*abstract",
+              "*thomas stanley \\\"tom\\\" holland (nascido em 1 de junho de 1996) e um ator e dancarino ingles, melhor conhecido por interpretar lucas bennett no filme o impossivel e peter parker/homem aranha em capitao america: guerra civil e no futuro filme solo do aranha, spider-man: homecoming, integrando o universo cinematografico marvel (mcu)."
+            ]
+          ],
+          "score": 2.6744776,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0078108,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "tom_holland_(ator)",
+                  "score": 1.1769034
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*paulo_ramos_(ator)",
+              "*abstract",
+              "*paulo ramos e um ator, produtor, figurinista, cenografo, roteirista, artista plastico e professor de artes cenicas brasileiro."
+            ]
+          ],
+          "score": 2.6744776,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0078108,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "paulo_ramos_(ator)",
+                  "score": 1.1769034
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*hugo_becker_(ator)",
+              "*abstract",
+              "*hugo becker (n. 13 de maio de 1986) e um ator de cinema e televisao frances."
+            ]
+          ],
+          "score": 2.6744776,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0078108,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hugo_becker_(ator)",
+                  "score": 1.1769034
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*david_kelly_(ator)",
+              "*abstract",
+              "*david william kelly (dublin, 11 de julho de 1929 - 12 de fevereiro de 2012) foi um ator irlandes, que teve varios papeis regulares em obras cinematograficas e televisivas desde os anos 50. kelly era conhecido especialmente por sua atuacao no filme \\\"a fantastica fabrica de chocolate\\\" ."
+            ]
+          ],
+          "score": 2.6744776,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0078108,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "david_kelly_(ator)",
+                  "score": 1.1769034
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*billy_brown_(ator)",
+              "*abstract",
+              "*billy brown e um ator americano. em 2014, brown comecou a atuar na serie de drama de shonda rhimes, how to get away with murder. ele tambem e conhecido por seus papeis televisivos em lights out, dexter, sons of anarchy, e hostages."
+            ]
+          ],
+          "score": 2.6744776,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.0078108,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "billy_brown_(ator)",
+                  "score": 1.1769034
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1278611088,
+      "l_sizes": [
+        28131,
+        10,
+        0,
+        0
+      ],
+      "a_sizes": [
+        28131,
+        0,
+        0,
+        0
+      ],
+      "stats": {},
+      "ranking_time_only": 255437011,
+      "total_time": 9417479674,
+      "timeout": false
+    }
+  }
+]

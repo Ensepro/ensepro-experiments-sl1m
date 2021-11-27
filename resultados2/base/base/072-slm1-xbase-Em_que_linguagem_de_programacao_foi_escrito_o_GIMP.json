@@ -233,25 +233,19 @@
             "por": [
               {
                 "synset": "programming_language",
-                "sinonimo": "Linguagem_de_programação",
+                "sinonimo": "linguagens_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "computer_language",
+                "synset": "programming_language",
                 "sinonimo": "linguagem_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "programming_language",
-                "sinonimo": "Linguagens_de_programação",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "programming_language",
-                "sinonimo": "linguagens_de_programação",
+                "sinonimo": "Linguagem_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -260,18 +254,18 @@
                 "sinonimo": "linguagem_de_computador",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "programming_language",
+                "sinonimo": "Linguagens_de_programação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "computer_language",
                 "sinonimo": "computer_language",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "computer_language",
-                "sinonimo": "machine-oriented_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -289,13 +283,19 @@
               },
               {
                 "synset": "computer_language",
-                "sinonimo": "machine_language",
+                "sinonimo": "machine-oriented_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "computer_language",
                 "sinonimo": "computer-oriented_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "computer_language",
+                "sinonimo": "machine_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -342,10 +342,22 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "spell",
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
                 "sinonimo": "escrever",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "spell",
@@ -358,33 +370,9 @@
                 "sinonimo": "publicar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
-              },
-              {
-                "synset": "write",
-                "sinonimo": "redigir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "compose",
-                "sinonimo": "compor",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "spell",
-                "sinonimo": "spell",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "publish",
-                "sinonimo": "publish",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
               {
                 "synset": "write",
                 "sinonimo": "drop_a_line",
@@ -395,7 +383,13 @@
                 "synset": "write",
                 "sinonimo": "write",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "write",
@@ -408,6 +402,12 @@
                 "sinonimo": "indite",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "compose",
@@ -509,10 +509,22 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "spell",
+                  "synset": "compose",
+                  "sinonimo": "compor",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "write",
                   "sinonimo": "escrever",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "write",
+                  "sinonimo": "redigir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "spell",
@@ -525,33 +537,9 @@
                   "sinonimo": "publicar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "03"
-                },
-                {
-                  "synset": "write",
-                  "sinonimo": "redigir",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "compose",
-                  "sinonimo": "compor",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
                 }
               ],
               "eng": [
-                {
-                  "synset": "spell",
-                  "sinonimo": "spell",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "publish",
-                  "sinonimo": "publish",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
-                },
                 {
                   "synset": "write",
                   "sinonimo": "drop_a_line",
@@ -562,7 +550,13 @@
                   "synset": "write",
                   "sinonimo": "write",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "04"
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "publish",
+                  "sinonimo": "publish",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "write",
@@ -575,6 +569,12 @@
                   "sinonimo": "indite",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spell",
+                  "sinonimo": "spell",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
                 },
                 {
                   "synset": "compose",
@@ -603,25 +603,19 @@
             "por": [
               {
                 "synset": "programming_language",
-                "sinonimo": "Linguagem_de_programação",
+                "sinonimo": "linguagens_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "computer_language",
+                "synset": "programming_language",
                 "sinonimo": "linguagem_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "programming_language",
-                "sinonimo": "Linguagens_de_programação",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "programming_language",
-                "sinonimo": "linguagens_de_programação",
+                "sinonimo": "Linguagem_de_programação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -630,18 +624,18 @@
                 "sinonimo": "linguagem_de_computador",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "programming_language",
+                "sinonimo": "Linguagens_de_programação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
                 "synset": "computer_language",
                 "sinonimo": "computer_language",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "computer_language",
-                "sinonimo": "machine-oriented_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -659,13 +653,19 @@
               },
               {
                 "synset": "computer_language",
-                "sinonimo": "machine_language",
+                "sinonimo": "machine-oriented_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "computer_language",
                 "sinonimo": "computer-oriented_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "computer_language",
+                "sinonimo": "machine_language",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -687,10 +687,22 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "spell",
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
                 "sinonimo": "escrever",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "spell",
@@ -703,33 +715,9 @@
                 "sinonimo": "publicar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
-              },
-              {
-                "synset": "write",
-                "sinonimo": "redigir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "compose",
-                "sinonimo": "compor",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               }
             ],
             "eng": [
-              {
-                "synset": "spell",
-                "sinonimo": "spell",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "publish",
-                "sinonimo": "publish",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
-              },
               {
                 "synset": "write",
                 "sinonimo": "drop_a_line",
@@ -740,7 +728,13 @@
                 "synset": "write",
                 "sinonimo": "write",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "write",
@@ -753,6 +747,12 @@
                 "sinonimo": "indite",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
               },
               {
                 "synset": "compose",
@@ -2263,7 +2263,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 10020826891,
+      "ranking_time": 2545430034,
       "l_sizes": [
         10558,
         10558
@@ -2273,8 +2273,8 @@
         191398
       ],
       "stats": {},
-      "ranking_time_only": 6416667684,
-      "total_time": 27730508900,
+      "ranking_time_only": 1411841889,
+      "total_time": 10588034144,
       "timeout": false
     }
   }

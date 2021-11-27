@@ -172,24 +172,24 @@
             "por": [
               {
                 "synset": "airport",
-                "sinonimo": "aeroportos",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "airport",
-                "sinonimo": "aeroporto",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "airport",
                 "sinonimo": "Aeroportos_da_América_do_Sul",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "airport",
+                "sinonimo": "aeroportos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "aeroporto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
                 "sinonimo": "aeródromo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -204,19 +204,13 @@
               },
               {
                 "synset": "airport",
-                "sinonimo": "aerodrome",
+                "sinonimo": "drome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "airfield",
                 "sinonimo": "field",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "airport",
-                "sinonimo": "airport",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -234,7 +228,13 @@
               },
               {
                 "synset": "airport",
-                "sinonimo": "drome",
+                "sinonimo": "airport",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "aerodrome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -303,20 +303,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "provide",
-                "sinonimo": "prover",
+                "synset": "serve",
+                "sinonimo": "servir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "service",
-                "sinonimo": "servir",
+                "synset": "provide",
+                "sinonimo": "fornecer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "provide",
-                "sinonimo": "fornecer",
+                "sinonimo": "prover",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -328,23 +328,35 @@
               },
               {
                 "synset": "serve",
+                "sinonimo": "dar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "serve",
                 "sinonimo": "exercer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "serve",
+                "sinonimo": "dish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "supply",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "serve",
-                "sinonimo": "dar",
+                "sinonimo": "serve",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
-              }
-            ],
-            "eng": [
-              {
-                "synset": "provide",
-                "sinonimo": "cater",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               },
               {
                 "synset": "serve",
@@ -354,9 +366,9 @@
               },
               {
                 "synset": "serve",
-                "sinonimo": "serve",
+                "sinonimo": "function",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "serve",
@@ -371,12 +383,6 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "serve",
-                "sinonimo": "serve_up",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
-              },
-              {
                 "synset": "service",
                 "sinonimo": "service",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -384,25 +390,19 @@
               },
               {
                 "synset": "serve",
-                "sinonimo": "dish",
+                "sinonimo": "serve_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
               },
               {
                 "synset": "provide",
-                "sinonimo": "provide",
+                "sinonimo": "cater",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "serve",
-                "sinonimo": "function",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "provide",
-                "sinonimo": "supply",
+                "sinonimo": "provide",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -444,24 +444,24 @@
             "por": [
               {
                 "synset": "airport",
-                "sinonimo": "aeroportos",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "airport",
-                "sinonimo": "aeroporto",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "airport",
                 "sinonimo": "Aeroportos_da_América_do_Sul",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "airport",
+                "sinonimo": "aeroportos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "aeroporto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
                 "sinonimo": "aeródromo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
@@ -476,19 +476,13 @@
               },
               {
                 "synset": "airport",
-                "sinonimo": "aerodrome",
+                "sinonimo": "drome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "airfield",
                 "sinonimo": "field",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "airport",
-                "sinonimo": "airport",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -506,7 +500,13 @@
               },
               {
                 "synset": "airport",
-                "sinonimo": "drome",
+                "sinonimo": "airport",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "aerodrome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -553,20 +553,20 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "provide",
-                "sinonimo": "prover",
+                "synset": "serve",
+                "sinonimo": "servir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "service",
-                "sinonimo": "servir",
+                "synset": "provide",
+                "sinonimo": "fornecer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "provide",
-                "sinonimo": "fornecer",
+                "sinonimo": "prover",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -578,23 +578,35 @@
               },
               {
                 "synset": "serve",
+                "sinonimo": "dar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "serve",
                 "sinonimo": "exercer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "serve",
+                "sinonimo": "dish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "supply",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "serve",
-                "sinonimo": "dar",
+                "sinonimo": "serve",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
-              }
-            ],
-            "eng": [
-              {
-                "synset": "provide",
-                "sinonimo": "cater",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               },
               {
                 "synset": "serve",
@@ -604,9 +616,9 @@
               },
               {
                 "synset": "serve",
-                "sinonimo": "serve",
+                "sinonimo": "function",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               },
               {
                 "synset": "serve",
@@ -621,12 +633,6 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "serve",
-                "sinonimo": "serve_up",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "06"
-              },
-              {
                 "synset": "service",
                 "sinonimo": "service",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -634,25 +640,19 @@
               },
               {
                 "synset": "serve",
-                "sinonimo": "dish",
+                "sinonimo": "serve_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "06"
               },
               {
                 "synset": "provide",
-                "sinonimo": "provide",
+                "sinonimo": "cater",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "serve",
-                "sinonimo": "function",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "provide",
-                "sinonimo": "supply",
+                "sinonimo": "provide",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               }
@@ -2098,7 +2098,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 44973909973,
+      "ranking_time": 12778926302,
       "l_sizes": [
         17433,
         17433
@@ -2108,8 +2108,8 @@
         8575340
       ],
       "stats": {},
-      "ranking_time_only": 39163165153,
-      "total_time": 72530673538,
+      "ranking_time_only": 10676284919,
+      "total_time": 24931252449,
       "timeout": false
     }
   }

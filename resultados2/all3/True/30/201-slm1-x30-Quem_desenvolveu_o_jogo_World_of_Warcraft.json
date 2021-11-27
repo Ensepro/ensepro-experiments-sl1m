@@ -1,0 +1,2819 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "desenvolveu",
+          "palavra_canonica": "desenvolver",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "jogo",
+          "palavra_canonica": "jogo",
+          "tags": [
+            "<activity>",
+            "<occ>",
+            "<cc-h>",
+            "<game>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "World_of_Warcraft",
+          "palavra_canonica": "World_of_Warcraft",
+          "tags": [
+            "<genre>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<rel>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "desenvolveu",
+          "palavra_canonica": "desenvolver",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "evolve",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "progredir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "elaborar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "evoluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "develop",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "germinate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "work_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "progress",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "evolve",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "World_of_warcraft",
+          "palavra_canonica": "World_of_warcraft",
+          "tags": [
+            "<brand>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.78,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "desenvolveu",
+          "palavra_canonica": "desenvolver",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "evolve",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "progredir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "elaborar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "evoluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "develop",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "germinate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "work_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "progress",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "evolve",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "World_of_warcraft",
+          "palavra_canonica": "World_of_warcraft",
+          "tags": [
+            "<brand>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "plataforma",
+              "windows"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 43
+            },
+            "best_bind": {
+              "score": 0.6540716,
+              "resource_id": 43,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "plataforma",
+              "mac_os_x"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 43
+            },
+            "best_bind": {
+              "score": 0.6540716,
+              "resource_id": 43,
+              "tr": "desenvolver"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "depiction",
+              "wow_box_art1.jpg"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "thumbnail",
+              "wow_box_art1.jpg?width=300"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_the_burning_crusade",
+              "antecessor",
+              "*world_of_warcraft"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "titulo",
+              "world of warcraft"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "plataforma",
+              "windows"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 43
+            },
+            "best_bind": {
+              "score": 0.6540716,
+              "resource_id": 43,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "plataforma",
+              "mac_os_x"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 43
+            },
+            "best_bind": {
+              "score": 0.6540716,
+              "resource_id": 43,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "modos",
+              "multiplayer"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 39
+            },
+            "best_bind": {
+              "score": 0.5434471,
+              "resource_id": 39,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "requisitos",
+              "processador de 1.8ghz, 512mb de memoria ram, placa de video 128mb, 16gb de espaco livre em disco, directx 9.0c, 4x cd-rom drive, conexao banda larga ou discada 56kbps"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "sucessor",
+              "*world_of_warcraft:_the_burning_crusade"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "produtora",
+              "blizzard_entertainment"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 34
+            },
+            "best_bind": {
+              "score": 0.6018358,
+              "resource_id": 34,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "editora",
+              "blizzard_entertainment"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 36
+            },
+            "best_bind": {
+              "score": 0.41939268,
+              "resource_id": 36,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "gen",
+              "mmorpg"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 37
+            },
+            "best_bind": {
+              "score": 0.33271042,
+              "resource_id": 37,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "media",
+              "cds , dvd"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "jogo_eletronico"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:link"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:warcraft"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:esrb___t"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:pegi___12"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:djctq___12"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:vgrelease"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:ganhadores_do_interactive_achievement_awards"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 75
+            },
+            "best_bind": {
+              "score": 0.52098966,
+              "resource_id": 75,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:jogo_do_ano"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 75
+            },
+            "best_bind": {
+              "score": 0.52098966,
+              "resource_id": 75,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:jogos_eletronicos_de_2004"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:jogos_eletronicos_premiados"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:jogos_para_os_x"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 75
+            },
+            "best_bind": {
+              "score": 0.52098966,
+              "resource_id": 75,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:jogos_para_windows"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 75
+            },
+            "best_bind": {
+              "score": 0.52098966,
+              "resource_id": 75,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:mmorpg"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-12",
+              "desenvolvedor": "-54",
+              "develop": "-197",
+              "desenvolver": 75
+            },
+            "best_bind": {
+              "score": 0.52098966,
+              "resource_id": 75,
+              "tr": "desenvolver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "depiction",
+              "wow_box_art1.jpg"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ],
+            [
+              "*world_of_warcraft",
+              "thumbnail",
+              "wow_box_art1.jpg?width=300"
+            ],
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ]
+          ],
+          "score": 14.288939,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 12.955606,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1104049880,
+      "l_sizes": [
+        2963,
+        30,
+        30
+      ],
+      "a_sizes": [
+        2963,
+        754,
+        24360
+      ],
+      "stats": {},
+      "ranking_time_only": 262701209,
+      "total_time": 8211934698,
+      "timeout": false
+    }
+  }
+]

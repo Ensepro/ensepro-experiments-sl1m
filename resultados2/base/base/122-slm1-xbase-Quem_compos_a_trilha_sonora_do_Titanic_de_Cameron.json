@@ -214,19 +214,13 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "form",
+                "sinonimo": "constituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "compose",
-                "sinonimo": "escrever",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "form",
-                "sinonimo": "enquadrar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "form",
                 "sinonimo": "compor",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
@@ -239,7 +233,13 @@
               },
               {
                 "synset": "form",
-                "sinonimo": "constituir",
+                "sinonimo": "enquadrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "escrever",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -259,37 +259,37 @@
             "eng": [
               {
                 "synset": "assemble",
-                "sinonimo": "tack",
+                "sinonimo": "set_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "form",
-                "sinonimo": "form",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "form",
-                "sinonimo": "make",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "form",
-                "sinonimo": "constitute",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "assemble",
-                "sinonimo": "set_up",
+                "sinonimo": "tack",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "compose",
                 "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "piece",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "assemble",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "make",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -306,10 +306,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "assemble",
-                "sinonimo": "piece",
+                "synset": "form",
+                "sinonimo": "constitute",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "assemble",
@@ -318,10 +318,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "assemble",
-                "sinonimo": "assemble",
+                "synset": "form",
+                "sinonimo": "form",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -363,13 +363,19 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "track",
+                "sinonimo": "trilha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
                 "synset": "path",
                 "sinonimo": "estrada",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "path",
+                "synset": "trail",
                 "sinonimo": "caminho",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
@@ -379,27 +385,9 @@
                 "sinonimo": "Trilha",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "track",
-                "sinonimo": "trilha",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "07"
               }
             ],
             "eng": [
-              {
-                "synset": "trail",
-                "sinonimo": "trail",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "path",
-                "sinonimo": "path",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
               {
                 "synset": "track",
                 "sinonimo": "track",
@@ -411,6 +399,18 @@
                 "sinonimo": "data_track",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "07"
+              },
+              {
+                "synset": "path",
+                "sinonimo": "path",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "trail",
+                "sinonimo": "trail",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -528,19 +528,13 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "form",
+                "sinonimo": "constituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "compose",
-                "sinonimo": "escrever",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "form",
-                "sinonimo": "enquadrar",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "form",
                 "sinonimo": "compor",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
@@ -553,7 +547,13 @@
               },
               {
                 "synset": "form",
-                "sinonimo": "constituir",
+                "sinonimo": "enquadrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "escrever",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -573,37 +573,37 @@
             "eng": [
               {
                 "synset": "assemble",
-                "sinonimo": "tack",
+                "sinonimo": "set_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "form",
-                "sinonimo": "form",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "form",
-                "sinonimo": "make",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "form",
-                "sinonimo": "constitute",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "assemble",
-                "sinonimo": "set_up",
+                "sinonimo": "tack",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "compose",
                 "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "piece",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "assemble",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "make",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -620,10 +620,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "assemble",
-                "sinonimo": "piece",
+                "synset": "form",
+                "sinonimo": "constitute",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "assemble",
@@ -632,10 +632,10 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "assemble",
-                "sinonimo": "assemble",
+                "synset": "form",
+                "sinonimo": "form",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -655,13 +655,19 @@
           "sinonimos": {
             "por": [
               {
+                "synset": "track",
+                "sinonimo": "trilha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
                 "synset": "path",
                 "sinonimo": "estrada",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "path",
+                "synset": "trail",
                 "sinonimo": "caminho",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
@@ -671,27 +677,9 @@
                 "sinonimo": "Trilha",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "track",
-                "sinonimo": "trilha",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "07"
               }
             ],
             "eng": [
-              {
-                "synset": "trail",
-                "sinonimo": "trail",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "path",
-                "sinonimo": "path",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
               {
                 "synset": "track",
                 "sinonimo": "track",
@@ -703,6 +691,18 @@
                 "sinonimo": "data_track",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "07"
+              },
+              {
+                "synset": "path",
+                "sinonimo": "path",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "trail",
+                "sinonimo": "trail",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -744,13 +744,19 @@
             "sinonimos": {
               "por": [
                 {
+                  "synset": "track",
+                  "sinonimo": "trilha",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
                   "synset": "path",
                   "sinonimo": "estrada",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "path",
+                  "synset": "trail",
                   "sinonimo": "caminho",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
@@ -760,27 +766,9 @@
                   "sinonimo": "Trilha",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
-                },
-                {
-                  "synset": "track",
-                  "sinonimo": "trilha",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "07"
                 }
               ],
               "eng": [
-                {
-                  "synset": "trail",
-                  "sinonimo": "trail",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "path",
-                  "sinonimo": "path",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
                 {
                   "synset": "track",
                   "sinonimo": "track",
@@ -792,6 +780,18 @@
                   "sinonimo": "data_track",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "07"
+                },
+                {
+                  "synset": "path",
+                  "sinonimo": "path",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "trail",
+                  "sinonimo": "trail",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
                 }
               ]
             }
@@ -827,13 +827,19 @@
             "sinonimos": {
               "por": [
                 {
+                  "synset": "track",
+                  "sinonimo": "trilha",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
                   "synset": "path",
                   "sinonimo": "estrada",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "path",
+                  "synset": "trail",
                   "sinonimo": "caminho",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
@@ -843,27 +849,9 @@
                   "sinonimo": "Trilha",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
-                },
-                {
-                  "synset": "track",
-                  "sinonimo": "trilha",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "07"
                 }
               ],
               "eng": [
-                {
-                  "synset": "trail",
-                  "sinonimo": "trail",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "path",
-                  "sinonimo": "path",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
                 {
                   "synset": "track",
                   "sinonimo": "track",
@@ -875,6 +863,18 @@
                   "sinonimo": "data_track",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "07"
+                },
+                {
+                  "synset": "path",
+                  "sinonimo": "path",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "trail",
+                  "sinonimo": "trail",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
                 }
               ]
             }
@@ -2485,7 +2485,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 36184223930,
+      "ranking_time": 10655016630,
       "l_sizes": [
         20988,
         20988
@@ -2495,8 +2495,8 @@
         4201334
       ],
       "stats": {},
-      "ranking_time_only": 26656893693,
-      "total_time": 79530338064,
+      "ranking_time_only": 7847760948,
+      "total_time": 24460311568,
       "timeout": false
     }
   }

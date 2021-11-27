@@ -200,8 +200,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "publish",
-                "sinonimo": "publicar",
+                "synset": "spell",
+                "sinonimo": "soletrar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
@@ -212,25 +212,31 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
                 "synset": "write",
                 "sinonimo": "redigir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "write",
+                "synset": "publish",
                 "sinonimo": "escrever",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "spell",
-                "sinonimo": "soletrar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               }
             ],
             "eng": [
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
               {
                 "synset": "compose",
                 "sinonimo": "compose",
@@ -239,25 +245,7 @@
               },
               {
                 "synset": "write",
-                "sinonimo": "write",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "write",
                 "sinonimo": "indite",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "write",
-                "sinonimo": "drop_a_line",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "write",
-                "sinonimo": "pen",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -268,10 +256,22 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "spell",
-                "sinonimo": "spell",
+                "synset": "write",
+                "sinonimo": "write",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -313,27 +313,15 @@
             "por": [
               {
                 "synset": "topic",
-                "sinonimo": "temas",
+                "sinonimo": "matéria",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "subject",
-                "sinonimo": "tema",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "theme",
-                "sinonimo": "motivo",
+                "synset": "question",
+                "sinonimo": "questão",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "subject",
-                "sinonimo": "assunto",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               },
               {
                 "synset": "subject",
@@ -342,14 +330,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "subject",
-                "sinonimo": "tópico",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "question",
-                "sinonimo": "questão",
+                "synset": "theme",
+                "sinonimo": "motivo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -361,7 +343,25 @@
               },
               {
                 "synset": "topic",
-                "sinonimo": "matéria",
+                "sinonimo": "temas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "assunto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "tópico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "question",
+                "sinonimo": "tema",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -369,37 +369,19 @@
             "eng": [
               {
                 "synset": "topic",
-                "sinonimo": "issue",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "question",
-                "sinonimo": "head",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "topic",
-                "sinonimo": "subject",
+                "sinonimo": "matter",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "theme",
-                "sinonimo": "motif",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "theme",
-                "sinonimo": "idea",
+                "sinonimo": "melodic_theme",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "topic",
-                "sinonimo": "matter",
+                "sinonimo": "subject",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -410,10 +392,34 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "subject",
-                "sinonimo": "topic",
+                "synset": "theme",
+                "sinonimo": "theme",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "question",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "idea",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "motif",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "issue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "question",
@@ -422,16 +428,10 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "theme",
-                "sinonimo": "theme",
+                "synset": "subject",
+                "sinonimo": "topic",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "theme",
-                "sinonimo": "melodic_theme",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -537,8 +537,8 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "publish",
-                "sinonimo": "publicar",
+                "synset": "spell",
+                "sinonimo": "soletrar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               },
@@ -549,25 +549,31 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
                 "synset": "write",
                 "sinonimo": "redigir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "write",
+                "synset": "publish",
                 "sinonimo": "escrever",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "spell",
-                "sinonimo": "soletrar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
               }
             ],
             "eng": [
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
               {
                 "synset": "compose",
                 "sinonimo": "compose",
@@ -576,25 +582,7 @@
               },
               {
                 "synset": "write",
-                "sinonimo": "write",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "07"
-              },
-              {
-                "synset": "write",
                 "sinonimo": "indite",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "write",
-                "sinonimo": "drop_a_line",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "write",
-                "sinonimo": "pen",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -605,10 +593,22 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "spell",
-                "sinonimo": "spell",
+                "synset": "write",
+                "sinonimo": "write",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -628,27 +628,15 @@
             "por": [
               {
                 "synset": "topic",
-                "sinonimo": "temas",
+                "sinonimo": "matéria",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
-                "synset": "subject",
-                "sinonimo": "tema",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "theme",
-                "sinonimo": "motivo",
+                "synset": "question",
+                "sinonimo": "questão",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
-              },
-              {
-                "synset": "subject",
-                "sinonimo": "assunto",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
               },
               {
                 "synset": "subject",
@@ -657,14 +645,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "subject",
-                "sinonimo": "tópico",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "question",
-                "sinonimo": "questão",
+                "synset": "theme",
+                "sinonimo": "motivo",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -676,7 +658,25 @@
               },
               {
                 "synset": "topic",
-                "sinonimo": "matéria",
+                "sinonimo": "temas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "assunto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "tópico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "question",
+                "sinonimo": "tema",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               }
@@ -684,37 +684,19 @@
             "eng": [
               {
                 "synset": "topic",
-                "sinonimo": "issue",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "question",
-                "sinonimo": "head",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "topic",
-                "sinonimo": "subject",
+                "sinonimo": "matter",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
                 "synset": "theme",
-                "sinonimo": "motif",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "theme",
-                "sinonimo": "idea",
+                "sinonimo": "melodic_theme",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "03"
               },
               {
                 "synset": "topic",
-                "sinonimo": "matter",
+                "sinonimo": "subject",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
@@ -725,10 +707,34 @@
                 "distancia_semantica": "03"
               },
               {
-                "synset": "subject",
-                "sinonimo": "topic",
+                "synset": "theme",
+                "sinonimo": "theme",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "question",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "idea",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "motif",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "issue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "question",
@@ -737,16 +743,10 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "theme",
-                "sinonimo": "theme",
+                "synset": "subject",
+                "sinonimo": "topic",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
-              },
-              {
-                "synset": "theme",
-                "sinonimo": "melodic_theme",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "01"
               }
             ]
           }
@@ -789,27 +789,15 @@
               "por": [
                 {
                   "synset": "topic",
-                  "sinonimo": "temas",
+                  "sinonimo": "matéria",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "subject",
-                  "sinonimo": "tema",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "theme",
-                  "sinonimo": "motivo",
+                  "synset": "question",
+                  "sinonimo": "questão",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
-                },
-                {
-                  "synset": "subject",
-                  "sinonimo": "assunto",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
                 },
                 {
                   "synset": "subject",
@@ -818,14 +806,8 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "subject",
-                  "sinonimo": "tópico",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "question",
-                  "sinonimo": "questão",
+                  "synset": "theme",
+                  "sinonimo": "motivo",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -837,7 +819,25 @@
                 },
                 {
                   "synset": "topic",
-                  "sinonimo": "matéria",
+                  "sinonimo": "temas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "subject",
+                  "sinonimo": "assunto",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "subject",
+                  "sinonimo": "tópico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "question",
+                  "sinonimo": "tema",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 }
@@ -845,37 +845,19 @@
               "eng": [
                 {
                   "synset": "topic",
-                  "sinonimo": "issue",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "question",
-                  "sinonimo": "head",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "topic",
-                  "sinonimo": "subject",
+                  "sinonimo": "matter",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
                   "synset": "theme",
-                  "sinonimo": "motif",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
-                },
-                {
-                  "synset": "theme",
-                  "sinonimo": "idea",
+                  "sinonimo": "melodic_theme",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "03"
                 },
                 {
                   "synset": "topic",
-                  "sinonimo": "matter",
+                  "sinonimo": "subject",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
@@ -886,10 +868,34 @@
                   "distancia_semantica": "03"
                 },
                 {
-                  "synset": "subject",
-                  "sinonimo": "topic",
+                  "synset": "theme",
+                  "sinonimo": "theme",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "question",
+                  "sinonimo": "head",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "theme",
+                  "sinonimo": "idea",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "theme",
+                  "sinonimo": "motif",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "topic",
+                  "sinonimo": "issue",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "question",
@@ -898,16 +904,10 @@
                   "distancia_semantica": "02"
                 },
                 {
-                  "synset": "theme",
-                  "sinonimo": "theme",
+                  "synset": "subject",
+                  "sinonimo": "topic",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
-                },
-                {
-                  "synset": "theme",
-                  "sinonimo": "melodic_theme",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "03"
+                  "distancia_semantica": "01"
                 }
               ]
             }
@@ -2544,7 +2544,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 39961429803,
+      "ranking_time": 13450243058,
       "l_sizes": [
         30557,
         30557
@@ -2554,8 +2554,8 @@
         412760
       ],
       "stats": {},
-      "ranking_time_only": 29731545645,
-      "total_time": 72328434136,
+      "ranking_time_only": 9678063267,
+      "total_time": 23796963370,
       "timeout": false
     }
   }

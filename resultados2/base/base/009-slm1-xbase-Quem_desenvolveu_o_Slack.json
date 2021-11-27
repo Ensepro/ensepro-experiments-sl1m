@@ -142,7 +142,13 @@
             "por": [
               {
                 "synset": "develop",
-                "sinonimo": "fazer",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "elaborar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -154,13 +160,7 @@
               },
               {
                 "synset": "develop",
-                "sinonimo": "desenvolver",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "10"
-              },
-              {
-                "synset": "evolve",
-                "sinonimo": "elaborar",
+                "sinonimo": "fazer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -186,13 +186,7 @@
               },
               {
                 "synset": "evolve",
-                "sinonimo": "develop",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "build_up",
-                "sinonimo": "progress",
+                "sinonimo": "evolve",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -203,12 +197,6 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "evolve",
-                "sinonimo": "evolve",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "build_up",
                 "sinonimo": "build_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -216,9 +204,21 @@
               },
               {
                 "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
                 "sinonimo": "acquire",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "progress",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "build_up",
@@ -306,7 +306,13 @@
             "por": [
               {
                 "synset": "develop",
-                "sinonimo": "fazer",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "elaborar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -318,13 +324,7 @@
               },
               {
                 "synset": "develop",
-                "sinonimo": "desenvolver",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "10"
-              },
-              {
-                "synset": "evolve",
-                "sinonimo": "elaborar",
+                "sinonimo": "fazer",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -350,13 +350,7 @@
               },
               {
                 "synset": "evolve",
-                "sinonimo": "develop",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "build_up",
-                "sinonimo": "progress",
+                "sinonimo": "evolve",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "02"
               },
@@ -367,12 +361,6 @@
                 "distancia_semantica": "02"
               },
               {
-                "synset": "evolve",
-                "sinonimo": "evolve",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "build_up",
                 "sinonimo": "build_up",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -380,9 +368,21 @@
               },
               {
                 "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
                 "sinonimo": "acquire",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "03"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "progress",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               },
               {
                 "synset": "build_up",
@@ -1540,7 +1540,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 1010399766,
+      "ranking_time": 978703993,
       "l_sizes": [
         2619
       ],
@@ -1548,8 +1548,8 @@
         2619
       ],
       "stats": {},
-      "ranking_time_only": 106780333,
-      "total_time": 7295878148,
+      "ranking_time_only": 98031749,
+      "total_time": 7495005856,
       "timeout": false
     }
   }

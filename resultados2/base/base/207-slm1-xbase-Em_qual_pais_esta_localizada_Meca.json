@@ -213,9 +213,21 @@
             "por": [
               {
                 "synset": "district",
-                "sinonimo": "colónia",
+                "sinonimo": "bairro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "terra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "república",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "state",
@@ -225,9 +237,15 @@
               },
               {
                 "synset": "district",
-                "sinonimo": "condado",
+                "sinonimo": "território",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "países",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "district",
@@ -237,7 +255,13 @@
               },
               {
                 "synset": "district",
-                "sinonimo": "território",
+                "sinonimo": "circunscrição_administriva",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "comarca",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -249,49 +273,7 @@
               },
               {
                 "synset": "district",
-                "sinonimo": "província",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "state",
-                "sinonimo": "república",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "state",
-                "sinonimo": "países",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "country",
-                "sinonimo": "terra",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "district",
-                "sinonimo": "comarca",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "district",
                 "sinonimo": "domínio",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "state",
-                "sinonimo": "união",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "district",
-                "sinonimo": "circunscrição_administriva",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -300,6 +282,12 @@
                 "sinonimo": "nação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "distrito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "district",
@@ -315,35 +303,35 @@
               },
               {
                 "synset": "district",
-                "sinonimo": "bairro",
+                "sinonimo": "colónia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "district",
-                "sinonimo": "distrito",
+                "sinonimo": "condado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "união",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "província",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "district",
-                "sinonimo": "district",
+                "synset": "state",
+                "sinonimo": "commonwealth",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "district",
-                "sinonimo": "territory",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "country",
-                "sinonimo": "country",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "04"
               },
               {
                 "synset": "district",
@@ -352,14 +340,32 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "district",
+                "sinonimo": "district",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "nation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
                 "synset": "state",
                 "sinonimo": "body_politic",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
               },
               {
+                "synset": "district",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "state",
-                "sinonimo": "res_publica",
+                "sinonimo": "country",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
               },
@@ -370,28 +376,22 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "state",
-                "sinonimo": "commonwealth",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "state",
+                "synset": "country",
                 "sinonimo": "land",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "res_publica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
               },
               {
                 "synset": "state",
-                "sinonimo": "nation",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "country",
                 "sinonimo": "state",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -438,12 +438,6 @@
             "por": [
               {
                 "synset": "locate",
-                "sinonimo": "descobrir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "locate",
                 "sinonimo": "localizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
@@ -451,6 +445,12 @@
               {
                 "synset": "locate",
                 "sinonimo": "achar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "descobrir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -533,12 +533,6 @@
               "por": [
                 {
                   "synset": "locate",
-                  "sinonimo": "descobrir",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
-                  "synset": "locate",
                   "sinonimo": "localizar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
@@ -546,6 +540,12 @@
                 {
                   "synset": "locate",
                   "sinonimo": "achar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "locate",
+                  "sinonimo": "descobrir",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
                 }
@@ -584,9 +584,21 @@
             "por": [
               {
                 "synset": "district",
-                "sinonimo": "colónia",
+                "sinonimo": "bairro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "terra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "república",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "state",
@@ -596,9 +608,15 @@
               },
               {
                 "synset": "district",
-                "sinonimo": "condado",
+                "sinonimo": "território",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "países",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
               },
               {
                 "synset": "district",
@@ -608,7 +626,13 @@
               },
               {
                 "synset": "district",
-                "sinonimo": "território",
+                "sinonimo": "circunscrição_administriva",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "comarca",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -620,49 +644,7 @@
               },
               {
                 "synset": "district",
-                "sinonimo": "província",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "state",
-                "sinonimo": "república",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "state",
-                "sinonimo": "países",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "country",
-                "sinonimo": "terra",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
-              },
-              {
-                "synset": "district",
-                "sinonimo": "comarca",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "district",
                 "sinonimo": "domínio",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "state",
-                "sinonimo": "união",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "district",
-                "sinonimo": "circunscrição_administriva",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -671,6 +653,12 @@
                 "sinonimo": "nação",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "distrito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
               },
               {
                 "synset": "district",
@@ -686,35 +674,35 @@
               },
               {
                 "synset": "district",
-                "sinonimo": "bairro",
+                "sinonimo": "colónia",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
                 "synset": "district",
-                "sinonimo": "distrito",
+                "sinonimo": "condado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "união",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "província",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
             ],
             "eng": [
               {
-                "synset": "district",
-                "sinonimo": "district",
+                "synset": "state",
+                "sinonimo": "commonwealth",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "district",
-                "sinonimo": "territory",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "country",
-                "sinonimo": "country",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "04"
               },
               {
                 "synset": "district",
@@ -723,14 +711,32 @@
                 "distancia_semantica": "01"
               },
               {
+                "synset": "district",
+                "sinonimo": "district",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "nation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
                 "synset": "state",
                 "sinonimo": "body_politic",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
               },
               {
+                "synset": "district",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
                 "synset": "state",
-                "sinonimo": "res_publica",
+                "sinonimo": "country",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
               },
@@ -741,28 +747,22 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "state",
-                "sinonimo": "commonwealth",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "state",
+                "synset": "country",
                 "sinonimo": "land",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "res_publica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "04"
               },
               {
                 "synset": "state",
-                "sinonimo": "nation",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "04"
-              },
-              {
-                "synset": "country",
                 "sinonimo": "state",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "04"
               }
             ]
           }
@@ -783,12 +783,6 @@
             "por": [
               {
                 "synset": "locate",
-                "sinonimo": "descobrir",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
-                "synset": "locate",
                 "sinonimo": "localizar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
@@ -796,6 +790,12 @@
               {
                 "synset": "locate",
                 "sinonimo": "achar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "descobrir",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               }
@@ -3078,7 +3078,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 86972486402,
+      "ranking_time": 23128801937,
       "l_sizes": [
         39504,
         39504
@@ -3088,9 +3088,9 @@
         5403278
       ],
       "stats": {},
-      "ranking_time_only": 75904140836,
-      "total_time": 120039101001,
-      "timeout": true
+      "ranking_time_only": 19451997992,
+      "total_time": 33420720836,
+      "timeout": false
     }
   }
 ]

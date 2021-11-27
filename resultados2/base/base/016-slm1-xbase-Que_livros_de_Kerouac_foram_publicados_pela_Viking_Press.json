@@ -252,7 +252,7 @@
             "por": [
               {
                 "synset": "phrase_book",
-                "sinonimo": "manual_idiomático",
+                "sinonimo": "livro_de_frases",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -264,27 +264,27 @@
               },
               {
                 "synset": "book",
-                "sinonimo": "álbum",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "11"
-              },
-              {
-                "synset": "book",
                 "sinonimo": "livros",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
+                "synset": "book",
+                "sinonimo": "álbum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
                 "synset": "phrase_book",
-                "sinonimo": "livro_de_frases",
+                "sinonimo": "livro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "book",
-                "sinonimo": "livro",
+                "synset": "phrase_book",
+                "sinonimo": "manual_idiomático",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
@@ -295,8 +295,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "tome",
-                "sinonimo": "tome",
+                "synset": "phrase_book",
+                "sinonimo": "phrase_book",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -307,8 +307,8 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "phrase_book",
+                "synset": "tome",
+                "sinonimo": "tome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -394,14 +394,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "print",
-                "sinonimo": "editar",
+                "synset": "publish",
+                "sinonimo": "publicar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "print",
-                "sinonimo": "publicar",
+                "sinonimo": "editar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -414,16 +414,10 @@
             ],
             "eng": [
               {
-                "synset": "print",
-                "sinonimo": "publish",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "publish",
-                "sinonimo": "write",
+                "sinonimo": "put_out",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "publish",
@@ -438,16 +432,22 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "publish",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
                 "synset": "print",
                 "sinonimo": "print",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "publish",
-                "sinonimo": "put_out",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               },
               {
                 "synset": "publish",
@@ -569,14 +569,14 @@
             "sinonimos": {
               "por": [
                 {
-                  "synset": "print",
-                  "sinonimo": "editar",
+                  "synset": "publish",
+                  "sinonimo": "publicar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "print",
-                  "sinonimo": "publicar",
+                  "sinonimo": "editar",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
                 },
@@ -589,16 +589,10 @@
               ],
               "eng": [
                 {
-                  "synset": "print",
-                  "sinonimo": "publish",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "01"
-                },
-                {
                   "synset": "publish",
-                  "sinonimo": "write",
+                  "sinonimo": "put_out",
                   "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "03"
+                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "publish",
@@ -613,16 +607,22 @@
                   "distancia_semantica": "02"
                 },
                 {
+                  "synset": "publish",
+                  "sinonimo": "write",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "publish",
+                  "sinonimo": "publish",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
                   "synset": "print",
                   "sinonimo": "print",
                   "classe_gramatical": "ClasseGramatical.VERBO",
                   "distancia_semantica": "01"
-                },
-                {
-                  "synset": "publish",
-                  "sinonimo": "put_out",
-                  "classe_gramatical": "ClasseGramatical.VERBO",
-                  "distancia_semantica": "02"
                 },
                 {
                   "synset": "publish",
@@ -651,7 +651,7 @@
             "por": [
               {
                 "synset": "phrase_book",
-                "sinonimo": "manual_idiomático",
+                "sinonimo": "livro_de_frases",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -663,27 +663,27 @@
               },
               {
                 "synset": "book",
-                "sinonimo": "álbum",
-                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "11"
-              },
-              {
-                "synset": "book",
                 "sinonimo": "livros",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "02"
               },
               {
+                "synset": "book",
+                "sinonimo": "álbum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
                 "synset": "phrase_book",
-                "sinonimo": "livro_de_frases",
+                "sinonimo": "livro",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
               {
-                "synset": "book",
-                "sinonimo": "livro",
+                "synset": "phrase_book",
+                "sinonimo": "manual_idiomático",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "01"
               }
             ],
             "eng": [
@@ -694,8 +694,8 @@
                 "distancia_semantica": "01"
               },
               {
-                "synset": "tome",
-                "sinonimo": "tome",
+                "synset": "phrase_book",
+                "sinonimo": "phrase_book",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               },
@@ -706,8 +706,8 @@
                 "distancia_semantica": "04"
               },
               {
-                "synset": "phrase_book",
-                "sinonimo": "phrase_book",
+                "synset": "tome",
+                "sinonimo": "tome",
                 "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                 "distancia_semantica": "01"
               }
@@ -748,14 +748,14 @@
           "sinonimos": {
             "por": [
               {
-                "synset": "print",
-                "sinonimo": "editar",
+                "synset": "publish",
+                "sinonimo": "publicar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "print",
-                "sinonimo": "publicar",
+                "sinonimo": "editar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
               },
@@ -768,16 +768,10 @@
             ],
             "eng": [
               {
-                "synset": "print",
-                "sinonimo": "publish",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "01"
-              },
-              {
                 "synset": "publish",
-                "sinonimo": "write",
+                "sinonimo": "put_out",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "03"
+                "distancia_semantica": "02"
               },
               {
                 "synset": "publish",
@@ -792,16 +786,22 @@
                 "distancia_semantica": "02"
               },
               {
+                "synset": "publish",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
                 "synset": "print",
                 "sinonimo": "print",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "01"
-              },
-              {
-                "synset": "publish",
-                "sinonimo": "put_out",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               },
               {
                 "synset": "publish",
@@ -848,7 +848,7 @@
               "por": [
                 {
                   "synset": "phrase_book",
-                  "sinonimo": "manual_idiomático",
+                  "sinonimo": "livro_de_frases",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -860,27 +860,27 @@
                 },
                 {
                   "synset": "book",
-                  "sinonimo": "álbum",
-                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "11"
-                },
-                {
-                  "synset": "book",
                   "sinonimo": "livros",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "02"
                 },
                 {
+                  "synset": "book",
+                  "sinonimo": "álbum",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "11"
+                },
+                {
                   "synset": "phrase_book",
-                  "sinonimo": "livro_de_frases",
+                  "sinonimo": "livro",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "book",
-                  "sinonimo": "livro",
+                  "synset": "phrase_book",
+                  "sinonimo": "manual_idiomático",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
-                  "distancia_semantica": "02"
+                  "distancia_semantica": "01"
                 }
               ],
               "eng": [
@@ -891,8 +891,8 @@
                   "distancia_semantica": "01"
                 },
                 {
-                  "synset": "tome",
-                  "sinonimo": "tome",
+                  "synset": "phrase_book",
+                  "sinonimo": "phrase_book",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 },
@@ -903,8 +903,8 @@
                   "distancia_semantica": "04"
                 },
                 {
-                  "synset": "phrase_book",
-                  "sinonimo": "phrase_book",
+                  "synset": "tome",
+                  "sinonimo": "tome",
                   "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
                   "distancia_semantica": "01"
                 }
@@ -2723,7 +2723,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 29191392467,
+      "ranking_time": 28937125083,
       "l_sizes": [
         29257,
         29257
@@ -2733,8 +2733,8 @@
         18906216
       ],
       "stats": {},
-      "ranking_time_only": 26997845815,
-      "total_time": 37581734728,
+      "ranking_time_only": 26250137710,
+      "total_time": 37553738165,
       "timeout": false
     }
   }

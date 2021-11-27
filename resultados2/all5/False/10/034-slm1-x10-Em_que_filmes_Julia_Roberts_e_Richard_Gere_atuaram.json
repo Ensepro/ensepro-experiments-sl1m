@@ -1,0 +1,2896 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Julia_Roberts",
+          "palavra_canonica": "Julia_Roberts",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-DN>",
+            "<tit>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "CO:conj-c",
+          "palavra_original": "e",
+          "palavra_canonica": "e",
+          "tags": [
+            "<co-postnom>"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Richard_Gere",
+          "palavra_canonica": "Richard_Gere",
+          "tags": [
+            "<cjt-DN>",
+            "<tit>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Julia_roberts",
+          "palavra_canonica": "Julia_roberts",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-DN>",
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "CO:conj-c",
+          "palavra_original": "e",
+          "palavra_canonica": "e",
+          "tags": [
+            "<co-postnom>"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Richard_gere",
+          "palavra_canonica": "Richard_gere",
+          "tags": [
+            "<cjt-DN>",
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "act",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "atuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "comportar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "agir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer_papel",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "parecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "representar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "act",
+                "sinonimo": "act",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "behave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "playact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "do",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "roleplay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "em_que",
+        "confianca": 0.85,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Julia_roberts",
+          "palavra_canonica": "Julia_roberts",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-DN>",
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Richard_gere",
+          "palavra_canonica": "Richard_gere",
+          "tags": [
+            "<cjt-DN>",
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "act",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "atuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "comportar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "agir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer_papel",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "parecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "representar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "act",
+                "sinonimo": "act",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "behave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "playact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "do",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "roleplay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*hook_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*hook_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*hook_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*intersection_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*closer_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*closer_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*closer_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*intersection_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*closer_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*closer_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*closer_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*intersection_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*lado_a_lado_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*lado_a_lado_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*lado_a_lado_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*intersection_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ],
+            [
+              "*hook_(filme)",
+              "starring",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ],
+            [
+              "*closer_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ],
+            [
+              "*closer_(filme)",
+              "starring",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ],
+            [
+              "*lado_a_lado_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ],
+            [
+              "*lado_a_lado_(filme)",
+              "starring",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ],
+            [
+              "*notting_hill_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ],
+            [
+              "*intersection_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*lado_a_lado_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*lado_a_lado_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*lado_a_lado_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*intersection_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "filme": "-238",
+              "julia_roberts": "-30",
+              "richard_gere": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ],
+            [
+              "*hook_(filme)",
+              "starring",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ],
+            [
+              "*closer_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ],
+            [
+              "*closer_(filme)",
+              "starring",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ],
+            [
+              "*lado_a_lado_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ],
+            [
+              "*lado_a_lado_(filme)",
+              "starring",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*primal_fear_(filme)",
+              "starring",
+              "*richard_gere"
+            ],
+            [
+              "*notting_hill_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 23.014368,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 21.681034,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1425765402,
+      "l_sizes": [
+        21559,
+        10,
+        7,
+        8,
+        8
+      ],
+      "a_sizes": [
+        21559,
+        20,
+        504,
+        4032,
+        24192
+      ],
+      "stats": {},
+      "ranking_time_only": 424691682,
+      "total_time": 9603637812,
+      "timeout": false
+    }
+  }
+]

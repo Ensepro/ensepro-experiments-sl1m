@@ -327,28 +327,28 @@
                 "distancia_semantica": "05"
               },
               {
+                "synset": "answer",
+                "sinonimo": "responder",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "attend",
                 "sinonimo": "prestar_a_atenção",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
               {
-                "synset": "answer",
+                "synset": "attend",
                 "sinonimo": "atender",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "attend",
                 "sinonimo": "escutar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
-              },
-              {
-                "synset": "answer",
-                "sinonimo": "responder",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               }
             ],
             "eng": [
@@ -360,7 +360,7 @@
               },
               {
                 "synset": "attend",
-                "sinonimo": "pay_heed",
+                "sinonimo": "give_ear",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
@@ -371,12 +371,6 @@
                 "distancia_semantica": "05"
               },
               {
-                "synset": "answer",
-                "sinonimo": "answer",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "attend",
                 "sinonimo": "hang",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -384,9 +378,15 @@
               },
               {
                 "synset": "attend",
-                "sinonimo": "give_ear",
+                "sinonimo": "pay_heed",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
+              },
+              {
+                "synset": "answer",
+                "sinonimo": "answer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -509,28 +509,28 @@
                 "distancia_semantica": "05"
               },
               {
+                "synset": "answer",
+                "sinonimo": "responder",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
                 "synset": "attend",
                 "sinonimo": "prestar_a_atenção",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
               {
-                "synset": "answer",
+                "synset": "attend",
                 "sinonimo": "atender",
                 "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
+                "distancia_semantica": "05"
               },
               {
                 "synset": "attend",
                 "sinonimo": "escutar",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
-              },
-              {
-                "synset": "answer",
-                "sinonimo": "responder",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
               }
             ],
             "eng": [
@@ -542,7 +542,7 @@
               },
               {
                 "synset": "attend",
-                "sinonimo": "pay_heed",
+                "sinonimo": "give_ear",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
               },
@@ -553,12 +553,6 @@
                 "distancia_semantica": "05"
               },
               {
-                "synset": "answer",
-                "sinonimo": "answer",
-                "classe_gramatical": "ClasseGramatical.VERBO",
-                "distancia_semantica": "02"
-              },
-              {
                 "synset": "attend",
                 "sinonimo": "hang",
                 "classe_gramatical": "ClasseGramatical.VERBO",
@@ -566,9 +560,15 @@
               },
               {
                 "synset": "attend",
-                "sinonimo": "give_ear",
+                "sinonimo": "pay_heed",
                 "classe_gramatical": "ClasseGramatical.VERBO",
                 "distancia_semantica": "05"
+              },
+              {
+                "synset": "answer",
+                "sinonimo": "answer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
               }
             ]
           }
@@ -2123,7 +2123,7 @@
           "id": 29
         }
       ],
-      "ranking_time": 44054175011,
+      "ranking_time": 16022176286,
       "l_sizes": [
         9672,
         9672
@@ -2133,8 +2133,8 @@
         851514
       ],
       "stats": {},
-      "ranking_time_only": 7715689100,
-      "total_time": 87280340509,
+      "ranking_time_only": 1939811160,
+      "total_time": 29572643866,
       "timeout": false
     }
   }

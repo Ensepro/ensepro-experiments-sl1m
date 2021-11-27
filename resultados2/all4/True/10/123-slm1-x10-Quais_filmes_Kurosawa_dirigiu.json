@@ -1,0 +1,2354 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Kurosawa",
+          "palavra_canonica": "Kurosawa",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "dirigiu",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Od:pron-rel",
+          "palavra_original": "Quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<*>",
+            "<rel>",
+            "DET",
+            "M/F",
+            "P"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Kurosawa",
+          "palavra_canonica": "Kurosawa",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "dirigiu",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "steer",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.67,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Kurosawa",
+          "palavra_canonica": "Kurosawa",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "dirigiu",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "steer",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "subarashiki_nichiyobi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "subarashiki_nichiyobi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*akira_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "subarashiki_nichiyobi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*takuya_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "subarashiki_nichiyobi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*ai_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "subarashiki_nichiyobi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "subject",
+              "categoria:desambiguacoes_de_antroponimos"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "subarashiki_nichiyobi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "owl#sameas",
+              "q351843"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "kumonosu_jo",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "kumonosu_jo",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*akira_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "kumonosu_jo",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*takuya_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "kumonosu_jo",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*ai_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "kumonosu_jo",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "subject",
+              "categoria:desambiguacoes_de_antroponimos"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "kumonosu_jo",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "owl#sameas",
+              "q351843"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "rashomon",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "rashomon",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*akira_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "rashomon",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*takuya_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "rashomon",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*ai_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "rashomon",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "subject",
+              "categoria:desambiguacoes_de_antroponimos"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "rashomon",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "owl#sameas",
+              "q351843"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "subarashiki_nichiyobi",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "kumonosu_jo",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "rashomon",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*akira_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*takuya_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*ai_kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*kurosawa",
+              "subject",
+              "categoria:desambiguacoes_de_antroponimos"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "direcao": "-25",
+              "kurosawa": "-18"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ],
+            [
+              "*kurosawa",
+              "owl#sameas",
+              "q351843"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "direcao": "-25",
+              "kurosawa": "-18"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*akira_kurosawa"
+            ],
+            [
+              "subarashiki_nichiyobi",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*akira_kurosawa"
+            ],
+            [
+              "kumonosu_jo",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*akira_kurosawa"
+            ],
+            [
+              "rashomon",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*akira_kurosawa"
+            ],
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1432057927,
+      "l_sizes": [
+        10315,
+        10,
+        10,
+        10
+      ],
+      "a_sizes": [
+        10315,
+        42,
+        720,
+        5040
+      ],
+      "stats": {},
+      "ranking_time_only": 238975441,
+      "total_time": 8762028642,
+      "timeout": false
+    }
+  }
+]

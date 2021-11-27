@@ -1,0 +1,3322 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "país",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:v-pcp",
+          "palavra_original": "localizada",
+          "palavra_canonica": "localizar",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Meca",
+          "palavra_canonica": "Meca",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "país",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "district",
+                "sinonimo": "condado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "nação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "comarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "país",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "pais",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição_administriva",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "território",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "países",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "região",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "união",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "bairro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "república",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "districto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "distrito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "província",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "domínio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "terra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "colónia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "state",
+                "sinonimo": "res_publica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "nation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "body_politic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "country",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territorial_dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "district",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "commonwealth",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "land",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:v-pcp",
+          "palavra_original": "localizada",
+          "palavra_canonica": "localizar",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "locate",
+                "sinonimo": "localizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "achar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "descobrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "locate",
+                "sinonimo": "locate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "turn_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Meca",
+          "palavra_canonica": "Meca",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [ fA:pp|2| [H:prp|3| Em] [ DP:np|4| [DN:pron-int|5| qual] [H:n|6| país] ] ] [P:v-fin|7| está] [ Cs:np|8| [H:v-pcp|9| localizada] [DN:prop|10| Meca] ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.79,
+        "ids": [
+          5
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 7,
+            "tag_inicial": "P:v-fin",
+            "palavra_original": "está",
+            "palavra_canonica": "estar",
+            "tags": [
+              "<fmc>",
+              "<vK>",
+              "<mv>",
+              "PR",
+              "3S",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 1,
+            "sinonimos": null
+          },
+          {
+            "id": 9,
+            "tag_inicial": "H:v-pcp",
+            "palavra_original": "localizada",
+            "palavra_canonica": "localizar",
+            "tags": [
+              "<n>",
+              "<vH>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "locate",
+                  "sinonimo": "localizar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "locate",
+                  "sinonimo": "achar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "locate",
+                  "sinonimo": "descobrir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "locate",
+                  "sinonimo": "locate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "locate",
+                  "sinonimo": "turn_up",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "país",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "district",
+                "sinonimo": "condado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "nação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "comarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "país",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "pais",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição_administriva",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "território",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "países",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "região",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "união",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "bairro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "república",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "districto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "distrito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "província",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "domínio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "terra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "colónia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "state",
+                "sinonimo": "res_publica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "nation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "body_politic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "country",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territorial_dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "district",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "commonwealth",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "land",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:v-pcp",
+          "palavra_original": "localizada",
+          "palavra_canonica": "localizar",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "locate",
+                "sinonimo": "localizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "achar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "descobrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "locate",
+                "sinonimo": "locate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "turn_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Meca",
+          "palavra_canonica": "Meca",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ]
+          ],
+          "score": 16.444445,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.44444445,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "meca": "-1",
+              "country": "-380",
+              "localizacao": "-578",
+              "local": "-602"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ]
+          ],
+          "score": 16.444445,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.44444445,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "meca": "-1",
+              "country": "-380",
+              "localizacao": "-578",
+              "local": "-602"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ]
+          ],
+          "score": 16.444445,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local",
+              "localizacao"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.44444445,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "*meca",
+              "*localidade",
+              "*meca"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local",
+              "localizacao"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "*meca",
+              "*localidade",
+              "*meca"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local",
+              "localizacao"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abdula_ibne_al_zubair",
+              "*localmorte",
+              "*meca"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local",
+              "localizacao"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abdula_ibne_al_zubair",
+              "*localmorte",
+              "*meca"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local",
+              "localizacao"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "*meca",
+              "*localidade",
+              "*meca"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "abdula_ibne_al_zubair",
+              "*localmorte",
+              "*meca"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "*meca",
+              "*localidade",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "abdula_ibne_al_zubair",
+              "*localmorte",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "amir_ibne_alas",
+              "*nascimentolocal",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "iazide_ibne_abi_sufiane",
+              "*nascimentolocal",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "abu_bakr",
+              "*localnascimento",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "eisa_majrashi",
+              "*localnascimento",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "hind_bint_utbah",
+              "*nascimentolocal",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "abu_sufiane_ibne_harbe",
+              "*nascimentolocal",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "sa%60d_ibn_abi_waqqas",
+              "*nascimentolocal",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "abdullah_i_da_jordania",
+              "*localdenascimento",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "talal_da_jordania",
+              "*localdenascimento",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "ahmed_yamani",
+              "*localnascimento",
+              "*meca,"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "khalid_al_mihdhar",
+              "*localnascimento",
+              "*meca,"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "*meca",
+              "tiposubdivisao",
+              "*provincias_da_arabia_saudita"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "*meca",
+              "titulo",
+              "*what life was like in the lands of the prophet: islamic world, ad 570  1405"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "*meca",
+              "nomeoficial",
+              "*meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "*meca",
+              "nomenativo",
+              4
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "*meca",
+              "outronome",
+              "*a cidade santa de meca"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "*meca",
+              "apelido",
+              "umm al-qura"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "*meca",
+              "titulolider",
+              "prefeito"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "*meca",
+              "areaurbana",
+              "850"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abraj_al_bait",
+              "*localizacao",
+              "*meca,"
+            ],
+            [
+              "tomada_da_grande_mesquita",
+              "*local",
+              "*meca,"
+            ],
+            [
+              "*meca",
+              "areametro",
+              "1200"
+            ]
+          ],
+          "score": 16.333332,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "localizacao",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 15.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "localizacao": {
+                  "keyword": {
+                    "termo": "localizacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localizacao",
+                  "score": 2.0
+                },
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 4140852940,
+      "l_sizes": [
+        39504,
+        30,
+        13,
+        15
+      ],
+      "a_sizes": [
+        39504,
+        544,
+        10556,
+        328860
+      ],
+      "stats": {},
+      "ranking_time_only": 1273307185,
+      "total_time": 14207457718,
+      "timeout": false
+    }
+  }
+]
