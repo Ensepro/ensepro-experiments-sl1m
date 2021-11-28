@@ -1,0 +1,2095 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "As:adv",
+          "palavra_original": "Onde",
+          "palavra_canonica": "onde",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:v-pcp",
+          "palavra_original": "localizado",
+          "palavra_canonica": "localizar",
+          "tags": [
+            "<vH>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Fort_Knox",
+          "palavra_canonica": "Fort_Knox",
+          "tags": [
+            "<top>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "As:adv",
+          "palavra_original": "Onde",
+          "palavra_canonica": "onde",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:v-pcp",
+          "palavra_original": "localizado",
+          "palavra_canonica": "localizar",
+          "tags": [
+            "<vH>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "locate",
+                "sinonimo": "achar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "localizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "descobrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "locate",
+                "sinonimo": "locate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "turn_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Fort_Knox",
+          "palavra_canonica": "Fort_Knox",
+          "tags": [
+            "<top>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "onde",
+        "confianca": 0.9,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 3,
+            "tag_inicial": "P:v-fin",
+            "palavra_original": "está",
+            "palavra_canonica": "estar",
+            "tags": [
+              "<fmc>",
+              "<vK>",
+              "<mv>",
+              "PR",
+              "3S",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 1,
+            "sinonimos": null
+          },
+          {
+            "id": 4,
+            "tag_inicial": "Cs:v-pcp",
+            "palavra_original": "localizado",
+            "palavra_canonica": "localizar",
+            "tags": [
+              "<vH>",
+              "M",
+              "S"
+            ],
+            "nivel": 1,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "locate",
+                  "sinonimo": "achar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "locate",
+                  "sinonimo": "localizar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "locate",
+                  "sinonimo": "descobrir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "locate",
+                  "sinonimo": "locate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "locate",
+                  "sinonimo": "turn_up",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "Cs:v-pcp",
+          "palavra_original": "localizado",
+          "palavra_canonica": "localizar",
+          "tags": [
+            "<vH>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "locate",
+                "sinonimo": "achar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "localizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "descobrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "locate",
+                "sinonimo": "locate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "turn_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Fort_Knox",
+          "palavra_canonica": "Fort_Knox",
+          "tags": [
+            "<top>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ]
+          ],
+          "score": 13.399301,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 11.732634,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localidaden",
+                  "score": 1.7326335
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "local": "-44",
+              "fort_knox": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ]
+          ],
+          "score": 13.399301,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 11.732634,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localidaden",
+                  "score": 1.7326335
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "local": "-44",
+              "fort_knox": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "guerra_civil_inglesa",
+              "*local",
+              "reino da inglaterra"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "guerra_colonial_portuguesa",
+              "*local",
+              "angola, guine-bissau e mocambique"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "fuball_club_gelsenkirchen_schalke_04",
+              "*local",
+              "gelsenkirchen"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "fuball_club_gelsenkirchen_schalke_04",
+              "*local",
+              "renania_do_norte_vestfalia"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "fuball_club_gelsenkirchen_schalke_04",
+              "*local",
+              "alemanha"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "guerra_do_paraguai",
+              "*local",
+              "america_do_sul"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "clube_atletico_mineiro",
+              "*local",
+              "20"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "guerra_dos_sete_anos",
+              "*local",
+              "europa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "guerra_dos_sete_anos",
+              "*local",
+              "africa"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "guerra_dos_sete_anos",
+              "*local",
+              "india"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "guerra_dos_sete_anos",
+              "*local",
+              "america_do_norte"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "guerra_dos_sete_anos",
+              "*local",
+              "filipinas"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "clube_atletico_paranaense",
+              "*local",
+              "20"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "guerra_dos_farrapos",
+              "*local",
+              "regiao_sul_do_brasil"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "batalha_da_normandia",
+              "*local",
+              "normandia, na franca"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "operacao_overlord",
+              "*local",
+              "normandia"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "operacao_overlord",
+              "*local",
+              "franca"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "lagoa_corvos",
+              "*local",
+              "figueira_da_foz"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "associacao_desportiva_sao_caetano",
+              "*local",
+              "20"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "batalha_da_ponte_milvia",
+              "*local",
+              "ponte_milvia"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "batalha_da_ponte_milvia",
+              "*local",
+              "rio_tibre"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "batalha_da_ponte_milvia",
+              "*local",
+              "roma"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "batalha_da_ponte_milvia",
+              "*local",
+              "italia"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "crise_de_13831385_em_portugal",
+              "*local",
+              "portugal e castela"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "rock_in_rio",
+              "*local",
+              "rio de janeiro, :"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "rock_in_rio",
+              "*local",
+              "1985"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "rock_in_rio",
+              "*local",
+              "lisboa, :"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "rock_in_rio",
+              "*local",
+              "2004"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "mykel_hawke",
+              "*localidaden",
+              "*fort_knox"
+            ],
+            [
+              "randolph_bresnik",
+              "*localnascimento",
+              "*fort_knox"
+            ],
+            [
+              "rock_in_rio",
+              "*local",
+              "madrid, :"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "fort_knox",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "fort_knox": {
+                  "keyword": {
+                    "termo": "fort_knox",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "fort_knox",
+                  "score": 10.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "local",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 43796999042,
+      "l_sizes": [
+        10031,
+        75,
+        75,
+        75
+      ],
+      "a_sizes": [
+        10031,
+        746,
+        405150,
+        29170800
+      ],
+      "stats": {},
+      "ranking_time_only": 35454812560,
+      "total_time": 50539351192,
+      "timeout": false
+    }
+  }
+]

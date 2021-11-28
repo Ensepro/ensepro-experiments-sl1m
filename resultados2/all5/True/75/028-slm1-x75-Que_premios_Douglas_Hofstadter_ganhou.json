@@ -1,0 +1,419 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "prêmios",
+          "palavra_canonica": "prêmio",
+          "tags": [
+            "<mon>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Douglas_Hofstadter",
+          "palavra_canonica": "Douglas_Hofstadter",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "ganhou",
+          "palavra_canonica": "ganhar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "SUB:conj-s",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Douglas_hofstadter",
+          "palavra_canonica": "Douglas_hofstadter",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "ganhou",
+          "palavra_canonica": "ganhar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "acquire",
+                "sinonimo": "atingir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "ganhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "ganhar_dinheiro_com_seu_trabalho",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "obter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "win",
+                "sinonimo": "vencer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "comprar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "receber",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "adquirir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "lucrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "auferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "acquire",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "garner",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "earn",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "gain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "win",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.69,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Douglas_hofstadter",
+          "palavra_canonica": "Douglas_hofstadter",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "ganhou",
+          "palavra_canonica": "ganhar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "acquire",
+                "sinonimo": "atingir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "ganhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "ganhar_dinheiro_com_seu_trabalho",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "obter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "win",
+                "sinonimo": "vencer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "comprar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "receber",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "adquirir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "lucrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "auferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "acquire",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "garner",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "earn",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "gain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "win",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "ranking_time": 139664684299,
+      "l_sizes": [],
+      "a_sizes": [],
+      "stats": {
+        "exception": "Timeout",
+        "outOutMemory": false,
+        "detail": "Timeout"
+      },
+      "ranking_time_only": 0,
+      "total_time": 146144744002,
+      "timeout": false
+    }
+  }
+]
