@@ -1,0 +1,1793 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Titanic",
+          "palavra_canonica": "Titanic",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "foi",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "completado",
+          "palavra_canonica": "completar",
+          "tags": [
+            "<mv>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Rms_titanic",
+          "palavra_canonica": "Rms_titanic",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "foi",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "completado",
+          "palavra_canonica": "completar",
+          "tags": [
+            "<mv>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "fill",
+                "sinonimo": "encher",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "inteirar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "completar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "fill",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "make_full",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "fill_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quando",
+        "confianca": 0.91,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 7,
+            "tag_inicial": "Vaux:v-fin",
+            "palavra_original": "foi",
+            "palavra_canonica": "ser",
+            "tags": [
+              "<fmc>",
+              "<aux>",
+              "PS",
+              "3S",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          },
+          {
+            "id": 8,
+            "tag_inicial": "Vm:v-pcp",
+            "palavra_original": "completado",
+            "palavra_canonica": "completar",
+            "tags": [
+              "<mv>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "fill",
+                  "sinonimo": "encher",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "complete",
+                  "sinonimo": "inteirar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "complete",
+                  "sinonimo": "completar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "complete",
+                  "sinonimo": "concluir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "complete",
+                  "sinonimo": "complete",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "fill",
+                  "sinonimo": "fill",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "fill",
+                  "sinonimo": "make_full",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "fill",
+                  "sinonimo": "fill_up",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Rms_titanic",
+          "palavra_canonica": "Rms_titanic",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "completado",
+          "palavra_canonica": "completar",
+          "tags": [
+            "<mv>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "fill",
+                "sinonimo": "encher",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "inteirar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "completar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "fill",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "make_full",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "fill_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "deslocamento",
+              "52310.0"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1",
+              "completar": 10
+            },
+            "best_bind": {
+              "score": 0.8844392,
+              "resource_id": 10,
+              "tr": "completar"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "nome",
+              "rms titanic"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "estado",
+              "naufragado"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1",
+              "completar": 4
+            },
+            "best_bind": {
+              "score": 0.80087423,
+              "resource_id": 4,
+              "tr": "completar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "tipo",
+              "transatlantico"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "classe",
+              "olympic"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1",
+              "completar": 8
+            },
+            "best_bind": {
+              "score": 0.4269373,
+              "resource_id": 8,
+              "tr": "completar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "deslocamento",
+              "52310.0"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1",
+              "completar": 10
+            },
+            "best_bind": {
+              "score": 0.8844392,
+              "resource_id": 10,
+              "tr": "completar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "comprimento",
+              "269 m"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "altura",
+              "53 m"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageexternallink",
+              17
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageexternallink",
+              "index.shtml"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0.2854750575,
+              "resource_id": 16,
+              "tr": "completar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageexternallink",
+              "titanic_page_1.htm"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "depiction",
+              "*rms_titanic_3.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "thumbnail",
+              "*rms_titanic_3.jpg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "navio"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1",
+              "completar": 24
+            },
+            "best_bind": {
+              "score": 0.3193257775,
+              "resource_id": 24,
+              "tr": "completar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:ver_desambig"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:imagem_multipla"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:vt"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:principal"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:dtlink"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:refbegin"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:citar_livro"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:refend"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:en"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:classe_olympic"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:white_star_line"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:maiores_navios_de_passageiros_do_mundo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:artigo_destacado"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rms_titanic",
+              "wikipageusestemplate",
+              "predefinicao:gbr"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rms_titanic"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rms_titanic": {
+                  "keyword": {
+                    "termo": "rms_titanic",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rms_titanic",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "rms_titanic": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 1046896195,
+      "l_sizes": [
+        215,
+        149
+      ],
+      "a_sizes": [
+        215,
+        22038
+      ],
+      "stats": {},
+      "ranking_time_only": 287221703,
+      "total_time": 7488771968,
+      "timeout": false
+    }
+  }
+]

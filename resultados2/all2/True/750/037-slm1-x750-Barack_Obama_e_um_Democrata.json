@@ -1,0 +1,1854 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Barack_Obama",
+          "palavra_canonica": "Barack_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "um",
+          "palavra_canonica": "um",
+          "tags": [
+            "<arti>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Democrata",
+          "palavra_canonica": "Democrata",
+          "tags": [
+            "<inst>",
+            "<newlex>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Barack_Obama",
+          "palavra_canonica": "Barack_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "um",
+          "palavra_canonica": "um",
+          "tags": [
+            "<arti>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Democrata",
+          "palavra_canonica": "Democrata",
+          "tags": [
+            "<inst>",
+            "<newlex>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "eh_um",
+        "confianca": 0.93,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Barack_Obama",
+          "palavra_canonica": "Barack_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Democrata",
+          "palavra_canonica": "Democrata",
+          "tags": [
+            "<inst>",
+            "<newlex>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*eleicao_primaria_do_partido_democrata_de_iowa_em_2012",
+              "candidato",
+              "*barack_obama"
+            ],
+            [
+              "*eleicao_primaria_do_partido_democrata_de_iowa_em_2012",
+              "partido1sigla",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "*eleicao_primaria_do_partido_democrata_de_iowa_em_2012",
+              "presidentetitular",
+              "*barack_obama"
+            ],
+            [
+              "*eleicao_primaria_do_partido_democrata_de_iowa_em_2012",
+              "partido1sigla",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "owl#sameas",
+              59
+            ],
+            [
+              "*democrata",
+              "owl#sameas",
+              59
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*democrata",
+              "owl#sameas",
+              59
+            ],
+            [
+              "*barack_obama",
+              "owl#sameas",
+              59
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "hillary_clinton",
+              "vice",
+              "*barack_obama"
+            ],
+            [
+              "hillary_clinton",
+              "partido",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "hillary_clinton",
+              "partido",
+              "*democrata"
+            ],
+            [
+              "hillary_clinton",
+              "vice",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "hillary_clinton",
+              "partido",
+              "*democrata"
+            ],
+            [
+              "hillary_clinton",
+              "viceleader",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "eleicao_para_o_senado_federal_por_illinois_em_2004",
+              "candidato",
+              "*barack_obama"
+            ],
+            [
+              "eleicao_para_o_senado_federal_por_illinois_em_2004",
+              "partido1sigla",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eleicao_para_o_senado_federal_por_illinois_em_2004",
+              "partido1sigla",
+              "*democrata"
+            ],
+            [
+              "eleicao_para_o_senado_federal_por_illinois_em_2004",
+              "candidato",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "eleicao_para_o_senado_federal_por_illinois_em_2004",
+              "partido1sigla",
+              "*democrata"
+            ],
+            [
+              "eleicao_para_o_senado_federal_por_illinois_em_2004",
+              "senadoreleito",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "eleicao_para_o_senado_federal_por_illinois_em_2004",
+              "senadoreleito",
+              "*barack_obama"
+            ],
+            [
+              "eleicao_para_o_senado_federal_por_illinois_em_2004",
+              "partido1sigla",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_nos_estados_unidos_em_2008",
+              "candidato",
+              "*barack_obama"
+            ],
+            [
+              "eleicao_presidencial_nos_estados_unidos_em_2008",
+              "partido1sigla",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_nos_estados_unidos_em_2008",
+              "partido1sigla",
+              "*democrata"
+            ],
+            [
+              "eleicao_presidencial_nos_estados_unidos_em_2008",
+              "candidato",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_nos_estados_unidos_em_2008",
+              "partido1sigla",
+              "*democrata"
+            ],
+            [
+              "eleicao_presidencial_nos_estados_unidos_em_2008",
+              "presidenteeleito",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_nos_estados_unidos_em_2008",
+              "presidenteeleito",
+              "*barack_obama"
+            ],
+            [
+              "eleicao_presidencial_nos_estados_unidos_em_2008",
+              "partido1sigla",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "candidato",
+              "*barack_obama"
+            ],
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "partido",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "candidato",
+              "*barack_obama"
+            ],
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "partido1sigla",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "partido",
+              "*democrata"
+            ],
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "candidato",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "partido",
+              "*democrata"
+            ],
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "presidenteeleito",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "partido1sigla",
+              "*democrata"
+            ],
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "candidato",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "partido1sigla",
+              "*democrata"
+            ],
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "presidenteeleito",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "presidenteeleito",
+              "*barack_obama"
+            ],
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "partido",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "presidenteeleito",
+              "*barack_obama"
+            ],
+            [
+              "eleicao_presidencial_no_colorado_em_2008",
+              "partido1sigla",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "candidato",
+              "*barack_obama"
+            ],
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "partido",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "candidato",
+              "*barack_obama"
+            ],
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "partido1sigla",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "partido",
+              "*democrata"
+            ],
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "candidato",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "partido",
+              "*democrata"
+            ],
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "presidenteeleito",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "partido1sigla",
+              "*democrata"
+            ],
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "candidato",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "partido1sigla",
+              "*democrata"
+            ],
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "presidenteeleito",
+              "*barack_obama"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "presidenteeleito",
+              "*barack_obama"
+            ],
+            [
+              "eleicao_presidencial_na_carolina_do_norte_em_2008",
+              "partido",
+              "*democrata"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "barack_obama",
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-11",
+              "democrata": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 8753765819,
+      "l_sizes": [
+        6366,
+        748
+      ],
+      "a_sizes": [
+        6366,
+        125526
+      ],
+      "stats": {},
+      "ranking_time_only": 574254934,
+      "total_time": 17325396204,
+      "timeout": false
+    }
+  }
+]
