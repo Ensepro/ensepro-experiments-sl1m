@@ -1,0 +1,2234 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "cidade",
+          "palavra_canonica": "cidade",
+          "tags": [
+            "<Lciv>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Sylvester_Stallone",
+          "palavra_canonica": "Sylvester_Stallone",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "mora",
+          "palavra_canonica": "morar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "As:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:spec",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<rel>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Sylvester_stallone",
+          "palavra_canonica": "Sylvester_stallone",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "mora",
+          "palavra_canonica": "morar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "occupy",
+                "sinonimo": "viver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domiciliar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "povoar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lodge",
+                "sinonimo": "alojar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "morar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "residir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "habitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "populate",
+                "sinonimo": "populate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "shack",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "reside",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "occupy",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domicile",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "live",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domiciliate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "inhabit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lodge",
+                "sinonimo": "lodge",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "lodge_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "dwell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "em_que",
+        "confianca": 0.58,
+        "ids": [
+          3,
+          4
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Sylvester_stallone",
+          "palavra_canonica": "Sylvester_stallone",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "mora",
+          "palavra_canonica": "morar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "occupy",
+                "sinonimo": "viver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domiciliar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "povoar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lodge",
+                "sinonimo": "alojar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "morar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "residir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "habitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "populate",
+                "sinonimo": "populate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "shack",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "reside",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "occupy",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domicile",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "live",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domiciliate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "inhabit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lodge",
+                "sinonimo": "lodge",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "lodge_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "dwell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "criador",
+              "*sylvester_stallone"
+            ],
+            [
+              "rocky_balboa",
+              "*morada",
+              "filadelfia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1",
+              "morada": "-205",
+              "morar": 197
+            },
+            "best_bind": {
+              "score": 0.420843,
+              "resource_id": 197,
+              "tr": "morar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "criador",
+              "*sylvester_stallone"
+            ],
+            [
+              "rocky_balboa",
+              "*morada",
+              "pensilvania"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1",
+              "morada": "-205",
+              "morar": 197
+            },
+            "best_bind": {
+              "score": 0.420843,
+              "resource_id": 197,
+              "tr": "morar"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "interprete",
+              "*sylvester_stallone"
+            ],
+            [
+              "rocky_balboa",
+              "*morada",
+              "filadelfia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1",
+              "morada": "-205"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "interprete",
+              "*sylvester_stallone"
+            ],
+            [
+              "rocky_balboa",
+              "*morada",
+              "pensilvania"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1",
+              "morada": "-205"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "criador",
+              "*sylvester_stallone"
+            ],
+            [
+              "rocky_balboa",
+              "*morada",
+              "filadelfia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1",
+              "morada": "-205",
+              "morar": 197
+            },
+            "best_bind": {
+              "score": 0.420843,
+              "resource_id": 197,
+              "tr": "morar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "criador",
+              "*sylvester_stallone"
+            ],
+            [
+              "rocky_balboa",
+              "*morada",
+              "pensilvania"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1",
+              "morada": "-205",
+              "morar": 197
+            },
+            "best_bind": {
+              "score": 0.420843,
+              "resource_id": 197,
+              "tr": "morar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "portrayer",
+              "*sylvester_stallone"
+            ],
+            [
+              "rocky_balboa",
+              "*morada",
+              "filadelfia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1",
+              "morada": "-205"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "portrayer",
+              "*sylvester_stallone"
+            ],
+            [
+              "rocky_balboa",
+              "*morada",
+              "pensilvania"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1",
+              "morada": "-205"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "*morada",
+              "filadelfia"
+            ],
+            [
+              "rocky_balboa",
+              "interprete",
+              "*sylvester_stallone"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "morada",
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "*morada",
+              "filadelfia"
+            ],
+            [
+              "rocky_balboa",
+              "criador",
+              "*sylvester_stallone"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "morada",
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "*morada",
+              "filadelfia"
+            ],
+            [
+              "rocky_balboa",
+              "portrayer",
+              "*sylvester_stallone"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "morada",
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "*morada",
+              "pensilvania"
+            ],
+            [
+              "rocky_balboa",
+              "interprete",
+              "*sylvester_stallone"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "morada",
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "*morada",
+              "pensilvania"
+            ],
+            [
+              "rocky_balboa",
+              "criador",
+              "*sylvester_stallone"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "morada",
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "rocky_balboa",
+              "*morada",
+              "pensilvania"
+            ],
+            [
+              "rocky_balboa",
+              "portrayer",
+              "*sylvester_stallone"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "morada",
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "sherlock_holmes",
+              "*morada",
+              "221"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "hercule_poirot",
+              "*morada",
+              "whitehaven mansions, londres"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "franjinha",
+              "*morada",
+              "bairro do limoeiro. , perto dos outros personagens da turma da monica."
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "luca_(personagem)",
+              "*morada",
+              "bairro do limoeiro, perto dos outros personagens da turma da monica."
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "miss_marple",
+              "*morada",
+              "st._mary_mead"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "miss_marple",
+              "*morada",
+              "inglaterra"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "godzilla",
+              "*morada",
+              "oceanos"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "capitao_gancho",
+              "*morada",
+              "terra do nunca"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "herbie",
+              "*morada",
+              "california,"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "vito_corleone",
+              "*morada",
+              "corleone, sicilia( )"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "vito_corleone",
+              "*morada",
+              "nova york, ny( )"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "capitu",
+              "*morada",
+              "rua_do_riachuelo"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "capitu",
+              "*morada",
+              "rio_de_janeiro_(cidade)"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "capitu",
+              "*morada",
+              "ficheiro:flag_of_empire_of_brazil_(1870_1889).svg"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "capitu",
+              "*morada",
+              "imperio_do_brasil"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "marty_mcfly",
+              "*morada",
+              "hill_valley"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "marty_mcfly",
+              "*morada",
+              "california"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ],
+            [
+              "*sylvester_stallone",
+              "ocupacao",
+              "ator, cineasta, roteirista e diretor"
+            ],
+            [
+              "roberto_nascimento",
+              "*morada",
+              "rio de janeiro,"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone",
+              "morada"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                },
+                "morada": {
+                  "keyword": {
+                    "termo": "morada",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morada",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 38103380987,
+      "l_sizes": [
+        914,
+        298,
+        298
+      ],
+      "a_sizes": [
+        914,
+        42446,
+        26197776
+      ],
+      "stats": {},
+      "ranking_time_only": 30423657007,
+      "total_time": 44700477921,
+      "timeout": false
+    }
+  }
+]

@@ -1,0 +1,5148 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Com",
+          "palavra_canonica": "com",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:spec",
+          "palavra_original": "quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Lance_Bass",
+          "palavra_canonica": "Lance_Bass",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "casou-",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<fmc>",
+            "<hyfen>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Od:pron-pers",
+          "palavra_original": "se",
+          "palavra_canonica": "se",
+          "tags": [
+            "<pass>",
+            "M/F",
+            "3S",
+            "ACC"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Com",
+          "palavra_canonica": "com",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:spec",
+          "palavra_original": "quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Lance_Bass",
+          "palavra_canonica": "Lance_Bass",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "casou-",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<fmc>",
+            "<hyfen>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "marry",
+                "sinonimo": "casar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "juntar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casarem-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "acoplar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "marry",
+                "sinonimo": "hook_up_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "conjoin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "match",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_married",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "mate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "splice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "twin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "pair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "espouse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_hitched_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "couple",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Od:pron-pers",
+          "palavra_original": "se",
+          "palavra_canonica": "se",
+          "tags": [
+            "<pass>",
+            "M/F",
+            "3S",
+            "ACC"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.83,
+        "ids": [
+          4
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Lance_Bass",
+          "palavra_canonica": "Lance_Bass",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "casou-",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<fmc>",
+            "<hyfen>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "marry",
+                "sinonimo": "casar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "juntar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casarem-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "acoplar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "marry",
+                "sinonimo": "hook_up_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "conjoin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "match",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_married",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "mate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "splice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "twin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "pair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "espouse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_hitched_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "couple",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "joseph_goebbels",
+              "*conjuge",
+              "magda_goebbels"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "john_maynard_keynes",
+              "*conjuge",
+              "lydia_lopokova"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "marie_curie",
+              "*conjuge",
+              "pierre_curie"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "machado_de_assis",
+              "*conjuge",
+              "carolina_augusta_xavier_de_novais"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "jose_serra",
+              "*conjuge",
+              "monica serra"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "marta_suplicy",
+              "*conjuge",
+              "eduardo suplicy"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "marta_suplicy",
+              "*conjuge",
+              "luis favre"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "marta_suplicy",
+              "*conjuge",
+              "marcio toledo"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "antoine_lavoisier",
+              "*conjuge",
+              "marie_anne_pierrette_paulze"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "karl_benz",
+              "*conjuge",
+              "bertha_benz"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "steven_weinberg",
+              "*conjuge",
+              "louise_weinberg"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "jose_alencar",
+              "*conjuge",
+              "mariza_campos_gomes_da_silva"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "fritz_haber",
+              "*conjuge",
+              "clara_immerwahr"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "miguel_torga",
+              "*conjuge",
+              "andree_crabbe_rocha"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "honore_de_balzac",
+              "*conjuge",
+              "ewelina_hanska"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "rosalia_de_castro",
+              "*conjuge",
+              "manuel_murguia"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "eva_peron",
+              "*conjuge",
+              "juan domingo peron"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "eduardo_suplicy",
+              "*conjuge",
+              "marta_suplicy"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "henri_bergson",
+              "*conjuge",
+              "louise neuberger, prima de marcel proust"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "rudolph_giuliani",
+              "*conjuge",
+              "judith giuliani"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "ciro_gomes",
+              "*conjuge",
+              "patricia_saboya"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "ciro_gomes",
+              "*conjuge",
+              "patricia pillar"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "roseana_sarney",
+              "*conjuge",
+              "jorge_murad_junior"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "angela_merkel",
+              "*conjuge",
+              "ulrich merkel"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "angela_merkel",
+              "*conjuge",
+              "joachim sauer"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "clive_staples_lewis",
+              "*conjuge",
+              "joy davidman"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "patricia_saboya",
+              "*conjuge",
+              "ciro_gomes"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "anthony_garotinho",
+              "*conjuge",
+              "rosinha_garotinho"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "celso_daniel",
+              "*conjuge",
+              "miriam_belchior"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "gerty_cori",
+              "*conjuge",
+              "carl_ferdinand_cori"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "joseph_goebbels",
+              "*conjuge",
+              "magda_goebbels"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "john_maynard_keynes",
+              "*conjuge",
+              "lydia_lopokova"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "marie_curie",
+              "*conjuge",
+              "pierre_curie"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "machado_de_assis",
+              "*conjuge",
+              "carolina_augusta_xavier_de_novais"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "jose_serra",
+              "*conjuge",
+              "monica serra"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "marta_suplicy",
+              "*conjuge",
+              "eduardo suplicy"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "marta_suplicy",
+              "*conjuge",
+              "luis favre"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "marta_suplicy",
+              "*conjuge",
+              "marcio toledo"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "antoine_lavoisier",
+              "*conjuge",
+              "marie_anne_pierrette_paulze"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "karl_benz",
+              "*conjuge",
+              "bertha_benz"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "steven_weinberg",
+              "*conjuge",
+              "louise_weinberg"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "jose_alencar",
+              "*conjuge",
+              "mariza_campos_gomes_da_silva"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "fritz_haber",
+              "*conjuge",
+              "clara_immerwahr"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "miguel_torga",
+              "*conjuge",
+              "andree_crabbe_rocha"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "honore_de_balzac",
+              "*conjuge",
+              "ewelina_hanska"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "rosalia_de_castro",
+              "*conjuge",
+              "manuel_murguia"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "eva_peron",
+              "*conjuge",
+              "juan domingo peron"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "eduardo_suplicy",
+              "*conjuge",
+              "marta_suplicy"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "henri_bergson",
+              "*conjuge",
+              "louise neuberger, prima de marcel proust"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "rudolph_giuliani",
+              "*conjuge",
+              "judith giuliani"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "ciro_gomes",
+              "*conjuge",
+              "patricia_saboya"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "ciro_gomes",
+              "*conjuge",
+              "patricia pillar"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "roseana_sarney",
+              "*conjuge",
+              "jorge_murad_junior"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "angela_merkel",
+              "*conjuge",
+              "ulrich merkel"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "angela_merkel",
+              "*conjuge",
+              "joachim sauer"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "clive_staples_lewis",
+              "*conjuge",
+              "joy davidman"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "patricia_saboya",
+              "*conjuge",
+              "ciro_gomes"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "anthony_garotinho",
+              "*conjuge",
+              "rosinha_garotinho"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "celso_daniel",
+              "*conjuge",
+              "miriam_belchior"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ],
+            [
+              "gerty_cori",
+              "*conjuge",
+              "carl_ferdinand_cori"
+            ],
+            [
+              "kofi_annan",
+              "*casamento",
+              "1"
+            ]
+          ],
+          "score": 15.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass",
+              "conjuge",
+              "casamento"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                },
+                "conjuge": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "conjuge",
+                  "score": 2.0
+                },
+                "casamento": {
+                  "keyword": {
+                    "termo": "casamento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "casamento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1",
+              "conjuge": "-122",
+              "casamento": "-439",
+              "casar": -439
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -439,
+              "tr": "casar"
+            }
+          }
+        }
+      ],
+      "ranking_time": 37501318511,
+      "l_sizes": [
+        1154,
+        300,
+        300
+      ],
+      "a_sizes": [
+        1154,
+        8122,
+        26730600
+      ],
+      "stats": {},
+      "ranking_time_only": 32415679039,
+      "total_time": 44123956108,
+      "timeout": false
+    }
+  }
+]
