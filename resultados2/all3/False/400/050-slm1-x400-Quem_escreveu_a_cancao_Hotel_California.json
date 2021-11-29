@@ -1,0 +1,2868 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "canção",
+          "palavra_canonica": "canção",
+          "tags": [
+            "<sem-l>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Hotel_California",
+          "palavra_canonica": "Hotel_California",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<rel>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "soletrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "indite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Hotel_california",
+          "palavra_canonica": "Hotel_california",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.78,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "soletrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "indite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Hotel_california",
+          "palavra_canonica": "Hotel_california",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "animal_crossing",
+              "*escritor",
+              "nate_bihldorff"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "half_life",
+              "*escritor",
+              "marc_laidlaw"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "final_fantasy_vii",
+              "*escritor",
+              "kazushige_nojima"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "banjo_kazooie",
+              "*escritor",
+              "steve_mayles"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "final_fantasy_x_2",
+              "*escritor",
+              "kazushige_nojima"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "resident_evil_2",
+              "*escritor",
+              "noboru_sugimura"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "final_fantasy_viii",
+              "*escritor",
+              "kazushige_nojima"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "animal_crossing",
+              "*escritor",
+              "makoto wada"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "animal_crossing",
+              "*escritor",
+              "kenshirou ueda"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "animal_crossing",
+              "*escritor",
+              "kunio watanabe"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "animal_crossing",
+              "*escritor",
+              "nate_bihldorff"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "animal_crossing",
+              "*escritor",
+              "rich amtower"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "metal_gear_solid",
+              "*escritor",
+              "hideo kojima"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "metal_gear_solid",
+              "*escritor",
+              "tomokazu fukushima"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "resident_evil_4",
+              "*escritor",
+              "shinji mikami"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "resident_evil_4",
+              "*escritor",
+              "haruo murata"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "half_life",
+              "*escritor",
+              "marc_laidlaw"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "grand_theft_auto:_san_andreas",
+              "*escritor",
+              "dan_houser"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "grand_theft_auto:_san_andreas",
+              "*escritor",
+              "james worrall"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "grand_theft_auto:_san_andreas",
+              "*escritor",
+              "dj_pooh"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "final_fantasy_vii",
+              "*escritor",
+              "kazushige_nojima"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "final_fantasy_vii",
+              "*escritor",
+              "yoshinori kitase"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "banjo_kazooie",
+              "*escritor",
+              "steve_mayles"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "banjo_kazooie",
+              "*escritor",
+              "ed bryan"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "final_fantasy_x_2",
+              "*escritor",
+              "kazushige_nojima"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "final_fantasy_x_2",
+              "*escritor",
+              "daisuke watanabe"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "metal_gear_solid_3:_snake_eater",
+              "*escritor",
+              "hideo kojima"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "metal_gear_solid_3:_snake_eater",
+              "*escritor",
+              "tomokazu fukushima"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "metal_gear_solid_3:_snake_eater",
+              "*escritor",
+              "shuyo murata"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "resident_evil_2",
+              "*escritor",
+              "noboru_sugimura"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "the_legend_of_zelda:_the_wind_waker",
+              "*escritor",
+              "mitsuhiro takano"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "the_legend_of_zelda:_the_wind_waker",
+              "*escritor",
+              "hajime takahashi"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "the_legend_of_zelda:_the_wind_waker",
+              "*escritor",
+              "eiji aonuma"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "final_fantasy_viii",
+              "*escritor",
+              "kazushige_nojima"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": -109
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -109,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "final_fantasy_(jogo_eletronico)",
+              "*escritor",
+              "hironobu sakaguchi"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "final_fantasy_(jogo_eletronico)",
+              "*escritor",
+              "kenji terada"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ],
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ],
+            [
+              "final_fantasy_iv",
+              "*escritor",
+              "takashi tokita"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "hotel_california",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escritor": "-109",
+              "escrever": 2
+            },
+            "best_bind": {
+              "score": 0.34388572,
+              "resource_id": 2,
+              "tr": "escrever"
+            }
+          }
+        }
+      ],
+      "ranking_time": 15599786137,
+      "l_sizes": [
+        10061,
+        397,
+        79
+      ],
+      "a_sizes": [
+        10061,
+        7002,
+        12357180
+      ],
+      "stats": {},
+      "ranking_time_only": 13691855211,
+      "total_time": 23021585481,
+      "timeout": false
+    }
+  }
+]

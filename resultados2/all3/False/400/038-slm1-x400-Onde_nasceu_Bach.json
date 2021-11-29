@@ -1,0 +1,2628 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Onde",
+          "palavra_canonica": "onde",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Bach",
+          "palavra_canonica": "Bach",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Onde",
+          "palavra_canonica": "onde",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "be_born",
+                "sinonimo": "vir_ao_mundo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "be_born",
+                "sinonimo": "nascer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "be_born",
+                "sinonimo": "be_born",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Johann_sebastian_bach",
+          "palavra_canonica": "Johann_sebastian_bach",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "onde",
+        "confianca": 0.9,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "be_born",
+                "sinonimo": "vir_ao_mundo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "be_born",
+                "sinonimo": "nascer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "be_born",
+                "sinonimo": "be_born",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Johann_sebastian_bach",
+          "palavra_canonica": "Johann_sebastian_bach",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "tony_trischka",
+              "*nascimento",
+              "30"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "john_hartford",
+              "*nascimento",
+              "30"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "rose_dougall",
+              "*nascimento",
+              "dartford"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "antoninho_lopes",
+              "*nascimento",
+              "20"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "emily_fields",
+              "*nascimento",
+              "19"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "jesse_harris",
+              "*nascimento",
+              "1969"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "paul_millander",
+              "*nascimento",
+              "17"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "ariane_moffatt",
+              "*nascimento",
+              "1976-04-26"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "toumani_diabate",
+              "*nascimento",
+              "agosto de 1965 10/08/1965"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "eduardo_agni",
+              "*nascimento",
+              "1966-03-25"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "jose_boaventura_sa_rosa",
+              "*nascimento",
+              "1955-12-17"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "reginald_arvizu",
+              "*nascimento",
+              "1969-11-02"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "doki",
+              "*nascimento",
+              "2003-02-15"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "ricky_skaggs",
+              "*nascimento",
+              "1954-07-18"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "earl_scruggs",
+              "*nascimento",
+              "1924-01-06"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "paul_overstreet",
+              "*nascimento",
+              "1955-03-17"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "lester_flatt",
+              "*nascimento",
+              "1914-06-19"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "charles_chikenfood",
+              "*nascimento",
+              "1954-04-03"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "jorge_de_altinho",
+              "*nascimento",
+              "1956-06-03"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "*julio_nascimento",
+              "*nascimento",
+              "1974-11-22"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "maura_isles",
+              "*nascimento",
+              "1976-08-07"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "tony_trischka",
+              "*nascimento",
+              "30"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "ralph_stanley",
+              "*nascimento",
+              "1927-02-25"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "mauro_senise",
+              "*nascimento",
+              "1950-05-18"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "tony_babalu",
+              "*nascimento",
+              "1953-12-29"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "roberto_espinola",
+              "*nascimento",
+              "1972-12-18"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "daniel_catarino",
+              "*nascimento",
+              "1983-07-13"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "john_hartford",
+              "*nascimento",
+              "30"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "rose_dougall",
+              "*nascimento",
+              "dartford"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "antoninho_lopes",
+              "*nascimento",
+              "20"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "maria_tanase",
+              "*nascimento",
+              "bucareste, romenia"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "emily_fields",
+              "*nascimento",
+              "19"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "jesse_harris",
+              "*nascimento",
+              "1969"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "paul_millander",
+              "*nascimento",
+              "17"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311",
+              "nascer": -311
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -311,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "joao_vladimir",
+              "*nascimento",
+              "c."
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "jairinho_manhaes",
+              "*nascimento",
+              "13"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nome",
+              "johann sebastian bach"
+            ],
+            [
+              "*johann_sebastian_bach",
+              "legenda",
+              "retrato de 1748 pintado por elias gottlob haussmann"
+            ],
+            [
+              "bernardo_i_de_la_marche",
+              "*nascimento",
+              "c."
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach",
+              "nascimento"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "nascimento": {
+                  "keyword": {
+                    "termo": "nascimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimento",
+                  "score": 2.0
+                },
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascimento": "-311"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 67874155001,
+      "l_sizes": [
+        3861,
+        400,
+        250
+      ],
+      "a_sizes": [
+        3861,
+        63802,
+        39700500
+      ],
+      "stats": {},
+      "ranking_time_only": 57880331848,
+      "total_time": 74590326527,
+      "timeout": false
+    }
+  }
+]
