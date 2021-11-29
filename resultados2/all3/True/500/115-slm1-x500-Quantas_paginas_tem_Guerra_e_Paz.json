@@ -1,0 +1,460 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantas",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "páginas",
+          "palavra_canonica": "página",
+          "tags": [
+            "<cc-r>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "tem",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Guerra",
+          "palavra_canonica": "Guerra",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-Od>",
+            "<occ>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "CO:conj-c",
+          "palavra_original": "e",
+          "palavra_canonica": "e",
+          "tags": [
+            "<co-acc>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Paz",
+          "palavra_canonica": "Paz",
+          "tags": [
+            "<cjt-Od>",
+            "<genre>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantas",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "páginas",
+          "palavra_canonica": "página",
+          "tags": [
+            "<cc-r>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "web_page",
+                "sinonimo": "página_web",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "escudeiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "página",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "lauda",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "web_page",
+                "sinonimo": "Página_Web",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "web_page",
+                "sinonimo": "webpage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "page",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "web_page",
+                "sinonimo": "web_page",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "tem",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Guerra",
+          "palavra_canonica": "Guerra",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-Od>",
+            "<occ>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "CO:conj-c",
+          "palavra_original": "e",
+          "palavra_canonica": "e",
+          "tags": [
+            "<co-acc>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Paz",
+          "palavra_canonica": "Paz",
+          "tags": [
+            "<cjt-Od>",
+            "<genre>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.95,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "páginas",
+          "palavra_canonica": "página",
+          "tags": [
+            "<cc-r>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "web_page",
+                "sinonimo": "página_web",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "escudeiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "página",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "lauda",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "web_page",
+                "sinonimo": "Página_Web",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "web_page",
+                "sinonimo": "webpage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "page",
+                "sinonimo": "page",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "web_page",
+                "sinonimo": "web_page",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Guerra",
+          "palavra_canonica": "Guerra",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-Od>",
+            "<occ>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Paz",
+          "palavra_canonica": "Paz",
+          "tags": [
+            "<cjt-Od>",
+            "<genre>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "ranking_time": 135954191447,
+      "l_sizes": [],
+      "a_sizes": [],
+      "stats": {
+        "exception": "Timeout",
+        "outOutMemory": false,
+        "detail": "Timeout"
+      },
+      "ranking_time_only": 0,
+      "total_time": 145711988554,
+      "timeout": false
+    }
+  }
+]

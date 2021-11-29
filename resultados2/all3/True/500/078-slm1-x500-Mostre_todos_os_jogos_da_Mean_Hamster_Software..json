@@ -1,0 +1,815 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Mostre",
+          "palavra_canonica": "mostrar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "jogos",
+          "palavra_canonica": "jogo",
+          "tags": [
+            "<activity>",
+            "<occ>",
+            "<cc-h>",
+            "<game>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Mean_Hamster_Software",
+          "palavra_canonica": "Mean_Hamster_Software",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": ".",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Mostre",
+          "palavra_canonica": "mostrar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "jogos",
+          "palavra_canonica": "jogo",
+          "tags": [
+            "<activity>",
+            "<occ>",
+            "<cc-h>",
+            "<game>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "turn",
+                "sinonimo": "jogo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "jogos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "set",
+                "sinonimo": "grupo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "competição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "certame",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "vez",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "passatempo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "concurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "partida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "entreterimento",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "torneio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pastime",
+                "sinonimo": "interest",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "contest",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "round",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "pastime",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "pursuit",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "child's_play",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "game",
+                "sinonimo": "game",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "turn",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "set",
+                "sinonimo": "set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "bout",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "competition",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Mean_Hamster_Software",
+          "palavra_canonica": "Mean_Hamster_Software",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": ".",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [P:v-fin|2| Mostre] [ Od:np|3| [DN:pron-indef|4| todos_os] [H:n|5| jogos] [ DN:pp|6| [H:prp|7| de] [ DP:np|8| [DN:art|9| a] [H:prop|10| Mean_Hamster_Software] ] ] ] [.|11|  ] ] ]",
+      "tipo": {
+        "tipo": "consulta",
+        "confianca": 0.72,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "jogos",
+          "palavra_canonica": "jogo",
+          "tags": [
+            "<activity>",
+            "<occ>",
+            "<cc-h>",
+            "<game>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "turn",
+                "sinonimo": "jogo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "jogos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "set",
+                "sinonimo": "grupo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "competição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "certame",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "vez",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "passatempo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "concurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "partida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "entreterimento",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "torneio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pastime",
+                "sinonimo": "interest",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "contest",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "round",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "pastime",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "pursuit",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "child's_play",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "game",
+                "sinonimo": "game",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "turn",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "set",
+                "sinonimo": "set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "bout",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "competition",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Mean_Hamster_Software",
+          "palavra_canonica": "Mean_Hamster_Software",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "jogos",
+            "palavra_canonica": "jogo",
+            "tags": [
+              "<activity>",
+              "<occ>",
+              "<cc-h>",
+              "<game>",
+              "M",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "turn",
+                  "sinonimo": "jogo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "jogos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "set",
+                  "sinonimo": "grupo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "competição",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "certame",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "vez",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "passatempo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "concurso",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "partida",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "entreterimento",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "torneio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "pastime",
+                  "sinonimo": "interest",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "contest",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "round",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "pastime",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "pursuit",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "child's_play",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "game",
+                  "sinonimo": "game",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "turn",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "set",
+                  "sinonimo": "set",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "bout",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "play",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "competition",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 10,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Mean_Hamster_Software",
+            "palavra_canonica": "Mean_Hamster_Software",
+            "tags": [
+              "<org>",
+              "<*>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "ranking_time": 136165426690,
+      "l_sizes": [],
+      "a_sizes": [],
+      "stats": {
+        "exception": "Timeout",
+        "outOutMemory": false,
+        "detail": "Timeout"
+      },
+      "ranking_time_only": 0,
+      "total_time": 144303066329,
+      "timeout": false
+    }
+  }
+]
