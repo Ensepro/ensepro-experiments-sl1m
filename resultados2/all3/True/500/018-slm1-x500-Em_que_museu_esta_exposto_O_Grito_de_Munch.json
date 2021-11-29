@@ -1,0 +1,701 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "museu",
+          "palavra_canonica": "museu",
+          "tags": [
+            "<inst>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:v-pcp",
+          "palavra_original": "exposto",
+          "palavra_canonica": "expor",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "O_Grito_de_Munch",
+          "palavra_canonica": "O_Grito_de_Munch",
+          "tags": [
+            "<top>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "museu",
+          "palavra_canonica": "museu",
+          "tags": [
+            "<inst>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "museum",
+                "sinonimo": "museus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "museum",
+                "sinonimo": "museu",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "museum",
+                "sinonimo": "museum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:v-pcp",
+          "palavra_original": "exposto",
+          "palavra_canonica": "expor",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "expose",
+                "sinonimo": "exibir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "mostrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "apresentar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "expor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "formar_em_parada",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "expose",
+                "sinonimo": "display",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "exhibit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "expose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "O_grito",
+          "palavra_canonica": "O_grito",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Edvard_munch",
+          "palavra_canonica": "Edvard_munch",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [ fA:pp|2| [H:prp|3| Em] [ DP:np|4| [DN:pron-int|5| que] [H:n|6| museu] ] ] [P:v-fin|7| está] [ Cs:np|8| [H:v-pcp|9| exposto] [ DN:np|10| [H:prop|11| O_grito] [ DN:pp|12| [H:prp|13| de] [DP:prop|14| Edvard_munch] ] ] ] ] ]",
+      "tipo": {
+        "tipo": "em_que",
+        "confianca": 0.85,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 7,
+            "tag_inicial": "P:v-fin",
+            "palavra_original": "está",
+            "palavra_canonica": "estar",
+            "tags": [
+              "<fmc>",
+              "<vK>",
+              "<mv>",
+              "PR",
+              "3S",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 1,
+            "sinonimos": null
+          },
+          {
+            "id": 9,
+            "tag_inicial": "H:v-pcp",
+            "palavra_original": "exposto",
+            "palavra_canonica": "expor",
+            "tags": [
+              "<n>",
+              "<vH>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "expose",
+                  "sinonimo": "exibir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "mostrar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "apresentar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "expor",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "formar_em_parada",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "expose",
+                  "sinonimo": "display",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "exhibit",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "expose",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "museu",
+          "palavra_canonica": "museu",
+          "tags": [
+            "<inst>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "museum",
+                "sinonimo": "museus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "museum",
+                "sinonimo": "museu",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "museum",
+                "sinonimo": "museum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:v-pcp",
+          "palavra_original": "exposto",
+          "palavra_canonica": "expor",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "expose",
+                "sinonimo": "exibir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "mostrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "apresentar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "expor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "formar_em_parada",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "expose",
+                "sinonimo": "display",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "exhibit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "expose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "O_grito",
+          "palavra_canonica": "O_grito",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 14,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Edvard_munch",
+          "palavra_canonica": "Edvard_munch",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 11,
+            "tag_inicial": "H:prop",
+            "palavra_original": "O_grito",
+            "palavra_canonica": "O_grito",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "<heur>",
+              "<np-close>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          },
+          "complemento": {
+            "id": 14,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Edvard_munch",
+            "palavra_canonica": "Edvard_munch",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "<heur>",
+              "<foreign>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "ranking_time": 150742710129,
+      "l_sizes": [],
+      "a_sizes": [],
+      "stats": {
+        "exception": "Timeout",
+        "outOutMemory": false,
+        "detail": "Timeout"
+      },
+      "ranking_time_only": 0,
+      "total_time": 159866686388,
+      "timeout": false
+    }
+  }
+]

@@ -1,0 +1,829 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "montanha",
+          "palavra_canonica": "montanha",
+          "tags": [
+            "<cjt-X>",
+            "<Ltop>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adjp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DA:adv",
+          "palavra_original": "mais",
+          "palavra_canonica": "mais",
+          "tags": [
+            "<quant>",
+            "<KOMP>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:adj",
+          "palavra_original": "alta",
+          "palavra_canonica": "alto",
+          "tags": [
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Austrália",
+          "palavra_canonica": "Austrália",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "montanha",
+          "palavra_canonica": "montanha",
+          "tags": [
+            "<cjt-X>",
+            "<Ltop>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "hill",
+                "sinonimo": "colina",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "chegarterra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "Montanhas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "barranco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "montanhas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "morro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "Morros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "ladeira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "monte",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "colinas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "montanha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "mountain",
+                "sinonimo": "mount",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "hill",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "mountain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adjp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DA:adv",
+          "palavra_original": "mais",
+          "palavra_canonica": "mais",
+          "tags": [
+            "<quant>",
+            "<KOMP>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:adj",
+          "palavra_original": "alta",
+          "palavra_canonica": "alto",
+          "tags": [
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Austrália",
+          "palavra_canonica": "Austrália",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ X:par|1| [CJT:pron-int|2| Qual] [ CJT:np|3| [DN:art|4| a] [H:n|5| montanha] [ DN:adjp|6| [DA:adv|7| mais] [H:adj|8| alta] ] [ DN:pp|9| [H:prp|10| de] [ DP:np|11| [DN:art|12| a] [H:prop|13| Austrália] ] ] ] [?|14|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.64,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "montanha",
+          "palavra_canonica": "montanha",
+          "tags": [
+            "<cjt-X>",
+            "<Ltop>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "hill",
+                "sinonimo": "colina",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "chegarterra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "Montanhas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "barranco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "montanhas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "morro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "Morros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "ladeira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "monte",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "colinas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "montanha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "mountain",
+                "sinonimo": "mount",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "hill",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "mountain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Austrália",
+          "palavra_canonica": "Austrália",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "montanha",
+            "palavra_canonica": "montanha",
+            "tags": [
+              "<cjt-X>",
+              "<Ltop>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "hill",
+                  "sinonimo": "colina",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "chegarterra",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "Montanhas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "barranco",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "montanhas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "morro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "Morros",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "ladeira",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "monte",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "colinas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "montanha",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "mountain",
+                  "sinonimo": "mount",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "hill",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "mountain",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 8,
+            "tag_inicial": "H:adj",
+            "palavra_original": "alta",
+            "palavra_canonica": "alto",
+            "tags": [
+              "<np-close>",
+              "F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "montanha",
+            "palavra_canonica": "montanha",
+            "tags": [
+              "<cjt-X>",
+              "<Ltop>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "hill",
+                  "sinonimo": "colina",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "chegarterra",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "Montanhas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "barranco",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "montanhas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "morro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "Morros",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "ladeira",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "monte",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "colinas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "montanha",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "mountain",
+                  "sinonimo": "mount",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "hill",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "mountain",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 13,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Austrália",
+            "palavra_canonica": "Austrália",
+            "tags": [
+              "<civ>",
+              "<*>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "ranking_time": 138151630170,
+      "l_sizes": [],
+      "a_sizes": [],
+      "stats": {
+        "exception": "Timeout",
+        "outOutMemory": false,
+        "detail": "Timeout"
+      },
+      "ranking_time_only": 0,
+      "total_time": 146214777106,
+      "timeout": false
+    }
+  }
+]
