@@ -39,7 +39,7 @@ def execEnsepro(type, file_config, jar, size=0, slm1_only_l1=False):
 
         final_command = base_command + params_command.format(frase=frase, filename=path + filename)
 
-        timeout_seconds = 300
+        timeout_seconds = 150
         timeout = False
         start = time.time_ns()
         try:

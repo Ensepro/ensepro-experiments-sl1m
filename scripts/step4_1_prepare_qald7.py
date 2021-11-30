@@ -70,15 +70,5 @@ for question in qald7["questions"]:
     analised["answer_size"] = len(answers)
     analised_qald7.append(analised)
 
-    """
-    {
-    "question": ""
-    "answer_size": 1
-    "is_boolean": True/False
-    "answers":[
-    ]
-    }
-    
-    """
 
 save_as_json(analised_qald7, "../phrases/analised_qald7.json")

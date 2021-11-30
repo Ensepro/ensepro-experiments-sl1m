@@ -34,8 +34,15 @@ metrics = [
     "Precision per question",
     "F1 score per question",
 ]
-types = ["base", "slm1", "slm1n"]
-sizes = ['10', '30', '50', '75', '100', '150', '200', '300', '400', '500', '750', '1000']
+
+allxtypes = []
+sl1mtypes = ["slm1", "slm1n"]
+types = ["base"]
+types = types + sl1mtypes
+for allxtype in allxtypes:
+    for sl1mtype in sl1mtypes:
+        types.append(allxtype + sl1mtype)
+sizes = ['10', '30', '50', '75', '100', '150', '200', '300', '400', '500']
 headers = []
 # headers.append("GOLD")
 

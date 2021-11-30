@@ -21,7 +21,7 @@ def initialize_if_empty(var, index, default):
 
 
 google_sheets_max_precision = 10
-analyses = load_json("../analyses/analysis_map.json")
+analyses = load_json("../analyses/base_sl1m/analysis_map.json")
 rt = {}
 rto = {}
 tt = {}
@@ -29,8 +29,17 @@ ca = {}
 ls1 = {}
 ls2 = {}
 
-types = ["base", "slm1", "sl1mn"]
-sizes = ['10', '30', '50', '75', '100', '150', '200', '300', '400', '500', '750', '1000']
+allxtypes = []
+sl1mtypes = ["slm1", "slm1n"]
+types_no_base = list(sl1mtypes)
+types = ["base"]
+types = types + sl1mtypes
+for allxtype in allxtypes:
+    for sl1mtype in sl1mtypes:
+        types_no_base.append(allxtype + sl1mtype)
+        types.append(allxtype + sl1mtype)
+
+sizes = ['10', '30', '50', '75', '100', '150', '200', '300', '400', '500']
 header = pandas.MultiIndex.from_product([types, sizes])
 
 phrases = []
@@ -86,24 +95,29 @@ for question in analyses:
         ls5_cols.append("remove column")
         ls6_cols.append("remove column")
     in_order = []
-    for type in analyses[question]:
-        if type != "frase" and type != "base":
-            in_order.append(int(type))
+    for size in analyses[question]:
+        if size != "frase" and size != "base":
+            in_order.append(int(size))
 
     in_order.sort()
-    for type in in_order:
-        for subtype in analyses[question][str(type)]:
-            rt_cols.append(analyses[question][str(type)][subtype].get("ranking_time"))
-            rto_cols.append(analyses[question][str(type)][subtype].get("ranking_time_only"))
-            tt_cols.append(analyses[question][str(type)][subtype].get("total_time"))
-            ca_cols.append(analyses[question][str(type)][subtype].get("has_answer"))
-            az_cols.append(analyses[question][str(type)][subtype].get("answer_size"))
-            ls1_cols.append(analyses[question][str(type)][subtype].get("l1size", -1))
-            ls2_cols.append(analyses[question][str(type)][subtype].get("l2size", -1))
-            ls3_cols.append(analyses[question][str(type)][subtype].get("l3size", -1))
-            ls4_cols.append(analyses[question][str(type)][subtype].get("l4size", -1))
-            ls5_cols.append(analyses[question][str(type)][subtype].get("l5size", -1))
-            ls6_cols.append(analyses[question][str(type)][subtype].get("l6size", -1))
+    for size in in_order:
+        for type in types_no_base:
+            # for type in analyses[question][str(size)]:
+            print(question, size, type)
+            # if analyses[question][str(size)][type].get("ranking_time_only") == -1:
+            #     print(question, size, type)
+
+            rt_cols.append(analyses[question][str(size)][type].get("ranking_time"))
+            rto_cols.append(analyses[question][str(size)][type].get("ranking_time_only"))
+            tt_cols.append(analyses[question][str(size)][type].get("total_time"))
+            ca_cols.append(analyses[question][str(size)][type].get("has_answer"))
+            az_cols.append(analyses[question][str(size)][type].get("answer_size"))
+            ls1_cols.append(analyses[question][str(size)][type].get("l1size", -1))
+            ls2_cols.append(analyses[question][str(size)][type].get("l2size", -1))
+            ls3_cols.append(analyses[question][str(size)][type].get("l3size", -1))
+            ls4_cols.append(analyses[question][str(size)][type].get("l4size", -1))
+            ls5_cols.append(analyses[question][str(size)][type].get("l5size", -1))
+            ls6_cols.append(analyses[question][str(size)][type].get("l6size", -1))
 
     rt_rows.append(rt_cols)
     rto_rows.append(rto_cols)
@@ -173,6 +187,6 @@ for table in tables:
         # columns=header)
         # df.replace(False, 0, inplace=True)
         # df.replace(True, 1, inplace=True)
-        df.to_csv("../analyses/csv/" + table["name"] + ".csv")
+        df.to_csv("../analyses/base_sl1m/csv/" + table["name"] + ".csv", sep=";")
     except Exception as n:
         print(table["name"], n)
