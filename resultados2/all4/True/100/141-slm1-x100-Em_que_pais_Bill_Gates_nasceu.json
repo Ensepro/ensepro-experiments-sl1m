@@ -1,0 +1,307 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "país",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Bill_Gates",
+          "palavra_canonica": "Bill_Gates",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:spec",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<rel>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Bill_gates",
+          "palavra_canonica": "Bill_gates",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "be_born",
+                "sinonimo": "vir_ao_mundo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "be_born",
+                "sinonimo": "nascer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "be_born",
+                "sinonimo": "be_born",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "em_que",
+        "confianca": 0.72,
+        "ids": [
+          3,
+          4
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Bill_gates",
+          "palavra_canonica": "Bill_gates",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "be_born",
+                "sinonimo": "vir_ao_mundo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "be_born",
+                "sinonimo": "nascer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "be_born",
+                "sinonimo": "be_born",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "ranking_time": 135635565643,
+      "l_sizes": [],
+      "a_sizes": [],
+      "stats": {
+        "exception": "Timeout",
+        "outOutMemory": false,
+        "detail": "Timeout"
+      },
+      "ranking_time_only": 0,
+      "total_time": 142293231966,
+      "timeout": false
+    }
+  }
+]

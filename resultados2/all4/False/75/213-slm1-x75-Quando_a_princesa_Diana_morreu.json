@@ -1,0 +1,2687 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "princesa",
+          "palavra_canonica": "príncipe",
+          "tags": [
+            "<Htit>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Diana",
+          "palavra_canonica": "Diana",
+          "tags": [
+            "<hum>",
+            "<newlex>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "morreu",
+          "palavra_canonica": "morrer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<*>",
+            "<rel>",
+            "<ks>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Diana_prince",
+          "palavra_canonica": "Diana_prince",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "morreu",
+          "palavra_canonica": "morrer",
+          "tags": [
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "die",
+                "sinonimo": "bater_as_botas",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "bater_a_bota",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "comer_capim_pela_raiz",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "morrer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "sucumbir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "falecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "die",
+                "sinonimo": "give-up_the_ghost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "yield",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "decease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "exit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pass",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "buy_the_farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "cash_in_one's_chips",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "perish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "drop_dead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "croak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "die",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "snuff_it",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "succumb",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "expire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pop_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "conk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "choke",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pass_away",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "kick_the_bucket",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.55,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Diana_prince",
+          "palavra_canonica": "Diana_prince",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "morreu",
+          "palavra_canonica": "morrer",
+          "tags": [
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "die",
+                "sinonimo": "bater_as_botas",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "bater_a_bota",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "comer_capim_pela_raiz",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "morrer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "sucumbir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "falecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "die",
+                "sinonimo": "give-up_the_ghost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "yield",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "decease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "exit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pass",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "buy_the_farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "cash_in_one's_chips",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "perish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "drop_dead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "croak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "die",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "snuff_it",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "succumb",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "expire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pop_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "conk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "choke",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pass_away",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "kick_the_bucket",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "jason_raize",
+              "*morte",
+              "3"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63",
+              "morrer": -63
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -63,
+              "tr": "morrer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "cerdico_de_wessex",
+              "*morte",
+              "534"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63",
+              "morrer": -63
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -63,
+              "tr": "morrer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "jotaro_kujo",
+              "*morte",
+              "2012"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63",
+              "morrer": -63
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -63,
+              "tr": "morrer"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "omar_mutavaquil",
+              "*morte",
+              "ca."
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "ottar_vendelkraka",
+              "*morte",
+              "sec. vi"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "ale_(rei_sueco)",
+              "*morte",
+              "sec. vi"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "adils",
+              "*morte",
+              "sec. vi"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "yngvar_harra",
+              "*morte",
+              "sec. vii"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "osten",
+              "*morte",
+              "sec. vi"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "simao_da_sicilia",
+              "*morte",
+              "1105"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "aun",
+              "*morte",
+              "sec. v"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "anund",
+              "*morte",
+              "sec. vii"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "ingjald_illrade",
+              "*morte",
+              "sec. vii"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "ivar_vidfamne",
+              "*morte",
+              "sec. vii"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "glicerio_(imperador)",
+              "*morte",
+              "apos 480"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "balduino_ii_de_jerusalem",
+              "*morte",
+              "21"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "jason_raize",
+              "*morte",
+              "3"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63",
+              "morrer": -63
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -63,
+              "tr": "morrer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "cerdico_de_wessex",
+              "*morte",
+              "534"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63",
+              "morrer": -63
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -63,
+              "tr": "morrer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "balduino_iii_de_jerusalem",
+              "*morte",
+              "10"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "amalrico_i_de_jerusalem",
+              "*morte",
+              "11"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "sao_pedro",
+              "*morte",
+              "roma"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "sao_pedro",
+              "*morte",
+              "italia"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "sao_pedro",
+              "*morte",
+              "ca."
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "sargao_da_acadia",
+              "*morte",
+              "c."
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "estevao_i_da_servia",
+              "*morte",
+              "24"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "jotaro_kujo",
+              "*morte",
+              "2012"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63",
+              "morrer": -63
+            },
+            "best_bind": {
+              "score": 1.0,
+              "resource_id": -63,
+              "tr": "morrer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "leonor_de_portugal,_rainha_de_aragao",
+              "*morte",
+              "1348"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "constantino_ii_da_armenia",
+              "*morte",
+              "1129"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "constantino_i_da_armenia",
+              "*morte",
+              "cerca de 1099-1103"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "ruben_ii_da_armenia",
+              "*morte",
+              "1170"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "teodoro_ii_da_armenia",
+              "*morte",
+              "6"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "melias_da_armenia",
+              "*morte",
+              "15"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ],
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ],
+            [
+              "leao_ii_da_armenia",
+              "*morte",
+              "2"
+            ]
+          ],
+          "score": 13.222222,
+          "detail": {
+            "keywords": [
+              "diana_prince",
+              "morte"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.22222222,
+              "m3": 1.0,
+              "matches": {
+                "morte": {
+                  "keyword": {
+                    "termo": "morte",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "morte",
+                  "score": 2.0
+                },
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1",
+              "morte": "-63"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 19904163044,
+      "l_sizes": [
+        405,
+        73,
+        32,
+        39
+      ],
+      "a_sizes": [
+        405,
+        1046,
+        163584,
+        13955760
+      ],
+      "stats": {},
+      "ranking_time_only": 18126140108,
+      "total_time": 26592354005,
+      "timeout": false
+    }
+  }
+]
