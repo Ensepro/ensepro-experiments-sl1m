@@ -1,0 +1,486 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Titanic",
+          "palavra_canonica": "Titanic",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "foi",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "completado",
+          "palavra_canonica": "completar",
+          "tags": [
+            "<mv>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Rms_titanic",
+          "palavra_canonica": "Rms_titanic",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "foi",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "completado",
+          "palavra_canonica": "completar",
+          "tags": [
+            "<mv>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "fill",
+                "sinonimo": "encher",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "completar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "inteirar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "fill",
+                "sinonimo": "fill",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "make_full",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "fill_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quando",
+        "confianca": 0.91,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 7,
+            "tag_inicial": "Vaux:v-fin",
+            "palavra_original": "foi",
+            "palavra_canonica": "ser",
+            "tags": [
+              "<fmc>",
+              "<aux>",
+              "PS",
+              "3S",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          },
+          {
+            "id": 8,
+            "tag_inicial": "Vm:v-pcp",
+            "palavra_original": "completado",
+            "palavra_canonica": "completar",
+            "tags": [
+              "<mv>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "fill",
+                  "sinonimo": "encher",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "complete",
+                  "sinonimo": "concluir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "fill",
+                  "sinonimo": "completar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "complete",
+                  "sinonimo": "inteirar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "fill",
+                  "sinonimo": "fill",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "complete",
+                  "sinonimo": "complete",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "fill",
+                  "sinonimo": "make_full",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "fill",
+                  "sinonimo": "fill_up",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Rms_titanic",
+          "palavra_canonica": "Rms_titanic",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "completado",
+          "palavra_canonica": "completar",
+          "tags": [
+            "<mv>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "fill",
+                "sinonimo": "encher",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "completar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "inteirar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "fill",
+                "sinonimo": "fill",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "make_full",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "fill",
+                "sinonimo": "fill_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "ranking_time": 144605162104,
+      "l_sizes": [],
+      "a_sizes": [],
+      "stats": {
+        "exception": "Timeout",
+        "outOutMemory": false,
+        "detail": "Timeout"
+      },
+      "ranking_time_only": 0,
+      "total_time": 150808399470,
+      "timeout": false
+    }
+  }
+]

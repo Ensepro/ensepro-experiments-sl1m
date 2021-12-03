@@ -1,0 +1,438 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Mostre-",
+          "palavra_canonica": "mostrar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<hyfen>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Oi:pron-pers",
+          "palavra_original": "me",
+          "palavra_canonica": "eu",
+          "tags": [
+            "<refl>",
+            "M/F",
+            "1S",
+            "DAT"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "autobiografia",
+          "palavra_canonica": "autobiografia",
+          "tags": [
+            "<sem-r>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Hemingway",
+          "palavra_canonica": "Hemingway",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": ".",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Mostre-",
+          "palavra_canonica": "mostrar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<hyfen>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Oi:pron-pers",
+          "palavra_original": "me",
+          "palavra_canonica": "eu",
+          "tags": [
+            "<refl>",
+            "M/F",
+            "1S",
+            "DAT"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "autobiografia",
+          "palavra_canonica": "autobiografia",
+          "tags": [
+            "<sem-r>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "autobiography",
+                "sinonimo": "Livros_autobiográficos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "autobiography",
+                "sinonimo": "Auto-biografia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "autobiography",
+                "sinonimo": "autobiografia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "autobiography",
+                "sinonimo": "autobiography",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Ernest_hemingway",
+          "palavra_canonica": "Ernest_hemingway",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [P:v-fin|2| Mostre-] [Oi:pron-pers|3| me] [ Od:np|4| [DN:art|5| a] [H:n|6| autobiografia] [ DN:pp|7| [H:prp|8| de] [DP:prop|9| Ernest_hemingway] ] ] ] ]",
+      "tipo": {
+        "tipo": "consulta",
+        "confianca": 0.64,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "autobiografia",
+          "palavra_canonica": "autobiografia",
+          "tags": [
+            "<sem-r>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "autobiography",
+                "sinonimo": "Livros_autobiográficos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "autobiography",
+                "sinonimo": "Auto-biografia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "autobiography",
+                "sinonimo": "autobiografia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "autobiography",
+                "sinonimo": "autobiography",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Ernest_hemingway",
+          "palavra_canonica": "Ernest_hemingway",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "autobiografia",
+            "palavra_canonica": "autobiografia",
+            "tags": [
+              "<sem-r>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "autobiography",
+                  "sinonimo": "Livros_autobiográficos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "autobiography",
+                  "sinonimo": "Auto-biografia",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "autobiography",
+                  "sinonimo": "autobiografia",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "autobiography",
+                  "sinonimo": "autobiography",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 9,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Ernest_hemingway",
+            "palavra_canonica": "Ernest_hemingway",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "<heur>",
+              "<foreign>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "ranking_time": 144566073994,
+      "l_sizes": [],
+      "a_sizes": [],
+      "stats": {
+        "exception": "Timeout",
+        "outOutMemory": false,
+        "detail": "Timeout"
+      },
+      "ranking_time_only": 0,
+      "total_time": 152227865194,
+      "timeout": false
+    }
+  }
+]
