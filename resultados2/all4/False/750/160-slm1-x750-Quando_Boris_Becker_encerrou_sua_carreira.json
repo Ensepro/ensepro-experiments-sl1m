@@ -1,0 +1,788 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Boris_Becker",
+          "palavra_canonica": "Boris_Becker",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "encerrou",
+          "palavra_canonica": "encerrar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pron-poss",
+          "palavra_original": "sua",
+          "palavra_canonica": "seu",
+          "tags": [
+            "<poss",
+            "3S>",
+            "<si>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:n",
+          "palavra_original": "carreira",
+          "palavra_canonica": "carreira",
+          "tags": [
+            "<Lpath>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Boris_Becker",
+          "palavra_canonica": "Boris_Becker",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "encerrou",
+          "palavra_canonica": "encerrar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "end",
+                "sinonimo": "finalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "cessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "encerrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "parar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "acabar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "end",
+                "sinonimo": "end",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "finish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "stop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "cease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pron-poss",
+          "palavra_original": "sua",
+          "palavra_canonica": "seu",
+          "tags": [
+            "<poss",
+            "3S>",
+            "<si>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:n",
+          "palavra_original": "carreira",
+          "palavra_canonica": "carreira",
+          "tags": [
+            "<Lpath>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "bus",
+                "sinonimo": "machimbombo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "ónibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "corrida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "Autocarro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "Ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "carreira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "Esportes_de_corrida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "auto-ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "bus",
+                "sinonimo": "bus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "track",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "passenger_vehicle",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "racing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "double-decker",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "sprint",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "charabanc",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "dash",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "motorcoach",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "motorbus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "omnibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "coach",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "jitney",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "running",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autobus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quando",
+        "confianca": 0.91,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Boris_Becker",
+          "palavra_canonica": "Boris_Becker",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "encerrou",
+          "palavra_canonica": "encerrar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "end",
+                "sinonimo": "finalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "cessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "encerrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "parar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "acabar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "end",
+                "sinonimo": "end",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "finish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "stop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "cease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:n",
+          "palavra_original": "carreira",
+          "palavra_canonica": "carreira",
+          "tags": [
+            "<Lpath>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "bus",
+                "sinonimo": "machimbombo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "ónibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "corrida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "Autocarro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "Ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "carreira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "Esportes_de_corrida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "auto-ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "bus",
+                "sinonimo": "bus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "track",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "passenger_vehicle",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "racing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "double-decker",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "sprint",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "charabanc",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "dash",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "motorcoach",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "motorbus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "omnibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "coach",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "jitney",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "running",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autobus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "ranking_time": 130533452809,
+      "l_sizes": [],
+      "a_sizes": [],
+      "stats": {
+        "exception": "Timeout",
+        "outOutMemory": false,
+        "detail": "Timeout"
+      },
+      "ranking_time_only": 0,
+      "total_time": 138524556570,
+      "timeout": false
+    }
+  }
+]

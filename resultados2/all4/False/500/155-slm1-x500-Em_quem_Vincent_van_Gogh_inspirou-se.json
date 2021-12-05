@@ -1,0 +1,357 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:spec",
+          "palavra_original": "quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Vincent_van_Gogh",
+          "palavra_canonica": "Vincent_van_Gogh",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "inspirou-",
+          "palavra_canonica": "inspirar",
+          "tags": [
+            "<fmc>",
+            "<hyfen>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Oi:pron-pers",
+          "palavra_original": "se",
+          "palavra_canonica": "se",
+          "tags": [
+            "<refl>",
+            "M/F",
+            "3S/P",
+            "DAT"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:spec",
+          "palavra_original": "quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Vincent_van_Gogh",
+          "palavra_canonica": "Vincent_van_Gogh",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "inspirou-",
+          "palavra_canonica": "inspirar",
+          "tags": [
+            "<fmc>",
+            "<hyfen>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "inhale",
+                "sinonimo": "inalar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "inhale",
+                "sinonimo": "inspirar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "inhale",
+                "sinonimo": "inhale",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "inhale",
+                "sinonimo": "inspire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "inhale",
+                "sinonimo": "breathe_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Oi:pron-pers",
+          "palavra_original": "se",
+          "palavra_canonica": "se",
+          "tags": [
+            "<refl>",
+            "M/F",
+            "3S/P",
+            "DAT"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.83,
+        "ids": [
+          4
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Vincent_van_Gogh",
+          "palavra_canonica": "Vincent_van_Gogh",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "inspirou-",
+          "palavra_canonica": "inspirar",
+          "tags": [
+            "<fmc>",
+            "<hyfen>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "inhale",
+                "sinonimo": "inalar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "inhale",
+                "sinonimo": "inspirar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "inhale",
+                "sinonimo": "inhale",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "inhale",
+                "sinonimo": "inspire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "inhale",
+                "sinonimo": "breathe_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "ranking_time": 143989133192,
+      "l_sizes": [],
+      "a_sizes": [],
+      "stats": {
+        "exception": "Timeout",
+        "outOutMemory": false,
+        "detail": "Timeout"
+      },
+      "ranking_time_only": 0,
+      "total_time": 150085968550,
+      "timeout": false
+    }
+  }
+]
