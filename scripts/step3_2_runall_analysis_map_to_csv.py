@@ -31,12 +31,15 @@ ls2 = {}
 
 allxtypes = ['all2', 'all3', 'all4']
 sl1mtypes = ["slm1", "slm1n"]
+
+
 types_no_base = []
 types = ["base"]
-for allxtype in allxtypes:
-    for sl1mtype in sl1mtypes:
-        types_no_base.append(allxtype + sl1mtype)
-        types.append(allxtype + sl1mtype)
+types += ["all3slm1", "all4slm1","all3slm1n", "all4slm1n"]
+# for allxtype in allxtypes:
+#     for sl1mtype in sl1mtypes:
+#         types_no_base.append(allxtype + sl1mtype)
+#         types.append(allxtype + sl1mtype)
 
 sizes = ['10', '30', '50', '75', '100', '150', '200', '300', '400', '500', '750']
 header = pandas.MultiIndex.from_product([types, sizes])
@@ -99,8 +102,10 @@ for question in analyses:
             in_order.append(int(size))
 
     in_order.sort()
-    for size in in_order:
-        for type in types_no_base:
+    for type in types:
+        for size in in_order:
+            if type == "base":
+                continue
             # for type in analyses[question][str(size)]:
             print(question, size, type)
             # if analyses[question][str(size)][type].get("ranking_time_only") == -1:

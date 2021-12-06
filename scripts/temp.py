@@ -1,7 +1,3 @@
-
-
-
-
 import json
 from unicodedata import normalize
 
@@ -39,10 +35,10 @@ def extract_answers(correct_answers):
                     new_element = str(element) \
                         .replace("*", "") \
                         # .replace("___", "_") \
-                        # .replace("__", "_") \
-                        # .replace("(", "") \
-                        # .replace(")", "") \
-                        # .lower()
+                    # .replace("__", "_") \
+                    # .replace("(", "") \
+                    # .replace(")", "") \
+                    # .lower()
                     elements.append(new_element)
                 except Exception as e:
                     print(e)
@@ -67,8 +63,12 @@ def carregar_frases(arquivo):
 
 def to_list(type, size, slm1_only_l1_option):
     index = type
-    index+= 'sl1m' if slm1_only_l1_option else 'sl1mn'
-    index+= '-'+str(size)
+    index += 'base' if slm1_only_l1_option == "base" else 'sl1m' if slm1_only_l1_option == "True" else "sl1mn"
+    index += '-' + str(size)
+
+    if type is "base":
+        slm1_only_l1_option = ''
+        size = 'base'
     for i, frase in enumerate(frases):
         try:
             name = base_path.format(i, frase=normalize_frase(frase), size=size, type=type,
@@ -78,11 +78,8 @@ def to_list(type, size, slm1_only_l1_option):
             analysis = [{"resposta": {"ranking_time_only": -1, "ranking_time": -1, "total_time": -1}}]
             print("file not found!", e)
 
-
-
         if index not in analysis_map:
             analysis_map[index] = 0
-
 
         stats = analysis[0]["resposta"].get("stats", {})
         if stats:
@@ -93,17 +90,26 @@ def to_list(type, size, slm1_only_l1_option):
 analysis_map = {}
 base_path = "../resultados2/{type}/{slm1_only_l1_option}{size}/{:0>3d}-slm1-x{size}-{frase}.json"
 frases = carregar_frases("../phrases/qald7.txt")
-types = ["all2","all3", "all4", "all5"]
+types = ["all3", "all4", "all5"]
 slm1_only_l1_options = ["True", "False"]
 sizes = ['10', '30', '50', '75', '100', '150', '200', '300', '400', '500', '750']
 
-for type in types:
-    for slm1_only_l1_option in slm1_only_l1_options:
+for slm1_only_l1_option in slm1_only_l1_options:
+    for type in types:
         for size in sizes:
             to_list(type, size, slm1_only_l1_option)
 
+to_list("base", "base", "base")
 
-filtered = {k: v for k, v in analysis_map.items() if v is not 0}
-analysis_map.clear()
-analysis_map.update(filtered)
-save_as_json(analysis_map, "../analyses/all/timeouts.json")
+# filtered = {k: v for k, v in analysis_map.items() if v is not 0}
+# analysis_map.clear()
+# analysis_map.update(filtered)
+
+# sortedDict = dict( sorted(analysis_map.items(), key=lambda x: x[0].lower()) )
+
+save_as_json([analysis_map], "../analyses/all/timeouts.json")
+
+import pandas as pd
+
+df = pd.read_json("../analyses/all/timeouts.json")
+df.to_csv("../analyses/all/timeouts.csv", sep=";", index=None)
