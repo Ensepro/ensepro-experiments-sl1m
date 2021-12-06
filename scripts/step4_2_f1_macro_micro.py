@@ -25,7 +25,7 @@ def calculate_f1_score(recall, precision):
 
 
 qald7 = load_json("../phrases/analised_qald7_pt.json")
-ensepro = load_json("../analyses/analysis_map.json")
+ensepro = load_json("../analyses/base_sl1m/analysis_map.json")
 metrics = [
     "GOLD",
     "Correto",
@@ -169,4 +169,4 @@ df = pandas.DataFrame(rows, dtype=float, index=phrases, columns=headers)
 # print(s)
 # print(df.dtypes)
 #
-df.to_csv("../analyses/csv/f1_scores.csv", sep=";", decimal=',', float_format='%.8f')
+df.to_csv("../analyses/base_sl1m/csv/f1_scores.csv", sep=";", decimal=',', float_format='%.8f')

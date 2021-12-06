@@ -91,7 +91,11 @@ def to_list(type, size, slm1_only_l1_option):
             "ranking_time", -1)
         analysis_map[i][size][type][slm1_only_l1_option]["ranking_time_only"] = analysis[0]["resposta"].get(
             "ranking_time_only", -1)
-        analysis_map[i][size][type][slm1_only_l1_option]["total_time"] = analysis[0]["resposta"]["total_time"]
+        try:
+            analysis_map[i][size][type][slm1_only_l1_option]["total_time"] = analysis[0]["resposta"]["total_time"]
+        except Exception as e:
+            print(i, size, type, slm1_only_l1_option, e)
+            analysis_map[i][size][type][slm1_only_l1_option]["total_time"] = -1
         analysis_map[i][size][type][slm1_only_l1_option]["timeout"] = analysis[0]["resposta"].get("timeout", "-1")
 
         correct_answers = analysis[0]["resposta"].get("correct_answer", [])
@@ -155,7 +159,7 @@ save_as_json(analysis_list, "../analyses/base_sl1m/analysis_list.json")
 print("##################################################################################")
 analysis_map = {}
 analysis_list = []
-types = ["all2", "all3"]
+types = ["all2", "all3", "all4"]
 slm1_only_l1_options = ["True", "False"]
 sizes = ['10', '30', '50', '75', '100', '150', '200', '300', '400', '500', '750']
 
@@ -163,7 +167,7 @@ for type in types:
     for slm1_only_l1_option in slm1_only_l1_options:
         for size in sizes:
             to_list(type, size, slm1_only_l1_option)
-
+to_list("base", "base", "base")
 analysis_list.sort(key=lambda x: x["id"])
 save_as_json(analysis_map, "../analyses/all/analysis_map_pre.json")
 save_as_json(analysis_list, "../analyses/all/analysis_list.json")

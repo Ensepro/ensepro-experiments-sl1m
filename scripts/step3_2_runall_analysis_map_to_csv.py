@@ -29,11 +29,13 @@ ca = {}
 ls1 = {}
 ls2 = {}
 
-allxtypes = ['all2', 'all3']
+allxtypes = ['all2', 'all3', 'all4']
 sl1mtypes = ["slm1", "slm1n"]
-types = []
+types_no_base = []
+types = ["base"]
 for allxtype in allxtypes:
     for sl1mtype in sl1mtypes:
+        types_no_base.append(allxtype + sl1mtype)
         types.append(allxtype + sl1mtype)
 
 sizes = ['10', '30', '50', '75', '100', '150', '200', '300', '400', '500', '750']
@@ -68,6 +70,29 @@ for question in analyses:
 
     phrases.append(analyses[question]["frase"])
 
+    rt_cols.append(analyses[question]["base"]["base"].get("ranking_time"))
+    rto_cols.append(analyses[question]["base"]["base"].get("ranking_time_only"))
+    tt_cols.append(analyses[question]["base"]["base"].get("total_time"))
+    ca_cols.append(analyses[question]["base"]["base"].get("has_answer"))
+    az_cols.append(analyses[question]["base"]["base"].get("answer_size"))
+    ls1_cols.append(analyses[question]["base"]["base"].get("l1size", -1))
+    ls2_cols.append(analyses[question]["base"]["base"].get("l2size", -1))
+    ls3_cols.append(analyses[question]["base"]["base"].get("l3size", -1))
+    ls4_cols.append(analyses[question]["base"]["base"].get("l4size", -1))
+    ls5_cols.append(analyses[question]["base"]["base"].get("l5size", -1))
+    ls6_cols.append(analyses[question]["base"]["base"].get("l6size", -1))
+    for _s in sizes[:-1]:
+        rt_cols.append("remove column")
+        rto_cols.append("remove column")
+        tt_cols.append("remove column")
+        ca_cols.append("remove column")
+        az_cols.append("remove column")
+        ls1_cols.append("remove column")
+        ls2_cols.append("remove column")
+        ls3_cols.append("remove column")
+        ls4_cols.append("remove column")
+        ls5_cols.append("remove column")
+        ls6_cols.append("remove column")
     in_order = []
     for size in analyses[question]:
         if size != "frase" and size != "base":
@@ -75,8 +100,11 @@ for question in analyses:
 
     in_order.sort()
     for size in in_order:
-        for type in types:
+        for type in types_no_base:
+            # for type in analyses[question][str(size)]:
             print(question, size, type)
+            # if analyses[question][str(size)][type].get("ranking_time_only") == -1:
+            #     print(question, size, type)
 
             rt_cols.append(analyses[question][str(size)][type].get("ranking_time"))
             rto_cols.append(analyses[question][str(size)][type].get("ranking_time_only"))
